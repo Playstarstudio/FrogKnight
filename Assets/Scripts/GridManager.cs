@@ -8,7 +8,7 @@ public class GridManager : MonoBehaviour
 {
     private static GridManager _instance;
     public static GridManager Instance { get { return _instance; } }
-    public class TileInfo
+    private class TileInfo
     {
         public bool traversable;
 
@@ -18,9 +18,20 @@ public class GridManager : MonoBehaviour
         }
     }
 
-    public Tilemap traversable;
-    public Tilemap notTraversable;
-    public Dictionary<Vector2Int, TileInfo> map;
+    // Stores our traversable tiles
+    [SerializeField]
+    private Tilemap traversable;
+
+    // Stores our non-traversable tiles
+    [SerializeField]
+    private Tilemap notTraversable;
+
+    // Stores our tiles and whether or not they are traversable
+    private Dictionary<Vector2Int, TileInfo> map;
+
+    private Dictionary<Vector2Int, Color> debugTiles;
+
+    [SerializeField] private bool debug;
 
     private void Awake()
     {
@@ -34,10 +45,21 @@ public class GridManager : MonoBehaviour
             traversable.CompressBounds();
             notTraversable.CompressBounds();
             map = new Dictionary<Vector2Int, TileInfo>();
+            debugTiles = new Dictionary<Vector2Int, Color>();
             CreateGrid();
         }
     }
-    public void CreateGrid()
+
+    private void Update()
+    {
+        if (debug)
+        {
+            NoTint();
+            TintDebug();
+            debugTiles.Clear();
+        }
+    }
+    private void CreateGrid()
     {
         for (int x = traversable.cellBounds.xMin; x < traversable.cellBounds.xMax; x++)
         {
@@ -95,28 +117,28 @@ public class GridManager : MonoBehaviour
         }
         else
         {
-            traversable.SetTileFlags(posn, TileFlags.None);
+            notTraversable.SetTileFlags(posn, TileFlags.None);
             notTraversable.SetColor(posn, color);
         }
 
     }
 
-    public void TintTiles(List<Vector2Int> tiles, Color color)
+    private void TintDebug()
     {
-        foreach (var tile in map)
+        foreach (var tile in debugTiles)
         {
-            if (tiles.Contains(tile.Key))
-            {
-                TintTile(tile.Key, color);
-            }
-            else
-            {
-                TintTile(tile.Key, Color.white);
-            }
+            TintTile(tile.Key, tile.Value);
         }
     }
 
-    public void NoTint()
+    public void AddDebugTile(Vector2Int tilePos, Color tint)
+    {
+        if (debug)
+        {
+            debugTiles.Add(tilePos, tint);
+        }
+    }
+    private void NoTint()
     {
         foreach (var tile in map)
         {
@@ -297,7 +319,7 @@ public class GridManager : MonoBehaviour
                 current.position = neighbor;
                 current.distance = distance + 1;
                 current.parent = parent;
-                current.hueristic = (int) Vector2Int.Distance(current.position, target);
+                current.hueristic = (int)Vector2Int.Distance(current.position, target);
                 nodeInfos.Add(current);
             }
 
@@ -314,7 +336,7 @@ public class GridManager : MonoBehaviour
         start.position = startingSquare;
         start.distance = 0;
         start.parent = null;
-        start.hueristic = (int) Vector2Int.Distance(startingSquare, target);
+        start.hueristic = (int)Vector2Int.Distance(startingSquare, target);
         toSearch.Add(start);
 
         while (toSearch.Count > 0)
@@ -323,7 +345,7 @@ public class GridManager : MonoBehaviour
 
             if (current.position == target)
             {
-                while(current != null)
+                while (current != null)
                 {
                     outputPath.Add(current);
                     current = current.parent;
@@ -432,47 +454,6 @@ public class GridManager : MonoBehaviour
 
     }
 
-    // Return the first node on the smoothed path
-    public NodeInfo SmoothPath(Vector3 startingWorldPosition, List<NodeInfo> path)
-    {
-        Vector2Int startingPosition = path[0].position;
-        for (int i = path.Count - 1; i >= 0; i--)
-        {
-            if (StraightLineWalkable(startingWorldPosition, GetWorldPosition(path[i].position)))
-            {
-                return path[i];
-            }
-        }
-
-        return path[0];
-
-    }
-
-    private bool StraightLineWalkable(Vector3 startPos, Vector3 endPos)
-    {
-        Vector3 direction = endPos - startPos;
-        float length = direction.magnitude;
-        float elapsedLength = 0;
-
-        direction.Normalize();
-        float stepSize = direction.magnitude / 100.0f;
-
-        Vector3 currentPosition = startPos;
-
-        while (elapsedLength < length)
-        {
-            if (notTraversable.HasTile(notTraversable.WorldToCell(currentPosition)))
-            {
-                return false;
-            }
-            currentPosition += direction / 100.0f;
-            elapsedLength += stepSize;
-        }
-
-        return true;
-
-
-    }
     public bool OnTraversableTile(Vector3 worldPosition)
     {
         Vector3Int tilePosn = traversable.WorldToCell(worldPosition);

@@ -28,14 +28,18 @@ public class Enemy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        gridManager.NoTint();
         gridManager.AStar(ref path, ref aStarSearchedList, ref aStarToSearch, gridManager.GetCellPosition(transform.position), gridManager.GetCellPosition(target.position));
-        gridManager.TintTiles(path.Select(a => a.position).ToList(), Color.red);
+
+        foreach (var item in path.Select(a => a.position))
+        {
+            gridManager.AddDebugTile(item, Color.red);
+        }
+
 
         if (path.Count > 2)
         {
-        AStarNodeInfo square = path[path.Count - 2];
-        transform.position = Vector2.MoveTowards(transform.position, gridManager.GetTileCenter(square.position), Time.deltaTime);
+            AStarNodeInfo square = path[path.Count - 2];
+            transform.position = Vector2.MoveTowards(transform.position, gridManager.GetTileCenter(square.position), Time.deltaTime);
         }
 
     }
