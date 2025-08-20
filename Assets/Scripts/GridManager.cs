@@ -29,8 +29,10 @@ public class GridManager : MonoBehaviour
     // Stores our tiles and whether or not they are traversable
     private Dictionary<Vector2Int, TileInfo> map;
 
+    // Stores tiles that we want to highlight when debugging
     private Dictionary<Vector2Int, Color> debugTiles;
 
+    // If true we highlight debug tiles
     [SerializeField] private bool debug;
 
     private void Awake()
@@ -50,34 +52,6 @@ public class GridManager : MonoBehaviour
         }
     }
 
-    private void Update()
-    {
-        if (debug)
-        {
-            NoTint();
-            TintDebug();
-            debugTiles.Clear();
-        }
-    }
-    private void CreateGrid()
-    {
-        for (int x = traversable.cellBounds.xMin; x < traversable.cellBounds.xMax; x++)
-        {
-            for (int y = traversable.cellBounds.yMin; y < traversable.cellBounds.yMax; y++)
-            {
-                Vector3 worldPosition = traversable.CellToWorld(new Vector3Int(x, y, 0));
-                if (notTraversable.HasTile(notTraversable.WorldToCell(worldPosition)))
-                {
-                    map.Add(new Vector2Int(x, y), new TileInfo(false));
-                }
-                else
-                {
-                    map.Add(new Vector2Int(x, y), new TileInfo(true));
-                }
-            }
-        }
-
-    }
     public Vector2 GetTileCenter(Vector2Int gridPos)
     {
         TileInfo tile;
@@ -99,50 +73,11 @@ public class GridManager : MonoBehaviour
         }
     }
 
-    private void TintTile(Vector2Int gridPos, Color color)
-    {
-        TileInfo tile;
-        bool exists = map.TryGetValue(gridPos, out tile);
-        Vector3Int posn = new Vector3Int(gridPos.x, gridPos.y, 0);
-
-        if (!exists)
-        {
-            throw new ArgumentException("tile does not exist on grid");
-        }
-
-        if (tile.traversable)
-        {
-            traversable.SetTileFlags(posn, TileFlags.None);
-            traversable.SetColor(posn, color);
-        }
-        else
-        {
-            notTraversable.SetTileFlags(posn, TileFlags.None);
-            notTraversable.SetColor(posn, color);
-        }
-
-    }
-
-    private void TintDebug()
-    {
-        foreach (var tile in debugTiles)
-        {
-            TintTile(tile.Key, tile.Value);
-        }
-    }
-
     public void AddDebugTile(Vector2Int tilePos, Color tint)
     {
         if (debug)
         {
             debugTiles.Add(tilePos, tint);
-        }
-    }
-    private void NoTint()
-    {
-        foreach (var tile in map)
-        {
-            TintTile(tile.Key, Color.white);
         }
     }
 
@@ -163,45 +98,19 @@ public class GridManager : MonoBehaviour
         return GetCellPosition(Camera.main.ScreenToWorldPoint(Input.mousePosition));
     }
 
-    private List<Vector2Int> GetNeighbors(Vector2Int position)
-    {
-        List<Vector2Int> neighbors = new List<Vector2Int>();
-
-        if (map.ContainsKey(new Vector2Int(position.x - 1, position.y)))
-        {
-            neighbors.Add(new Vector2Int(position.x - 1, position.y));
-        }
-
-        if (map.ContainsKey(new Vector2Int(position.x + 1, position.y)))
-        {
-            neighbors.Add(new Vector2Int(position.x + 1, position.y));
-        }
-
-        if (map.ContainsKey(new Vector2Int(position.x, position.y - 1)))
-        {
-            neighbors.Add(new Vector2Int(position.x, position.y - 1));
-        }
-
-        if (map.ContainsKey(new Vector2Int(position.x, position.y + 1)))
-        {
-            neighbors.Add(new Vector2Int(position.x, position.y + 1));
-        }
-
-        return neighbors;
-
-    }
-    public class NodeInfo : IComparable<NodeInfo>
+    // utility class for running dijkstras
+    public class DijkstrasNodeInfo : IComparable<DijkstrasNodeInfo>
     {
         // which position on the map does this correspond to
         public Vector2Int position;
 
         // parent node
-        public NodeInfo parent;
+        public DijkstrasNodeInfo parent;
 
         // distance from origin in moves
         public int distance;
 
-        public int CompareTo(NodeInfo other)
+        public int CompareTo(DijkstrasNodeInfo other)
         {
             int dist = distance - other.distance;
             if (dist == 0)
@@ -226,10 +135,10 @@ public class GridManager : MonoBehaviour
         {
             if (obj == null) return false;
 
-            if (!(obj is NodeInfo))
+            if (!(obj is DijkstrasNodeInfo))
                 return false;
 
-            NodeInfo info = (NodeInfo)obj;
+            DijkstrasNodeInfo info = (DijkstrasNodeInfo)obj;
             // compare elements here
             return info.position == this.position;
         }
@@ -239,13 +148,13 @@ public class GridManager : MonoBehaviour
             return (int)position.GetHashCode();
         }
 
-        public List<NodeInfo> NeighborsToNodeInfos(List<Vector2Int> neighbors, NodeInfo parent)
+        public List<DijkstrasNodeInfo> NeighborsToNodeInfos(List<Vector2Int> neighbors, DijkstrasNodeInfo parent)
         {
-            List<NodeInfo> nodeInfos = new List<NodeInfo>();
+            List<DijkstrasNodeInfo> nodeInfos = new List<DijkstrasNodeInfo>();
 
             foreach (Vector2Int neighbor in neighbors)
             {
-                NodeInfo current = new NodeInfo();
+                DijkstrasNodeInfo current = new DijkstrasNodeInfo();
                 current.position = neighbor;
                 current.distance = distance + 1;
                 current.parent = parent;
@@ -257,6 +166,7 @@ public class GridManager : MonoBehaviour
 
     }
 
+    // utility class for running astar
     public class AStarNodeInfo : IComparable<AStarNodeInfo>
     {
         // which position on the map does this correspond to
@@ -327,7 +237,16 @@ public class GridManager : MonoBehaviour
         }
     }
 
-    public void AStar(ref List<AStarNodeInfo> outputPath, ref Dictionary<AStarNodeInfo, AStarNodeInfo> searched, ref SortedSet<AStarNodeInfo> toSearch, Vector2Int startingSquare, Vector2Int target)
+    /* @brief Runs AStar
+     * 
+     * @param outputPath list to output our path to, stored "backwards", our starting pos at end of list and target in pos 0
+     * @param searched dictionary for storing which nodes we have searched 
+     * @param toSearch sorted set for storing our list of nodes to search in ascending order of distance + heuristic
+     * @param startingSquare the square to start our search from
+     * @param target our target square to find
+     */
+    public void AStar(ref List<AStarNodeInfo> outputPath, ref Dictionary<AStarNodeInfo, AStarNodeInfo> searched,
+        ref SortedSet<AStarNodeInfo> toSearch, Vector2Int startingSquare, Vector2Int target)
     {
         toSearch.Clear();
         searched.Clear();
@@ -392,13 +311,19 @@ public class GridManager : MonoBehaviour
     }
 
 
-    // checks if a square is both traversable and unoccupied
-    // if we give range = -1, search whole map
-    public void Dijkstras(ref Dictionary<NodeInfo, NodeInfo> searched, ref SortedSet<NodeInfo> toSearch, Vector2Int startingSquare, int range)
+    /*
+     * @brief Runs Dijkstras 
+     * 
+     * @param searched dictionary to store searched nodes in
+     * @param toSearch sorted set of nodes in ascending order of distance to start
+     * @param startingSquare square to start search from
+     * @param range range in squares around startingSquare to search, searches whole grid if -1
+     */
+    public void Dijkstras(ref Dictionary<DijkstrasNodeInfo, DijkstrasNodeInfo> searched, ref SortedSet<DijkstrasNodeInfo> toSearch, Vector2Int startingSquare, int range)
     {
         toSearch.Clear();
         searched.Clear();
-        NodeInfo start = new NodeInfo();
+        DijkstrasNodeInfo start = new DijkstrasNodeInfo();
         start.position = startingSquare;
         start.distance = 0;
         start.parent = null;
@@ -406,14 +331,14 @@ public class GridManager : MonoBehaviour
 
         while (toSearch.Count > 0)
         {
-            NodeInfo current = toSearch.Min;
+            DijkstrasNodeInfo current = toSearch.Min;
             int currentDist = current.distance;
             toSearch.Remove(current);
             searched.Add(current, current.parent);
 
-            List<NodeInfo> neighbors = current.NeighborsToNodeInfos(GetNeighbors(current.position), current);
+            List<DijkstrasNodeInfo> neighbors = current.NeighborsToNodeInfos(GetNeighbors(current.position), current);
 
-            foreach (NodeInfo neighbor in neighbors)
+            foreach (DijkstrasNodeInfo neighbor in neighbors)
             {
 
                 // if the node isnt on the map, ignore it
@@ -461,5 +386,102 @@ public class GridManager : MonoBehaviour
 
         return tile != null;
     }
+
+    private void Update()
+    {
+        if (debug)
+        {
+            TintDebug();
+            debugTiles.Clear();
+        }
+    }
+    private void CreateGrid()
+    {
+        for (int x = traversable.cellBounds.xMin; x < traversable.cellBounds.xMax; x++)
+        {
+            for (int y = traversable.cellBounds.yMin; y < traversable.cellBounds.yMax; y++)
+            {
+                Vector3 worldPosition = traversable.CellToWorld(new Vector3Int(x, y, 0));
+                if (notTraversable.HasTile(notTraversable.WorldToCell(worldPosition)))
+                {
+                    map.Add(new Vector2Int(x, y), new TileInfo(false));
+                }
+                else
+                {
+                    map.Add(new Vector2Int(x, y), new TileInfo(true));
+                }
+            }
+        }
+
+    }
+
+    private void TintTile(Vector2Int gridPos, Color color)
+    {
+        TileInfo tile;
+        bool exists = map.TryGetValue(gridPos, out tile);
+        Vector3Int posn = new Vector3Int(gridPos.x, gridPos.y, 0);
+
+        if (!exists)
+        {
+            throw new ArgumentException("tile does not exist on grid");
+        }
+
+        if (tile.traversable)
+        {
+            traversable.SetTileFlags(posn, TileFlags.None);
+            traversable.SetColor(posn, color);
+        }
+        else
+        {
+            notTraversable.SetTileFlags(posn, TileFlags.None);
+            notTraversable.SetColor(posn, color);
+        }
+
+    }
+
+    private void TintDebug()
+    {
+        foreach (var tile in map)
+        {
+            if (debugTiles.ContainsKey(tile.Key))
+            {
+                TintTile(tile.Key, debugTiles[tile.Key]);
+            }
+            else
+            {
+                TintTile(tile.Key, Color.white);
+            }
+        }
+    }
+    private List<Vector2Int> GetNeighbors(Vector2Int position)
+    {
+        List<Vector2Int> neighbors = new List<Vector2Int>();
+
+        if (map.ContainsKey(new Vector2Int(position.x - 1, position.y)))
+        {
+            neighbors.Add(new Vector2Int(position.x - 1, position.y));
+        }
+
+        if (map.ContainsKey(new Vector2Int(position.x + 1, position.y)))
+        {
+            neighbors.Add(new Vector2Int(position.x + 1, position.y));
+        }
+
+        if (map.ContainsKey(new Vector2Int(position.x, position.y - 1)))
+        {
+            neighbors.Add(new Vector2Int(position.x, position.y - 1));
+        }
+
+        if (map.ContainsKey(new Vector2Int(position.x, position.y + 1)))
+        {
+            neighbors.Add(new Vector2Int(position.x, position.y + 1));
+        }
+
+        return neighbors;
+
+    }
+
+
+
 
 }

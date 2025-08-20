@@ -6,6 +6,8 @@ using static GridManager;
 
 public class Enemy : MonoBehaviour
 {
+    // this is an example for how to use the grid system
+    // it will path towards this "target"
     [SerializeField]
     Transform target;
 
@@ -28,14 +30,17 @@ public class Enemy : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        // runs astar and puts the path (which is backwards) into 'path'
         gridManager.AStar(ref path, ref aStarSearchedList, ref aStarToSearch, gridManager.GetCellPosition(transform.position), gridManager.GetCellPosition(target.position));
 
+        // add each of our tiles on our path to the debug tile list
         foreach (var item in path.Select(a => a.position))
         {
             gridManager.AddDebugTile(item, Color.red);
         }
 
 
+        // path towards the second to last tile on our path (path is stores backwards, so its the second tile)
         if (path.Count > 2)
         {
             AStarNodeInfo square = path[path.Count - 2];
