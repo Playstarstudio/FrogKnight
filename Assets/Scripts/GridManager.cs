@@ -26,6 +26,10 @@ public class GridManager : MonoBehaviour
     [SerializeField]
     private Tilemap notTraversable;
 
+    // Stores our door-friendly tiles
+    [SerializeField]
+    private Tilemap doorOptions;
+
     // Stores our tiles and whether or not they are traversable
     private Dictionary<Vector2Int, TileInfo> map;
 
