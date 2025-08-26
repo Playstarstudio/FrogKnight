@@ -8,7 +8,7 @@ public class GridManager : MonoBehaviour
 {
     private static GridManager _instance;
     public static GridManager Instance { get { return _instance; } }
-    private class TileInfo
+    public class TileInfo
     {
         public bool traversable;
 
@@ -20,18 +20,18 @@ public class GridManager : MonoBehaviour
 
     // Stores our traversable tiles
     [SerializeField]
-    private Tilemap traversable;
+    public Tilemap traversable;
 
     // Stores our non-traversable tiles
     [SerializeField]
-    private Tilemap notTraversable;
+    public Tilemap notTraversable;
 
     // Stores our door-friendly tiles
     [SerializeField]
-    private Tilemap doorOptions;
+    public Tilemap doorOptions;
 
     // Stores our tiles and whether or not they are traversable
-    private Dictionary<Vector2Int, TileInfo> map;
+    public Dictionary<Vector2Int, TileInfo> map;
 
     // Stores tiles that we want to highlight when debugging
     private Dictionary<Vector2Int, Color> debugTiles;
@@ -43,6 +43,12 @@ public class GridManager : MonoBehaviour
     {
         if (_instance != null && _instance != this)
         {
+            traversable.CompressBounds();
+            notTraversable.CompressBounds();
+            doorOptions.CompressBounds();
+            MergeTilemaps(ref _instance.traversable, ref traversable, true);
+            MergeTilemaps(ref _instance.notTraversable, ref notTraversable, false);
+            MergeTilemaps(ref _instance.doorOptions, ref doorOptions, false);
             Destroy(this.gameObject);
         }
         else
@@ -50,9 +56,41 @@ public class GridManager : MonoBehaviour
             _instance = this;
             traversable.CompressBounds();
             notTraversable.CompressBounds();
+            doorOptions.CompressBounds();
             map = new Dictionary<Vector2Int, TileInfo>();
             debugTiles = new Dictionary<Vector2Int, Color>();
             CreateGrid();
+        }
+    }
+
+    private void MergeTilemaps(ref Tilemap destTilemap, ref Tilemap sourceTilemap, bool traversable)
+    {
+        int x;
+        int y;
+        int z;
+        //sourceTilemap.cellBounds.allPositionsWithin
+        for (x = sourceTilemap.cellBounds.min.x; x < sourceTilemap.cellBounds.max.x; x++)
+        {
+            for (y = sourceTilemap.cellBounds.min.y; y < sourceTilemap.cellBounds.max.y; y++)
+            {
+                for (z = sourceTilemap.cellBounds.min.z; z < sourceTilemap.cellBounds.max.z; z++)
+                {
+                    TileBase t = sourceTilemap.GetTile(new Vector3Int(x, y, z));
+                    if (t != null)
+                    {
+                        destTilemap.SetTile(new Vector3Int(x, y, z), t);
+                        if (!(_instance.map.ContainsKey(new Vector2Int(x, y))))
+                        {
+                            _instance.map.Add(new Vector2Int(x, y), new TileInfo(traversable));
+                        } else
+                        {
+                            _instance.map[new Vector2Int(x, y)] =  new TileInfo(traversable);
+                        }
+
+                    }
+                }
+            }
+
         }
     }
 
