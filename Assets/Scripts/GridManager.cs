@@ -43,6 +43,12 @@ public class GridManager : MonoBehaviour
     {
         if (_instance != null && _instance != this)
         {
+            traversable.CompressBounds();
+            notTraversable.CompressBounds();
+            doorOptions.CompressBounds();
+            Instance.MergeIntoTraversable(ref traversable);
+            Instance.MergeIntoNonTraversable(ref notTraversable);
+            Instance.MergeIntoDoor(ref doorOptions);
             Destroy(this.gameObject);
         }
         else
@@ -50,6 +56,7 @@ public class GridManager : MonoBehaviour
             _instance = this;
             traversable.CompressBounds();
             notTraversable.CompressBounds();
+            doorOptions.CompressBounds();
             map = new Dictionary<Vector2Int, TileInfo>();
             debugTiles = new Dictionary<Vector2Int, Color>();
             CreateGrid();
@@ -483,6 +490,48 @@ public class GridManager : MonoBehaviour
 
         return neighbors;
 
+    }
+    private void MergeTilemaps(ref Tilemap destTilemap, ref Tilemap sourceTilemap, bool traversable)
+    {
+        int x;
+        int y;
+        int z;
+        for (x = sourceTilemap.cellBounds.min.x; x < sourceTilemap.cellBounds.max.x; x++)
+        {
+            for (y = sourceTilemap.cellBounds.min.y; y < sourceTilemap.cellBounds.max.y; y++)
+            {
+                for (z = sourceTilemap.cellBounds.min.z; z < sourceTilemap.cellBounds.max.z; z++)
+                {
+                    TileBase t = sourceTilemap.GetTile(new Vector3Int(x, y, z));
+                    if (t != null)
+                    {
+                        destTilemap.SetTile(new Vector3Int(x, y, z), t);
+                        if (!(map.ContainsKey(new Vector2Int(x, y))))
+                        {
+                            map.Add(new Vector2Int(x, y), new TileInfo(traversable));
+                        }
+                        else
+                        {
+                            map[new Vector2Int(x, y)] = new TileInfo(traversable);
+                        }
+
+                    }
+                }
+            }
+
+        }
+    }
+    private void MergeIntoTraversable(ref Tilemap sourceTilemap)
+    {
+        MergeTilemaps(ref traversable, ref sourceTilemap, true);
+    }
+    private void MergeIntoNonTraversable(ref Tilemap sourceTilemap)
+    {
+        MergeTilemaps(ref notTraversable, ref sourceTilemap, false);
+    }
+    private void MergeIntoDoor(ref Tilemap sourceTilemap)
+    {
+        MergeTilemaps(ref doorOptions, ref sourceTilemap, false);
     }
 
 
