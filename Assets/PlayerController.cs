@@ -57,7 +57,10 @@ public class PlayerController : MonoBehaviour
                 if (bufferTimer > 0f && lastDirection != Vector3.zero)
                 {
                     // Combine with last direction for diagonal
-                    direction += lastDirection;
+                    if (direction != lastDirection)
+                    {
+                        direction += lastDirection;
+                    }
                     bufferTimer = 0f;
                     lastDirection = Vector3.zero;
                 }
