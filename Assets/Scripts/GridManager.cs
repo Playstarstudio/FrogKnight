@@ -534,7 +534,19 @@ public class GridManager : MonoBehaviour
         MergeTilemaps(ref doorOptions, ref sourceTilemap, false);
     }
 
-
+    // returns true if the tile at worldPosition is non-traversable
+    // Added so that the player cannot move through non-traversable tiles
+    public bool IsNonTraversable(Vector3 worldPosition)
+    {
+        // 
+        Vector2Int cellPos = GetCellPosition(worldPosition);
+        if (map.ContainsKey(cellPos))
+        {
+            // Get the given tile from gridmanagers map and return wether it is traversable
+            return !map[cellPos].traversable;
+        }
+        return false;
+    }
 
 
 }
