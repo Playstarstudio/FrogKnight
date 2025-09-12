@@ -22,7 +22,9 @@ public class PlayerMovement : MonoBehaviour
 
         rb2d.linearVelocity = new Vector2 (moveHorizontal*movementSpeed, moveVertical*movementSpeed);
 
-        // Try out this delta time method??
-        //rb2d.transform.position += new Vector3(speed * Time.deltaTime, 0.0f, 0.0f);
+    }
+
+    void AStarMovement(){
+        
     }
 }
