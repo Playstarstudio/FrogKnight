@@ -1,5 +1,6 @@
 using System.Collections;
 using UnityEngine;
+using static UnityEngine.RuleTile.TilingRuleOutput;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -53,14 +54,12 @@ public class PlayerMovement : MonoBehaviour
         Vector2 startPosition = transform.position;
         Vector2 target = startPosition + (direction * gridSize);
         Vector2Int endPosition = grid.GetCellPosition(target);
-        /*
-          
-         if (!grid.OnTraversableTile(Vector3(endPosition.x, endPosition.y, 0));
+        if(!grid.TraversableCheck(endPosition))
         {
             moving = false;
+            //bump
             yield break;
         }
-        */
         float elapsedTime = 0;
         while (elapsedTime < moveDuration)
         {
