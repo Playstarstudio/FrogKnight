@@ -93,16 +93,6 @@ public class Attribute
     }
     
     /// <summary>
-    /// Set the attribute directly, does NOT do any safety, valid value checks, or modifier checks
-    /// </summary>
-    public void SetAttributeBaseValueDangerous(float newValue)
-    {
-        baseValue = newValue;
-        UpdateCurrentValue();
-        //OnValueChanged?.Invoke(this, previousValue);
-    }
-    
-    /// <summary>
     /// Add a modifier that will change the value of the attribute
     /// </summary>
     /// <param name="modifier"></param>
@@ -148,6 +138,4 @@ public class Attribute
         }
         UpdateCurrentValue();
     }
-
-    private const float TOLERANCE = 0.001f;
 }
