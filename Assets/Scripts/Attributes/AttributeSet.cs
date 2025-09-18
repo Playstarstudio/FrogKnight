@@ -144,11 +144,4 @@ public class AttributeSet : MonoBehaviour
         Debug.LogError("Attribute not found: " + type);
         return 0f;
     }
-
-    // Exposing this for use by CombatSystemEditor, please refrain from other uses unless necessary
-    // TODO: is there a way to just expose the dictionary to the editor without making it public?
-    public Dictionary<AttributeType, Attribute> GetAttributeDictionary()
-    {
-        return attributeDictionary;
-    }
 }

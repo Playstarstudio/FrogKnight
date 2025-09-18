@@ -52,12 +52,6 @@ public class Attribute
             }
 
             UpdateCurrentValue();
-            //TODO: Find a better way to announce changes made here
-            //Event can't be announced here because this might be the health attribute,
-            //and we might need to clamp this value
-            //but we can't clamp the value here, because the attribute might not be one with a MAX amount
-            //CATCH 22
-            //OnValueChanged?.Invoke(this,previous);
         }
     }
     
@@ -76,7 +70,6 @@ public class Attribute
         _maxBaseAttribute = modifiableAttributeValue;
     }
     
-    // ReSharper disable Unity.PerformanceAnalysis
     /// <summary>
     /// Updates the current value of this attribute including all the modifiers affecting it
     /// </summary>
