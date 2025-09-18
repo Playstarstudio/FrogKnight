@@ -49,7 +49,7 @@ public class Enemy : MonoBehaviour
         {
             if (path.Count > 2)
             {
-                lastMoveTime = gameManager.globalTimer;
+                lastMoveTime += speed;
                 AStarNodeInfo square = path[path.Count - 2];
                 while (Vector2.Distance(transform.position, gridManager.GetTileCenter(square.position)) > 0.01f)
                     transform.position = Vector2.MoveTowards(transform.position, gridManager.GetTileCenter(square.position), Time.deltaTime);
