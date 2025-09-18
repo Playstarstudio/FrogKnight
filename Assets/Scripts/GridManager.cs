@@ -426,6 +426,24 @@ public class GridManager : MonoBehaviour
 
     }
 
+    public bool TraversableCheck(Vector2Int pos)
+    {
+        TileInfo tile;
+        bool exists = map.TryGetValue(pos, out tile);
+        Vector3Int posn = new Vector3Int(pos.x, pos.y, 0);
+        if (!exists)
+        {
+            return false;
+        }
+        if (tile.traversable)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
     private void TintTile(Vector2Int gridPos, Color color)
     {
         TileInfo tile;
@@ -534,22 +552,4 @@ public class GridManager : MonoBehaviour
         MergeTilemaps(ref doorOptions, ref sourceTilemap, false);
     }
 
-    public bool TraversableCheck(Vector2Int pos)
-    {
-        TileInfo tile;
-        bool exists = map.TryGetValue(pos, out tile);
-        Vector3Int posn = new Vector3Int(pos.x, pos.y, 0);
-        if (!exists)
-        {
-            return false;
-        }
-        if (tile.traversable)
-        {
-            return true;
-        }
-        else
-        {
-            return false;
-        }
-    }
 }

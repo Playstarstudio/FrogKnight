@@ -1,6 +1,5 @@
 using System.Collections.Generic;
 using System.Linq;
-using NUnit.Framework;
 using UnityEngine;
 using static GridManager;
 
@@ -19,12 +18,17 @@ public class Enemy : MonoBehaviour
     private Dictionary<AStarNodeInfo, AStarNodeInfo> aStarSearchedList;
     private SortedSet<AStarNodeInfo> aStarToSearch;
 
+    private GameManager gameManager;
+    [SerializeField] private float lastMoveTime = 0f;
+    [SerializeField] private float speed = 1.3f;
+
     void Start()
     {
         gridManager = GridManager.Instance;
         path = new List<AStarNodeInfo>();
         aStarSearchedList = new Dictionary<AStarNodeInfo, AStarNodeInfo>();
         aStarToSearch = new SortedSet<AStarNodeInfo>();
+        gameManager = FindFirstObjectByType<GameManager>();
     }
 
     // Update is called once per frame
@@ -41,11 +45,15 @@ public class Enemy : MonoBehaviour
 
 
         // path towards the second to last tile on our path (path is stores backwards, so its the second tile)
-        if (path.Count > 2)
+        if (gameManager.globalTimer - lastMoveTime >= speed)
         {
-            AStarNodeInfo square = path[path.Count - 2];
-            transform.position = Vector2.MoveTowards(transform.position, gridManager.GetTileCenter(square.position), Time.deltaTime);
+            if (path.Count > 2)
+            {
+                lastMoveTime = gameManager.globalTimer;
+                AStarNodeInfo square = path[path.Count - 2];
+                while (Vector2.Distance(transform.position, gridManager.GetTileCenter(square.position)) > 0.01f)
+                    transform.position = Vector2.MoveTowards(transform.position, gridManager.GetTileCenter(square.position), Time.deltaTime);
+            } 
         }
-
     }
 }

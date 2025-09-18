@@ -10,7 +10,8 @@ public class PlayerMovement : MonoBehaviour
     public bool moving = false;
     public GridManager grid;
     private float gridSize;
-    private float moveDuration;
+    private GameManager gameManager;
+    private float lastMoveTime = 0f;
 
     void Start()
     {
@@ -18,6 +19,7 @@ public class PlayerMovement : MonoBehaviour
         movementSpeed = player.speed;
         rb2d = GetComponent<Rigidbody2D>();
         gridSize = 1;
+        gameManager = FindFirstObjectByType<GameManager>();
     }
 
     private Rigidbody2D rb2d;
@@ -61,15 +63,18 @@ public class PlayerMovement : MonoBehaviour
             yield break;
         }
         float elapsedTime = 0;
-        while (elapsedTime < moveDuration)
+        while (elapsedTime < movementSpeed)
         {
             elapsedTime += Time.deltaTime;
-            float percent = elapsedTime / moveDuration;
-            transform.position = Vector2.MoveTowards(startPosition, grid.GetTileCenter(endPosition), Time.deltaTime);
-            transform.position = Vector2.Lerp(startPosition, endPosition, percent);
-            yield return null;
+            float percent = elapsedTime / movementSpeed;
+            transform.position = Vector2.MoveTowards(startPosition, grid.GetTileCenter(endPosition), movementSpeed);
         }
         transform.position = target;
+        while (gameManager.globalTimer < lastMoveTime + movementSpeed)
+        {
+            gameManager.incrementTime();
+        }
+        lastMoveTime = gameManager.globalTimer;
         moving = false;
     }
 
