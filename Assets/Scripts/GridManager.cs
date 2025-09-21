@@ -4,6 +4,7 @@ using System.Linq;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 
+
 public class GridManager : MonoBehaviour
 {
     private static GridManager _instance;
@@ -43,6 +44,8 @@ public class GridManager : MonoBehaviour
     public GameObject player;
     public Dictionary<DijkstrasNodeInfo, DijkstrasNodeInfo> playerRange;
     private PlayerMovement playerMovement;
+    public bool playerDebugTilesOn;
+    private Dictionary<Vector2Int, Color> playerDebugTiles;
 
     private void Awake()
     {
@@ -66,8 +69,9 @@ public class GridManager : MonoBehaviour
             debugTiles = new Dictionary<Vector2Int, Color>();
             CreateGrid();
         }
-        player = GameObject.FindWithTag("PLayer");
+        player = GameObject.FindWithTag("Player");
         playerMovement = player.GetComponent<PlayerMovement>();
+        playerRange = new Dictionary<DijkstrasNodeInfo, DijkstrasNodeInfo>();
     }
 
     public Vector2 GetTileCenter(Vector2Int gridPos)
@@ -96,6 +100,14 @@ public class GridManager : MonoBehaviour
         if (debug)
         {
             debugTiles.Add(tilePos, tint);
+        }
+    }
+
+    public void AddPlayerDebugTile(Vector2Int tilePos, Color tint)
+    {
+        if (playerDebugTilesOn)
+        {
+            playerDebugTiles.Add(tilePos, tint);
         }
     }
 
@@ -583,17 +595,44 @@ public class GridManager : MonoBehaviour
     }
 
 
-     /*
-     * @brief Runs Dijkstras from player's position
-     * 
-     */
+    /*
+    * @brief Runs Dijkstras from player's position
+    * 
+    */
     public void PlayerDijkstras()
     {
         SortedSet<DijkstrasNodeInfo> toSearch;
         toSearch = MapToSortedSet();
         Vector2 playerVector2 = new Vector2(player.transform.position.x, player.transform.position.y);
         Vector2Int playerTransform = Vector2Int.RoundToInt(playerVector2);
-        Dijkstras(ref playerRange,ref toSearch,playerTransform,-1);
+        Dijkstras(ref playerRange, ref toSearch, playerTransform, -1);
+        if(playerDebugTilesOn)
+            ColorPlayerDegugTiles();
+    }
+
+    void ColorPlayerDegugTiles()
+    {
+        Dictionary<DijkstrasNodeInfo, DijkstrasNodeInfo>.KeyCollection allKeys = playerRange.Keys;
+        Debug.Log(allKeys);
+        Vector2Int currentPos;
+        int currentDistance;
+        Color tileTint;
+        int rValue;
+        int gValue;
+        foreach (var item in allKeys)
+        {
+            currentDistance = item.distance;
+            currentPos = item.position;
+
+            rValue = currentDistance * 10;
+            gValue = currentDistance * 10;
+            if (rValue > 255)
+                rValue = 255;
+            if (gValue > 255)
+                gValue = 255;
+            tileTint = new Color(rValue, gValue, 255);
+            AddPlayerDebugTile(currentPos, tileTint);
+        }
     }
 
 }

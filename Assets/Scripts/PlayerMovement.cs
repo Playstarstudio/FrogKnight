@@ -24,6 +24,7 @@ public class PlayerMovement : MonoBehaviour
         rb2d = GetComponent<Rigidbody2D>();
         gridSize = 1;
         gameManager = FindFirstObjectByType<GameManager>();
+        gridManager = FindFirstObjectByType<GridManager>();
     }
 
     private Rigidbody2D rb2d;
