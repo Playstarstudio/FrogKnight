@@ -2293,7 +2293,7 @@ GameObject:
   - component: {fileID: 490420036}
   m_Layer: 0
   m_Name: TestTarget
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2381,7 +2381,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moving: 0
-  grid: {fileID: 1350821628}
+  gridManager: {fileID: 0}
 --- !u!114 &490420034
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2990,6 +2990,8 @@ MonoBehaviour:
   notTraversable: {fileID: 2013938912}
   doorOptions: {fileID: 614362944}
   debug: 1
+  player: {fileID: 0}
+  playerDebugTilesOn: 0
 --- !u!156049354 &1350821629
 Grid:
   m_ObjectHideFlags: 0
@@ -3307,6 +3309,8 @@ MonoBehaviour:
   notTraversable: {fileID: 726459292}
   doorOptions: {fileID: 178671469}
   debug: 1
+  player: {fileID: 0}
+  playerDebugTilesOn: 0
 --- !u!156049354 &1927637312
 Grid:
   m_ObjectHideFlags: 0
