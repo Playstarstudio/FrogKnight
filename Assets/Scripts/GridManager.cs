@@ -584,12 +584,8 @@ public class GridManager : MonoBehaviour
 
 
      /*
-     * @brief Runs Dijkstras 
+     * @brief Runs Dijkstras from player's position
      * 
-     * @param searched dictionary to store searched nodes in
-     * @param toSearch sorted set of nodes in ascending order of distance to start
-     * @param startingSquare square to start search from
-     * @param range range in squares around startingSquare to search, searches whole grid if -1
      */
     public void PlayerDijkstras()
     {
