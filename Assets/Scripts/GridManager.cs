@@ -39,6 +39,11 @@ public class GridManager : MonoBehaviour
     // If true we highlight debug tiles
     [SerializeField] private bool debug;
 
+    //Player Related Data 
+    public GameObject player;
+    public Dictionary<DijkstrasNodeInfo, DijkstrasNodeInfo> playerRange;
+    private PlayerMovement playerMovement;
+
     private void Awake()
     {
         if (_instance != null && _instance != this)
@@ -61,6 +66,8 @@ public class GridManager : MonoBehaviour
             debugTiles = new Dictionary<Vector2Int, Color>();
             CreateGrid();
         }
+        player = GameObject.FindWithTag("PLayer");
+        playerMovement = player.GetComponent<PlayerMovement>();
     }
 
     public Vector2 GetTileCenter(Vector2Int gridPos)
@@ -550,6 +557,47 @@ public class GridManager : MonoBehaviour
     private void MergeIntoDoor(ref Tilemap sourceTilemap)
     {
         MergeTilemaps(ref doorOptions, ref sourceTilemap, false);
+    }
+
+
+
+    /*
+    * @brief Converts the current grid map to a sorted set for Dijkstra
+    * 
+       private Dictionary<Vector2Int, TileInfo> map;
+    */
+    public SortedSet<DijkstrasNodeInfo> MapToSortedSet()
+    {
+        SortedSet<DijkstrasNodeInfo> sortedSet = new SortedSet<DijkstrasNodeInfo>();
+        DijkstrasNodeInfo currentNode;
+
+        foreach (KeyValuePair<Vector2Int, TileInfo> tile in map)
+        {
+            currentNode = new DijkstrasNodeInfo();
+            currentNode.position = tile.Key;
+            currentNode.parent = null;
+            currentNode.distance = 1;
+            sortedSet.Add(currentNode);
+        }
+        return sortedSet;
+    }
+
+
+     /*
+     * @brief Runs Dijkstras 
+     * 
+     * @param searched dictionary to store searched nodes in
+     * @param toSearch sorted set of nodes in ascending order of distance to start
+     * @param startingSquare square to start search from
+     * @param range range in squares around startingSquare to search, searches whole grid if -1
+     */
+    public void PlayerDijkstras()
+    {
+        SortedSet<DijkstrasNodeInfo> toSearch;
+        toSearch = MapToSortedSet();
+        Vector2 playerVector2 = new Vector2(player.transform.position.x, player.transform.position.y);
+        Vector2Int playerTransform = Vector2Int.RoundToInt(playerVector2);
+        Dijkstras(ref playerRange,ref toSearch,playerTransform,-1);
     }
 
 }

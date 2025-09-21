@@ -1,5 +1,8 @@
-using System.Collections;
+using System;
+using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
+using UnityEngine.Tilemaps;
 using static UnityEngine.RuleTile.TilingRuleOutput;
 
 public class PlayerMovement : MonoBehaviour
@@ -8,10 +11,11 @@ public class PlayerMovement : MonoBehaviour
     private int movementSpeed;
     private bool isRepeatedMovement = false;
     public bool moving = false;
-    public GridManager grid;
+    public GridManager gridManager;
     private float gridSize;
     private GameManager gameManager;
     private float lastMoveTime = 0f;
+
 
     void Start()
     {
@@ -50,13 +54,13 @@ public class PlayerMovement : MonoBehaviour
     }
 
     //movement between grid spaces
-    private IEnumerator Move(Vector2 direction)
+    private IEnumerator<Vector2> Move(Vector2 direction)
     {
         moving = true;
         Vector2 startPosition = transform.position;
         Vector2 target = startPosition + (direction * gridSize);
-        Vector2Int endPosition = grid.GetCellPosition(target);
-        if(!grid.TraversableCheck(endPosition))
+        Vector2Int endPosition = gridManager.GetCellPosition(target);
+        if (!gridManager.TraversableCheck(endPosition))
         {
             moving = false;
             //bump
@@ -67,7 +71,7 @@ public class PlayerMovement : MonoBehaviour
         {
             elapsedTime += Time.deltaTime;
             float percent = elapsedTime / movementSpeed;
-            transform.position = Vector2.MoveTowards(startPosition, grid.GetTileCenter(endPosition), movementSpeed);
+            transform.position = Vector2.MoveTowards(startPosition, gridManager.GetTileCenter(endPosition), movementSpeed);
         }
         transform.position = target;
         while (gameManager.globalTimer < lastMoveTime + movementSpeed)
@@ -83,5 +87,7 @@ public class PlayerMovement : MonoBehaviour
     {
 
     }
+    
+    
 
 }
