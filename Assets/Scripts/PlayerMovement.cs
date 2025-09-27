@@ -80,6 +80,8 @@ public class PlayerMovement : MonoBehaviour
             gameManager.incrementTime();
         }
         lastMoveTime = gameManager.globalTimer;
+        Debug.Log("Start Pos:" + startPosition);
+        Debug.Log("End Pos:" + endPosition);
         moving = false;
     }
 

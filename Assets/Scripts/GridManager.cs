@@ -67,6 +67,7 @@ public class GridManager : MonoBehaviour
             doorOptions.CompressBounds();
             map = new Dictionary<Vector2Int, TileInfo>();
             debugTiles = new Dictionary<Vector2Int, Color>();
+            playerDebugTiles = new Dictionary<Vector2Int, Color>();
             CreateGrid();
         }
         player = GameObject.FindWithTag("Player");
@@ -105,9 +106,13 @@ public class GridManager : MonoBehaviour
 
     public void AddPlayerDebugTile(Vector2Int tilePos, Color tint)
     {
-        if (playerDebugTilesOn)
+        if (!playerDebugTiles.ContainsKey(tilePos) && playerDebugTilesOn)
         {
             playerDebugTiles.Add(tilePos, tint);
+        }
+        else
+        {
+            Debug.Log(tilePos + "already exists in Dictonary");
         }
     }
 
@@ -424,6 +429,11 @@ public class GridManager : MonoBehaviour
             TintDebug();
             debugTiles.Clear();
         }
+        if (playerDebugTilesOn)
+        {
+            TintPlayerDebug();
+            playerDebugTiles.Clear();
+        }
     }
     private void CreateGrid()
     {
@@ -601,19 +611,22 @@ public class GridManager : MonoBehaviour
     */
     public void PlayerDijkstras()
     {
+        if (playerDebugTilesOn)
+        {
+            playerDebugTiles.Clear();
+        }
         SortedSet<DijkstrasNodeInfo> toSearch;
         toSearch = MapToSortedSet();
         Vector2 playerVector2 = new Vector2(player.transform.position.x, player.transform.position.y);
         Vector2Int playerTransform = Vector2Int.RoundToInt(playerVector2);
         Dijkstras(ref playerRange, ref toSearch, playerTransform, -1);
         if(playerDebugTilesOn)
-            ColorPlayerDegugTiles();
+            ColorPlayerDebugTiles();
     }
 
-    void ColorPlayerDegugTiles()
+    void ColorPlayerDebugTiles()
     {
         Dictionary<DijkstrasNodeInfo, DijkstrasNodeInfo>.KeyCollection allKeys = playerRange.Keys;
-        Debug.Log(allKeys);
         Vector2Int currentPos;
         int currentDistance;
         Color tileTint;
@@ -634,5 +647,22 @@ public class GridManager : MonoBehaviour
             AddPlayerDebugTile(currentPos, tileTint);
         }
     }
+
+    private void TintPlayerDebug()
+    {
+        foreach (var tile in playerDebugTiles)
+        {
+            if (playerDebugTiles.ContainsKey(tile.Key))
+            {
+                TintTile(tile.Key, playerDebugTiles[tile.Key]);
+            }
+            else
+            {
+                TintTile(tile.Key, Color.white);
+            }
+        }
+    }
+
+
 
 }
