@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 3c14d088f638e4f498fc326e200e893e, type: 3}
-  m_Name: Max Health
+  m_Name: STA Max
   m_EditorClassIdentifier: 
   DefaultValue: 10
   MaxAttribute: {fileID: 0}

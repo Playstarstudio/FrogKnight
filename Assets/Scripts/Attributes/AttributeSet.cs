@@ -19,7 +19,7 @@ public class AttributeSet : MonoBehaviour
     private List<AttributeEntry> attributes = new List<AttributeEntry>();
 
     private Dictionary<AttributeType, Attribute> _attributeDictionary = new Dictionary<AttributeType, Attribute>();
-    protected Dictionary<AttributeType, Attribute> attributeDictionary { get => _attributeDictionary; set => _attributeDictionary = value; }
+    public Dictionary<AttributeType, Attribute> attributeDictionary { get => _attributeDictionary; set => _attributeDictionary = value; }
     public void Reset()
     {
         // clear any existing values
@@ -131,8 +131,12 @@ public class AttributeSet : MonoBehaviour
         {
             return attribute.CurrentValue;
         }
+        else
+        {
+
         Debug.LogError("Attribute not found: " + type);
-        return 0f;
+            return 1;
+        }
     }
 
     public float GetBaseAttributeValue(AttributeType type)
@@ -143,5 +147,18 @@ public class AttributeSet : MonoBehaviour
         }
         Debug.LogError("Attribute not found: " + type);
         return 0f;
+    }
+
+    public AttributeType GetAttributeType(string typeName)
+    {
+        foreach (var entry in attributeDictionary)
+        {
+            if (entry.Key.name == typeName)
+            {
+                return entry.Key;
+            }
+        }
+        Debug.LogWarning("AttributeType not found: " + typeName);
+        return null;
     }
 }

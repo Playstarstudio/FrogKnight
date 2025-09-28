@@ -7,8 +7,8 @@ using static UnityEngine.RuleTile.TilingRuleOutput;
 
 public class PlayerMovement : MonoBehaviour
 {
-    private PlayerAttributes player;
-    private int movementSpeed;
+    [SerializeField] AttributeSet player;
+    [SerializeField] private float movementSpeed;
     private bool isRepeatedMovement = false;
     public bool moving = false;
     public GridManager gridManager;
@@ -19,8 +19,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Start()
     {
-        player = GetComponent<PlayerAttributes>();
-        movementSpeed = player.speed;
+        movementSpeed = player.GetCurrentAttributeValue(player.GetAttributeType("Move Speed"));
         rb2d = GetComponent<Rigidbody2D>();
         gridSize = 1;
         gameManager = FindFirstObjectByType<GameManager>();
