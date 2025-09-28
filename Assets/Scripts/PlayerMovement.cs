@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 using static UnityEngine.RuleTile.TilingRuleOutput;
@@ -9,7 +10,9 @@ public class PlayerMovement : MonoBehaviour
 {
     [SerializeField] AttributeSet player;
     [SerializeField] private float movementSpeed;
+    AttributeModifier hurt;
     private bool isRepeatedMovement = false;
+    private bool huurt = false;
     public bool moving = false;
     public GridManager gridManager;
     private float gridSize;
@@ -49,6 +52,17 @@ public class PlayerMovement : MonoBehaviour
             else if (inputFunction(KeyCode.D))
             {
                 StartCoroutine(Move(Vector2.right));
+            }
+            else if (inputFunction(KeyCode.E) && huurt == false)
+            {
+                hurt = new AttributeModifier() //deals 2 damage
+                {
+                    attribute = player.GetAttributeType("HP"),
+                    operation = AttributeModifier.Operator.Subtract,
+                    attributeModifierValue = 2
+                };
+                player.ApplyInstantModifier(hurt);
+
             }
         }
     }
