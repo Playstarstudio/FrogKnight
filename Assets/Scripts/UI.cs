@@ -23,9 +23,14 @@ public class UI : MonoBehaviour
     {
         PCAttributes.UpdateCurrentValues();
         //playerHP = PCAttributes.GetCurrentAttributeValue(HP);
-        _healthBar.value = PCAttributes.GetCurrentAttributeValue(PCAttributes.GetAttributeType("HP")) / PCAttributes.GetCurrentAttributeValue(PCAttributes.GetAttributeType("HP Max"));
-        _manaBar.value = PCAttributes.GetCurrentAttributeValue(PCAttributes.GetAttributeType("MP")) / PCAttributes.GetCurrentAttributeValue(PCAttributes.GetAttributeType("MP Max"));
-        _staminaBar.value = PCAttributes.GetCurrentAttributeValue(PCAttributes.GetAttributeType("STA")) / PCAttributes.GetCurrentAttributeValue(PCAttributes.GetAttributeType("STA Max"));
+        _healthBar.value = GetStat("HP") / GetStat("HP Max");
+        _manaBar.value = GetStat("MP") / GetStat("MP Max");
+        _staminaBar.value = GetStat("STA") / GetStat("STA Max");
+    }
+
+    float GetStat(string statName)
+    {
+        return PCAttributes.GetCurrentAttributeValue(PCAttributes.GetAttributeType(statName));
     }
 
 }
