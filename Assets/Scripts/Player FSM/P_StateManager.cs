@@ -1,0 +1,119 @@
+using System.Collections.Generic;
+using UnityEngine;
+
+public class P_StateManager : MonoBehaviour
+{
+
+#region States
+    public P_State currentState;
+    public P_State previousState;
+    public P_BaseState baseState = new P_BaseState();
+    /*
+    public P_CharacterState characterstate = new P_CharacterState();
+    public P_AbilityState abilityState = new P_AbilityState();
+    public P_DialogueState dialogueState = new P_DialogueState();
+    public P_PausedState pausedState = new P_PausedState();
+    public P_OverworldState p_OverworldState = new P_OverworldState();
+    public P_CraftingState p_CraftingState = new P_CraftingState();
+    public P_InventoryState p_InventoryState = new P_InventoryState();
+    public P_ShopState p_ShopState = new P_ShopState();
+*/
+
+    #endregion
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
+
+    #region Components
+    [HideInInspector] public Rigidbody rb;
+    public Transform mainCamera;
+    [HideInInspector] public Animator anim;
+    [SerializeField] public AttributeSet p_Att;
+    [SerializeField] public float movementSpeed;
+    public AttributeModifier hurt;
+    public bool isRepeatedMovement = false;
+    public bool huurt = false;
+    public bool moving = false;
+    public GridManager gridManager;
+    public float gridSize;
+    public GameManager gameManager;
+    public float lastMoveTime = 0f;
+    public AudioSource BGM;
+    public AudioSource SoundEffect;
+    /*
+    public AudioSource SoundEffect1;
+    public AudioSource SoundEffect2;
+    public AudioSource SoundEffect3;
+    public AudioSource otherSoundsAudioSource;
+     */
+    /*
+    public AudioClip[] breathingClips;
+    public AudioClip[] backgroundMusicClips;
+    public AudioClip idCardClip, laserCutterClip, sealantSprayClip, oxygenRefillClip,
+            landingClip, crawlingClip, oxygenBoostingClip, grabbingClip, suffocationClip, jumpClip;
+    */
+    #endregion
+
+    void Start()
+    {
+        rb = GetComponent<Rigidbody>();
+        anim = GetComponentInChildren<Animator>();
+        currentState = baseState;
+        currentState.EnterState(this);
+        gameManager = FindFirstObjectByType<GameManager>();
+        gridManager = FindFirstObjectByType<GridManager>();
+    }
+
+    // Update is called once per frame
+    void Update()
+    {
+        currentState.UpdateState(this);
+
+    }
+    public void SwitchState(P_State state)
+    {
+        Debug.Log($"Switching to {state.GetType().Name}");
+        currentState.ExitState(this);
+        previousState = currentState;
+        currentState = state;
+        state.EnterState(this);
+    }
+    public void SwitchToPreviousState()
+    {
+        if (previousState != null)
+        {
+            SwitchState(previousState);
+        }
+    }
+    /*
+    IEnumerator<Vector2> Move(Vector2 direction)
+    {
+        moving = true;
+        Vector2 startPosition = transform.position;
+        Vector2 target = startPosition + (direction * gridSize);
+        Vector2Int endPosition = gridManager.GetCellPosition(target);
+        if (!gridManager.TraversableCheck(endPosition))
+        {
+            moving = false;
+            //bump
+            yield break;
+        }
+        float elapsedTime = 0;
+        while (elapsedTime < movementSpeed)
+        {
+            elapsedTime += Time.deltaTime;
+            float percent = elapsedTime / movementSpeed;
+            transform.position = Vector2.MoveTowards(startPosition, gridManager.GetTileCenter(endPosition), movementSpeed);
+        }
+        transform.position = target;
+        while (gameManager.globalTimer < lastMoveTime + movementSpeed)
+        {
+            gameManager.incrementTime();
+        }
+        lastMoveTime = gameManager.globalTimer;
+        /*
+        Debug.Log("Start Pos:" + startPosition);
+        Debug.Log("End Pos:" + endPosition);
+        moving = false;
+    }
+         */
+}
+

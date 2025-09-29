@@ -2333,12 +2333,12 @@ GameObject:
   m_Component:
   - component: {fileID: 490420032}
   - component: {fileID: 490420031}
-  - component: {fileID: 490420033}
   - component: {fileID: 490420035}
-  - component: {fileID: 490420034}
+  - component: {fileID: 490420037}
+  - component: {fileID: 490420033}
   - component: {fileID: 490420036}
   m_Layer: 0
-  m_Name: TestTarget
+  m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2430,20 +2430,6 @@ MonoBehaviour:
   movementSpeed: 0
   moving: 0
   gridManager: {fileID: 0}
---- !u!114 &490420034
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 490420030}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 7a2c735eee8454e92810a4f3ec69b0d4, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 1
-  attackDamage: 0
 --- !u!50 &490420035
 Rigidbody2D:
   serializedVersion: 5
@@ -2517,6 +2503,36 @@ MonoBehaviour:
   - type: {fileID: 11400000, guid: c74e2ae7fe218904fa4fb03543e48095, type: 2}
     value:
       baseValue: 1
+--- !u!114 &490420037
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 490420030}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0d10de9e4da84b49998d76fa42cf923, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rb: {fileID: 0}
+  mainCamera: {fileID: 1637738871}
+  anim: {fileID: 0}
+  p_Att: {fileID: 0}
+  movementSpeed: 0
+  hurt:
+    attribute: {fileID: 0}
+    operation: 0
+    attributeModifierValue: 0
+  isRepeatedMovement: 0
+  huurt: 0
+  moving: 0
+  gridManager: {fileID: 1350821628}
+  gridSize: 0
+  gameManager: {fileID: 0}
+  lastMoveTime: 0
+  BGM: {fileID: 0}
+  SoundEffect: {fileID: 0}
 --- !u!1 &524719348
 GameObject:
   m_ObjectHideFlags: 0
@@ -4173,7 +4189,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1713247608}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 1.074491, y: 0.336334, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
