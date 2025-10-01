@@ -65,7 +65,6 @@ public class P_BaseState : P_State
         if (!player.gridManager.TraversableCheck(endPosition))
         {
             moving = false;
-            //bump
             yield break;
         }
         float elapsedTime = 0;

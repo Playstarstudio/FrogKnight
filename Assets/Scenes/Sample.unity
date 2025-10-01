@@ -2421,7 +2421,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 490420030}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1a5774146504c4f7d8d7a30f5ae12b79, type: 3}
   m_Name: 
@@ -2518,17 +2518,17 @@ MonoBehaviour:
   rb: {fileID: 0}
   mainCamera: {fileID: 1637738871}
   anim: {fileID: 0}
-  p_Att: {fileID: 0}
+  p_Att: {fileID: 490420036}
   movementSpeed: 0
   hurt:
     attribute: {fileID: 0}
     operation: 0
     attributeModifierValue: 0
-  isRepeatedMovement: 0
+  isRepeatedMovement: 1
   huurt: 0
   moving: 0
   gridManager: {fileID: 1350821628}
-  gridSize: 0
+  gridSize: 1
   gameManager: {fileID: 0}
   lastMoveTime: 0
   BGM: {fileID: 0}
