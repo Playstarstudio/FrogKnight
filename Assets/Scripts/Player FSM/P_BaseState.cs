@@ -9,30 +9,30 @@ public class P_BaseState : P_State
 
     public override void EnterState(P_StateManager player)
     {
+        player.movementSpeed = player.p_Att.GetBaseAttributeValue(player.p_Att.GetAttributeType("Move Speed"));
     }
 
     public override void UpdateState(P_StateManager player)
     {
-       /*
         if (!moving)
         {
             System.Func<KeyCode, bool> inputFunction;
             inputFunction = Input.GetKeyDown;
             if (inputFunction(KeyCode.W))
             {
-                StartCoroutine(Move(Vector2.up, player));
+                player.StartCoroutine(Move(Vector2.up, player));
             }
             else if (inputFunction(KeyCode.S))
             {
-                StartCoroutine(Move(Vector2.down, player));
+                player.StartCoroutine(Move(Vector2.down, player));
             }
             else if (inputFunction(KeyCode.A))
             {
-                StartCoroutine(Move(Vector2.left, player));
+                player.StartCoroutine(Move(Vector2.left, player));
             }
             else if (inputFunction(KeyCode.D))
             {
-                StartCoroutine(Move(Vector2.right, player));
+                player.StartCoroutine(Move(Vector2.right, player));
             }
             else if (inputFunction(KeyCode.E))
             {
@@ -46,7 +46,6 @@ public class P_BaseState : P_State
 
             }
         }
-        */
     }
 
 
@@ -82,8 +81,10 @@ public class P_BaseState : P_State
             player.gameManager.incrementTime();
         }
         player.lastMoveTime = player.gameManager.globalTimer;
+        /*
         Debug.Log("Start Pos:" + startPosition);
         Debug.Log("End Pos:" + endPosition);
+         */
         moving = false;
     }
 
