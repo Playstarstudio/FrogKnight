@@ -85,6 +85,7 @@ public class P_BaseState : P_State
         Debug.Log("End Pos:" + endPosition);
          */
         moving = false;
+        player.gameManager.CheckAndActivateEntities();
     }
 
     void AStarMovement()

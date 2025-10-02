@@ -1,9 +1,11 @@
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+using static GameManager;
 using static GridManager;
 
-public class Enemy : MonoBehaviour
+public class Enemy : Entity
 {
     // this is an example for how to use the grid system
     // it will path towards this "target"
@@ -17,10 +19,11 @@ public class Enemy : MonoBehaviour
     private List<AStarNodeInfo> path;
     private Dictionary<AStarNodeInfo, AStarNodeInfo> aStarSearchedList;
     private SortedSet<AStarNodeInfo> aStarToSearch;
-
+    
     private GameManager gameManager;
-    [SerializeField] private float lastMoveTime = 0f;
+    [SerializeField] float lastMoveTime = 0f;
     [SerializeField] private float speed = 1.3f;
+    public bool move;
 
     void Start()
     {
@@ -43,17 +46,23 @@ public class Enemy : MonoBehaviour
             gridManager.AddDebugTile(item, Color.red);
         }
 
-
         // path towards the second to last tile on our path (path is stores backwards, so its the second tile)
-        if (gameManager.globalTimer - lastMoveTime >= speed)
+        if(move)
+            Move();
+    }
+
+    private void Move()
+    {
+        if (gameManager.globalTimer - readyTime >= speed)
         {
             if (path.Count > 2)
             {
-                lastMoveTime += speed;
+                readyTime += speed;
                 AStarNodeInfo square = path[path.Count - 2];
                 while (Vector2.Distance(transform.position, gridManager.GetTileCenter(square.position)) > 0.01f)
                     transform.position = Vector2.MoveTowards(transform.position, gridManager.GetTileCenter(square.position), Time.deltaTime);
-            } 
+            }
         }
+        move = false;
     }
 }
