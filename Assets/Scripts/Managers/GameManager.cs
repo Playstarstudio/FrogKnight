@@ -2,7 +2,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
-using static UnityEngine.EventSystems.EventTrigger;
 
 public class GameManager : MonoBehaviour
 {
@@ -53,11 +52,12 @@ public class GameManager : MonoBehaviour
     public void CheckAndActivateEntities()
     {
         bool needsResort = false;
-        for (int i = sortedTimedEntities.Count - 1; i >= 0; i--)
+        for (int i = 0; i <= sortedTimedEntities.Count - 1; i++)
         {
+            //Debug.Log($"Checking entity: {sortedTimedEntities[i].entity.name} with ready time: {sortedTimedEntities[i].readyTime} against global time: {globalTimer}");
             var timedEntity = sortedTimedEntities[i];
             var enemy = timedEntity.entity.GetComponent<Enemy>();
-            if (timedEntity.readyTime <= globalTimer)
+            if (enemy.readyTime <= globalTimer)
             {
                 ActivateEntity(timedEntity.entity);
                 timedEntity.readyTime = enemy.readyTime;
@@ -66,13 +66,12 @@ public class GameManager : MonoBehaviour
             }
             else
             {
+                // Since the list is sorted, we can break early
                 break;
             }
         }
         if (needsResort)
-        {
             UpdateTimedEntitiesList();
-        }
     }
 
     //sends over to the enemy script and does what it's supposed to do.
@@ -81,9 +80,8 @@ public class GameManager : MonoBehaviour
         var enemy = entity.GetComponent<Enemy>();
         if (enemy != null)
         {
-            enemy.move = true;
+            enemy.Move();
         }
-
         Debug.Log($"Activated entity: {entity.name} at time: {globalTimer}");
     }
 
@@ -135,6 +133,8 @@ public class GameManager : MonoBehaviour
     {
         globalTimer += 0.01f;
         gridManager.PlayerDijkstras();
+        CheckAndActivateEntities();
+        UpdateTimedEntitiesList();
         return globalTimer;
     }
 }

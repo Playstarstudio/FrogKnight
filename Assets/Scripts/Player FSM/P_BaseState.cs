@@ -78,6 +78,8 @@ public class P_BaseState : P_State
         while (player.gameManager.globalTimer < player.lastMoveTime + player.movementSpeed)
         {
             player.gameManager.incrementTime();
+            player.gameManager.CheckAndActivateEntities();
+            player.gameManager.UpdateTimedEntitiesList();
         }
         player.lastMoveTime = player.gameManager.globalTimer;
         /*
@@ -85,7 +87,8 @@ public class P_BaseState : P_State
         Debug.Log("End Pos:" + endPosition);
          */
         moving = false;
-        player.gameManager.CheckAndActivateEntities();
+        // player.gameManager.CheckAndActivateEntities();
+        // player.gameManager.UpdateTimedEntitiesList();
     }
 
     void AStarMovement()

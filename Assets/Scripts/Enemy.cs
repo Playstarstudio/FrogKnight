@@ -32,6 +32,7 @@ public class Enemy : Entity
         aStarSearchedList = new Dictionary<AStarNodeInfo, AStarNodeInfo>();
         aStarToSearch = new SortedSet<AStarNodeInfo>();
         gameManager = FindFirstObjectByType<GameManager>();
+        readyTime = speed; // enemies are ready to go at time = their speed
     }
 
     // Update is called once per frame
@@ -51,9 +52,9 @@ public class Enemy : Entity
             Move();
     }
 
-    private void Move()
+    public void Move()
     {
-        if (gameManager.globalTimer - readyTime >= speed)
+        if (readyTime >= speed)
         {
             if (path.Count > 2)
             {
@@ -64,5 +65,6 @@ public class Enemy : Entity
             }
         }
         move = false;
+        gameManager.UpdateTimedEntitiesList();
     }
 }
