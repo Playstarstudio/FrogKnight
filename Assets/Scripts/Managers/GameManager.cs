@@ -8,10 +8,13 @@ public class GameManager : MonoBehaviour
 {
     public float globalTimer;
     private GridManager gridManager;
+
+    // this is my list of timed entities that will be populated, and the sorted list kept separately.
     public GameObject[] timedEntities;
     [SerializeField] private List<TimedEntity> sortedTimedEntities = new List<TimedEntity>();
 
     [System.Serializable]
+    //created a list of timed entities as a comparable list for sorting purposes.
     public class TimedEntity : IComparable<TimedEntity>
     {
         public GameObject entity;
@@ -28,7 +31,8 @@ public class GameManager : MonoBehaviour
         gridManager = FindFirstObjectByType<GridManager>();
         InitializeTimedEntities();
     }
-
+    // goes out and finds all entity objects. I will probably redo this so that it grabs all entities of all kinds
+    // TODO this doesn't account for entities being added or removed during gameplay.
     private void InitializeTimedEntities()
     {
         timedEntities = GameObject.FindGameObjectsWithTag("Entity");
@@ -44,6 +48,8 @@ public class GameManager : MonoBehaviour
         sortedTimedEntities.Sort();
     }
 
+    // iterates through sorted list and finds entities that are ready to go
+    // TODO this doesn't account for if an enemy gets to do two actions before another enemy gets to do one.
     public void CheckAndActivateEntities()
     {
         bool needsResort = false;
@@ -53,9 +59,9 @@ public class GameManager : MonoBehaviour
             var enemy = timedEntity.entity.GetComponent<Enemy>();
             if (timedEntity.readyTime <= globalTimer)
             {
-                timedEntity.readyTime = timedEntity.readyTime + 0f; // Example: set it to the entity's action.
                 ActivateEntity(timedEntity.entity);
                 timedEntity.readyTime = enemy.readyTime;
+                // timedEntity.readyTime = timedEntity.readyTime + 0f; // Example: set it to the entity's action.
                 needsResort = true;
             }
             else
@@ -69,6 +75,7 @@ public class GameManager : MonoBehaviour
         }
     }
 
+    //sends over to the enemy script and does what it's supposed to do.
     private void ActivateEntity(GameObject entity)
     {
         var enemy = entity.GetComponent<Enemy>();
@@ -79,6 +86,8 @@ public class GameManager : MonoBehaviour
 
         Debug.Log($"Activated entity: {entity.name} at time: {globalTimer}");
     }
+
+    //resort the list and realign readytimes.
     public void UpdateTimedEntitiesList()
     {
         foreach (var timedEntity in sortedTimedEntities)
@@ -91,6 +100,8 @@ public class GameManager : MonoBehaviour
         }
         sortedTimedEntities.Sort();
     }
+    // if an entity's ready time changes, this updates the list and resorts it.
+    // this is used when the player stuns an entity or slows it down.
     public void OnEntityReadyTimeChanged(GameObject entity)
     {
         var existing = sortedTimedEntities.FirstOrDefault(te => te.entity == entity);
@@ -104,7 +115,7 @@ public class GameManager : MonoBehaviour
             sortedTimedEntities.Sort();
         }
     }
-
+    // adding a timed entity to the list - this is for spawning or slow spells that travel over time.
     public void AddTimedEntity(GameObject entity)
     {
         var enemy = entity.GetComponent<Enemy>();
@@ -119,6 +130,7 @@ public class GameManager : MonoBehaviour
             sortedTimedEntities.Sort();
         }
     }
+    // this is for incrementing time, is kind of out of date.
     public float incrementTime()
     {
         globalTimer += 0.01f;
