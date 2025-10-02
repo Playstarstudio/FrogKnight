@@ -131,7 +131,7 @@ public class GameManager : MonoBehaviour
     // this is for incrementing time, is kind of out of date.
     public float incrementTime()
     {
-        globalTimer += 0.01f;
+        globalTimer += 0.25f;
         gridManager.PlayerDijkstras();
         CheckAndActivateEntities();
         UpdateTimedEntitiesList();
