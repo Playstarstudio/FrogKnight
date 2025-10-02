@@ -64,7 +64,5 @@ public class Enemy : Entity
                     transform.position = Vector2.MoveTowards(transform.position, gridManager.GetTileCenter(square.position), Time.deltaTime);
             }
         }
-        move = false;
-        gameManager.UpdateTimedEntitiesList();
     }
 }
