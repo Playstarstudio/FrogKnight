@@ -85,7 +85,7 @@ public class PlayerMovement : MonoBehaviour
         transform.position = target;
         while (gameManager.globalTimer < lastMoveTime + movementSpeed)
         {
-            gameManager.incrementTime();
+            //gameManager.incrementTime();
         }
         lastMoveTime = gameManager.globalTimer;
         Debug.Log("Start Pos:" + startPosition);

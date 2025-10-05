@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using Unity.VisualScripting;
 using UnityEngine;
 using static GameManager;
 using static GridManager;
@@ -14,7 +15,6 @@ public class Enemy : Entity
 
     // keep a ref to the gridmanager
     private GridManager gridManager;
-
     // data structures for pathfinding
     private List<AStarNodeInfo> path;
     private Dictionary<AStarNodeInfo, AStarNodeInfo> aStarSearchedList;
@@ -64,5 +64,9 @@ public class Enemy : Entity
                     transform.position = Vector2.MoveTowards(transform.position, gridManager.GetTileCenter(square.position), Time.deltaTime);
             }
         }
+    }
+    public void OnDestroy()
+    {
+        gameManager.RemoveTimedEntity(this.gameObject);
     }
 }

@@ -1,4 +1,3 @@
-using System;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -10,14 +9,14 @@ public class P_BaseState : P_State
     public override void EnterState(P_StateManager player)
     {
         player.movementSpeed = player.p_Att.GetBaseAttributeValue(player.p_Att.GetAttributeType("Move Speed"));
+        inputFunction = Input.GetKeyDown;
+        player.casting = null;
     }
 
     public override void UpdateState(P_StateManager player)
     {
         if (!moving)
         {
-            System.Func<KeyCode, bool> inputFunction;
-            inputFunction = Input.GetKeyDown;
             if (inputFunction(KeyCode.W))
             {
                 player.StartCoroutine(Move(Vector2.up, player));
@@ -44,6 +43,19 @@ public class P_BaseState : P_State
                 };
                 player.p_Att.ApplyInstantModifier(hurt);
 
+            }
+            else if (inputFunction(KeyCode.Q))
+            {
+                player.casting = player.spell0;
+                if (player.p_Att.GetBaseAttributeValue(player.p_Att.GetAttributeType("MP")) >= player.casting.manaCost)
+                {
+                    player.currentState = player.abilityState;
+                    player.currentState.EnterState(player);
+                }
+                else
+                {
+                    Debug.Log("Not enough MP");
+                }
             }
         }
     }
@@ -75,13 +87,13 @@ public class P_BaseState : P_State
             player.transform.position = Vector2.MoveTowards(startPosition, player.gridManager.GetTileCenter(endPosition), player.movementSpeed);
         }
         player.transform.position = target;
-        while (player.gameManager.globalTimer < player.lastMoveTime + player.movementSpeed)
+        player.lastMoveTime = player.lastMoveTime + player.movementSpeed;
+        while (player.gameManager.globalTimer < player.lastMoveTime)
         {
-            player.gameManager.incrementTime();
+            player.gameManager.incrementTime(player);
             player.gameManager.CheckAndActivateEntities();
             player.gameManager.UpdateTimedEntitiesList();
         }
-        player.lastMoveTime = player.gameManager.globalTimer;
         /*
         Debug.Log("Start Pos:" + startPosition);
         Debug.Log("End Pos:" + endPosition);

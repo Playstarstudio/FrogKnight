@@ -12,6 +12,10 @@ public class GridManager : MonoBehaviour
     private class TileInfo
     {
         public bool traversable;
+        public int rawDist;
+        public float moveCost;
+        public bool occupied;
+        public bool visible;
 
         public TileInfo(bool traversable)
         {
@@ -424,6 +428,7 @@ public class GridManager : MonoBehaviour
 
     private void Update()
     {
+        /*
         if (debug)
         {
             TintDebug();
@@ -434,6 +439,7 @@ public class GridManager : MonoBehaviour
             TintPlayerDebug();
             playerDebugTiles.Clear();
         }
+         */
     }
     private void CreateGrid()
     {

@@ -4,13 +4,14 @@ using UnityEngine;
 public class P_StateManager : MonoBehaviour
 {
 
-#region States
+    #region States
+    public string stateName;
     public P_State currentState;
     public P_State previousState;
     public P_BaseState baseState = new P_BaseState();
+    public P_AbilityState abilityState = new P_AbilityState();
     /*
     public P_CharacterState characterstate = new P_CharacterState();
-    public P_AbilityState abilityState = new P_AbilityState();
     public P_DialogueState dialogueState = new P_DialogueState();
     public P_PausedState pausedState = new P_PausedState();
     public P_OverworldState p_OverworldState = new P_OverworldState();
@@ -27,6 +28,9 @@ public class P_StateManager : MonoBehaviour
     public Transform mainCamera;
     [HideInInspector] public Animator anim;
     [SerializeField] public AttributeSet p_Att;
+    [SerializeField] public bool castSuccess = false;
+    [SerializeField] public Ability casting;
+    [SerializeField] public Ability spell0;
     [SerializeField] public float movementSpeed;
     public AttributeModifier hurt;
     public bool isRepeatedMovement = false;
@@ -60,20 +64,20 @@ public class P_StateManager : MonoBehaviour
         currentState.EnterState(this);
         gameManager = FindFirstObjectByType<GameManager>();
         gridManager = FindFirstObjectByType<GridManager>();
+
     }
 
     // Update is called once per frame
     void Update()
     {
         currentState.UpdateState(this);
-
     }
     public void SwitchState(P_State state)
     {
-        Debug.Log($"Switching to {state.GetType().Name}");
         currentState.ExitState(this);
         previousState = currentState;
         currentState = state;
+        stateName = state.ToString();
         state.EnterState(this);
     }
     public void SwitchToPreviousState()

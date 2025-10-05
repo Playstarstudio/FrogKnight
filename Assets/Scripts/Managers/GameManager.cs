@@ -82,7 +82,7 @@ public class GameManager : MonoBehaviour
         {
             enemy.Move();
         }
-        Debug.Log($"Activated entity: {entity.name} at time: {globalTimer}");
+        // Debug.Log($"Activated entity: at time: {globalTimer}");
     }
 
     //resort the list and realign readytimes.
@@ -128,10 +128,32 @@ public class GameManager : MonoBehaviour
             sortedTimedEntities.Sort();
         }
     }
-    // this is for incrementing time, is kind of out of date.
-    public float incrementTime()
+
+    public void RemoveTimedEntity(GameObject entity)
     {
-        globalTimer += 0.25f;
+        var existing = sortedTimedEntities.FirstOrDefault(te => te.entity == entity);
+        if (existing != null)
+        {
+            sortedTimedEntities.Remove(existing);
+        }
+    }
+
+    // this is for incrementing time, is kind of out of date.
+    public float incrementTime(P_StateManager player)
+    {
+        float diff = player.lastMoveTime - globalTimer;
+        if (diff >= 0.25f)
+        {
+            globalTimer += 0.25f;
+        }
+        else if (diff <= 0f)
+        {
+            Debug.Log("Error: Player last move time is less than or equal to global timer.");
+        }
+        else if (diff <= 0.25f)
+        {
+            globalTimer += player.lastMoveTime - globalTimer;
+        }
         gridManager.PlayerDijkstras();
         CheckAndActivateEntities();
         UpdateTimedEntitiesList();
