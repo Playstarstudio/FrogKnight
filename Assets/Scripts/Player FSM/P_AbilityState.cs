@@ -1,11 +1,13 @@
 using System;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class P_AbilityState : P_State
 {
     public override void EnterState(P_StateManager player)
     {
         inputFunction = Input.GetKeyDown;
+        player.casting.gameObject.GetComponent<RawImage>().color = player.casting.activeColor;
         //no movement
         //turn on range indicator
         //turn on mouse cursor
@@ -31,43 +33,45 @@ public class P_AbilityState : P_State
             if(player.casting == null)
             {
                 Debug.Log("No ability selected");
-                player.currentState = player.baseState;
-                player.currentState.EnterState(player);
+                player.SwitchState(player.baseState);
                 return;
             }
-            if(player.casting.manaCost >= player.p_Att.GetBaseAttributeValue(player.p_Att.GetAttributeType("MP")))
+            if(player.casting.ability.manaCost >= player.p_Att.GetBaseAttributeValue(player.p_Att.GetAttributeType("MP")))
             {
                 Debug.Log("Not enough MP");
-                player.currentState = player.baseState;
-                player.currentState.EnterState(player);
+                player.SwitchState(player.baseState);
                 return;
             }
             else
             {
                 Debug.Log("first cast check passed");
-                player.casting.CastAbility(player, targetCenter);
+                player.casting.ability.CastAbility(player, targetCenter);
             }
             //get all entities on that tile
             //attempt to cast ability on that entity
             //if successful
             if (player.castSuccess)
             {
-            player.currentState = player.baseState;
-            player.currentState.EnterState(player);
+                Debug.Log("Ability cast successful");
+                player.SwitchState(player.baseState);
             }
             else
             {
                 Debug.Log("Ability cast failed");
-                player.currentState = player.baseState;
-                player.currentState.EnterState(player);
+                player.SwitchState(player.baseState);
             }
             //if not successful, stay in ability state
+        }
+        else if (inputFunction(KeyCode.Mouse1))
+            {
+            Debug.Log("Ability cast cancelled");
+            player.SwitchState(player.baseState);
         }
     }
 
     public override void ExitState(P_StateManager player)
     {
-        base.ExitState(player);
+        player.casting.gameObject.GetComponent<RawImage>().color = Color.white;
         //turn off range indicator
         //turn off mouse cursor
         //turn off ability ui

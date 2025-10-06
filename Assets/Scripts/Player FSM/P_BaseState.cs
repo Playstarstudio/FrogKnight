@@ -44,13 +44,48 @@ public class P_BaseState : P_State
                 player.p_Att.ApplyInstantModifier(hurt);
 
             }
-            else if (inputFunction(KeyCode.Q))
+            else if (inputFunction(KeyCode.Alpha1))
             {
                 player.casting = player.spell0;
-                if (player.p_Att.GetBaseAttributeValue(player.p_Att.GetAttributeType("MP")) >= player.casting.manaCost)
+                if (player.p_Att.GetBaseAttributeValue(player.p_Att.GetAttributeType("MP")) >= player.casting.ability.manaCost)
                 {
-                    player.currentState = player.abilityState;
-                    player.currentState.EnterState(player);
+                    player.SwitchState(player.abilityState);
+                }
+                else
+                {
+                    Debug.Log("Not enough MP");
+                }
+            }
+            else if (inputFunction(KeyCode.Alpha2))
+            {
+                player.casting = player.spell1;
+                if (player.p_Att.GetBaseAttributeValue(player.p_Att.GetAttributeType("MP")) >= player.casting.ability.manaCost)
+                {
+                    player.SwitchState(player.abilityState);
+                }
+                else
+                {
+                    Debug.Log("Not enough MP");
+                }
+            }
+            else if (inputFunction(KeyCode.Alpha3))
+            {
+                player.casting = player.spell2;
+                if (player.p_Att.GetBaseAttributeValue(player.p_Att.GetAttributeType("MP")) >= player.casting.ability.manaCost)
+                {
+                    player.SwitchState(player.abilityState);
+                }
+                else
+                {
+                    Debug.Log("Not enough MP");
+                }
+            }
+            else if (inputFunction(KeyCode.Alpha4))
+            {
+                player.casting = player.spell3;
+                if (player.p_Att.GetBaseAttributeValue(player.p_Att.GetAttributeType("MP")) >= player.casting.ability.manaCost)
+                {
+                    player.SwitchState(player.abilityState);
                 }
                 else
                 {
@@ -64,7 +99,7 @@ public class P_BaseState : P_State
 
     public override void ExitState(P_StateManager player)
     {
-        throw new System.NotImplementedException();
+
     }
 
 

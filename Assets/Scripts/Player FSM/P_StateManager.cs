@@ -29,8 +29,12 @@ public class P_StateManager : MonoBehaviour
     [HideInInspector] public Animator anim;
     [SerializeField] public AttributeSet p_Att;
     [SerializeField] public bool castSuccess = false;
-    [SerializeField] public Ability casting;
-    [SerializeField] public Ability spell0;
+    [SerializeField] public AbilitySlot casting;
+    [SerializeField] public AbilitySlot spell0;
+    [SerializeField] public AbilitySlot spell1;
+    [SerializeField] public AbilitySlot spell2;
+    [SerializeField] public AbilitySlot spell3;
+    //[SerializeField] public Ability spell0;
     [SerializeField] public float movementSpeed;
     public AttributeModifier hurt;
     public bool isRepeatedMovement = false;
@@ -77,7 +81,6 @@ public class P_StateManager : MonoBehaviour
         currentState.ExitState(this);
         previousState = currentState;
         currentState = state;
-        stateName = state.ToString();
         state.EnterState(this);
     }
     public void SwitchToPreviousState()
