@@ -28,6 +28,7 @@ public class Ability : ScriptableObject
             };
             player.p_Att.ApplyInstantModifier(manaCostModifier);
             Debug.Log($"{abilityName} cast towards {targetPosition}");
+            player.gameManager.PlayerAction(player, speed);
             getTargets(targetPosition);
 
             // create new timed effect for cooldown here

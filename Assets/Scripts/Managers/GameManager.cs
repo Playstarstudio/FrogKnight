@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+using static UnityEngine.EventSystems.EventTrigger;
 
 public class GameManager : MonoBehaviour
 {
@@ -47,9 +48,27 @@ public class GameManager : MonoBehaviour
         sortedTimedEntities.Sort();
     }
 
+    //CALL THIS EVERY TIME AN ACTION OCCURS
+    public void PlayerAction(P_StateManager player, float time)
+    {
+        player.lastMoveTime += time;
+        globalTimer = player.lastMoveTime;
+        gridManager.PlayerDijkstras();
+        CheckAndActivateEntities(player);
+    }
+    public void TimeTracker(GameObject gameObject, float time)
+    {
+        if (gameObject.tag == "Entity")
+        {
+            Enemy enemy = gameObject.GetComponent<Enemy>();
+            enemy.readyTime += time;
+            OnEntityReadyTimeChanged(enemy);
+        }
+    }
+
     // iterates through sorted list and finds entities that are ready to go
     // TODO this doesn't account for if an enemy gets to do two actions before another enemy gets to do one.
-    public void CheckAndActivateEntities()
+    public void CheckAndActivateEntities(P_StateManager player)
     {
         bool needsResort = false;
         for (int i = 0; i <= sortedTimedEntities.Count - 1; i++)
@@ -60,6 +79,7 @@ public class GameManager : MonoBehaviour
             if (enemy.readyTime <= globalTimer)
             {
                 ActivateEntity(timedEntity.entity);
+                player.gridManager.PlayerDijkstras();
                 timedEntity.readyTime = enemy.readyTime;
                 // timedEntity.readyTime = timedEntity.readyTime + 0f; // Example: set it to the entity's action.
                 needsResort = true;
@@ -71,7 +91,7 @@ public class GameManager : MonoBehaviour
             }
         }
         if (needsResort)
-            UpdateTimedEntitiesList();
+            UpdateTimedEntitiesList(player);
     }
 
     //sends over to the enemy script and does what it's supposed to do.
@@ -86,7 +106,7 @@ public class GameManager : MonoBehaviour
     }
 
     //resort the list and realign readytimes.
-    public void UpdateTimedEntitiesList()
+    public void UpdateTimedEntitiesList(P_StateManager player)
     {
         foreach (var timedEntity in sortedTimedEntities)
         {
@@ -97,10 +117,22 @@ public class GameManager : MonoBehaviour
             }
         }
         sortedTimedEntities.Sort();
+        CheckAndActivateEntities(player);
     }
+
+    /*
+    // this is for incrementing time, is kind of out of date.
+    public float incrementTime(P_StateManager player)
+    {
+        globalTimer = player.lastMoveTime;
+        gridManager.PlayerDijkstras();
+        CheckAndActivateEntities(player);
+        return globalTimer;
+    }
+    */
     // if an entity's ready time changes, this updates the list and resorts it.
     // this is used when the player stuns an entity or slows it down.
-    public void OnEntityReadyTimeChanged(GameObject entity)
+    public void OnEntityReadyTimeChanged(Enemy entity)
     {
         var existing = sortedTimedEntities.FirstOrDefault(te => te.entity == entity);
         if (existing != null)
@@ -138,28 +170,8 @@ public class GameManager : MonoBehaviour
         }
     }
 
-    // this is for incrementing time, is kind of out of date.
-    public float incrementTime(P_StateManager player)
-    {
-        float diff = player.lastMoveTime - globalTimer;
-        if (diff >= 0.25f)
-        {
-            globalTimer += 0.25f;
-        }
-        else if (diff <= 0f)
-        {
-            Debug.Log("Error: Player last move time is less than or equal to global timer.");
-        }
-        else if (diff <= 0.25f)
-        {
-            globalTimer += player.lastMoveTime - globalTimer;
-        }
-        gridManager.PlayerDijkstras();
-        CheckAndActivateEntities();
-        UpdateTimedEntitiesList();
-        return globalTimer;
-    }
 }
+
 
 /*
 public class TimedEntity

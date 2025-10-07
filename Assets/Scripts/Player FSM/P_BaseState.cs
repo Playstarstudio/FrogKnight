@@ -122,13 +122,7 @@ public class P_BaseState : P_State
             player.transform.position = Vector2.MoveTowards(startPosition, player.gridManager.GetTileCenter(endPosition), player.movementSpeed);
         }
         player.transform.position = target;
-        player.lastMoveTime = player.lastMoveTime + player.movementSpeed;
-        while (player.gameManager.globalTimer < player.lastMoveTime)
-        {
-            player.gameManager.incrementTime(player);
-            player.gameManager.CheckAndActivateEntities();
-            player.gameManager.UpdateTimedEntitiesList();
-        }
+        player.gameManager.PlayerAction(player, player.movementSpeed);
         /*
         Debug.Log("Start Pos:" + startPosition);
         Debug.Log("End Pos:" + endPosition);

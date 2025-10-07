@@ -16,7 +16,7 @@ public class GridManager : MonoBehaviour
         public float moveCost;
         public bool occupied;
         public bool visible;
-
+        // enum neverSeen, currentSeeing, prevSeen
         public TileInfo(bool traversable)
         {
             this.traversable = traversable;
