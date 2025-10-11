@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -30,13 +29,13 @@ public class P_AbilityState : P_State
             //Vector2 target = new Vector2 (Input.mousePosition.x, Input.mousePosition.y);
             Vector2Int targetCenter = player.gridManager.MouseToGrid();
             //target = player.gridManager.GetTileCenter(targetCenter);
-            if(player.casting == null)
+            if (player.casting == null)
             {
                 Debug.Log("No ability selected");
                 player.SwitchState(player.baseState);
                 return;
             }
-            if(player.casting.ability.manaCost >= player.p_Att.GetBaseAttributeValue(player.p_Att.GetAttributeType("MP")))
+            if (player.casting.ability.manaCost >= player.p_Att.GetBaseAttributeValue(player.p_Att.GetAttributeType("MP")))
             {
                 Debug.Log("Not enough MP");
                 player.SwitchState(player.baseState);
@@ -45,7 +44,7 @@ public class P_AbilityState : P_State
             else
             {
                 Debug.Log("first cast check passed");
-                player.casting.ability.CastAbility(player, targetCenter);
+                player.casting.ability.TryCastAbility(player, targetCenter);
             }
             //get all entities on that tile
             //attempt to cast ability on that entity
@@ -63,7 +62,7 @@ public class P_AbilityState : P_State
             //if not successful, stay in ability state
         }
         else if (inputFunction(KeyCode.Mouse1))
-            {
+        {
             Debug.Log("Ability cast cancelled");
             player.SwitchState(player.baseState);
         }

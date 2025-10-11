@@ -1,7 +1,5 @@
-using System.Drawing;
-using System.Runtime.InteropServices.WindowsRuntime;
+using System.Collections;
 using UnityEngine;
-using UnityEngine.TextCore.Text;
 
 [CreateAssetMenu(fileName = "Ability", menuName = "Scriptable Objects/Ability")]
 public class Ability : ScriptableObject
@@ -10,12 +8,36 @@ public class Ability : ScriptableObject
     public string description;
     public float manaCost;
     public int range;
+    public int areaMod;
     public float speed;
     public float coolDown;
+    public float critMod;
+    public bool crit;
+    public TargetType targetType;
+    public TargetSubType targetSubType;
+    public AbilityEffect[] abilityEffects;
+    public Collider2D[] colliders;
 
-    public virtual bool CastAbility(P_StateManager player, Vector2 targetPosition)
+    public enum TargetType
+    {
+        Direct,
+        Beam,
+        Projectile,
+        TogglePassive,
+        FreePassive
+    }
+    public enum TargetSubType
+    {
+        Target,
+        AOE,
+        Chain,
+        Bounce
+    }
+    public virtual bool TryCastAbility(P_StateManager player, Vector2 targetPosition)
     {
         // Base spell logic (e.g., reduce mana)
+        // if(source = player)
+        // GameObject source = player.gameObject;
         player.castSuccess = false;
         float mana = player.p_Att.GetBaseAttributeValue(player.p_Att.GetAttributeType("MP"));
         if (mana >= manaCost)
@@ -29,40 +51,88 @@ public class Ability : ScriptableObject
             player.p_Att.ApplyInstantModifier(manaCostModifier);
             Debug.Log($"{abilityName} cast towards {targetPosition}");
             player.gameManager.PlayerAction(player, speed);
-            getTargets(targetPosition);
-
-            // create new timed effect for cooldown here
-            // find player's readytime
-            //affect player's ready time based on spell speed
-            //
-            // find final readytime for this spell to be available again
+            crit = TryCrit(player.gameObject);
+            getTargets(player.gameObject, targetPosition);
             player.castSuccess = true;
             return true;
         }
-        else
+        /*
+        else if (!validTarget)
+        {
+            Debug.Log("Invalid target for ability.");
+            player.castSuccess = false;
+            return false;
+        }
+         */
+        else if (mana <= manaCost)
         {
             Debug.Log("Not enough MP to cast the ability.");
             player.castSuccess = false;
             return false;
         }
+        else
+            return false;
     }
-    void getTargets(Vector2 center)
+    void getTargets(GameObject source, Vector2 castLoc)
     {
-        Collider2D[] colliders = Physics2D.OverlapPointAll(center);
-        foreach (Collider2D collider in colliders)
+        switch (targetType)
         {
-            Debug.Log("Found an entity at " + center + ": " + collider.gameObject.name);
+            case TargetType.Direct:
+                if (targetSubType == TargetSubType.AOE)
+                {
+                    colliders = Physics2D.OverlapAreaAll(castLoc - new Vector2(areaMod, areaMod), castLoc + new Vector2(areaMod, areaMod));
+                }
+                else
+                {
+                    colliders = Physics2D.OverlapPointAll(castLoc);
+                }
+                break;
+            case TargetType.Beam:
+                Debug.Log("Beam target type is not implemented.");
+                break;
+            case TargetType.Projectile:
+                Debug.Log("Projectile target type is not implemented.");
+                break;
+            case TargetType.TogglePassive:
+                Debug.Log("TogglePassive target type is not implemented.");
+                break;
+            case TargetType.FreePassive:
+                Debug.Log("FreePassive target type is not implemented.");
+                break;
+            default:
+                Debug.Log("Unknown target type.");
+                break;
         }
         foreach (Collider2D collider in colliders)
         {
-            if(collider.gameObject.CompareTag("Entity"))
+            foreach (AbilityEffect effect in abilityEffects)
             {
-                Destroy(collider.gameObject);
+                // Apply each effect to the target entity
+                Enemy enemy = collider.gameObject.GetComponent<Enemy>();
+                if (enemy != null)
+                {
+                    effect.ApplyEffect(enemy, source, this);
+                }
             }
         }
-        if(colliders.Length == 0)
+        if (colliders.Length == 0)
         {
             Debug.Log("No targets hit.");
+        }
+    }
+    bool TryCrit(GameObject source)
+    {
+        float roll = Random.Range(0f, 1f);
+        if (roll <= critMod)
+        {
+            crit = true;
+            Debug.Log("Critical Hit!");
+            return true;
+        }
+        else
+        {
+            crit = false;
+            return false;
         }
     }
 }

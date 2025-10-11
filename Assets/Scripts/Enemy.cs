@@ -51,7 +51,12 @@ public class Enemy : Entity
         if(move)
             Move();
     }
-
+    public void ReceiveEffect(AbilityEffect effect, GameObject source, Ability ability)
+    {
+        // Implement effect reception logic here
+        Debug.Log($"{this.name} received {effect.effectName} from {source.name} via {ability.abilityName}");
+        Destroy(this.gameObject);
+    }
     public void Move()
     {
         if (readyTime >= speed)
@@ -63,6 +68,10 @@ public class Enemy : Entity
                 while (Vector2.Distance(transform.position, gridManager.GetTileCenter(square.position)) > 0.01f)
                     transform.position = Vector2.MoveTowards(transform.position, gridManager.GetTileCenter(square.position), Time.deltaTime);
             }
+        }
+        else
+        {
+            readyTime += speed;
         }
     }
     public void OnDestroy()
