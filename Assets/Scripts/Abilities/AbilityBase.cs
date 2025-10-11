@@ -8,9 +8,11 @@ public class Ability : ScriptableObject
     public float manaCost;
     public int range;
     public int areaMod;
+    public int numberMod;
     public float speed;
     public float coolDown;
     public float critMod;
+    public bool enemyOnly;
     public bool crit;
     public TargetType targetType;
     public TargetSubType targetSubType;
@@ -30,7 +32,8 @@ public class Ability : ScriptableObject
         Target,
         AOE,
         Chain,
-        Bounce
+        Bounce,
+        MultiTarget
     }
     public virtual bool TryCastAbility(P_StateManager player, Vector2 targetPosition)
     {
@@ -82,9 +85,13 @@ public class Ability : ScriptableObject
                 {
                     colliders = Physics2D.OverlapAreaAll(castLoc - new Vector2(areaMod, areaMod), castLoc + new Vector2(areaMod, areaMod));
                 }
-                else
+                else if (targetSubType == TargetSubType.Target)
                 {
                     colliders = Physics2D.OverlapPointAll(castLoc);
+                }
+                else
+                {
+                    Debug.Log("Direct target type with this subtype is not implemented.");
                 }
                 break;
             case TargetType.Beam:
