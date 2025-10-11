@@ -23,7 +23,9 @@ public class AbilityEffect : ScriptableObject
     {
         // Base effect logic
         Debug.Log($"{effectName} applied to {target.name} by {source.name}");
-        // Implement effect application logic here
+        // Implement effect application logic here. 
+
+        //TODO: Make a whole effect receipt system on entities
         target.ReceiveEffect(this, source, ability);
     }
 }

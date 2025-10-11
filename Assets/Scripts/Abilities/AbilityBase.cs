@@ -1,4 +1,3 @@
-using System.Collections;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "Ability", menuName = "Scriptable Objects/Ability")]
@@ -53,6 +52,7 @@ public class Ability : ScriptableObject
             player.gameManager.PlayerAction(player, speed);
             crit = TryCrit(player.gameObject);
             getTargets(player.gameObject, targetPosition);
+            ApplyAbilityEffects(player.gameObject);
             player.castSuccess = true;
             return true;
         }
@@ -103,12 +103,16 @@ public class Ability : ScriptableObject
                 Debug.Log("Unknown target type.");
                 break;
         }
+    }
+
+    private void ApplyAbilityEffects(GameObject source)
+    {   //apply each effect to each target entity
         foreach (Collider2D collider in colliders)
         {
+            Enemy enemy = collider.gameObject.GetComponent<Enemy>();
             foreach (AbilityEffect effect in abilityEffects)
             {
                 // Apply each effect to the target entity
-                Enemy enemy = collider.gameObject.GetComponent<Enemy>();
                 if (enemy != null)
                 {
                     effect.ApplyEffect(enemy, source, this);
@@ -120,6 +124,7 @@ public class Ability : ScriptableObject
             Debug.Log("No targets hit.");
         }
     }
+
     bool TryCrit(GameObject source)
     {
         float roll = Random.Range(0f, 1f);

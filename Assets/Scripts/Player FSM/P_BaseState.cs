@@ -17,6 +17,7 @@ public class P_BaseState : P_State
     {
         if (!moving)
         {
+            // try moving
             if (inputFunction(KeyCode.W))
             {
                 player.StartCoroutine(Move(Vector2.up, player));
@@ -33,6 +34,7 @@ public class P_BaseState : P_State
             {
                 player.StartCoroutine(Move(Vector2.right, player));
             }
+            //hurts self 
             else if (inputFunction(KeyCode.E))
             {
                 hurt = new AttributeModifier() //deals 2 damage
@@ -44,6 +46,7 @@ public class P_BaseState : P_State
                 player.p_Att.ApplyInstantModifier(hurt);
 
             }
+            // keyboard casting ability 1-4
             else if (inputFunction(KeyCode.Alpha1))
             {
                 player.casting = player.spell0;
@@ -102,18 +105,21 @@ public class P_BaseState : P_State
 
     }
 
-
     private IEnumerator<Vector2> Move(Vector2 direction, P_StateManager player)
     {
+        //function for moving on a cadence
         moving = true;
+        //takes current position
         Vector2 startPosition = player.transform.position;
         Vector2 target = startPosition + (direction * player.gridSize);
         Vector2Int endPosition = player.gridManager.GetCellPosition(target);
+        //sets a cell location for the player to move to
         if (!player.gridManager.TraversableCheck(endPosition))
         {
             moving = false;
             yield break;
         }
+        //sets a timer for movement speed, this prevents the player from moving every frame
         float elapsedTime = 0;
         while (elapsedTime < player.movementSpeed)
         {
@@ -121,7 +127,9 @@ public class P_BaseState : P_State
             float percent = elapsedTime / player.movementSpeed;
             player.transform.position = Vector2.MoveTowards(startPosition, player.gridManager.GetTileCenter(endPosition), player.movementSpeed);
         }
+        //sets player position to the center of the target tile
         player.transform.position = target;
+        //sends over to the game manager to increment time based on movement speed
         player.gameManager.PlayerAction(player, player.movementSpeed);
         /*
         Debug.Log("Start Pos:" + startPosition);
@@ -134,7 +142,7 @@ public class P_BaseState : P_State
 
     void AStarMovement()
     {
-
+        throw new System.NotImplementedException();
     }
 }
 
