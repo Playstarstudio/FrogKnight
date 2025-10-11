@@ -16,5 +16,14 @@ MonoBehaviour:
   description: kills target enemy
   manaCost: 2
   range: 0
+  areaMod: 0
   speed: 1
   coolDown: 3
+  critMod: 0
+  crit: 0
+  targetType: 0
+  targetSubType: 0
+  abilityEffects:
+  - {fileID: 11400000, guid: 9db45dcc1542f144d97310f3b3b8410c, type: 2}
+  colliders:
+  - {fileID: 0}

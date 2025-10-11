@@ -17,7 +17,7 @@ public class P_AbilityState : P_State
 
     public override void UpdateState(P_StateManager player)
     {
-        //on click, try cast ability
+        // on click, try cast ability
         // if successful, go to base state
         // if not, stay in ability state
         // give indicator of why can't cast
