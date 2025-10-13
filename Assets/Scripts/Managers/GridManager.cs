@@ -148,11 +148,12 @@ public class GridManager : MonoBehaviour
         public DijkstrasNodeInfo parent;
 
         // distance from origin in moves
-        public int distance;
+        public int rawDist;
+        public int moveCost;
 
         public int CompareTo(DijkstrasNodeInfo other)
         {
-            int dist = distance - other.distance;
+            int dist = rawDist - other.rawDist;
             if (dist == 0)
             {
                 dist = position.x - other.position.x;
@@ -196,7 +197,9 @@ public class GridManager : MonoBehaviour
             {
                 DijkstrasNodeInfo current = new DijkstrasNodeInfo();
                 current.position = neighbor;
-                current.distance = distance + 1;
+                current.rawDist = rawDist + 1;
+                //temporary
+                current.moveCost = 1;
                 current.parent = parent;
                 nodeInfos.Add(current);
             }
@@ -365,14 +368,16 @@ public class GridManager : MonoBehaviour
         searched.Clear();
         DijkstrasNodeInfo start = new DijkstrasNodeInfo();
         start.position = startingSquare;
-        start.distance = 0;
+        start.rawDist = 0;
+        start.moveCost = 1;
         start.parent = null;
         toSearch.Add(start);
 
         while (toSearch.Count > 0)
         {
             DijkstrasNodeInfo current = toSearch.Min;
-            int currentDist = current.distance;
+            int currentDist = current.rawDist;
+            int currentMoveCost = current.moveCost;
             toSearch.Remove(current);
             searched.Add(current, current.parent);
 
@@ -614,7 +619,8 @@ public class GridManager : MonoBehaviour
             currentNode = new DijkstrasNodeInfo();
             currentNode.position = tile.Key;
             currentNode.parent = null;
-            currentNode.distance = 1;
+            currentNode.rawDist = 1;
+            currentNode.moveCost = 1;
             sortedSet.Add(currentNode);
         }
         return sortedSet;
