@@ -48,7 +48,8 @@ public class GridManager : MonoBehaviour
     public GameObject player;
     public Dictionary<DijkstrasNodeInfo, DijkstrasNodeInfo> playerRange;
     private PlayerMovement playerMovement;
-    public bool playerDebugTilesOn;
+    public bool playerDebugRawDistTiles;
+    public bool playerDegugMoveCostTiles;
     private Dictionary<Vector2Int, Color> playerDebugTiles;
 
     private void Awake()
@@ -110,7 +111,7 @@ public class GridManager : MonoBehaviour
 
     public void AddPlayerDebugTile(Vector2Int tilePos, Color tint)
     {
-        if (!playerDebugTiles.ContainsKey(tilePos) && playerDebugTilesOn)
+        if (!playerDebugTiles.ContainsKey(tilePos) && (playerDebugRawDistTiles || playerDegugMoveCostTiles))
         {
             playerDebugTiles.Add(tilePos, tint);
         }
@@ -440,6 +441,15 @@ public class GridManager : MonoBehaviour
             playerDebugTiles.Clear();
         }
          */
+
+        if (playerDebugRawDistTiles)
+        {
+            playerDegugMoveCostTiles = false;
+        }
+        else if (playerDegugMoveCostTiles)
+        {
+            playerDebugRawDistTiles = false;
+        }
     }
     private void CreateGrid()
     {
@@ -617,7 +627,7 @@ public class GridManager : MonoBehaviour
     */
     public void PlayerDijkstras()
     {
-        if (playerDebugTilesOn)
+        if (playerDebugRawDistTiles || playerDegugMoveCostTiles)
         {
             playerDebugTiles.Clear();
         }
@@ -626,31 +636,55 @@ public class GridManager : MonoBehaviour
         Vector2 playerVector2 = new Vector2(player.transform.position.x, player.transform.position.y);
         Vector2Int playerTransform = Vector2Int.RoundToInt(playerVector2);
         Dijkstras(ref playerRange, ref toSearch, playerTransform, -1);
-        if(playerDebugTilesOn)
+        if(playerDebugRawDistTiles || playerDegugMoveCostTiles)
             ColorPlayerDebugTiles();
     }
 
     void ColorPlayerDebugTiles()
     {
+        //Raw Dist Debug will be Blue
+        //Move Cost Debug will be Purple
         Dictionary<DijkstrasNodeInfo, DijkstrasNodeInfo>.KeyCollection allKeys = playerRange.Keys;
         Vector2Int currentPos;
-        int currentDistance;
+        int currentRawDistance;
+        int currentMoveCost;
         Color tileTint;
         int rValue;
         int gValue;
-        foreach (var item in allKeys)
+        int bValue;
+        if (playerDebugRawDistTiles)
         {
-            currentDistance = item.distance;
-            currentPos = item.position;
+            foreach (var item in allKeys)
+            {
+                currentRawDistance = item.rawDist;
+                currentPos = item.position;
 
-            rValue = currentDistance * 10;
-            gValue = currentDistance * 10;
-            if (rValue > 255)
-                rValue = 255;
-            if (gValue > 255)
-                gValue = 255;
-            tileTint = new Color(rValue, gValue, 255);
-            AddPlayerDebugTile(currentPos, tileTint);
+                rValue = currentRawDistance * 10;
+                gValue = currentRawDistance * 10;
+                if (rValue > 255)
+                    rValue = 255;
+                if (gValue > 255)
+                    gValue = 255;
+                tileTint = new Color(rValue, gValue, 255);
+                AddPlayerDebugTile(currentPos, tileTint);
+            }
+        }
+        else if (playerDegugMoveCostTiles)
+        {
+            foreach (var item in allKeys)
+            {
+                currentMoveCost = item.moveCost;
+                currentPos = item.position;
+
+                rValue = currentMoveCost * 10;
+                bValue = currentMoveCost * 10;
+                if (rValue > 255)
+                    rValue = 255;
+                if (bValue > 255)
+                    gValue = 255;
+                tileTint = new Color(rValue, 0, bValue);
+                AddPlayerDebugTile(currentPos, tileTint);
+            }
         }
     }
 
