@@ -49,7 +49,7 @@ public class GameManager : MonoBehaviour
     }
 
     //CALL THIS EVERY TIME AN ACTION OCCURS
-    public void PlayerAction(P_StateManager player, float time)
+    public void PlayerAction(Entity player, float time)
     {
         player.lastMoveTime += time;
         globalTimer = player.lastMoveTime;
@@ -68,7 +68,7 @@ public class GameManager : MonoBehaviour
 
     // iterates through sorted list and finds entities that are ready to go
     // TODO this doesn't account for if an enemy gets to do two actions before another enemy gets to do one.
-    public void CheckAndActivateEntities(P_StateManager player)
+    public void CheckAndActivateEntities(Entity player)
     {
         bool needsResort = false;
         for (int i = 0; i <= sortedTimedEntities.Count - 1; i++)
@@ -106,7 +106,7 @@ public class GameManager : MonoBehaviour
     }
 
     //resort the list and realign readytimes.
-    public void UpdateTimedEntitiesList(P_StateManager player)
+    public void UpdateTimedEntitiesList(Entity player)
     {
         foreach (var timedEntity in sortedTimedEntities)
         {

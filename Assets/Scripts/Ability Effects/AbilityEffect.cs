@@ -19,7 +19,7 @@ public class AbilityEffect : ScriptableObject
         CrowdControl
     }
 
-    public virtual void ApplyEffect(Enemy target, GameObject source, Ability ability)
+    public virtual void ApplyEffect(Entity target, Entity source, Ability ability)
     {
         // Base effect logic
         Debug.Log($"{effectName} applied to {target.name} by {source.name}");

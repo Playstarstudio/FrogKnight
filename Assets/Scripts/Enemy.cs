@@ -1,27 +1,13 @@
-using System;
 using System.Collections.Generic;
 using System.Linq;
-using Unity.VisualScripting;
 using UnityEngine;
-using static GameManager;
 using static GridManager;
-
 public class Enemy : Entity
 {
     // this is an example for how to use the grid system
     // it will path towards this "target"
     [SerializeField]
     Transform target;
-
-    // keep a ref to the gridmanager
-    private GridManager gridManager;
-    // data structures for pathfinding
-    private List<AStarNodeInfo> path;
-    private Dictionary<AStarNodeInfo, AStarNodeInfo> aStarSearchedList;
-    private SortedSet<AStarNodeInfo> aStarToSearch;
-    
-    private GameManager gameManager;
-    [SerializeField] float lastMoveTime = 0f;
     [SerializeField] private float speed = 1.3f;
     public bool move;
 
@@ -48,14 +34,8 @@ public class Enemy : Entity
         }
 
         // path towards the second to last tile on our path (path is stores backwards, so its the second tile)
-        if(move)
+        if (move)
             Move();
-    }
-    public void ReceiveEffect(AbilityEffect effect, GameObject source, Ability ability)
-    {
-        // Implement effect reception logic here
-        Debug.Log($"{this.name} received {effect.effectName} from {source.name} via {ability.abilityName}");
-        Destroy(this.gameObject);
     }
     public void Move()
     {

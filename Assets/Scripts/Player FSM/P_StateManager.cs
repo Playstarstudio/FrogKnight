@@ -1,7 +1,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class P_StateManager : MonoBehaviour
+public class P_StateManager : Entity
 {
 
     #region States
@@ -18,34 +18,12 @@ public class P_StateManager : MonoBehaviour
     public P_CraftingState p_CraftingState = new P_CraftingState();
     public P_InventoryState p_InventoryState = new P_InventoryState();
     public P_ShopState p_ShopState = new P_ShopState();
-*/
+    */
 
     #endregion
     // Start is called once before the first execution of Update after the MonoBehaviour is created
 
-    #region Components
-    [HideInInspector] public Rigidbody rb;
     public Transform mainCamera;
-    [HideInInspector] public Animator anim;
-    [SerializeField] public AttributeSet p_Att;
-    [SerializeField] public bool castSuccess = false;
-    [SerializeField] public AbilitySlot casting;
-    [SerializeField] public AbilitySlot spell0;
-    [SerializeField] public AbilitySlot spell1;
-    [SerializeField] public AbilitySlot spell2;
-    [SerializeField] public AbilitySlot spell3;
-    //[SerializeField] public Ability spell0;
-    [SerializeField] public float movementSpeed;
-    public AttributeModifier hurt;
-    public bool isRepeatedMovement = false;
-    public bool huurt = false;
-    public bool moving = false;
-    public GridManager gridManager;
-    public float gridSize;
-    public GameManager gameManager;
-    public float lastMoveTime = 0f;
-    public AudioSource BGM;
-    public AudioSource SoundEffect;
     /*
     public AudioSource SoundEffect1;
     public AudioSource SoundEffect2;
@@ -58,7 +36,6 @@ public class P_StateManager : MonoBehaviour
     public AudioClip idCardClip, laserCutterClip, sealantSprayClip, oxygenRefillClip,
             landingClip, crawlingClip, oxygenBoostingClip, grabbingClip, suffocationClip, jumpClip;
     */
-    #endregion
 
     void Start()
     {

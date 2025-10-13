@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "Ability", menuName = "Scriptable Objects/Ability")]
@@ -35,48 +36,48 @@ public class Ability : ScriptableObject
         Bounce,
         MultiTarget
     }
-    public virtual bool TryCastAbility(P_StateManager player, Vector2 targetPosition)
+    public virtual bool TryCastAbility(Entity source, Vector2 targetPosition)
     {
         // Base spell logic (e.g., reduce mana)
-        // if(source = player)
-        // GameObject source = player.gameObject;
-        player.castSuccess = false;
-        float mana = player.p_Att.GetBaseAttributeValue(player.p_Att.GetAttributeType("MP"));
+        // if(source = source)
+        // GameObject source = source.gameObject;
+        source.castSuccess = false;
+        float mana = source.p_Att.GetBaseAttributeValue(source.p_Att.GetAttributeType("MP"));
         if (mana >= manaCost)
         {
             AttributeModifier manaCostModifier = new AttributeModifier()
             {
-                attribute = player.p_Att.GetAttributeType("MP"),
+                attribute = source.p_Att.GetAttributeType("MP"),
                 operation = AttributeModifier.Operator.Subtract,
                 attributeModifierValue = manaCost
             };
-            player.p_Att.ApplyInstantModifier(manaCostModifier);
+            source.p_Att.ApplyInstantModifier(manaCostModifier);
             Debug.Log($"{abilityName} cast towards {targetPosition}");
-            player.gameManager.PlayerAction(player, speed);
-            crit = TryCrit(player.gameObject);
-            getTargets(player.gameObject, targetPosition);
-            ApplyAbilityEffects(player.gameObject);
-            player.castSuccess = true;
+            source.gameManager.PlayerAction(source, speed);
+            crit = TryCrit(source);
+            getTargets(source, targetPosition);
+            ApplyAbilityEffects(source);
+            source.castSuccess = true;
             return true;
         }
         /*
         else if (!validTarget)
         {
             Debug.Log("Invalid target for ability.");
-            player.castSuccess = false;
+            source.castSuccess = false;
             return false;
         }
          */
         else if (mana <= manaCost)
         {
             Debug.Log("Not enough MP to cast the ability.");
-            player.castSuccess = false;
+            source.castSuccess = false;
             return false;
         }
         else
             return false;
     }
-    void getTargets(GameObject source, Vector2 castLoc)
+    void getTargets(Entity source, Vector2 castLoc)
     {
         switch (targetType)
         {
@@ -112,17 +113,17 @@ public class Ability : ScriptableObject
         }
     }
 
-    private void ApplyAbilityEffects(GameObject source)
+    private void ApplyAbilityEffects(Entity source)
     {   //apply each effect to each target entity
         foreach (Collider2D collider in colliders)
         {
-            Enemy enemy = collider.gameObject.GetComponent<Enemy>();
+            Entity target = collider.gameObject.GetComponent<Entity>();
             foreach (AbilityEffect effect in abilityEffects)
             {
                 // Apply each effect to the target entity
-                if (enemy != null)
+                if (target != null)
                 {
-                    effect.ApplyEffect(enemy, source, this);
+                    effect.ApplyEffect(target, source, this);
                 }
             }
         }
@@ -132,7 +133,7 @@ public class Ability : ScriptableObject
         }
     }
 
-    bool TryCrit(GameObject source)
+    bool TryCrit(Entity source)
     {
         float roll = Random.Range(0f, 1f);
         if (roll <= critMod)
