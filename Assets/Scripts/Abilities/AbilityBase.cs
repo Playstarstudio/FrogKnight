@@ -42,16 +42,16 @@ public class Ability : ScriptableObject
         // if(source = source)
         // GameObject source = source.gameObject;
         source.castSuccess = false;
-        float mana = source.p_Att.GetBaseAttributeValue(source.p_Att.GetAttributeType("MP"));
+        float mana = source.att.GetBaseAttributeValue(source.att.GetAttributeType("MP"));
         if (mana >= manaCost)
         {
             AttributeModifier manaCostModifier = new AttributeModifier()
             {
-                attribute = source.p_Att.GetAttributeType("MP"),
+                attribute = source.att.GetAttributeType("MP"),
                 operation = AttributeModifier.Operator.Subtract,
                 attributeModifierValue = manaCost
             };
-            source.p_Att.ApplyInstantModifier(manaCostModifier);
+            source.att.ApplyInstantModifier(manaCostModifier);
             Debug.Log($"{abilityName} cast towards {targetPosition}");
             source.gameManager.PlayerAction(source, speed);
             crit = TryCrit(source);

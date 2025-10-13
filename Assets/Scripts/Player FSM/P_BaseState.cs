@@ -8,7 +8,7 @@ public class P_BaseState : P_State
 
     public override void EnterState(P_StateManager player)
     {
-        player.movementSpeed = player.p_Att.GetBaseAttributeValue(player.p_Att.GetAttributeType("Move Speed"));
+        player.movementSpeed = player.att.GetBaseAttributeValue(player.att.GetAttributeType("Move Speed"));
         inputFunction = Input.GetKeyDown;
         player.casting = null;
     }
@@ -39,18 +39,18 @@ public class P_BaseState : P_State
             {
                 hurt = new AttributeModifier() //deals 2 damage
                 {
-                    attribute = player.p_Att.GetAttributeType("HP"),
+                    attribute = player.att.GetAttributeType("HP"),
                     operation = AttributeModifier.Operator.Subtract,
                     attributeModifierValue = 2
                 };
-                player.p_Att.ApplyInstantModifier(hurt);
+                player.att.ApplyInstantModifier(hurt);
 
             }
             // keyboard casting ability 1-4
             else if (inputFunction(KeyCode.Alpha1))
             {
                 player.casting = player.spell0;
-                if (player.p_Att.GetBaseAttributeValue(player.p_Att.GetAttributeType("MP")) >= player.casting.ability.manaCost)
+                if (player.att.GetBaseAttributeValue(player.att.GetAttributeType("MP")) >= player.casting.ability.manaCost)
                 {
                     player.SwitchState(player.abilityState);
                 }
@@ -62,7 +62,7 @@ public class P_BaseState : P_State
             else if (inputFunction(KeyCode.Alpha2))
             {
                 player.casting = player.spell1;
-                if (player.p_Att.GetBaseAttributeValue(player.p_Att.GetAttributeType("MP")) >= player.casting.ability.manaCost)
+                if (player.att.GetBaseAttributeValue(player.att.GetAttributeType("MP")) >= player.casting.ability.manaCost)
                 {
                     player.SwitchState(player.abilityState);
                 }
@@ -74,7 +74,7 @@ public class P_BaseState : P_State
             else if (inputFunction(KeyCode.Alpha3))
             {
                 player.casting = player.spell2;
-                if (player.p_Att.GetBaseAttributeValue(player.p_Att.GetAttributeType("MP")) >= player.casting.ability.manaCost)
+                if (player.att.GetBaseAttributeValue(player.att.GetAttributeType("MP")) >= player.casting.ability.manaCost)
                 {
                     player.SwitchState(player.abilityState);
                 }
@@ -86,7 +86,7 @@ public class P_BaseState : P_State
             else if (inputFunction(KeyCode.Alpha4))
             {
                 player.casting = player.spell3;
-                if (player.p_Att.GetBaseAttributeValue(player.p_Att.GetAttributeType("MP")) >= player.casting.ability.manaCost)
+                if (player.att.GetBaseAttributeValue(player.att.GetAttributeType("MP")) >= player.casting.ability.manaCost)
                 {
                     player.SwitchState(player.abilityState);
                 }

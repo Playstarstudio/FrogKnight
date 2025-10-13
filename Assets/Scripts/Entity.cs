@@ -19,7 +19,7 @@ public class Entity : MonoBehaviour
 
     #region Play Components
     public float readyTime;
-    [SerializeField] public AttributeSet p_Att;
+    [SerializeField] public AttributeSet att;
     [SerializeField] public bool castSuccess = false;
     [SerializeField] public AbilitySlot casting;
     [SerializeField] public AbilitySlot spell0;
@@ -41,32 +41,60 @@ public class Entity : MonoBehaviour
     {
         // Implement effect reception logic here
         Debug.Log($"{this.name} received {effect.effectName} from {source.name} via {ability.abilityName}");
-        Destroy(this.gameObject);
         switch(effect.effectType)
         {
             case(AbilityEffect.EffectType.Damage):
-                // Apply damage logic
-                Debug.Log($"{this.name} takes {effect.effectValue} damage.");
+                ApplyDamage(effect, source, ability);
                 break;
             case (AbilityEffect.EffectType.Heal):
-                // Apply healing logic
-                Debug.Log($"{this.name} heals {effect.effectValue} health.");
+                ApplyHeal(effect, source, ability);
                 break;
             case (AbilityEffect.EffectType.Buff):
-                // Apply buff logic
-                Debug.Log($"{this.name} receives a buff of {effect.effectValue}.");
+                ApplyBuff(effect, source, ability);
                 break;
             case (AbilityEffect.EffectType.Debuff):
-                // Apply debuff logic
-                Debug.Log($"{this.name} receives a debuff of {effect.effectValue}.");
+                ApplyDebuff(effect, source, ability);
                 break;
             case (AbilityEffect.EffectType.CrowdControl):
-                // Apply crowd control logic
-                Debug.Log($"{this.name} is affected by crowd control.");
+                ApplyCrowdControl(effect, source, ability);
                 break;
             default:
                 Debug.Log("Unknown effect type.");
                 break;
         }
+    }
+
+    public void ApplyDamage(AbilityEffect effect, Entity source, Ability ability)
+    {
+        this.att.GetBaseAttributeValue(att.GetAttributeType("HP"));
+        AttributeModifier damage = new AttributeModifier()
+        {
+            attribute = source.att.GetAttributeType("HP"),
+            operation = AttributeModifier.Operator.Subtract,
+            attributeModifierValue = effect.effectValue
+        };
+        this.att.ApplyInstantModifier(damage);
+        Debug.Log($"{this.name} takes {effect.effectValue} damage.");
+        if(this.att.GetBaseAttributeValue(att.GetAttributeType("HP")) <= 0)
+        {
+            Debug.Log($"{this.name} has been defeated!");
+            Destroy(this.gameObject);
+        }
+    }
+    public void ApplyHeal(AbilityEffect effect, Entity source, Ability ability)
+    {
+        Debug.Log($"{this.name} heals {effect.effectValue} health.");
+    }
+    public void ApplyBuff(AbilityEffect effect, Entity source, Ability ability)
+    {
+        Debug.Log($"{this.name} receives a buff of {effect.effectValue}.");
+    }
+    public void ApplyDebuff(AbilityEffect effect, Entity source, Ability ability)
+    {
+        Debug.Log($"{this.name} receives a debuff of {effect.effectValue}.");
+    }
+    public void ApplyCrowdControl(AbilityEffect effect, Entity source, Ability ability)
+    {
+        Debug.Log($"{this.name} is affected by crowd control.");
     }
 }

@@ -35,7 +35,7 @@ public class P_AbilityState : P_State
                 player.SwitchState(player.baseState);
                 return;
             }
-            if (player.casting.ability.manaCost >= player.p_Att.GetBaseAttributeValue(player.p_Att.GetAttributeType("MP")))
+            if (player.casting.ability.manaCost >= player.att.GetBaseAttributeValue(player.att.GetAttributeType("MP")))
             {
                 Debug.Log("Not enough MP");
                 player.SwitchState(player.baseState);

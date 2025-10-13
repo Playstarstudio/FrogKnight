@@ -2598,11 +2598,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c0d10de9e4da84b49998d76fa42cf923, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  stateName: 
+  gridManager: {fileID: 1350821628}
+  gameManager: {fileID: 0}
   rb: {fileID: 0}
-  mainCamera: {fileID: 1637738871}
   anim: {fileID: 0}
-  p_Att: {fileID: 490420036}
+  gridSize: 1
+  readyTime: 0
+  att: {fileID: 490420036}
   castSuccess: 0
   casting: {fileID: 0}
   spell0: {fileID: 23596842}
@@ -2617,12 +2619,11 @@ MonoBehaviour:
   isRepeatedMovement: 1
   huurt: 0
   moving: 0
-  gridManager: {fileID: 1350821628}
-  gridSize: 1
-  gameManager: {fileID: 0}
   lastMoveTime: 0
   BGM: {fileID: 0}
   SoundEffect: {fileID: 0}
+  stateName: 
+  mainCamera: {fileID: 1637738871}
 --- !u!1 &524719348
 GameObject:
   m_ObjectHideFlags: 0
@@ -3701,6 +3702,7 @@ GameObject:
   - component: {fileID: 1049423783}
   - component: {fileID: 1049423782}
   - component: {fileID: 1049423781}
+  - component: {fileID: 1049423785}
   - component: {fileID: 1049423784}
   m_Layer: 0
   m_Name: TestEnemy (2)
@@ -3721,9 +3723,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a183191da2d00824d9ba508dccc02425, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gridManager: {fileID: 0}
+  gameManager: {fileID: 0}
+  rb: {fileID: 0}
+  anim: {fileID: 0}
+  gridSize: 0
   readyTime: 0
-  target: {fileID: 490420032}
+  att: {fileID: 1049423785}
+  castSuccess: 0
+  casting: {fileID: 0}
+  spell0: {fileID: 0}
+  spell1: {fileID: 0}
+  spell2: {fileID: 0}
+  spell3: {fileID: 0}
+  movementSpeed: 0
+  hurt:
+    attribute: {fileID: 0}
+    operation: 0
+    attributeModifierValue: 0
+  isRepeatedMovement: 0
+  huurt: 0
+  moving: 0
   lastMoveTime: 0
+  BGM: {fileID: 0}
+  SoundEffect: {fileID: 0}
+  target: {fileID: 490420032}
   speed: 4
   move: 0
 --- !u!212 &1049423782
@@ -3845,6 +3869,25 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1049423785
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1049423780}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c19b287fe325f9949831a9795a0e261f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AttributeSet
+  attributes:
+  - type: {fileID: 11400000, guid: 0a1823535b28e9640a63788909278e95, type: 2}
+    value:
+      baseValue: 10
+  - type: {fileID: 11400000, guid: c145d3ea72737dc418be7b919ddd1d03, type: 2}
+    value:
+      baseValue: 10
 --- !u!1 &1082890425
 GameObject:
   m_ObjectHideFlags: 0
@@ -4124,6 +4167,7 @@ GameObject:
   - component: {fileID: 1303405181}
   - component: {fileID: 1303405180}
   - component: {fileID: 1303405179}
+  - component: {fileID: 1303405183}
   - component: {fileID: 1303405182}
   m_Layer: 0
   m_Name: TestEnemy (1)
@@ -4144,9 +4188,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a183191da2d00824d9ba508dccc02425, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gridManager: {fileID: 0}
+  gameManager: {fileID: 0}
+  rb: {fileID: 0}
+  anim: {fileID: 0}
+  gridSize: 0
   readyTime: 0
-  target: {fileID: 490420032}
+  att: {fileID: 1303405183}
+  castSuccess: 0
+  casting: {fileID: 0}
+  spell0: {fileID: 0}
+  spell1: {fileID: 0}
+  spell2: {fileID: 0}
+  spell3: {fileID: 0}
+  movementSpeed: 0
+  hurt:
+    attribute: {fileID: 0}
+    operation: 0
+    attributeModifierValue: 0
+  isRepeatedMovement: 0
+  huurt: 0
+  moving: 0
   lastMoveTime: 0
+  BGM: {fileID: 0}
+  SoundEffect: {fileID: 0}
+  target: {fileID: 490420032}
   speed: 2.1
   move: 0
 --- !u!212 &1303405180
@@ -4268,6 +4334,25 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1303405183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1303405178}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c19b287fe325f9949831a9795a0e261f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AttributeSet
+  attributes:
+  - type: {fileID: 11400000, guid: 0a1823535b28e9640a63788909278e95, type: 2}
+    value:
+      baseValue: 10
+  - type: {fileID: 11400000, guid: c145d3ea72737dc418be7b919ddd1d03, type: 2}
+    value:
+      baseValue: 10
 --- !u!1 &1346992673
 GameObject:
   m_ObjectHideFlags: 0
@@ -4340,7 +4425,8 @@ MonoBehaviour:
   doorOptions: {fileID: 614362944}
   debug: 0
   player: {fileID: 0}
-  playerDebugTilesOn: 0
+  playerDebugRawDistTiles: 0
+  playerDegugMoveCostTiles: 0
 --- !u!156049354 &1350821629
 Grid:
   m_ObjectHideFlags: 0
@@ -4795,6 +4881,7 @@ GameObject:
   - component: {fileID: 1713247610}
   - component: {fileID: 1713247609}
   - component: {fileID: 1713247611}
+  - component: {fileID: 1713247613}
   - component: {fileID: 1713247612}
   m_Layer: 0
   m_Name: TestEnemy
@@ -4888,9 +4975,31 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a183191da2d00824d9ba508dccc02425, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  gridManager: {fileID: 0}
+  gameManager: {fileID: 0}
+  rb: {fileID: 0}
+  anim: {fileID: 0}
+  gridSize: 0
   readyTime: 0
-  target: {fileID: 490420032}
+  att: {fileID: 1713247613}
+  castSuccess: 0
+  casting: {fileID: 0}
+  spell0: {fileID: 0}
+  spell1: {fileID: 0}
+  spell2: {fileID: 0}
+  spell3: {fileID: 0}
+  movementSpeed: 0
+  hurt:
+    attribute: {fileID: 0}
+    operation: 0
+    attributeModifierValue: 0
+  isRepeatedMovement: 0
+  huurt: 0
+  moving: 0
   lastMoveTime: 0
+  BGM: {fileID: 0}
+  SoundEffect: {fileID: 0}
+  target: {fileID: 490420032}
   speed: 1.1
   move: 0
 --- !u!61 &1713247612
@@ -4939,6 +5048,25 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1713247613
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1713247608}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c19b287fe325f9949831a9795a0e261f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::AttributeSet
+  attributes:
+  - type: {fileID: 11400000, guid: 0a1823535b28e9640a63788909278e95, type: 2}
+    value:
+      baseValue: 10
+  - type: {fileID: 11400000, guid: c145d3ea72737dc418be7b919ddd1d03, type: 2}
+    value:
+      baseValue: 10
 --- !u!1 &1887722072
 GameObject:
   m_ObjectHideFlags: 0
@@ -5049,7 +5177,8 @@ MonoBehaviour:
   doorOptions: {fileID: 178671469}
   debug: 0
   player: {fileID: 0}
-  playerDebugTilesOn: 0
+  playerDebugRawDistTiles: 0
+  playerDegugMoveCostTiles: 0
 --- !u!156049354 &1927637312
 Grid:
   m_ObjectHideFlags: 0
