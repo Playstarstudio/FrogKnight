@@ -682,13 +682,11 @@ public class GridManager : MonoBehaviour
             {
                 currentRawDistance = item.rawDist;
                 currentPos = item.position;
-                rValue = currentRawDistance * 10;
-                gValue = currentRawDistance * 10;
-                if (rValue > 255)
-                    rValue = 255;
-                if (gValue > 255)
-                    gValue = 255;
-                tileTint = new Color(rValue, gValue, 255);
+                rValue = currentRawDistance * 2;
+                gValue = currentRawDistance * 2;
+                if (rValue > 150)
+                    rValue = 150;
+                tileTint = new Color(rValue*.025f, 0, 200);
                 AddPlayerDebugTile(currentPos, tileTint);
             }
         }
@@ -704,7 +702,7 @@ public class GridManager : MonoBehaviour
                 if (rValue > 255)
                     rValue = 255;
                 if (bValue > 255)
-                    gValue = 255;
+                    bValue = 255;
                 tileTint = new Color(rValue, 0, bValue);
                 AddPlayerDebugTile(currentPos, tileTint);
             }
