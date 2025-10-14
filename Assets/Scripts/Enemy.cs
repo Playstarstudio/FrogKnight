@@ -8,7 +8,7 @@ public class Enemy : Entity
     // it will path towards this "target"
     [SerializeField]
     Transform target;
-    [SerializeField] private float speed = 1.3f;
+    public float speed;
     public bool move;
 
     void Start()
@@ -18,9 +18,8 @@ public class Enemy : Entity
         aStarSearchedList = new Dictionary<AStarNodeInfo, AStarNodeInfo>();
         aStarToSearch = new SortedSet<AStarNodeInfo>();
         gameManager = FindFirstObjectByType<GameManager>();
-        readyTime = speed; // enemies are ready to go at time = their speed
+        readyTime = att.GetBaseAttributeValue(att.GetAttributeType("Move Speed")); ; // enemies are ready to go at time = their speed
     }
-
     // Update is called once per frame
     void Update()
     {
@@ -39,19 +38,12 @@ public class Enemy : Entity
     }
     public void Move()
     {
-        if (readyTime >= speed)
+        if (path.Count > 2)
         {
-            if (path.Count > 2)
-            {
-                readyTime += speed;
-                AStarNodeInfo square = path[path.Count - 2];
-                while (Vector2.Distance(transform.position, gridManager.GetTileCenter(square.position)) > 0.01f)
-                    transform.position = Vector2.MoveTowards(transform.position, gridManager.GetTileCenter(square.position), Time.deltaTime);
-            }
-        }
-        else
-        {
-            readyTime += speed;
+            readyTime += att.GetBaseAttributeValue(att.GetAttributeType("Move Speed"));
+            AStarNodeInfo square = path[path.Count - 2];
+            while (Vector2.Distance(transform.position, gridManager.GetTileCenter(square.position)) > 0.01f)
+                transform.position = Vector2.MoveTowards(transform.position, gridManager.GetTileCenter(square.position), Time.deltaTime);
         }
     }
     public void OnDestroy()

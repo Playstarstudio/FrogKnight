@@ -44,19 +44,19 @@ public class Entity : MonoBehaviour
         switch(effect.effectType)
         {
             case(AbilityEffect.EffectType.Damage):
-                ApplyDamage(effect, source, ability);
+                ReceiveDamage(effect, source, ability);
                 break;
             case (AbilityEffect.EffectType.Heal):
-                ApplyHeal(effect, source, ability);
+                ReceiveHeal(effect, source, ability);
                 break;
             case (AbilityEffect.EffectType.Buff):
-                ApplyBuff(effect, source, ability);
+                ReceiveBuff(effect, source, ability);
                 break;
             case (AbilityEffect.EffectType.Debuff):
-                ApplyDebuff(effect, source, ability);
+                ReceiveDebuff(effect, source, ability);
                 break;
             case (AbilityEffect.EffectType.CrowdControl):
-                ApplyCrowdControl(effect, source, ability);
+                ReceiveCrowdControl(effect, source, ability);
                 break;
             default:
                 Debug.Log("Unknown effect type.");
@@ -64,7 +64,7 @@ public class Entity : MonoBehaviour
         }
     }
 
-    public void ApplyDamage(AbilityEffect effect, Entity source, Ability ability)
+    public void ReceiveDamage(AbilityEffect effect, Entity source, Ability ability)
     {
         this.att.GetBaseAttributeValue(att.GetAttributeType("HP"));
         AttributeModifier damage = new AttributeModifier()
@@ -81,19 +81,19 @@ public class Entity : MonoBehaviour
             Destroy(this.gameObject);
         }
     }
-    public void ApplyHeal(AbilityEffect effect, Entity source, Ability ability)
+    public void ReceiveHeal(AbilityEffect effect, Entity source, Ability ability)
     {
         Debug.Log($"{this.name} heals {effect.effectValue} health.");
     }
-    public void ApplyBuff(AbilityEffect effect, Entity source, Ability ability)
+    public void ReceiveBuff(AbilityEffect effect, Entity source, Ability ability)
     {
         Debug.Log($"{this.name} receives a buff of {effect.effectValue}.");
     }
-    public void ApplyDebuff(AbilityEffect effect, Entity source, Ability ability)
+    public void ReceiveDebuff(AbilityEffect effect, Entity source, Ability ability)
     {
         Debug.Log($"{this.name} receives a debuff of {effect.effectValue}.");
     }
-    public void ApplyCrowdControl(AbilityEffect effect, Entity source, Ability ability)
+    public void ReceiveCrowdControl(AbilityEffect effect, Entity source, Ability ability)
     {
         Debug.Log($"{this.name} is affected by crowd control.");
     }

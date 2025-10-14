@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
+using static UnityEngine.EventSystems.EventTrigger;
 
 public class P_BaseState : P_State
 {
@@ -100,10 +101,7 @@ public class P_BaseState : P_State
                 //Get distance from player
                 Vector2Int targetCenter = player.gridManager.MouseToGrid();
                 //Find the Dijkstra's node at this point
-                if (player.gridManager.playerDebugTiles.ContainsKey(targetCenter))
-                {
-                    Debug.Log("Found node " + targetCenter);
-                }
+                    Debug.Log("Found node " + player.gridManager.PlayerDijkstra[targetCenter].rawDist);
                 //print out node info
                
             }

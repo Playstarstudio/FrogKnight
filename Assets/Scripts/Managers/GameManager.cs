@@ -30,6 +30,7 @@ public class GameManager : MonoBehaviour
         globalTimer = 0f;
         gridManager = FindFirstObjectByType<GridManager>();
         InitializeTimedEntities();
+        gridManager.PlayerDijkstras();
     }
     // goes out and finds all entity objects. I will probably redo this so that it grabs all entities of all kinds
     // TODO this doesn't account for entities being added or removed during gameplay.

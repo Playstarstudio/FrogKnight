@@ -47,6 +47,7 @@ public class GridManager : MonoBehaviour
     //Player Related Data 
     public GameObject player;
     public Dictionary<DijkstrasNodeInfo, DijkstrasNodeInfo> playerRange;
+    public Dictionary<Vector2Int,  DijkstrasNodeInfo> PlayerDijkstra;
     private PlayerMovement playerMovement;
     public bool playerDebugRawDistTiles;
     public bool playerDegugMoveCostTiles;
@@ -643,7 +644,23 @@ public class GridManager : MonoBehaviour
         Vector2 playerVector2 = new Vector2(player.transform.position.x, player.transform.position.y);
         Vector2Int playerTransform = Vector2Int.RoundToInt(playerVector2);
         Dijkstras(ref playerRange, ref toSearch, playerTransform, -1);
-        if(playerDebugRawDistTiles || playerDegugMoveCostTiles)
+        if (PlayerDijkstra == null)
+        {
+            PlayerDijkstra = new Dictionary<Vector2Int, DijkstrasNodeInfo>();
+        }
+        else
+        {
+            PlayerDijkstra.Clear();
+        }
+        foreach (var entry in playerRange)
+        {
+            if(entry.Key != null)
+            {
+
+                PlayerDijkstra.Add(entry.Key.position, entry.Key);
+            }
+        }
+        if (playerDebugRawDistTiles || playerDegugMoveCostTiles)
             ColorPlayerDebugTiles();
     }
 
@@ -665,7 +682,6 @@ public class GridManager : MonoBehaviour
             {
                 currentRawDistance = item.rawDist;
                 currentPos = item.position;
-
                 rValue = currentRawDistance * 10;
                 gValue = currentRawDistance * 10;
                 if (rValue > 255)
