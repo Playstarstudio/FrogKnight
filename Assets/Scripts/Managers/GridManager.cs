@@ -50,7 +50,7 @@ public class GridManager : MonoBehaviour
     private PlayerMovement playerMovement;
     public bool playerDebugRawDistTiles;
     public bool playerDegugMoveCostTiles;
-    private Dictionary<Vector2Int, Color> playerDebugTiles;
+    public Dictionary<Vector2Int, Color> playerDebugTiles;
 
     private void Awake()
     {
@@ -717,7 +717,7 @@ public class GridManager : MonoBehaviour
         }
     }
 
-    
+
 
 
 

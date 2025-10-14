@@ -100,7 +100,12 @@ public class P_BaseState : P_State
                 //Get distance from player
                 Vector2Int targetCenter = player.gridManager.MouseToGrid();
                 //Find the Dijkstra's node at this point
+                if (player.gridManager.playerDebugTiles.ContainsKey(targetCenter))
+                {
+                    Debug.Log("Found node " + targetCenter);
+                }
                 //print out node info
+               
             }
         }
     }
