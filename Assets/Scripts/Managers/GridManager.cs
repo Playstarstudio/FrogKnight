@@ -394,6 +394,7 @@ public class GridManager : MonoBehaviour
 
                 // if were out of our range, ignore these nodes
                 int distance = currentDist + 1;
+                int moveCost = currentMoveCost + 1;
                 if (distance > range && range != -1)
                 {
                     continue;
@@ -697,6 +698,7 @@ public class GridManager : MonoBehaviour
 
     private void TintPlayerDebug()
     {
+        Debug.Log("Player Debug Tiles Count: " + playerDebugTiles.Count());
         if (playerDebugTiles.Count() >= 1)
         {
             foreach (var tile in playerDebugTiles)
