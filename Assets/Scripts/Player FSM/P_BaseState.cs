@@ -95,6 +95,13 @@ public class P_BaseState : P_State
                     Debug.Log("Not enough MP");
                 }
             }
+            else if(inputFunction(KeyCode.Mouse0))
+            {
+                //Get distance from player
+                Vector2Int targetCenter = player.gridManager.MouseToGrid();
+                //Find the Dijkstra's node at this point
+                //print out node info
+            }
         }
     }
 

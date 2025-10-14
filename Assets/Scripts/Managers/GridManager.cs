@@ -692,22 +692,32 @@ public class GridManager : MonoBehaviour
                 AddPlayerDebugTile(currentPos, tileTint);
             }
         }
+        TintPlayerDebug();
     }
 
     private void TintPlayerDebug()
     {
-        foreach (var tile in playerDebugTiles)
+        if (playerDebugTiles.Count() >= 1)
         {
-            if (playerDebugTiles.ContainsKey(tile.Key))
+            foreach (var tile in playerDebugTiles)
             {
-                TintTile(tile.Key, playerDebugTiles[tile.Key]);
-            }
-            else
-            {
-                TintTile(tile.Key, Color.white);
+                if (playerDebugTiles.ContainsKey(tile.Key))
+                {
+                    TintTile(tile.Key, playerDebugTiles[tile.Key]);
+                }
+                else
+                {
+                    TintTile(tile.Key, Color.white);
+                }
             }
         }
+        else
+        {
+            return;
+        }
     }
+
+    
 
 
 

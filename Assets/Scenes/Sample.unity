@@ -3729,7 +3729,7 @@ MonoBehaviour:
   anim: {fileID: 0}
   gridSize: 0
   readyTime: 0
-  att: {fileID: 1049423785}
+  att: {fileID: 0}
   castSuccess: 0
   casting: {fileID: 0}
   spell0: {fileID: 0}
@@ -4194,7 +4194,7 @@ MonoBehaviour:
   anim: {fileID: 0}
   gridSize: 0
   readyTime: 0
-  att: {fileID: 1303405183}
+  att: {fileID: 0}
   castSuccess: 0
   casting: {fileID: 0}
   spell0: {fileID: 0}
@@ -4981,7 +4981,7 @@ MonoBehaviour:
   anim: {fileID: 0}
   gridSize: 0
   readyTime: 0
-  att: {fileID: 1713247613}
+  att: {fileID: 0}
   castSuccess: 0
   casting: {fileID: 0}
   spell0: {fileID: 0}
