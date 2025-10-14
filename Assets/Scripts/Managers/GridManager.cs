@@ -47,10 +47,11 @@ public class GridManager : MonoBehaviour
     //Player Related Data 
     public GameObject player;
     public Dictionary<DijkstrasNodeInfo, DijkstrasNodeInfo> playerRange;
-    public Dictionary<Vector2Int,  DijkstrasNodeInfo> PlayerDijkstra;
+    public Dictionary<Vector2Int, DijkstrasNodeInfo> PlayerDijkstra;
     private PlayerMovement playerMovement;
     public bool playerDebugRawDistTiles;
     public bool playerDegugMoveCostTiles;
+    public bool losDebug;
     public Dictionary<Vector2Int, Color> playerDebugTiles;
 
     private void Awake()
@@ -151,6 +152,7 @@ public class GridManager : MonoBehaviour
         // distance from origin in moves
         public int rawDist;
         public int moveCost;
+        public bool visible;
 
         public int CompareTo(DijkstrasNodeInfo other)
         {
@@ -406,7 +408,7 @@ public class GridManager : MonoBehaviour
                 {
                     continue;
                 }
-
+                neighbor.visible = HasLineOfSight(startingSquare, current.position);
                 // if already in searched list, dont add
                 if (searched.ContainsKey(neighbor))
                 {
@@ -654,7 +656,7 @@ public class GridManager : MonoBehaviour
         }
         foreach (var entry in playerRange)
         {
-            if(entry.Key != null)
+            if (entry.Key != null)
             {
 
                 PlayerDijkstra.Add(entry.Key.position, entry.Key);
@@ -686,7 +688,9 @@ public class GridManager : MonoBehaviour
                 gValue = currentRawDistance * 2;
                 if (rValue > 150)
                     rValue = 150;
-                tileTint = new Color(rValue*.025f, 0, 200);
+                if (item.visible == false && this.losDebug)
+                    rValue = 0;
+                tileTint = new Color(rValue * .025f, 0, 200);
                 AddPlayerDebugTile(currentPos, tileTint);
             }
         }
@@ -732,8 +736,19 @@ public class GridManager : MonoBehaviour
             return;
         }
     }
+    /*
+     */
+    public bool HasLineOfSight(Vector2Int from, Vector2Int to)
+    {
+        Vector2 start = new Vector2(from.x + 0.5f, from.y + 0.5f); // Center of tile
+        Vector2 end = new Vector2(to.x + 0.5f, to.y + 0.5f);
+        Vector2 direction = (end - start).normalized;
+        float distance = Vector2.Distance(start, end);
 
-
+        // Adjust layer mask for your obstacles
+        RaycastHit2D hit = Physics2D.Raycast(start, direction, distance - 0.1f);
+        return hit.collider == null;
+    }
 
 
 
