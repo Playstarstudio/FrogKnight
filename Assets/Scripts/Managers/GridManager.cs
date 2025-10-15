@@ -9,7 +9,7 @@ public class GridManager : MonoBehaviour
 {
     private static GridManager _instance;
     public static GridManager Instance { get { return _instance; } }
-    private class TileInfo
+    public class TileInfo
     {
         public bool traversable;
         public int rawDist;
@@ -36,7 +36,7 @@ public class GridManager : MonoBehaviour
     private Tilemap doorOptions;
 
     // Stores our tiles and whether or not they are traversable
-    private Dictionary<Vector2Int, TileInfo> map;
+    public Dictionary<Vector2Int, TileInfo> map;
 
     // Stores tiles that we want to highlight when debugging
     private Dictionary<Vector2Int, Color> debugTiles;
@@ -489,7 +489,7 @@ public class GridManager : MonoBehaviour
         {
             return false;
         }
-        if (tile.traversable)
+        if (tile.traversable && !tile.occupied)
         {
             return true;
         }

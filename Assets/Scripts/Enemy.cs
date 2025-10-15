@@ -19,6 +19,7 @@ public class Enemy : Entity
         aStarToSearch = new SortedSet<AStarNodeInfo>();
         gameManager = FindFirstObjectByType<GameManager>();
         readyTime = att.GetBaseAttributeValue(att.GetAttributeType("Move Speed")); ; // enemies are ready to go at time = their speed
+        gridManager.map[gridManager.GetCellPosition(this.transform.position)].occupied = true;
     }
     // Update is called once per frame
     void Update()
@@ -43,7 +44,12 @@ public class Enemy : Entity
             readyTime += att.GetBaseAttributeValue(att.GetAttributeType("Move Speed"));
             AStarNodeInfo square = path[path.Count - 2];
             while (Vector2.Distance(transform.position, gridManager.GetTileCenter(square.position)) > 0.01f)
-                transform.position = Vector2.MoveTowards(transform.position, gridManager.GetTileCenter(square.position), Time.deltaTime);
+                if (gridManager.TraversableCheck(path[0].position))
+                {
+                    gridManager.map[gridManager.GetCellPosition(this.transform.position)].occupied = false;
+                    transform.position = Vector2.MoveTowards(transform.position, gridManager.GetTileCenter(square.position), Time.deltaTime);
+                    gridManager.map[gridManager.GetCellPosition(this.transform.position)].occupied = true;
+                }
         }
     }
     public void OnDestroy()

@@ -7,8 +7,10 @@ public class P_BaseState : P_State
     private bool moving;
     private AttributeModifier hurt;
 
+
     public override void EnterState(P_StateManager player)
     {
+        player.gridManager.map[player.gridManager.GetCellPosition(player.transform.position)].occupied = true;
         player.movementSpeed = player.att.GetBaseAttributeValue(player.att.GetAttributeType("Move Speed"));
         inputFunction = Input.GetKeyDown;
         player.casting = null;
@@ -139,6 +141,10 @@ public class P_BaseState : P_State
         }
         //sets player position to the center of the target tile
         player.transform.position = target;
+        //sets tile player is on to occupied
+        player.gridManager.map[endPosition].occupied = true;
+        //sets the previous tile to unoccupied
+        player.gridManager.map[player.gridManager.GetCellPosition(startPosition)].occupied = false;
         //sends over to the game manager to increment time based on movement speed
         player.gameManager.PlayerAction(player, player.movementSpeed);
         /*
