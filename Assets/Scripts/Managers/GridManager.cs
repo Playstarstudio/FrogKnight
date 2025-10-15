@@ -484,8 +484,11 @@ public class GridManager : MonoBehaviour
     {
         TileInfo tile;
         bool exists = map.TryGetValue(pos, out tile);
-        Vector3Int posn = new Vector3Int(pos.x, pos.y, 0);
-        if (!exists)
+        if (exists)
+        {
+            Vector3Int posn = new Vector3Int(pos.x, pos.y, 0);
+        }
+        else if (!exists)
         {
             return false;
         }
