@@ -17,6 +17,10 @@ public class P_AbilityState : P_State
 
     public override void UpdateState(P_StateManager player)
     {
+        while (Input.GetKeyDown(KeyCode.Tab))
+        {
+            DisplayAbilityRange(player);
+        }
         // on click, try cast ability
         // if successful, go to base state
         // if not, stay in ability state
@@ -75,5 +79,17 @@ public class P_AbilityState : P_State
         //turn off mouse cursor
         //turn off ability ui
         //return to base state
+    }
+
+    public void DisplayAbilityRange(P_StateManager player)
+    {
+        int abilityRange = player.casting.ability.range;
+        foreach (var entry in player.gridManager.playerRange)
+        {
+            if (entry.Key.rawDist <= abilityRange)
+            {
+                player.gridManager.TintTile(entry.Key.position, Color.red);
+            }
+        }
     }
 }

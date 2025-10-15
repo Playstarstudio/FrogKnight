@@ -498,7 +498,7 @@ public class GridManager : MonoBehaviour
             return false;
         }
     }
-    private void TintTile(Vector2Int gridPos, Color color)
+    public void TintTile(Vector2Int gridPos, Color color)
     {
         TileInfo tile;
         bool exists = map.TryGetValue(gridPos, out tile);
