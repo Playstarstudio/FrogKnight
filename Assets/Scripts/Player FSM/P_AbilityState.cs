@@ -3,6 +3,7 @@ using UnityEngine.UI;
 
 public class P_AbilityState : P_State
 {
+    public bool visible = false;
     public override void EnterState(P_StateManager player)
     {
         inputFunction = Input.GetKeyDown;
@@ -17,16 +18,25 @@ public class P_AbilityState : P_State
 
     public override void UpdateState(P_StateManager player)
     {
-        while (Input.GetKeyDown(KeyCode.Tab))
-        {
-            DisplayAbilityRange(player);
-        }
         // on click, try cast ability
         // if successful, go to base state
         // if not, stay in ability state
         // give indicator of why can't cast
         System.Func<KeyCode, bool> inputFunction;
         inputFunction = Input.GetKeyDown;
+        if (Input.GetKeyDown(KeyCode.Tab))
+        {
+            if (!visible)
+            {
+                DisplayAbilityRange(player);
+                visible = true;
+            }
+            else
+            {
+                ClearAllTintedTiles(player);
+                visible = false;
+            }
+        }
         if (inputFunction(KeyCode.Mouse0))
         {
 
@@ -82,14 +92,24 @@ public class P_AbilityState : P_State
     }
 
     public void DisplayAbilityRange(P_StateManager player)
+{
+
+    int abilityRange = player.casting.ability.range;
+    foreach (var entry in player.gridManager.playerRange)
     {
-        int abilityRange = player.casting.ability.range;
-        foreach (var entry in player.gridManager.playerRange)
+        if (entry.Key.rawDist <= abilityRange)
         {
-            if (entry.Key.rawDist <= abilityRange)
-            {
-                player.gridManager.TintTile(entry.Key.position, Color.red);
-            }
+            player.gridManager.TintTile(entry.Key.position, Color.red);
         }
     }
+}
+
+public void ClearAllTintedTiles(P_StateManager player)
+{
+    foreach (var entry in player.gridManager.playerRange)
+    {
+
+        player.gridManager.TintTile(entry.Key.position, Color.white);
+    }
+}
 }
