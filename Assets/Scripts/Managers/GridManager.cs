@@ -82,6 +82,22 @@ public class GridManager : MonoBehaviour
         playerRange = new Dictionary<DijkstrasNodeInfo, DijkstrasNodeInfo>();
     }
 
+     /*
+      * @brief Gets the center of the tile at the given grid position
+      *             ** WHEN TO USE THIS METHOD VS. GETCELLPOSITION **
+      *        This method, GetTileCenter, gives us the **center** of the cell
+      *        that we are concerned with in **world space**. This is the spatial position of
+      *        the cell, so we want to use it when were asking the grid something
+      *        about this tile where we care about where it is in space. GetCellPosition
+      *        will give the origin of this tile, which is how we identify the tile in the grid,
+      *        so we want to use GetCellPosition when are are asking questions about this specific tile
+      *        in the context of the grid.
+      * 
+      * @param gridPos the position in grid coordinates of the cell we
+      *        are interested in
+      *        
+      * @return the coordinates, in world space, of the center of the given tile
+      */
     public Vector2 GetTileCenter(Vector2Int gridPos)
     {
         TileInfo tile;
@@ -123,6 +139,21 @@ public class GridManager : MonoBehaviour
         }
     }
 
+    /*
+     * @brief Gets the origin of a cell (the corner) given a position in world space
+     *                ** WHEN TO USE THIS METHOD VS. GETTILECENTER **
+     *        This method, GetCellPosition, gives us the **origin** of the cell
+     *        that we are concerned with. This is the "official" position of
+     *        the cell, so we want to use it when were asking the grid something
+     *        about this tile (GetWorldPosition, AddPlayerDebugTile, etc.). GetTileCenter
+     *        will give the geometric center of this tile, which is useful for drawing line
+     *        of sight, calculating distance, or another operation where we care about
+     *        physical space.
+     * 
+     * @param worldPos the position in world position that we are looking at
+     * 
+     * @return the coordinates of orin of the relevant cell
+     */
     public Vector2Int GetCellPosition(Vector3 worldPos)
     {
         Vector3Int pos3 = traversable.WorldToCell(worldPos);
