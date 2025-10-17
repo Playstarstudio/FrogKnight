@@ -20,6 +20,7 @@ public class Entity : MonoBehaviour
     #region Play Components
     public float readyTime;
     [SerializeField] public AttributeSet att;
+    public bool visionBlock = false;
     [SerializeField] public bool castSuccess = false;
     [SerializeField] public AbilitySlot casting;
     [SerializeField] public AbilitySlot spell0;

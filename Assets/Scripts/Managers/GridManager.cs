@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 using UnityEngine.Tilemaps;
+using static UnityEngine.GraphicsBuffer;
 
 
 public class GridManager : MonoBehaviour
@@ -439,8 +440,14 @@ public class GridManager : MonoBehaviour
                 if (distance > range && range != -1)
                 {
                     continue;
+                
+                    /*
+                if (GetTileOccupancy(neighbor.position))// == true && current.position != startingSquare)
+                {
+                    Debug.Log($"Neighbor {neighbor.position} is occupied - skipped");
+                    continue;
                 }
-
+                     */
                 // if it isnt traversible ignore this node
                 if (!map[neighbor.position].traversable)
                 {
