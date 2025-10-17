@@ -54,7 +54,6 @@ public class GameManager : MonoBehaviour
     {
         player.lastMoveTime += time;
         globalTimer = player.lastMoveTime;
-        gridManager.PlayerDijkstras();
         CheckAndActivateEntities(player);
     }
     public void TimeTracker(GameObject gameObject, float time)
@@ -79,8 +78,8 @@ public class GameManager : MonoBehaviour
             var enemy = timedEntity.entity.GetComponent<Enemy>();
             if (enemy.readyTime <= globalTimer)
             {
-                ActivateEntity(timedEntity.entity);
                 player.gridManager.PlayerDijkstras();
+                ActivateEntity(timedEntity.entity);
                 timedEntity.readyTime = enemy.readyTime;
                 // timedEntity.readyTime = timedEntity.readyTime + 0f; // Example: set it to the entity's action.
                 needsResort = true;

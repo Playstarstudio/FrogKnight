@@ -54,6 +54,10 @@ public class Enemy : Entity
                 transform.position = Vector2.MoveTowards(transform.position, gridManager.GetTileCenter(square.position), Time.deltaTime);
             }
         }
+        else
+        {
+            readyTime += att.GetBaseAttributeValue(att.GetAttributeType("Move Speed"));
+        }
     }
     public void OnDestroy()
     {

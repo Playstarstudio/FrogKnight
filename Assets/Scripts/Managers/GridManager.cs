@@ -14,7 +14,7 @@ public class GridManager : MonoBehaviour
         public bool traversable;
         public int rawDist;
         public float moveCost;
-        public bool occupied;
+        public bool occupied = false;
         public bool visible;
         // enum neverSeen, currentSeeing, prevSeen
         public TileInfo(bool traversable)
@@ -82,22 +82,22 @@ public class GridManager : MonoBehaviour
         playerRange = new Dictionary<DijkstrasNodeInfo, DijkstrasNodeInfo>();
     }
 
-     /*
-      * @brief Gets the center of the tile at the given grid position
-      *             ** WHEN TO USE THIS METHOD VS. GETCELLPOSITION **
-      *        This method, GetTileCenter, gives us the **center** of the cell
-      *        that we are concerned with in **world space**. This is the spatial position of
-      *        the cell, so we want to use it when were asking the grid something
-      *        about this tile where we care about where it is in space. GetCellPosition
-      *        will give the origin of this tile, which is how we identify the tile in the grid,
-      *        so we want to use GetCellPosition when are are asking questions about this specific tile
-      *        in the context of the grid.
-      * 
-      * @param gridPos the position in grid coordinates of the cell we
-      *        are interested in
-      *        
-      * @return the coordinates, in world space, of the center of the given tile
-      */
+    /*
+     * @brief Gets the center of the tile at the given grid position
+     *             ** WHEN TO USE THIS METHOD VS. GETCELLPOSITION **
+     *        This method, GetTileCenter, gives us the **center** of the cell
+     *        that we are concerned with in **world space**. This is the spatial position of
+     *        the cell, so we want to use it when were asking the grid something
+     *        about this tile where we care about where it is in space. GetCellPosition
+     *        will give the origin of this tile, which is how we identify the tile in the grid,
+     *        so we want to use GetCellPosition when are are asking questions about this specific tile
+     *        in the context of the grid.
+     * 
+     * @param gridPos the position in grid coordinates of the cell we
+     *        are interested in
+     *        
+     * @return the coordinates, in world space, of the center of the given tile
+     */
     public Vector2 GetTileCenter(Vector2Int gridPos)
     {
         TileInfo tile;
@@ -367,7 +367,11 @@ public class GridManager : MonoBehaviour
                 {
                     continue;
                 }
-
+                if (GetTileOccupancy(neighbor.position) && neighbor.position != target)// == true && current.position != startingSquare)
+                {
+                    Debug.Log($"Neighbor {neighbor.position} is occupied - skipped");
+                    continue;
+                }
                 // if already in searched list, dont add
                 if (searched.ContainsKey(neighbor))
                 {
@@ -384,7 +388,9 @@ public class GridManager : MonoBehaviour
             }
 
         }
-
+        //if we exit the while loop, no path was found
+        searched.Clear();
+        target = startingSquare;
     }
 
 
@@ -423,6 +429,7 @@ public class GridManager : MonoBehaviour
                 // if the node isnt on the map, ignore it
                 if (!map.ContainsKey(neighbor.position))
                 {
+
                     continue;
                 }
 
@@ -653,7 +660,6 @@ public class GridManager : MonoBehaviour
     }
 
 
-
     /*
     * @brief Converts the current grid map to a sorted set for Dijkstra
     * 
@@ -683,10 +689,8 @@ public class GridManager : MonoBehaviour
     */
     public void PlayerDijkstras()
     {
-        if (playerDebugRawDistTiles || playerDegugMoveCostTiles)
-        {
-            playerDebugTiles.Clear();
-        }
+        playerDebugTiles.Clear();
+        playerRange.Clear();
         SortedSet<DijkstrasNodeInfo> toSearch;
         toSearch = MapToSortedSet();
         Vector2 playerVector2 = new Vector2(player.transform.position.x, player.transform.position.y);
@@ -796,6 +800,12 @@ public class GridManager : MonoBehaviour
         return hit.collider == null;
     }
 
-
+    public bool GetTileOccupancy(Vector2Int tile)
+    {
+        if (map[tile].occupied)
+            return true;
+        else
+            return false;
+    }
 
 }

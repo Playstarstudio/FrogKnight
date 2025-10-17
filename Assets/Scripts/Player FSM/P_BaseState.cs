@@ -103,9 +103,10 @@ public class P_BaseState : P_State
                 //Get distance from player
                 Vector2Int targetCenter = player.gridManager.MouseToGrid();
                 //Find the Dijkstra's node at this point
-                    Debug.Log("Found node " + player.gridManager.PlayerDijkstra[targetCenter].rawDist);
+                Debug.Log("Found " + targetCenter);
+                Debug.Log("Found node. Distance = " + player.gridManager.ManhattanDistanceToTile(player.gridManager.GetCellPosition(player.gameObject.transform.position), targetCenter) +" "+ player.gridManager.map[targetCenter].occupied);
                 //print out node info
-               
+
             }
         }
     }
@@ -161,6 +162,7 @@ public class P_BaseState : P_State
         }
         //sets player position to the center of the target tile
         player.transform.position = target;
+        //player.transform.position = new Vector3(endPosition.x, endPosition.y, 0);
         //sets tile player is on to occupied
         player.gridManager.map[endPosition].occupied = true;
         //sets the previous tile to unoccupied
