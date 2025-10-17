@@ -556,6 +556,18 @@ public class GridManager : MonoBehaviour
 
     }
 
+    /* @brief Gets the manhattan distance from one tile to another
+     * 
+     * @param start starting tile
+     * @param end end tile
+     * 
+     * @return the manhattan distance from the start square to the end square as an integer
+     */
+    public int ManhattanDistanceToTile(Vector2Int start, Vector2Int end)
+    {
+        return Math.Abs(start.x - end.x) + Math.Abs(start.y - end.y);
+    }
+
     private void TintDebug()
     {
         foreach (var tile in map)
