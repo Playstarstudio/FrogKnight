@@ -440,7 +440,7 @@ public class GridManager : MonoBehaviour
                 if (distance > range && range != -1)
                 {
                     continue;
-                
+
                     /*
                 if (GetTileOccupancy(neighbor.position))// == true && current.position != startingSquare)
                 {
@@ -448,29 +448,29 @@ public class GridManager : MonoBehaviour
                     continue;
                 }
                      */
-                // if it isnt traversible ignore this node
-                if (!map[neighbor.position].traversable)
-                {
-                    continue;
-                }
-                neighbor.visible = HasLineOfSight(startingSquare, current.position);
-                // if already in searched list, dont add
-                if (searched.ContainsKey(neighbor))
-                {
-                    continue;
-                }
+                    // if it isnt traversible ignore this node
+                    if (!map[neighbor.position].traversable)
+                    {
+                        continue;
+                    }
+                    neighbor.visible = HasLineOfSight(startingSquare, current.position);
+                    // if already in searched list, dont add
+                    if (searched.ContainsKey(neighbor))
+                    {
+                        continue;
+                    }
 
-                bool inSearch = toSearch.Contains(neighbor);
+                    bool inSearch = toSearch.Contains(neighbor);
 
-                if (!inSearch)
-                {
-                    toSearch.Add(neighbor);
+                    if (!inSearch)
+                    {
+                        toSearch.Add(neighbor);
+                    }
+
                 }
 
             }
-
         }
-
     }
 
     public bool OnTraversableTile(Vector3 worldPosition)
