@@ -126,11 +126,31 @@ public class P_BaseState : P_State
         Vector2 target = startPosition + (direction * player.gridSize);
         Vector2Int endPosition = player.gridManager.GetCellPosition(target);
         //sets a cell location for the player to move to
+
+        if (player.gridManager.map[endPosition].occupied)
+        {//HAVE TO FINISH THIS
+            Collider2D[] colliders = Physics2D.OverlapCircleAll(player.gridManager.GetTileCenter(endPosition), 0.1f);
+            for(int i = 0; i < colliders.Length; i++)
+            {
+                Entity entity = colliders[i].GetComponent<Entity>();
+                if (entity != null)
+                {
+                    entity.ReceiveEffect(player.spell0.ability.abilityEffects[0], player, player.spell0.ability);
+                }
+                if (entity = null)
+                {
+                    Debug.Log("nothing to interact with");
+                }
+            }
+            moving = false;
+            yield break;
+        }
         if (!player.gridManager.TraversableCheck(endPosition))
         {
             moving = false;
             yield break;
         }
+
         //sets a timer for movement speed, this prevents the player from moving every frame
         float elapsedTime = 0;
         while (elapsedTime < player.movementSpeed)
