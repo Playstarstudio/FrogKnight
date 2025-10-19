@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::AbilityEffect
   effectName: Damage
   description: 
-  effectValue: 100
-  duration: 1
+  effectValue: 0
+  duration: 0
   tickRate: 0
   isDebuff: 0
   effectType: 0

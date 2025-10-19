@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: Kill
   m_EditorClassIdentifier: Assembly-CSharp::Ability
   abilityName: Kill
-  description: kills target enemy
-  manaCost: 2
-  range: 3
+  description: Deals Damage To Enemy
+  manaCost: 0
+  range: 0
   areaMod: 0
   numberMod: 0
-  speed: 1
-  coolDown: 3
+  speed: 0
+  coolDown: 0
   critMod: 0
   enemyOnly: 0
   crit: 0
