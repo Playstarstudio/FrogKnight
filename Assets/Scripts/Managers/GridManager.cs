@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
 using UnityEngine.Tilemaps;
-using static UnityEngine.GraphicsBuffer;
 
 
 public class GridManager : MonoBehaviour
@@ -433,43 +432,43 @@ public class GridManager : MonoBehaviour
 
                     continue;
                 }
-
+                /*
                 // if were out of our range, ignore these nodes
                 int distance = currentDist + 1;
                 int moveCost = currentMoveCost + 1;
                 if (distance > range && range != -1)
                 {
                     continue;
-
-                    /*
-                if (GetTileOccupancy(neighbor.position))// == true && current.position != startingSquare)
+                }
+                 */
+                /*
+            if (GetTileOccupancy(neighbor.position))// == true && current.position != startingSquare)
+            {
+                Debug.Log($"Neighbor {neighbor.position} is occupied - skipped");
+                continue;
+            }
+                 */
+                // if it isnt traversible ignore this node
+                if (!map[neighbor.position].traversable)
                 {
-                    Debug.Log($"Neighbor {neighbor.position} is occupied - skipped");
                     continue;
                 }
-                     */
-                    // if it isnt traversible ignore this node
-                    if (!map[neighbor.position].traversable)
-                    {
-                        continue;
-                    }
-                    neighbor.visible = HasLineOfSight(startingSquare, current.position);
-                    // if already in searched list, dont add
-                    if (searched.ContainsKey(neighbor))
-                    {
-                        continue;
-                    }
+                neighbor.visible = HasLineOfSight(startingSquare, neighbor.position);
+                // if already in searched list, dont add
+                if (searched.ContainsKey(neighbor))
+                {
+                    continue;
+                }
 
-                    bool inSearch = toSearch.Contains(neighbor);
+                bool inSearch = toSearch.Contains(neighbor);
 
-                    if (!inSearch)
-                    {
-                        toSearch.Add(neighbor);
-                    }
-
+                if (!inSearch)
+                {
+                    toSearch.Add(neighbor);
                 }
 
             }
+
         }
     }
 
@@ -528,12 +527,12 @@ public class GridManager : MonoBehaviour
     public bool TraversableCheck(Vector2Int pos)
     {
         TileInfo tile;
-        bool exists = map.TryGetValue(pos, out tile);
-        if (exists)
+        map.TryGetValue(pos, out tile);
+        if (tile != null)
         {
             Vector3Int posn = new Vector3Int(pos.x, pos.y, 0);
         }
-        else if (!exists)
+        else if (tile == null)
         {
             return false;
         }
@@ -797,16 +796,126 @@ public class GridManager : MonoBehaviour
      */
     public bool HasLineOfSight(Vector2Int from, Vector2Int to)
     {
-        Vector2 start = new Vector2(from.x + 0.5f, from.y + 0.5f); // Center of tile
-        Vector2 end = new Vector2(to.x + 0.5f, to.y + 0.5f);
-        Vector2 direction = (end - start).normalized;
-        float distance = Vector2.Distance(start, end);
+        // If start and end are the same position
+        if (from == to) return true;
+        // If start and end are the same position
+        if (from == to) return true;
 
-        // Adjust layer mask for your obstacles
-        RaycastHit2D hit = Physics2D.Raycast(start, direction, distance - 0.1f);
-        return hit.collider == null;
+        List<Vector2Int> line = GetBresenhamLine(from, to);
+
+        // Check all tiles in the line (excluding the starting tile)
+        for (int i = 1; i < line.Count - 1; i++) // Skip first (start) and last (destination)
+        {
+            Vector2Int tile = line[i];
+            if (IsVisionBlocking(tile))
+            {
+                return false;
+            }
+        }
+        return true;
+        /*
+        Vector2 start = new Vector2(from.x + 0.5f, from.y + 0.5f); // Center of tile
+            Vector2 end = new Vector2(to.x + 0.5f, to.y + 0.5f);
+            Vector2 direction = (end - start).normalized;
+            float distance = Vector2.Distance(start, end);
+
+            // Adjust layer mask for your obstacles
+            RaycastHit2D[] hit = Physics2D.RaycastAll(start, direction, distance - 0.1f);
+            if (hit.Length > 0)
+            {
+                for (int i = 0; i < hit.Length; i++)
+                {
+                    if (hit[i].collider != null)
+                    {
+                        // Check if the hit object is an obstacle
+                        if (hit[i].collider.gameObject.CompareTag("Obstacle"))
+                        {
+                            return false; // Line of sight is blocked
+                        }
+                        else
+                        {
+                            continue; // Not an obstacle, continue checking
+                        }
+                    }
+                }
+            }
+            return true;
+        }
+        */
+    }
+    public List<Vector2Int> GetBresenhamLine(Vector2Int from, Vector2Int to)
+    {
+        List<Vector2Int> line = new List<Vector2Int>();
+
+        int x = from.x;
+        int y = from.y;
+        int x2 = to.x;
+        int y2 = to.y;
+
+        int w = x2 - x;
+        int h = y2 - y;
+        int dx1 = 0, dy1 = 0, dx2 = 0, dy2 = 0;
+
+        if (w < 0) dx1 = -1; else if (w > 0) dx1 = 1;
+        if (h < 0) dy1 = -1; else if (h > 0) dy1 = 1;
+        if (w < 0) dx2 = -1; else if (w > 0) dx2 = 1;
+
+        int longest = Mathf.Abs(w);
+        int shortest = Mathf.Abs(h);
+
+        if (!(longest > shortest))
+        {
+            longest = Mathf.Abs(h);
+            shortest = Mathf.Abs(w);
+            if (h < 0) dy2 = -1; else if (h > 0) dy2 = 1;
+            dx2 = 0;
+        }
+
+        int numerator = longest >> 1; // Divide by 2
+
+        for (int i = 0; i <= longest; i++)
+        {
+            line.Add(new Vector2Int(x, y));
+
+            numerator += shortest;
+            if (!(numerator < longest))
+            {
+                numerator -= longest;
+                x += dx1;
+                y += dy1;
+            }
+            else
+            {
+                x += dx2;
+                y += dy2;
+            }
+        }
+
+        return line;
     }
 
+    public bool IsVisionBlocking(Vector2Int tile)
+    {
+        if (map[tile].traversable == false)
+        {
+            return true;
+        }
+        Collider2D[] colliders = Physics2D.OverlapPointAll(tile);
+        foreach (Collider2D collider in colliders)
+        {
+            Entity entity = collider.GetComponent<Entity>();
+            if (entity != null)
+            {
+                if (entity.gameObject.CompareTag("Obstacle"))
+                {
+                    return true;
+                }
+            }
+        }
+
+        return false;
+
+    }
     public bool GetTileOccupancy(Vector2Int tile)
     {
         if (map[tile].occupied)

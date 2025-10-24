@@ -22,7 +22,7 @@ public class UI : MonoBehaviour
     void Update()
     {
         PCAttributes.UpdateCurrentValues();
-        //playerHP = PCAttributes.GetCurrentAttributeValue(HP);
+        //playerHP = PCAttributes.GetBaseAttributeValue(HP);
         _healthBar.value = GetStat("HP") / GetStat("HP Max");
         _manaBar.value = GetStat("MP") / GetStat("MP Max");
         _staminaBar.value = GetStat("STA") / GetStat("STA Max");
@@ -30,7 +30,7 @@ public class UI : MonoBehaviour
 
     float GetStat(string statName)
     {
-        return PCAttributes.GetCurrentAttributeValue(PCAttributes.GetAttributeType(statName));
+        return PCAttributes.GetBaseAttributeValue(PCAttributes.GetAttributeType(statName));
     }
 
 }

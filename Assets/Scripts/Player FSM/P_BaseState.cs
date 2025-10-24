@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
+using static GridManager;
 using static UnityEngine.EventSystems.EventTrigger;
 
 public class P_BaseState : P_State
@@ -125,9 +126,17 @@ public class P_BaseState : P_State
         //takes current position
         Vector2 startPosition = player.transform.position;
         Vector2 target = startPosition + (direction * player.gridSize);
+        // Debug.Log(player.gridManager.map.TryGetValue(player.gridManager.GetCellPosition(startPosition), out TileInfo tile));
+        /*
+        if (player.gridManager.map.TryGetValue(player.gridManager.GetCellPosition(target), out GridCell cell))
+        {
+                moving = false;
+                yield break;
+        }
+         */ 
         Vector2Int endPosition = player.gridManager.GetCellPosition(target);
-        //sets a cell location for the player to move to
 
+        //sets a cell location for the player to move to
         if (player.gridManager.map[endPosition].occupied)
         {//HAVE TO FINISH THIS
             Collider2D[] colliders = Physics2D.OverlapCircleAll(player.gridManager.GetTileCenter(endPosition), 0.1f);

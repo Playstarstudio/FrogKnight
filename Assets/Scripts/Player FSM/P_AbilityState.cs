@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -22,6 +23,15 @@ public class P_AbilityState : P_State
         // if successful, go to base state
         // if not, stay in ability state
         // give indicator of why can't cast
+        /*
+        List<Vector2Int> rangeTile= player.gridManager.GetBresenhamLine(player.gridManager.GetCellPosition(player.transform.position), player.gridManager.MouseToGrid());
+        foreach (Vector2Int tile in rangeTile)
+        {
+            player.gridManager.TintTile(tile, Color.yellow);
+        }
+         */ 
+
+        
         System.Func<KeyCode, bool> inputFunction;
         inputFunction = Input.GetKeyDown;
         if (Input.GetKeyDown(KeyCode.Tab))

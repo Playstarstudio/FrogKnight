@@ -50,11 +50,11 @@ public class GameManager : MonoBehaviour
     }
 
     //CALL THIS EVERY TIME AN ACTION OCCURS
-    public void PlayerAction(Entity player, float time)
+    public void PlayerAction(Entity player, float _time)
     {
-        player.lastMoveTime += time;
+        player.lastMoveTime += _time;
         globalTimer = player.lastMoveTime;
-        CheckAndActivateEntities(player);
+        CheckAndActivateEntities(player, _time);
     }
     public void TimeTracker(GameObject gameObject, float time)
     {
@@ -68,7 +68,7 @@ public class GameManager : MonoBehaviour
 
     // iterates through sorted list and finds entities that are ready to go
     // TODO this doesn't account for if an enemy gets to do two actions before another enemy gets to do one.
-    public void CheckAndActivateEntities(Entity player)
+    public void CheckAndActivateEntities(Entity player, float _time)
     {
         bool needsResort = false;
         for (int i = 0; i <= sortedTimedEntities.Count - 1; i++)
@@ -79,7 +79,7 @@ public class GameManager : MonoBehaviour
             if (enemy.readyTime <= globalTimer)
             {
                 player.gridManager.PlayerDijkstras();
-                ActivateEntity(timedEntity.entity);
+                ActivateEntity(timedEntity.entity, _time, globalTimer);
                 timedEntity.readyTime = enemy.readyTime;
                 // timedEntity.readyTime = timedEntity.readyTime + 0f; // Example: set it to the entity's action.
                 needsResort = true;
@@ -91,22 +91,22 @@ public class GameManager : MonoBehaviour
             }
         }
         if (needsResort)
-            UpdateTimedEntitiesList(player);
+            UpdateTimedEntitiesList(player,_time);
     }
 
     //sends over to the enemy script and does what it's supposed to do.
-    private void ActivateEntity(GameObject entity)
+    private void ActivateEntity(GameObject entity, float _time, float _globalTimer)
     {
         var enemy = entity.GetComponent<Enemy>();
         if (enemy != null)
         {
-            enemy.Activate();
+            enemy.Activate(_time, _globalTimer);
         }
         // Debug.Log($"Activated entity: at time: {globalTimer}");
     }
 
     //resort the list and realign readytimes.
-    public void UpdateTimedEntitiesList(Entity player)
+    public void UpdateTimedEntitiesList(Entity player, float _time)
     {
         foreach (var timedEntity in sortedTimedEntities)
         {
@@ -117,7 +117,7 @@ public class GameManager : MonoBehaviour
             }
         }
         sortedTimedEntities.Sort();
-        CheckAndActivateEntities(player);
+        CheckAndActivateEntities(player, _time);
     }
 
     /*

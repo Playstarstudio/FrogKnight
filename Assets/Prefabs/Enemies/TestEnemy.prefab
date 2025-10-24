@@ -112,6 +112,7 @@ MonoBehaviour:
   gridSize: 0
   readyTime: 0
   att: {fileID: 6090523045938297406}
+  visionBlock: 0
   castSuccess: 0
   casting: {fileID: 0}
   spell0: {fileID: 0}
@@ -132,6 +133,8 @@ MonoBehaviour:
   target: {fileID: 0}
   speed: 1.1
   move: 0
+  currentPerception: 0
+  perceptionState: 0
 --- !u!114 &6090523045938297406
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -154,6 +157,9 @@ MonoBehaviour:
   - type: {fileID: 11400000, guid: c74e2ae7fe218904fa4fb03543e48095, type: 2}
     value:
       baseValue: 1
+  - type: {fileID: 11400000, guid: 15168d61e3797814ea377ad669d3376c, type: 2}
+    value:
+      baseValue: 6
 --- !u!61 &95408598678369758
 BoxCollider2D:
   m_ObjectHideFlags: 0
