@@ -10,6 +10,16 @@ public class Enemy : Entity
     Transform target;
     public float speed;
     public bool move;
+    public float currentPerception;
+    public PerceptionState perceptionState;
+
+    public enum PerceptionState
+        {
+            NeverSeen,
+            HasSeen,
+            Searching,
+            CurrentlySeeing
+    }
 
     void Start()
     {
@@ -32,10 +42,17 @@ public class Enemy : Entity
         {
             gridManager.AddDebugTile(item, Color.red);
         }
-
-        // path towards the second to last tile on our path (path is stores backwards, so its the second tile)
-        if (move)
+    }
+    public void Activate()
+    {
+        if (perceptionState == PerceptionState.CurrentlySeeing)
+        {
             Move();
+        }
+        else
+        {
+            PerceptionCheck();
+        }
     }
     public void Move()
     {
@@ -58,6 +75,11 @@ public class Enemy : Entity
         {
             readyTime += att.GetBaseAttributeValue(att.GetAttributeType("Move Speed"));
         }
+    }
+    public void PerceptionCheck()
+    {
+        Debug.Log("Perception Check - setting to SEEING");
+        perceptionState = PerceptionState.CurrentlySeeing;
     }
     public void OnDestroy()
     {

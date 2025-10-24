@@ -100,7 +100,7 @@ public class GameManager : MonoBehaviour
         var enemy = entity.GetComponent<Enemy>();
         if (enemy != null)
         {
-            enemy.Move();
+            enemy.Activate();
         }
         // Debug.Log($"Activated entity: at time: {globalTimer}");
     }
