@@ -170,7 +170,7 @@ public class P_BaseState : P_State
             player.transform.position = Vector2.MoveTowards(startPosition, player.gridManager.GetTileCenter(endPosition), player.movementSpeed);
         }
         //sets player position to the center of the target tile
-        player.transform.position = target;
+        player.transform.position = player.gridManager.GetTileCenter(endPosition);
         //player.transform.position = new Vector3(endPosition.x, endPosition.y, 0);
         //sets tile player is on to occupied
         player.gridManager.map[endPosition].occupied = true;

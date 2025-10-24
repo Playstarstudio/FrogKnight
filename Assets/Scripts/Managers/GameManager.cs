@@ -52,6 +52,7 @@ public class GameManager : MonoBehaviour
     //CALL THIS EVERY TIME AN ACTION OCCURS
     public void PlayerAction(Entity player, float _time)
     {
+        player.gridManager.PlayerDijkstras();
         player.lastMoveTime += _time;
         globalTimer = player.lastMoveTime;
         CheckAndActivateEntities(player, _time);

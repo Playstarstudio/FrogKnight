@@ -104,7 +104,7 @@ public class Enemy : Entity
             {
                 currentPerception -= (_time * (manhattanDistance/vision));
                 currentPerception = Mathf.Clamp(currentPerception, 0, 5);
-                Debug.Log("Perception Check - not in sight");
+                Debug.Log("Perception Check - in range but not in sight");
             }
 
         }
