@@ -6,10 +6,17 @@ using UnityEngine.Tilemaps;
 using static UnityEngine.GraphicsBuffer;
 
 
+
 public class GridManager : MonoBehaviour
 {
     private static GridManager _instance;
     public static GridManager Instance { get { return _instance; } }
+    public enum SightEnum
+        {
+            NeverSeen,
+            CurrentSeeing,
+            PrevSeen
+        }
     public class TileInfo
     {
         public bool traversable;
@@ -18,6 +25,8 @@ public class GridManager : MonoBehaviour
         public bool occupied = false;
         public bool visible;
         // enum neverSeen, currentSeeing, prevSeen
+        public SightEnum tileSight;
+        
         public TileInfo(bool traversable)
         {
             this.traversable = traversable;
@@ -727,6 +736,7 @@ public class GridManager : MonoBehaviour
     {
         //Raw Dist Debug will be Blue
         //Move Cost Debug will be Purple
+        playerVision = GameObject.FindGameObjectWithTag("Player").GetComponent(AttributeSet).GetCurrentAttributeValue(Vision);
         Dictionary<DijkstrasNodeInfo, DijkstrasNodeInfo>.KeyCollection allKeys = playerRange.Keys;
         Vector2Int currentPos;
         int currentRawDistance;

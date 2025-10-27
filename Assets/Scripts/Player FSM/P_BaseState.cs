@@ -182,5 +182,10 @@ public class P_BaseState : P_State
     {
         throw new System.NotImplementedException();
     }
+
+    void VisionUpdate()
+    {
+        
+    }
 }
 
