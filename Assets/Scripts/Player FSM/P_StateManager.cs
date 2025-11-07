@@ -21,6 +21,7 @@ public class P_StateManager : Entity
     */
 
     #endregion
+    public List<Vector2Int> rangeTile;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
 
     public Transform mainCamera;
