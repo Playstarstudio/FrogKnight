@@ -43,6 +43,15 @@ public class GridManager : MonoBehaviour
     [SerializeField]
     private Tilemap doorOptions;
 
+    //Store our Fog of War tiles
+    [SerializeField]
+    private Tilemap fowTiles;
+
+    //Stores our range tiles
+    [SerializeField]
+    private Tilemap rangeTiles;
+
+
     // Stores our tiles and whether or not they are traversable
     public Dictionary<Vector2Int, TileInfo> map;
 
