@@ -37,6 +37,7 @@ public class P_BaseState : P_State
                 player.StartCoroutine(Move(Vector2.right, player));
             }
             //hurts self 
+            /*
             else if (inputFunction(KeyCode.E))
             {
                 hurt = new AttributeModifier() //deals 2 damage
@@ -47,7 +48,7 @@ public class P_BaseState : P_State
                 };
                 player.att.ApplyInstantModifier(hurt);
 
-            }
+            }*/
             // keyboard casting ability 1-4
             else if (inputFunction(KeyCode.Alpha1))
             {

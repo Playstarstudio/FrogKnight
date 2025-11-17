@@ -34,8 +34,6 @@ public class Enemy : Entity
     // Update is called once per frame
     void Update()
     {
-        // runs astar and puts the path (which is backwards) into 'path'
-        gridManager.AStar(ref path, ref aStarSearchedList, ref aStarToSearch, gridManager.GetCellPosition(transform.position), gridManager.GetCellPosition(target.position));
 
         // add each of our tiles on our path to the debug tile list
         foreach (var item in path.Select(a => a.position))
@@ -61,6 +59,8 @@ public class Enemy : Entity
     }
     public void Move()
     {
+        // runs astar and puts the path (which is backwards) into 'path'
+        gridManager.AStar(ref path, ref aStarSearchedList, ref aStarToSearch, gridManager.GetCellPosition(transform.position), gridManager.GetCellPosition(target.position));
         if (path.Count > 2)
         {
             readyTime += att.GetBaseAttributeValue(att.GetAttributeType("Move Speed"));
