@@ -99,5 +99,27 @@ public class P_StateManager : Entity
         moving = false;
     }
      */
+
+    #region Save and Load
+    public void Save(ref PlayerSaveData data)
+    {
+        data.position = transform.position;
+        data.att = att;
+    }
+
+    public void Load(PlayerSaveData data)
+    {
+        transform.position = data.position;
+        att = data.att;
+    }
+    #endregion
 }
 
+[System.Serializable]
+public struct PlayerSaveData
+{
+    public Vector2 position;
+    public AttributeSet att;
+    // Add other player-related data as needed
+    // https://www.youtube.com/watch?v=1mf730eb5Wo
+}

@@ -1,7 +1,5 @@
 using System.Collections.Generic;
 using UnityEngine;
-using static GridManager;
-using static UnityEngine.EventSystems.EventTrigger;
 
 public class P_BaseState : P_State
 {
@@ -99,20 +97,52 @@ public class P_BaseState : P_State
                     Debug.Log("Not enough MP");
                 }
             }
-            else if(inputFunction(KeyCode.Mouse0))
+            else if (inputFunction(KeyCode.Mouse0))
             {
                 //Get distance from player
                 Vector2Int targetCenter = player.gridManager.MouseToGrid();
                 //Find the Dijkstra's node at this point
                 Debug.Log("Found " + targetCenter);
-                Debug.Log("Found node. Distance = " + player.gridManager.ManhattanDistanceToTile(player.gridManager.GetCellPosition(player.gameObject.transform.position), targetCenter) +" "+ player.gridManager.map[targetCenter].occupied);
+                Debug.Log("Found node. Distance = " + player.gridManager.ManhattanDistanceToTile(player.gridManager.GetCellPosition(player.gameObject.transform.position), targetCenter) + " " + player.gridManager.map[targetCenter].occupied);
                 //print out node info
 
+            }
+            else if (inputFunction(KeyCode.I))
+            {
+                foreach (Item item in player.inventory)
+                {
+                    if (item != null)
+                    {
+                        applyItemEffect(player, item);
+                    }
+                }
             }
         }
     }
 
-
+    private static void applyItemEffect(Entity owner, Item item)
+    {
+        foreach (var effect in item.effects)
+        {
+            owner.att.GetAttributeType(effect.attributeName);
+            if (owner.att.GetAttributeType(effect.attributeName) == null)
+            {
+                Debug.Log("Attribute " + effect.attributeName + " not found on " + owner.name);
+                continue;
+            }
+            else
+            {
+                AttributeModifier applyItemModifier = new AttributeModifier()
+                {
+                    attribute = owner.att.GetAttributeType(effect.attributeName),
+                    operation = (AttributeModifier.Operator)effect.operation,
+                    attributeModifierValue = effect.modifierValue
+                };
+                owner.att.ApplyInstantModifier(applyItemModifier);
+                Debug.Log("Applied " + effect.operation + " " + effect.modifierValue + " to " + effect.attributeName);
+            }
+        }
+    }
 
     public override void ExitState(P_StateManager player)
     {
@@ -133,14 +163,14 @@ public class P_BaseState : P_State
                 moving = false;
                 yield break;
         }
-         */ 
+         */
         Vector2Int endPosition = player.gridManager.GetCellPosition(target);
 
         //sets a cell location for the player to move to
         if (player.gridManager.map[endPosition].occupied)
         {//HAVE TO FINISH THIS
             Collider2D[] colliders = Physics2D.OverlapCircleAll(player.gridManager.GetTileCenter(endPosition), 0.1f);
-            for(int i = 0; i < colliders.Length; i++)
+            for (int i = 0; i < colliders.Length; i++)
             {
                 Entity entity = colliders[i].GetComponent<Entity>();
                 if (entity != null)

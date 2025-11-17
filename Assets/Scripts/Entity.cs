@@ -35,6 +35,7 @@ public class Entity : MonoBehaviour
     public float lastMoveTime = 0f;
     public AudioSource BGM;
     public AudioSource SoundEffect;
+    public Item[] inventory;
     #endregion
 
 

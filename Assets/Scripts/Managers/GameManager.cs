@@ -7,6 +7,10 @@ using static UnityEngine.EventSystems.EventTrigger;
 public class GameManager : MonoBehaviour
 {
     public float globalTimer;
+    /*
+    public P_StateManager player {get; private set; }
+     */
+
     private GridManager gridManager;
 
     // this is my list of timed entities that will be populated, and the sorted list kept separately.
