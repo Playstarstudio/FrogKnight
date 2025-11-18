@@ -535,9 +535,9 @@ public class GridManager : MonoBehaviour
     }
     private void CreateGrid()
     {
-        for (int x = traversable.cellBounds.xMin; x < traversable.cellBounds.xMax; x++)
+        for (int x = traversable.cellBounds.xMin-20; x < traversable.cellBounds.xMax+20; x++)
         {
-            for (int y = traversable.cellBounds.yMin; y < traversable.cellBounds.yMax; y++)
+            for (int y = traversable.cellBounds.yMin-20; y < traversable.cellBounds.yMax+20; y++)
             {
                 Vector3 worldPosition = traversable.CellToWorld(new Vector3Int(x, y, 0));
                 if (notTraversable.HasTile(notTraversable.WorldToCell(worldPosition)))
