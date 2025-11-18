@@ -2,24 +2,35 @@ using UnityEngine;
 
 public class InventoryManager : MonoBehaviour
 {
-    public GameObject InventoryMenu;
+    private P_StateManager playerStateManager;
+    public UIInventoryPage InventoryMenu;
     private bool isInventoryOpen = false;
+    public int inventorySize = 10;
 
     private void Start()
     {
         isInventoryOpen = false;
+        InventoryMenu.InitializeInventoryUI(inventorySize);
+        InventoryMenu.Hide();
     }
-    private void Update()
+
+    public bool InventoryCheck()
     {
-        if (Input.GetButtonDown("Inventory") && isInventoryOpen)
+        if (playerStateManager == null)
         {
-            InventoryMenu.SetActive(false);
-            isInventoryOpen = false;
+            playerStateManager = FindFirstObjectByType<P_StateManager>();
         }
-        else if (Input.GetButtonDown("Inventory") && !isInventoryOpen)
+        if (isInventoryOpen)
         {
-            InventoryMenu.SetActive(true);
+            InventoryMenu.Hide();
+            isInventoryOpen = false;
+            return false;
+        }
+        else
+        {
+            InventoryMenu.Show();
             isInventoryOpen = true;
+            return true;
         }
     }
 }

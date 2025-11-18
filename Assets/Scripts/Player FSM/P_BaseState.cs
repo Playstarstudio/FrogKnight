@@ -118,6 +118,13 @@ public class P_BaseState : P_State
                     }
                 }
             }
+            else if (Input.GetButtonDown("Inventory"))
+            {
+                if (player.inventoryManager.InventoryCheck())
+                {
+                    player.SwitchState(player.inventoryState);
+                }
+            }
         }
     }
 
