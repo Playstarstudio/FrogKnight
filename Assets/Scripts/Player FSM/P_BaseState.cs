@@ -110,13 +110,16 @@ public class P_BaseState : P_State
             }
             else if (inputFunction(KeyCode.I))
             {
-                foreach (Item item in player.inventory)
+                /*
+
+                foreach (ItemSO item in player.inventory)
                 {
                     if (item != null)
                     {
                         applyItemEffect(player, item);
                     }
                 }
+                 */
             }
             else if (Input.GetButtonDown("Inventory"))
             {
@@ -128,7 +131,7 @@ public class P_BaseState : P_State
         }
     }
 
-    private static void applyItemEffect(Entity owner, Item item)
+    private static void applyItemEffect(Entity owner, ItemSO item)
     {
         foreach (var effect in item.effects)
         {

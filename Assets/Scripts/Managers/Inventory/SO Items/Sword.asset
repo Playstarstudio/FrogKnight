@@ -10,15 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bd18e9b1cfcaa684fa48a4b65d63a785, type: 3}
-  m_Name: Item
+  m_Name: Sword
   m_EditorClassIdentifier: Assembly-CSharp::Item
-  itemName: 
-  quantity: 0
-  sprite: {fileID: 0}
-  description: 
-  weight: 0
-  stackable: 0
-  count: 0
+  <itemName>k__BackingField: Sword
+  <image>k__BackingField: {fileID: 21300000, guid: 316d7e89c28915a4cb98ffb7e5b514a7, type: 3}
+  <description>k__BackingField: cuts stuff
+  <weight>k__BackingField: 0
+  <isStackable>k__BackingField: 0
+  <MaxStackSize>k__BackingField: 1
+  <count>k__BackingField: 1
   effects:
   - {fileID: 11400000, guid: c159c13d6ce289442957e255d14324be, type: 2}
   - {fileID: 11400000, guid: 49d33d978ef7ade498d323ae63e853b8, type: 2}

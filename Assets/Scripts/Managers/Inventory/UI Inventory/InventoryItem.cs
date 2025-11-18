@@ -4,21 +4,26 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-public class InventoryItem : MonoBehaviour
+public class InventoryItem : MonoBehaviour, IPointerClickHandler, IBeginDragHandler, IEndDragHandler, IDropHandler, IDragHandler
 {
-    public Item item;
-
+    [SerializeField]
+    public ItemSO item;
     [SerializeField]
     private Image itemImage;
     [SerializeField]
     private Image borderImage;
-
+    [SerializeField]
+    public TMP_Text itemName;
+    [SerializeField]
+    public TMP_Text description;
     [SerializeField]
     private TMP_Text quantityTxt;
+    [SerializeField]
+    public int quantity;
 
     public event Action<InventoryItem> OnItemClicked, OnItemDroppedOn, OnItemBeginDrag, OnItemEndDrag, OnRightMouseBtnClick;
 
-    private bool empty = true;
+    public bool empty = true;
 
     public void Awake()
     {
@@ -30,6 +35,7 @@ public class InventoryItem : MonoBehaviour
         this.itemImage.gameObject.SetActive(false);
         empty = true;
     }
+
 
     public void Deselect()
     {
@@ -49,25 +55,9 @@ public class InventoryItem : MonoBehaviour
         this.borderImage.enabled = true;
     }
 
-    public void OnBeginDrag()
+    public void OnPointerClick(PointerEventData eventData)
     {
-        if (empty) return;
-        OnItemBeginDrag?.Invoke(this);
-    }
-    public void OnDrop()
-    {
-        OnItemDroppedOn?.Invoke(this);
-    }
-
-    public void OnEndDrag()
-    {
-        OnItemEndDrag?.Invoke(this);
-    }
-    public void OnPointerClick(BaseEventData data)
-    {
-        if(empty) return;
-        PointerEventData pointerData = (PointerEventData)data;
-        if (pointerData.button == PointerEventData.InputButton.Right)
+        if (eventData.button == PointerEventData.InputButton.Right)
         {
             OnRightMouseBtnClick?.Invoke(this);
         }
@@ -75,5 +65,26 @@ public class InventoryItem : MonoBehaviour
         {
             OnItemClicked?.Invoke(this);
         }
+    }
+
+    public void OnBeginDrag(PointerEventData eventData)
+    {
+        if (empty) return;
+        OnItemBeginDrag?.Invoke(this);
+    }
+
+    public void OnEndDrag(PointerEventData eventData)
+    {
+        OnItemEndDrag?.Invoke(this);
+    }
+
+    public void OnDrop(PointerEventData eventData)
+    {
+        OnItemDroppedOn?.Invoke(this);
+    }
+
+    public void OnDrag(PointerEventData eventData)
+    {
+
     }
 }

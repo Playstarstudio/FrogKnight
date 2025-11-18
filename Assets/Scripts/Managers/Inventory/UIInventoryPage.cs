@@ -7,6 +7,9 @@ public class UIInventoryPage :MonoBehaviour
 {
     [SerializeField] private InventoryItem itemPrefab;
     [SerializeField] private RectTransform contentPanel;
+    [SerializeField] private InventoryDescription inventoryDescription;
+    [SerializeField] private FloatingItem floatingItem;
+
     List<InventoryItem> listofUIItems = new List<InventoryItem>();
 /*
     public void InitializeInventoryUI(int inventorySize)
