@@ -1,6 +1,7 @@
 using System;
 using System.Buffers;
 using System.Collections.Generic;
+using System.Runtime.CompilerServices;
 using Unity.VisualScripting;
 using UnityEngine;
 
@@ -8,8 +9,13 @@ using UnityEngine;
 
 public class Item : ScriptableObject
 {
-    public Sprite icon;
-    public string itemName;
+    [SerializeField]
+    private string itemName;
+    [SerializeField]
+    private int quantity;
+    [SerializeField]
+    private Sprite sprite;
+    private InventoryManager inventoryManager;
     public string description;
     public float weight;
     public bool stackable;
@@ -24,6 +30,9 @@ public class Item : ScriptableObject
     }
     void Start()
     {
+        inventoryManager = GameObject.Find("InventoryCanvas").GetComponent<InventoryManager>();
+
+
         /*
         finalModifiers.Clear();
         finalModifiers.AddRange(effects);
@@ -33,4 +42,6 @@ public class Item : ScriptableObject
         }
          */
     }
+
+
     }

@@ -13,6 +13,8 @@ MonoBehaviour:
   m_Name: Item
   m_EditorClassIdentifier: Assembly-CSharp::Item
   itemName: 
+  quantity: 0
+  sprite: {fileID: 0}
   description: 
   weight: 0
   stackable: 0

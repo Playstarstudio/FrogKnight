@@ -65,7 +65,6 @@ public class GridManager : MonoBehaviour
     public GameObject player;
     public Dictionary<DijkstrasNodeInfo, DijkstrasNodeInfo> playerRange;
     public Dictionary<Vector2Int, DijkstrasNodeInfo> PlayerDijkstra;
-    private PlayerMovement playerMovement;
     public bool playerDebugRawDistTiles;
     public bool playerDebugMoveCostTiles;
     public bool losDebug;
@@ -98,7 +97,6 @@ public class GridManager : MonoBehaviour
             CreateGrid();
         }
         player = GameObject.FindWithTag("Player");
-        playerMovement = player.GetComponent<PlayerMovement>();
         playerRange = new Dictionary<DijkstrasNodeInfo, DijkstrasNodeInfo>();
     }
 
