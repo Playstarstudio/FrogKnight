@@ -56,6 +56,8 @@ public class GridManager : MonoBehaviour
     [SerializeField]
     private Tilemap rangeTiles;
 
+    private SortedSet<DijkstrasNodeInfo> sortedSet;
+
 
     // Stores our tiles and whether or not they are traversable
     public Dictionary<Vector2Int, TileInfo> map;
@@ -103,6 +105,7 @@ public class GridManager : MonoBehaviour
             fowVision = new Dictionary<Vector2Int, TileInfo>();
             CreateGrid();
         }
+        sortedSet = new SortedSet<DijkstrasNodeInfo>();
         player = GameObject.FindWithTag("Player");
         playerRange = new Dictionary<DijkstrasNodeInfo, DijkstrasNodeInfo>();
     }
@@ -728,7 +731,7 @@ public class GridManager : MonoBehaviour
     */
     public SortedSet<DijkstrasNodeInfo> MapToSortedSet()
     {
-        SortedSet<DijkstrasNodeInfo> sortedSet = new SortedSet<DijkstrasNodeInfo>();
+        sortedSet.Clear();
         DijkstrasNodeInfo currentNode;
 
         foreach (KeyValuePair<Vector2Int, TileInfo> tile in map)
@@ -960,19 +963,16 @@ private void TintDebugTiles(Dictionary<Vector2Int, Color> dictionary)
     {
         // If start and end are the same position
         if (from == to) return true;
-        // If start and end are the same position
-        if (from == to) return true;
+        int distSqr = (to - from).sqrMagnitude;
+        if (distSqr <= 2) return true; //adjacent tiles always have LOS
 
         List<Vector2Int> line = GetBresenhamLine(from, to);
 
-        // Check all tiles in the line (excluding the starting tile)
-        for (int i = 1; i < line.Count - 1; i++) // Skip first (start) and last (destination)
+        int step = distSqr > 20 ? 2 : 1; // Adjust threshold based on your needs
+        for (int i = 1; i < line.Count - 1; i += step)
         {
-            Vector2Int tile = line[i];
-            if (IsVisionBlocking(tile))
-            {
+            if (IsVisionBlocking(line[i]))
                 return false;
-            }
         }
         return true;
         /*

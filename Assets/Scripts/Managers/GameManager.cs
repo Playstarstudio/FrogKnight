@@ -83,7 +83,7 @@ public class GameManager : MonoBehaviour
             var enemy = timedEntity.entity.GetComponent<Enemy>();
             if (enemy.readyTime <= globalTimer)
             {
-                player.gridManager.PlayerDijkstras();
+                //player.gridManager.PlayerDijkstras();
                 ActivateEntity(timedEntity.entity, _time, globalTimer);
                 timedEntity.readyTime = enemy.readyTime;
                 // timedEntity.readyTime = timedEntity.readyTime + 0f; // Example: set it to the entity's action.

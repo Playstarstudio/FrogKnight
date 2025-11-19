@@ -6001,9 +6001,9 @@ MonoBehaviour:
   rangeTiles: {fileID: 2015221512}
   debug: 0
   player: {fileID: 0}
-  playerDebugRawDistTiles: 1
+  playerDebugRawDistTiles: 0
   playerDebugMoveCostTiles: 0
-  losDebug: 1
+  losDebug: 0
   fowDebugTilesOn: 0
 --- !u!156049354 &1350821629
 Grid:
