@@ -562,25 +562,7 @@ public class GridManager : MonoBehaviour
         }
 
     }
-    private void CreateFOWGrid()
-    {
-        for (int x = fowTiles.cellBounds.xMin - 20; x < fowTiles.cellBounds.xMax + 20; x++)
-        {
-            for (int y = fowTiles.cellBounds.yMin - 20; y < fowTiles.cellBounds.yMax + 20; y++)
-            {
-                Vector3 worldPosition = fowTiles.CellToWorld(new Vector3Int(x, y, 0));
-                if (fowTiles.HasTile(fowTiles.WorldToCell(worldPosition)))
-                {
-                    fowTintedTiles.Add(new Vector2Int(x, y), Color.black);
-                }
-                else
-                {
-                    fowTintedTiles.Add(new Vector2Int(x, y), Color.black);
-                }
-                TintFOWTiles();
-            }
-        }
-    }
+   
 
     public bool TraversableCheck(Vector2Int pos)
     {
@@ -795,34 +777,7 @@ public class GridManager : MonoBehaviour
         }
     }
 
-    void ChangeFOWValue(DijkstrasNodeInfo node)
-    {
-
-        TileInfo tile;
-        bool exists = map.TryGetValue(node.position, out tile);
-        var visionAttribute = player.GetComponent<P_StateManager>().att.GetAttributeType("Vision Range");
-        int visionRange = (int)player.GetComponent<P_StateManager>().att.GetCurrentAttributeValue(visionAttribute);
-        if (!exists)
-        {
-            throw new ArgumentException("tile does not exist on grid");
-        }
-
-        if (node.visible)
-        {
-            if (node.rawDist <= visionRange)
-            {
-                tile.sightValue = FOWEnum.CurrentSeeing;
-            }
-        }
-        else if (!node.visible || node.rawDist > visionRange)
-        {
-            if (tile.sightValue == FOWEnum.CurrentSeeing)
-            {
-                tile.sightValue = FOWEnum.PrevSeen;
-            }
-        }
-
-    }
+   
 
     void ColorPlayerDebugTiles()
     {
@@ -873,37 +828,7 @@ public class GridManager : MonoBehaviour
     }
 
     //Adds every tile to FOW dictionary
-    void ColorFOWTiles()
-    {
-        TileInfo currentTile;
-        Color tileTint = Color.white;
-        var visionAttribute = player.GetComponent<P_StateManager>().att.GetAttributeType("Vision Range");
-        int visionRange = (int)player.GetComponent<P_StateManager>().att.GetCurrentAttributeValue(visionAttribute);
-        ConvertPlayerRangetoFOWVision();
-
-        if (fowDebugTilesOn)
-        {
-            foreach (var entry in fowVision)
-            {
-                currentTile = entry.Value;
-                    if (currentTile.sightValue == FOWEnum.NeverSeen)
-                    {
-                        tileTint = new Color(0, 0, 0, 1);
-                    }
-                    else if (currentTile.sightValue == FOWEnum.PrevSeen)
-                    {
-                        tileTint = new Color(0, 0, 0, (float)0.5);
-                    }
-                    else if (currentTile.sightValue == FOWEnum.CurrentSeeing)
-                    {
-                        tileTint = new Color(0, 0, 0, 0);
-                    }
-                    //Debug.Log("Key Value: " + map.FirstOrDefault(x => x.Value == currentTile).Key);
-                    AddFOWDebugTile(map.FirstOrDefault(x => x.Value == currentTile).Key, tileTint);
-            }
-            TintFOWTiles();
-        }
-    }
+   
 
     private void TintPlayerDebug()
     {
@@ -912,6 +837,54 @@ public class GridManager : MonoBehaviour
     }
 
     //applies the color to the FOW tilemap
+
+    private void CreateFOWGrid()
+    {
+        for (int x = fowTiles.cellBounds.xMin - 20; x < fowTiles.cellBounds.xMax + 20; x++)
+        {
+            for (int y = fowTiles.cellBounds.yMin - 20; y < fowTiles.cellBounds.yMax + 20; y++)
+            {
+                Vector3 worldPosition = fowTiles.CellToWorld(new Vector3Int(x, y, 0));
+                if (fowTiles.HasTile(fowTiles.WorldToCell(worldPosition)))
+                {
+                    fowTintedTiles.Add(new Vector2Int(x, y), Color.black);
+                }
+                else
+                {
+                    fowTintedTiles.Add(new Vector2Int(x, y), Color.black);
+                }
+                TintFOWTiles();
+            }
+        }
+    }
+    void ChangeFOWValue(DijkstrasNodeInfo node)
+    {
+
+        TileInfo tile;
+        bool exists = map.TryGetValue(node.position, out tile);
+        var visionAttribute = player.GetComponent<P_StateManager>().att.GetAttributeType("Vision Range");
+        int visionRange = (int)player.GetComponent<P_StateManager>().att.GetCurrentAttributeValue(visionAttribute);
+        if (!exists)
+        {
+            throw new ArgumentException("tile does not exist on grid");
+        }
+
+        if (node.visible)
+        {
+            if (node.rawDist <= visionRange)
+            {
+                tile.sightValue = FOWEnum.CurrentSeeing;
+            }
+        }
+        else if (!node.visible || node.rawDist > visionRange)
+        {
+            if (tile.sightValue == FOWEnum.CurrentSeeing)
+            {
+                tile.sightValue = FOWEnum.PrevSeen;
+            }
+        }
+
+    }
     private void TintFOWTiles()
     {
         Debug.Log("FOW Debug Tiles Count: " + fowTintedTiles.Count());
@@ -936,7 +909,38 @@ public class GridManager : MonoBehaviour
             return;
         }
     }
-private void TintDebugTiles(Dictionary<Vector2Int, Color> dictionary)
+    void ColorFOWTiles()
+    {
+        TileInfo currentTile;
+        Color tileTint = Color.white;
+        var visionAttribute = player.GetComponent<P_StateManager>().att.GetAttributeType("Vision Range");
+        int visionRange = (int)player.GetComponent<P_StateManager>().att.GetCurrentAttributeValue(visionAttribute);
+        ConvertPlayerRangetoFOWVision();
+
+        if (fowDebugTilesOn)
+        {
+            foreach (var entry in fowVision)
+            {
+                currentTile = entry.Value;
+                if (currentTile.sightValue == FOWEnum.NeverSeen)
+                {
+                    tileTint = new Color(0, 0, 0, 1);
+                }
+                else if (currentTile.sightValue == FOWEnum.PrevSeen)
+                {
+                    tileTint = new Color(0, 0, 0, (float)0.5);
+                }
+                else if (currentTile.sightValue == FOWEnum.CurrentSeeing)
+                {
+                    tileTint = new Color(0, 0, 0, 0);
+                }
+                //Debug.Log("Key Value: " + map.FirstOrDefault(x => x.Value == currentTile).Key);
+                AddFOWDebugTile(map.FirstOrDefault(x => x.Value == currentTile).Key, tileTint);
+            }
+            TintFOWTiles();
+        }
+    }
+    private void TintDebugTiles(Dictionary<Vector2Int, Color> dictionary)
     {
         if (dictionary.Count() >= 1)
         {
