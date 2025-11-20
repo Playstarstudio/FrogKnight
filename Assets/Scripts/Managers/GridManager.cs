@@ -1,11 +1,9 @@
 using System;
-using System.Collections;
 using System.Collections.Generic;
-using System.Drawing;
 using System.Linq;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Tilemaps;
-using UnityEngine.WSA;
 using Color = UnityEngine.Color;
 
 
@@ -15,12 +13,12 @@ public class GridManager : MonoBehaviour
     private static GridManager _instance;
     public static GridManager Instance { get { return _instance; } }
 
-     public enum FOWEnum
-        {
-            NeverSeen,
-            CurrentSeeing,
-            PrevSeen
-        }
+    public enum FOWEnum
+    {
+        NeverSeen,
+        CurrentSeeing,
+        PrevSeen
+    }
     public class TileInfo
     {
         public bool traversable;
@@ -87,9 +85,11 @@ public class GridManager : MonoBehaviour
             traversable.CompressBounds();
             notTraversable.CompressBounds();
             doorOptions.CompressBounds();
+            fowTiles.CompressBounds();
             Instance.MergeIntoTraversable(ref traversable);
             Instance.MergeIntoNonTraversable(ref notTraversable);
             Instance.MergeIntoDoor(ref doorOptions);
+
             Destroy(this.gameObject);
         }
         else
@@ -98,16 +98,25 @@ public class GridManager : MonoBehaviour
             traversable.CompressBounds();
             notTraversable.CompressBounds();
             doorOptions.CompressBounds();
+            fowTiles.CompressBounds();
             map = new Dictionary<Vector2Int, TileInfo>();
-            debugTiles = new Dictionary<Vector2Int, Color>();
-            playerDebugTiles = new Dictionary<Vector2Int, Color>();
-            fowTintedTiles = new Dictionary<Vector2Int, Color>();
-            fowVision = new Dictionary<Vector2Int, TileInfo>();
             CreateGrid();
         }
+        debugTiles = new Dictionary<Vector2Int, Color>();
+        playerDebugTiles = new Dictionary<Vector2Int, Color>();
+        fowTintedTiles = new Dictionary<Vector2Int, Color>();
+        fowVision = new Dictionary<Vector2Int, TileInfo>();
         sortedSet = new SortedSet<DijkstrasNodeInfo>();
         player = GameObject.FindWithTag("Player");
         playerRange = new Dictionary<DijkstrasNodeInfo, DijkstrasNodeInfo>();
+        if(fowDebugTilesOn)
+        {
+            fowTiles.GetComponent<TilemapRenderer>().enabled = true;
+        }
+        else if(!fowDebugTilesOn)
+        {
+            fowTiles.GetComponent<TilemapRenderer>().enabled = false;
+        }
     }
 
     /*
@@ -168,7 +177,7 @@ public class GridManager : MonoBehaviour
     }
     public void AddFOWDebugTile(Vector2Int pos, Color tint)
     {
-         if (!fowTintedTiles.ContainsKey(pos) && (fowDebugTilesOn))
+        if (!fowTintedTiles.ContainsKey(pos) && (fowDebugTilesOn))
         {
             fowTintedTiles.Add(pos, tint);
         }
@@ -545,9 +554,9 @@ public class GridManager : MonoBehaviour
     }
     private void CreateGrid()
     {
-        for (int x = traversable.cellBounds.xMin-20; x < traversable.cellBounds.xMax+20; x++)
+        for (int x = traversable.cellBounds.xMin - 20; x < traversable.cellBounds.xMax + 20; x++)
         {
-            for (int y = traversable.cellBounds.yMin-20; y < traversable.cellBounds.yMax+20; y++)
+            for (int y = traversable.cellBounds.yMin - 20; y < traversable.cellBounds.yMax + 20; y++)
             {
                 Vector3 worldPosition = traversable.CellToWorld(new Vector3Int(x, y, 0));
                 if (notTraversable.HasTile(notTraversable.WorldToCell(worldPosition)))
@@ -562,7 +571,7 @@ public class GridManager : MonoBehaviour
         }
 
     }
-   
+
 
     public bool TraversableCheck(Vector2Int pos)
     {
@@ -585,29 +594,7 @@ public class GridManager : MonoBehaviour
             return false;
         }
     }
-    public void TintTile(Vector2Int gridPos, Color color)
-    {
-        TileInfo tile;
-        bool exists = map.TryGetValue(gridPos, out tile);
-        Vector3Int posn = new Vector3Int(gridPos.x, gridPos.y, 0);
 
-        if (!exists)
-        {
-            throw new ArgumentException("tile does not exist on grid");
-        }
-
-        if (tile.traversable)
-        {
-            traversable.SetTileFlags(posn, TileFlags.None);
-            traversable.SetColor(posn, color);
-        }
-        else
-        {
-            notTraversable.SetTileFlags(posn, TileFlags.None);
-            notTraversable.SetColor(posn, color);
-        }
-
-    }
 
     /* @brief Gets the manhattan distance from one tile to another
      * 
@@ -769,7 +756,7 @@ public class GridManager : MonoBehaviour
     void ConvertPlayerRangetoFOWVision()
     {
         TileInfo tile;
-        
+
         foreach (var entry in playerRange)
         {
             bool exists = map.TryGetValue(entry.Key.position, out tile);
@@ -777,7 +764,7 @@ public class GridManager : MonoBehaviour
         }
     }
 
-   
+
 
     void ColorPlayerDebugTiles()
     {
@@ -828,7 +815,7 @@ public class GridManager : MonoBehaviour
     }
 
     //Adds every tile to FOW dictionary
-   
+
 
     private void TintPlayerDebug()
     {
@@ -885,30 +872,6 @@ public class GridManager : MonoBehaviour
         }
 
     }
-    private void TintFOWTiles()
-    {
-        Debug.Log("FOW Debug Tiles Count: " + fowTintedTiles.Count());
-        TintDebugTiles(fowTintedTiles);
-        if (fowTintedTiles.Count() >= 1)
-        {
-            foreach (var tile in fowTintedTiles)
-            {
-                if (fowTintedTiles.ContainsKey(tile.Key))
-                {
-                    //TintTile(tile.Key, fowTintedTiles[tile.Key]);
-                    fowTiles.SetColor(new Vector3Int(tile.Key.x, tile.Key.y, 0), fowTintedTiles[tile.Key]);
-                }
-                else
-                {
-                    TintTile(tile.Key, Color.white);
-                }
-            }
-        }
-        else
-        {
-            return;
-        }
-    }
     void ColorFOWTiles()
     {
         TileInfo currentTile;
@@ -928,17 +891,82 @@ public class GridManager : MonoBehaviour
                 }
                 else if (currentTile.sightValue == FOWEnum.PrevSeen)
                 {
-                    tileTint = new Color(0, 0, 0, (float)0.5);
+                    tileTint = new Color(0, 0, 0, .25f);
                 }
                 else if (currentTile.sightValue == FOWEnum.CurrentSeeing)
                 {
                     tileTint = new Color(0, 0, 0, 0);
                 }
                 //Debug.Log("Key Value: " + map.FirstOrDefault(x => x.Value == currentTile).Key);
-                AddFOWDebugTile(map.FirstOrDefault(x => x.Value == currentTile).Key, tileTint);
+                AddFOWDebugTile(fowVision.FirstOrDefault(x => x.Value == currentTile).Key, tileTint);
             }
             TintFOWTiles();
         }
+    }
+    private void TintFOWTiles()
+    {
+        Debug.Log("FOW Debug Tiles Count: " + fowTintedTiles.Count());
+        //TintDebugTiles(fowTintedTiles);
+        if (fowTintedTiles.Count() >= 1)
+        {
+            foreach (var tile in fowTintedTiles)
+            {
+                if (fowTintedTiles.ContainsKey(tile.Key))
+                {
+                    //TintTile(tile.Key, fowTintedTiles[tile.Key]);
+                    TintTile(tile.Key, fowTintedTiles[tile.Key], fowTiles);
+                }
+                else
+                {
+                    TintTile(tile.Key, Color.white, fowTiles);
+                }
+            }
+        }
+        else
+        {
+            return;
+        }
+    }
+    public void TintTile(Vector2Int gridPos, Color color)
+    {
+        TileInfo tile;
+        bool exists = map.TryGetValue(gridPos, out tile);
+        Vector3Int posn = new Vector3Int(gridPos.x, gridPos.y, 0);
+
+        if (!exists)
+        {
+            throw new ArgumentException("tile does not exist on grid");
+        }
+
+        if (tile.traversable)
+        {
+            traversable.SetTileFlags(posn, TileFlags.None);
+            traversable.SetColor(posn, color);
+        }
+        else
+        {
+            notTraversable.SetTileFlags(posn, TileFlags.None);
+            notTraversable.SetColor(posn, color);
+        }
+
+    }
+    public void TintTile(Vector2Int gridPos, Color color, Tilemap _tileMap)
+    {
+        TileInfo tile;
+        bool exists = map.TryGetValue(gridPos, out tile);
+        Vector3Int posn = new Vector3Int(gridPos.x, gridPos.y, 0);
+
+        if (!exists)
+        {
+            throw new ArgumentException("tile does not exist on grid");
+        }
+        else
+        {
+            _tileMap.SetTileFlags(posn, TileFlags.None);
+            _tileMap.SetColor(posn, color);
+            Debug.Log(color);
+        }
+
     }
     private void TintDebugTiles(Dictionary<Vector2Int, Color> dictionary)
     {
