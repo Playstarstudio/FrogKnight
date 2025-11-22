@@ -14,6 +14,7 @@ public class Entity : MonoBehaviour
     public GameManager gameManager;
     [HideInInspector] public Rigidbody rb;
     [HideInInspector] public Animator anim;
+    [HideInInspector] public Vector2Int currentPos;
     public float gridSize;
     #endregion  
 

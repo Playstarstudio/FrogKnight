@@ -12,6 +12,7 @@ public class GridManager : MonoBehaviour
 {
     private static GridManager _instance;
     public static GridManager Instance { get { return _instance; } }
+    public List<Entity> entityList = new List<Entity>();
 
     public enum FOWEnum
     {
@@ -109,6 +110,11 @@ public class GridManager : MonoBehaviour
         sortedSet = new SortedSet<DijkstrasNodeInfo>();
         player = GameObject.FindWithTag("Player");
         playerRange = new Dictionary<DijkstrasNodeInfo, DijkstrasNodeInfo>();
+        var foundEntities = FindObjectsByType<Entity>(FindObjectsSortMode.None);
+        foreach (var obj in foundEntities)
+        {
+            entityList.Add(obj.GetComponent<Entity>());
+        }
         if(fowDebugTilesOn)
         {
             fowTiles.GetComponent<TilemapRenderer>().enabled = true;
@@ -926,6 +932,10 @@ public class GridManager : MonoBehaviour
         {
             return;
         }
+    }
+    public void DisplayOrHideEntity(GameObject entity)
+    {
+        var entityPos = GetTileCenter(GetCellPosition(entity.transform.position));
     }
     public void TintTile(Vector2Int gridPos, Color color)
     {

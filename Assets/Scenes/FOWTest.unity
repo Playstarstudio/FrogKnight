@@ -7454,6 +7454,7 @@ MonoBehaviour:
   gameManager: {fileID: 0}
   rb: {fileID: 0}
   anim: {fileID: 0}
+  currentPos: {x: 0, y: 0}
   gridSize: 1
   readyTime: 0
   att: {fileID: 490420036}
@@ -9516,6 +9517,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7bdb173f36c0ffc43a123425e8de283c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  entityList: []
   traversable: {fileID: 103914719}
   notTraversable: {fileID: 2013938912}
   doorOptions: {fileID: 614362944}

@@ -107,6 +107,7 @@ public class GameManager : MonoBehaviour
         {
             enemy.Activate(_time, _globalTimer);
         }
+        gridManager.DisplayOrHideEntity(entity);
         // Debug.Log($"Activated entity: at time: {globalTimer}");
     }
 
