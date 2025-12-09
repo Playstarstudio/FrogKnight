@@ -3812,7 +3812,7 @@ SpriteRenderer:
   m_SortingLayerID: 1799235983
   m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 7482667652216324306, guid: 75f5f34dc1b5347e0b8351032682f224, type: 3}
+  m_Sprite: {fileID: 93730831, guid: b011d091d38ab2f499a1a067bd29d471, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -3930,6 +3930,7 @@ MonoBehaviour:
   gameManager: {fileID: 0}
   rb: {fileID: 0}
   anim: {fileID: 0}
+  currentPos: {x: 0, y: 0}
   gridSize: 1
   readyTime: 0
   att: {fileID: 490420036}
@@ -5994,6 +5995,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7bdb173f36c0ffc43a123425e8de283c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  entityList: []
   traversable: {fileID: 103914719}
   notTraversable: {fileID: 2013938912}
   doorOptions: {fileID: 614362944}
@@ -6004,7 +6006,7 @@ MonoBehaviour:
   playerDebugRawDistTiles: 0
   playerDebugMoveCostTiles: 0
   losDebug: 0
-  fowDebugTilesOn: 0
+  fowDebugTilesOn: 1
 --- !u!156049354 &1350821629
 Grid:
   m_ObjectHideFlags: 0

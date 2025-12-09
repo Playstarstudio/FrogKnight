@@ -1104,6 +1104,7 @@ public class GridManager : MonoBehaviour
         {
             return true;
         }
+        //check visionblocking[]
         Collider2D[] colliders = Physics2D.OverlapPointAll(tile);
         foreach (Collider2D collider in colliders)
         {

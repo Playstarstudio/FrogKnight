@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "AbilityEffect", menuName = "Scriptable Objects/AbilityEffect")]
@@ -9,6 +10,11 @@ public class AbilityEffect : ScriptableObject
     public float duration;
     public float tickRate;
     public bool isDebuff;
+    //affected attritbutes[] attibutesAffected;
+    /// <summary>
+    /// List of attribute modifiers this effect applies
+    /// </summary>
+    ///public List<AttributeModifier> attributeModifiers = new List<AttributeModifier>();
     public EffectType effectType;
     public enum EffectType
     {
