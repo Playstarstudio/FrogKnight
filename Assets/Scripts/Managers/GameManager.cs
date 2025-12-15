@@ -15,7 +15,7 @@ public class GameManager : MonoBehaviour
 
     // this is my list of timed entities that will be populated, and the sorted list kept separately.
     public GameObject[] timedEntities;
-    [SerializeField] private List<TimedEntity> sortedTimedEntities = new List<TimedEntity>();
+    [SerializeField] public List<TimedEntity> sortedTimedEntities = new List<TimedEntity>();
 
     [System.Serializable]
     //created a list of timed entities as a comparable list for sorting purposes.
@@ -35,6 +35,11 @@ public class GameManager : MonoBehaviour
         gridManager = FindFirstObjectByType<GridManager>();
         InitializeTimedEntities();
         gridManager.PlayerDijkstras();
+        foreach(var timedEntity in sortedTimedEntities)
+        {
+            var enemy = timedEntity.entity.GetComponent<Enemy>();
+            gridManager.DisplayOrHideEntity(enemy);
+        }
     }
     // goes out and finds all entity objects. I will probably redo this so that it grabs all entities of all kinds
     // TODO this doesn't account for entities being added or removed during gameplay.
@@ -56,7 +61,7 @@ public class GameManager : MonoBehaviour
     //CALL THIS EVERY TIME AN ACTION OCCURS
     public void PlayerAction(Entity player, float _time)
     {
-        player.gridManager.PlayerDijkstras();
+        gridManager.PlayerDijkstras();
         player.lastMoveTime += _time;
         globalTimer = player.lastMoveTime;
         CheckAndActivateEntities(player, _time);
@@ -83,8 +88,13 @@ public class GameManager : MonoBehaviour
             var enemy = timedEntity.entity.GetComponent<Enemy>();
             if (enemy.readyTime <= globalTimer)
             {
-                //player.gridManager.PlayerDijkstras();
                 ActivateEntity(timedEntity.entity, _time, globalTimer);
+                gridManager.PlayerDijkstras();
+                foreach (TimedEntity entity in sortedTimedEntities)
+                {
+                    var te = entity.entity.GetComponent<Enemy>();
+                    gridManager.DisplayOrHideEntity(te);
+                }
                 timedEntity.readyTime = enemy.readyTime;
                 // timedEntity.readyTime = timedEntity.readyTime + 0f; // Example: set it to the entity's action.
                 needsResort = true;
@@ -107,7 +117,6 @@ public class GameManager : MonoBehaviour
         {
             enemy.Activate(_time, _globalTimer);
         }
-        gridManager.DisplayOrHideEntity(entity);
         // Debug.Log($"Activated entity: at time: {globalTimer}");
     }
 

@@ -1,15 +1,16 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Tilemaps;
+using static GameManager;
 using Color = UnityEngine.Color;
 
 
 
 public class GridManager : MonoBehaviour
 {
+    public GameManager gameManager;
     private static GridManager _instance;
     public static GridManager Instance { get { return _instance; } }
     public List<Entity> entityList = new List<Entity>();
@@ -17,7 +18,7 @@ public class GridManager : MonoBehaviour
     public enum FOWEnum
     {
         NeverSeen,
-        CurrentSeeing,
+        CurrentlySeeing,
         PrevSeen
     }
     public class TileInfo
@@ -25,13 +26,21 @@ public class GridManager : MonoBehaviour
         public bool traversable;
         public int rawDist;
         public float moveCost;
+        public bool isVisionBlocking;
         public bool occupied = false;
+        public Entity[] occupyingEntities;
+        public ItemSO[] occupyingItems;
+        public bool LoS;
         public bool visible;
-        // enum neverSeen, currentSeeing, prevSeen
         public FOWEnum sightValue;
         public TileInfo(bool traversable)
         {
             this.traversable = traversable;
+        }
+        public TileInfo(bool traversable, bool isVisionBlocking)
+        {
+            this.traversable = traversable;
+            this.isVisionBlocking = isVisionBlocking;
         }
     }
 
@@ -58,7 +67,7 @@ public class GridManager : MonoBehaviour
     private SortedSet<DijkstrasNodeInfo> sortedSet;
 
 
-    // Stores our tiles and whether or not they are traversable
+    // Stores our tiles and all data
     public Dictionary<Vector2Int, TileInfo> map;
 
     // Stores tiles that we want to highlight when debugging
@@ -70,8 +79,6 @@ public class GridManager : MonoBehaviour
     //Player Related Data 
     public GameObject player;
     public Dictionary<DijkstrasNodeInfo, DijkstrasNodeInfo> playerRange;
-    public Dictionary<Vector2Int, TileInfo> fowVision;
-    public Dictionary<Vector2Int, DijkstrasNodeInfo> PlayerDijkstra;
     public bool playerDebugRawDistTiles;
     public bool playerDebugMoveCostTiles;
     public bool losDebug;
@@ -106,7 +113,6 @@ public class GridManager : MonoBehaviour
         debugTiles = new Dictionary<Vector2Int, Color>();
         playerDebugTiles = new Dictionary<Vector2Int, Color>();
         fowTintedTiles = new Dictionary<Vector2Int, Color>();
-        fowVision = new Dictionary<Vector2Int, TileInfo>();
         sortedSet = new SortedSet<DijkstrasNodeInfo>();
         player = GameObject.FindWithTag("Player");
         playerRange = new Dictionary<DijkstrasNodeInfo, DijkstrasNodeInfo>();
@@ -115,16 +121,40 @@ public class GridManager : MonoBehaviour
         {
             entityList.Add(obj.GetComponent<Entity>());
         }
-        if(fowDebugTilesOn)
+        if (fowDebugTilesOn)
         {
             fowTiles.GetComponent<TilemapRenderer>().enabled = true;
         }
-        else if(!fowDebugTilesOn)
+        else if (!fowDebugTilesOn)
         {
             fowTiles.GetComponent<TilemapRenderer>().enabled = false;
         }
+        PlayerDijkstras();
     }
+    private void Update()
+    {
+        /*
+        if (debug)
+        {
+            TintDebug();
+            debugTiles.Clear();
+        }
+        if (playerDebugTilesOn)
+        {
+            TintPlayerDebug();
+            playerDebugTiles.Clear();
+        }
+         */
 
+        if (playerDebugRawDistTiles)
+        {
+            playerDebugMoveCostTiles = false;
+        }
+        else if (playerDebugMoveCostTiles)
+        {
+            playerDebugRawDistTiles = false;
+        }
+    }
     /*
      * @brief Gets the center of the tile at the given grid position
      *             ** WHEN TO USE THIS METHOD VS. GETCELLPOSITION **
@@ -161,36 +191,9 @@ public class GridManager : MonoBehaviour
             return (Vector2)notTraversable.GetCellCenterWorld(new Vector3Int(gridPos.x, gridPos.y, 0));
         }
     }
+    public void mapMove(Vector2Int start, Vector2Int end)
+    {
 
-    public void AddDebugTile(Vector2Int tilePos, Color tint)
-    {
-        if (debug)
-        {
-            debugTiles.Add(tilePos, tint);
-        }
-    }
-
-    public void AddPlayerDebugTile(Vector2Int tilePos, Color tint)
-    {
-        if (!playerDebugTiles.ContainsKey(tilePos) && (playerDebugRawDistTiles || playerDebugMoveCostTiles))
-        {
-            playerDebugTiles.Add(tilePos, tint);
-        }
-        else
-        {
-            Debug.Log(tilePos + "already exists in Dictonary");
-        }
-    }
-    public void AddFOWDebugTile(Vector2Int pos, Color tint)
-    {
-        if (!fowTintedTiles.ContainsKey(pos) && (fowDebugTilesOn))
-        {
-            fowTintedTiles.Add(pos, tint);
-        }
-        else
-        {
-            Debug.Log(pos + "already exists in Dictonary");
-        }
     }
 
     /*
@@ -237,8 +240,8 @@ public class GridManager : MonoBehaviour
         // distance from origin in moves
         public int rawDist;
         public int moveCost;
+        public bool LoS;
         public bool visible;
-
         public int CompareTo(DijkstrasNodeInfo other)
         {
             int dist = rawDist - other.rawDist;
@@ -366,6 +369,181 @@ public class GridManager : MonoBehaviour
 
             return nodeInfos;
         }
+    }
+
+    public bool SetDijkstraVisibility(Vector2Int from, DijkstrasNodeInfo to)
+    {
+        // If start and end are the same position
+        if (from == to.position)
+        {
+            to.LoS = true;
+            to.visible = true;
+            return true;
+        }
+        int dist = ManhattanDistanceToTile(from, to.position);
+        if (dist <= 2)
+        {
+            to.LoS = true;
+            to.visible = true;
+            return true; //adjacent tiles always have LOS
+        }
+        List<Vector2Int> line = GetBresenhamLine(from, to.position);
+        int step = dist > 20 ? 2 : 1; // Adjust threshold based on your needs
+        for (int i = 1; i < line.Count - 1; i++)
+        {
+            if (IsVisionBlocking(line[i]))
+            {
+                to.LoS = false;
+                to.visible = false;
+                return false;
+            }
+            else to.LoS = true;
+        }
+        if (to.LoS)
+        {
+            AttributeType visionAttribute = player.GetComponent<P_StateManager>().att.GetAttributeType("Vision Range");
+            int visionRange = (int)player.GetComponent<P_StateManager>().att.GetCurrentAttributeValue(visionAttribute);
+            if (dist <= visionRange)
+            {
+                to.visible = true;
+                return true;
+            }
+            else
+            {
+                to.visible = false;
+                return false;
+            }
+        }
+        else if (!to.LoS)
+        {
+            to.visible = false;
+        }
+        if (to.visible && to.LoS)
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
+
+    public List<Vector2Int> GetBresenhamLine(Vector2Int from, Vector2Int to)
+    {
+        List<Vector2Int> line = new List<Vector2Int>();
+
+        int x = from.x;
+        int y = from.y;
+        int x2 = to.x;
+        int y2 = to.y;
+
+        int w = x2 - x;
+        int h = y2 - y;
+        int dx1 = 0, dy1 = 0, dx2 = 0, dy2 = 0;
+
+        if (w < 0) dx1 = -1; else if (w > 0) dx1 = 1;
+        if (h < 0) dy1 = -1; else if (h > 0) dy1 = 1;
+        if (w < 0) dx2 = -1; else if (w > 0) dx2 = 1;
+
+        int longest = Mathf.Abs(w);
+        int shortest = Mathf.Abs(h);
+
+        if (!(longest > shortest))
+        {
+            longest = Mathf.Abs(h);
+            shortest = Mathf.Abs(w);
+            if (h < 0) dy2 = -1; else if (h > 0) dy2 = 1;
+            dx2 = 0;
+        }
+
+        int numerator = longest >> 1; // Divide by 2
+
+        for (int i = 0; i <= longest; i++)
+        {
+            line.Add(new Vector2Int(x, y));
+
+            numerator += shortest;
+            if (!(numerator < longest))
+            {
+                numerator -= longest;
+                x += dx1;
+                y += dy1;
+            }
+            else
+            {
+                x += dx2;
+                y += dy2;
+            }
+        }
+
+        return line;
+    }
+
+    public bool IsVisionBlocking(Vector2Int tile)
+    {
+        if (map[tile].traversable == false)
+        {
+            return true;
+        }
+        //check visionblocking[]
+        //public Entity[] occupyingEntities;
+        if (map[tile].occupyingEntities != null)
+        {
+            Entity[] occupyingEntities = map[tile].occupyingEntities;
+            if (occupyingEntities.Length > 0)
+                foreach (Entity entity in occupyingEntities)
+                {
+                    if (entity != null)
+                    {
+                        if (entity.gameObject.CompareTag("Obstacle"))
+                        {
+                            return true;
+                        }
+                    }
+                }
+        }
+        return false;
+    }
+    public bool GetTileOccupancy(Vector2Int tile)
+    {
+        if (map[tile].occupied)
+            return true;
+        else
+            return false;
+    }
+
+    public void PlayerDijkstras()
+    {
+        playerDebugTiles.Clear();
+        fowTintedTiles.Clear();
+        playerRange.Clear();
+        SortedSet<DijkstrasNodeInfo> toSearch;
+        toSearch = MapToSortedSet();
+        Vector2Int playerTransform = GetCellPosition(player.transform.position);
+        Vector2Int tile;
+        Dijkstras(ref playerRange, ref toSearch, playerTransform, -1);
+        map[playerTransform].visible = true;
+        map[playerTransform].LoS = true;
+        foreach (var entry in playerRange)
+        {
+            if (entry.Key != null)
+            {
+                tile = entry.Key.position;
+                map[tile].LoS = entry.Key.LoS;
+                map[tile].visible = entry.Key.visible;
+                ChangeFOWValue(entry.Key);
+            }
+        }
+        foreach (TimedEntity entity in gameManager.sortedTimedEntities)
+        {
+            var timedEntity = entity.entity.GetComponent<Enemy>();
+            DisplayOrHideEntity(timedEntity);
+        }
+        if (playerDebugRawDistTiles || playerDebugMoveCostTiles)
+            ColorPlayerDebugTiles();
+        if (fowDebugTilesOn)
+            ColorFOWTiles();
+
     }
 
     /* @brief Runs AStar
@@ -507,7 +685,7 @@ public class GridManager : MonoBehaviour
                 {
                     continue;
                 }
-                neighbor.visible = HasLineOfSight(startingSquare, neighbor.position);
+                SetDijkstraVisibility(startingSquare, neighbor);
                 // if already in searched list, dont add
                 if (searched.ContainsKey(neighbor))
                 {
@@ -534,30 +712,7 @@ public class GridManager : MonoBehaviour
         return tile != null;
     }
 
-    private void Update()
-    {
-        /*
-        if (debug)
-        {
-            TintDebug();
-            debugTiles.Clear();
-        }
-        if (playerDebugTilesOn)
-        {
-            TintPlayerDebug();
-            playerDebugTiles.Clear();
-        }
-         */
 
-        if (playerDebugRawDistTiles)
-        {
-            playerDebugMoveCostTiles = false;
-        }
-        else if (playerDebugMoveCostTiles)
-        {
-            playerDebugRawDistTiles = false;
-        }
-    }
     private void CreateGrid()
     {
         for (int x = traversable.cellBounds.xMin - 20; x < traversable.cellBounds.xMax + 20; x++)
@@ -566,12 +721,13 @@ public class GridManager : MonoBehaviour
             {
                 Vector3 worldPosition = traversable.CellToWorld(new Vector3Int(x, y, 0));
                 if (notTraversable.HasTile(notTraversable.WorldToCell(worldPosition)))
+                //maybe add this to vision blocking tiles later
                 {
-                    map.Add(new Vector2Int(x, y), new TileInfo(false));
+                    map.Add(new Vector2Int(x, y), new TileInfo(false, true));
                 }
                 else
                 {
-                    map.Add(new Vector2Int(x, y), new TileInfo(true));
+                    map.Add(new Vector2Int(x, y), new TileInfo(true, false));
                 }
             }
         }
@@ -614,20 +770,7 @@ public class GridManager : MonoBehaviour
         return Math.Abs(start.x - end.x) + Math.Abs(start.y - end.y);
     }
 
-    private void TintDebug()
-    {
-        foreach (var tile in map)
-        {
-            if (debugTiles.ContainsKey(tile.Key))
-            {
-                TintTile(tile.Key, debugTiles[tile.Key]);
-            }
-            else
-            {
-                TintTile(tile.Key, Color.white);
-            }
-        }
-    }
+
     private List<Vector2Int> GetNeighbors(Vector2Int position)
     {
         List<Vector2Int> neighbors = new List<Vector2Int>();
@@ -726,52 +869,292 @@ public class GridManager : MonoBehaviour
     * @brief Runs Dijkstras from player's position
     * 
     */
-    public void PlayerDijkstras()
+
+
+    //applies the color to the FOW tilemap
+
+    private void CreateFOWGrid()
     {
-        playerDebugTiles.Clear();
-        fowTintedTiles.Clear();
-        fowVision.Clear();
-        playerRange.Clear();
-        SortedSet<DijkstrasNodeInfo> toSearch;
-        toSearch = MapToSortedSet();
-        Vector2 playerVector2 = new Vector2(player.transform.position.x, player.transform.position.y);
-        Vector2Int playerTransform = Vector2Int.RoundToInt(playerVector2);
-        Dijkstras(ref playerRange, ref toSearch, playerTransform, -1);
-        if (PlayerDijkstra == null)
+        for (int x = fowTiles.cellBounds.xMin - 20; x < fowTiles.cellBounds.xMax + 20; x++)
         {
-            PlayerDijkstra = new Dictionary<Vector2Int, DijkstrasNodeInfo>();
+            for (int y = fowTiles.cellBounds.yMin - 20; y < fowTiles.cellBounds.yMax + 20; y++)
+            {
+                Vector3 worldPosition = fowTiles.CellToWorld(new Vector3Int(x, y, 0));
+                if (fowTiles.HasTile(fowTiles.WorldToCell(worldPosition)))
+                {
+                    fowTintedTiles.Add(new Vector2Int(x, y), Color.black);
+                }
+                else
+                {
+                    fowTintedTiles.Add(new Vector2Int(x, y), Color.black);
+                }
+                TintFOWTiles();
+            }
+        }
+    }
+    void ChangeFOWValue(DijkstrasNodeInfo node)
+    {
+
+        TileInfo tile;
+        bool exists = map.TryGetValue(node.position, out tile);
+        var visionAttribute = player.GetComponent<P_StateManager>().att.GetAttributeType("Vision Range");
+        int visionRange = (int)player.GetComponent<P_StateManager>().att.GetCurrentAttributeValue(visionAttribute);
+        if (!exists)
+        {
+            throw new ArgumentException("tile does not exist on grid");
+        }
+        if (node.visible)
+        {
+            if (node.rawDist <= visionRange)
+            {
+                tile.sightValue = FOWEnum.CurrentlySeeing;
+            }
+        }
+        else if (!node.visible || node.rawDist > visionRange)
+        {
+            if (tile.sightValue == FOWEnum.CurrentlySeeing)
+            {
+                tile.sightValue = FOWEnum.PrevSeen;
+            }
+        }
+
+    }
+    void ColorFOWTiles()
+    {
+        TileInfo currentTile;
+        Color tileTint = Color.white;
+        AttributeType visionAttribute = player.GetComponent<P_StateManager>().att.GetAttributeType("Vision Range");
+        int visionRange = (int)player.GetComponent<P_StateManager>().att.GetCurrentAttributeValue(visionAttribute);
+
+        if (fowDebugTilesOn)
+        {
+            foreach (var entry in playerRange)
+            {
+                if (entry.Key != null)
+                {
+                    map.TryGetValue(entry.Key.position, out currentTile);
+                    if (currentTile == null)
+                    {
+                        continue;
+                    }
+                }
+                if (map[entry.Key.position].sightValue == FOWEnum.NeverSeen)
+                {
+                    tileTint = new Color(0, 0, 0, 1);
+                }
+                else if (map[entry.Key.position].sightValue == FOWEnum.PrevSeen)
+                {
+                    tileTint = new Color(0, 0, 0, .25f);
+                }
+                else if (map[entry.Key.position].sightValue == FOWEnum.CurrentlySeeing)
+                {
+                    tileTint = new Color(0, 0, 0, 0);
+                }
+                //Debug.Log("Key Value: " + map.FirstOrDefault(x => x.Value == currentTile).Key);
+                AddFOWDebugTile(entry.Key.position, tileTint);
+            }
+            TintFOWTiles();
+        }
+    }
+    private void TintFOWTiles()
+    {
+        //Debug.Log("FOW Debug Tiles Count: " + fowTintedTiles.Count());
+        //TintDebugTiles(fowTintedTiles);
+        if (fowTintedTiles.Count() >= 1)
+        {
+            foreach (var tile in fowTintedTiles)
+            {
+                if (fowTintedTiles.ContainsKey(tile.Key))
+                {
+                    //TintTile(tile.Key, fowTintedTiles[tile.KeyDisplayOrHideEntity
+                    TintTile(tile.Key, fowTintedTiles[tile.Key], fowTiles);
+                }
+                else
+                {
+                    TintTile(tile.Key, Color.white, fowTiles);
+                }
+            }
         }
         else
         {
-            PlayerDijkstra.Clear();
+            return;
         }
-        foreach (var entry in playerRange)
-        {
-            if (entry.Key != null)
-            {
+    }
 
-                PlayerDijkstra.Add(entry.Key.position, entry.Key);
-                ChangeFOWValue(entry.Key);
+    public void MapMoveEntity(Entity entity, Vector2Int from, Vector2Int to)
+    {
+        //remove entity from the FROM tile's occupying list
+        //add to to the TO tile's occupying list
+        map[from].occupied = false;
+        map[to].occupied = true;
+        DisplayOrHideEntity(entity);
+    }
+    public void MapSpawnEntity(Entity entity, Vector2Int tilePos)
+    {
+        //map[tilePos].occupyingEntities.Append(entity);
+        //map[tilePos].occupied = true;
+        //DisplayOrHideEntity(entity);
+    }
+    public void MapRemoveEntity(Entity entity)
+    {
+        //DisplayOrHideEntity(entity);
+    }
+    public void MapPlaceItem(ItemSO item, Vector2Int tilePos)
+    {
+        //map[tilePos].placedItem = item;
+    }
+    public void MapRemoveItem(Vector2Int tilePos)
+    {
+        //map[tilePos].placedItem = null;
+    }
+    public void MapMoveItem(ItemSO item, Vector2Int from, Vector2Int to)
+    {
+        //map[from].placedItem = null;
+        //map[to].placedItem = item;
+    }
+    public void MapSpawnObstacle(Entity obstacle, Vector2Int tilePos)
+    {
+        //map[tilePos].occupied = true;
+        //DisplayOrHideEntity(obstacle);
+    }
+    public void MapRemoveObstacle(Entity obstacle, Vector2Int tilePos)
+    {
+        //map[tilePos].occupied = false;
+        //DisplayOrHideEntity(obstacle);
+    }
+    public void MapMoveObstacle(Entity obstacle, Vector2Int from, Vector2Int to)
+    {
+        //map[from].occupied = false;
+        //map[to].occupied = true;
+        //DisplayOrHideEntity(obstacle);
+    }
+
+    public void DisplayOrHideEntity(Entity entity)
+    {
+        Vector2 entityPos = GetTileCenter(GetCellPosition(entity.transform.position));
+        if (entityPos != null)
+        {
+            SpriteRenderer render = entity.GetComponent<SpriteRenderer>();
+            if (map[GetCellPosition(entityPos)].visible)
+            {
+                render.enabled = true;
+            }
+            else if (!map[GetCellPosition(entityPos)].visible)
+            {
+                render.enabled = false;
             }
         }
-        if (playerDebugRawDistTiles || playerDebugMoveCostTiles)
-            ColorPlayerDebugTiles();
-        if (fowDebugTilesOn)
-            ColorFOWTiles();
     }
-    void ConvertPlayerRangetoFOWVision()
+    #region tile coloring
+    public void TintTile(Vector2Int gridPos, Color color)
     {
         TileInfo tile;
+        bool exists = map.TryGetValue(gridPos, out tile);
+        Vector3Int posn = new Vector3Int(gridPos.x, gridPos.y, 0);
 
-        foreach (var entry in playerRange)
+        if (!exists)
         {
-            bool exists = map.TryGetValue(entry.Key.position, out tile);
-            fowVision.Add(entry.Key.position, tile);
+            throw new ArgumentException("tile does not exist on grid");
+        }
+
+        if (tile.traversable)
+        {
+            traversable.SetTileFlags(posn, TileFlags.None);
+            traversable.SetColor(posn, color);
+        }
+        else
+        {
+            notTraversable.SetTileFlags(posn, TileFlags.None);
+            notTraversable.SetColor(posn, color);
+        }
+
+    }
+    public void TintTile(Vector2Int gridPos, Color color, Tilemap _tileMap)
+    {
+        TileInfo tile;
+        bool exists = map.TryGetValue(gridPos, out tile);
+        Vector3Int posn = new Vector3Int(gridPos.x, gridPos.y, 0);
+
+        if (!exists)
+        {
+            throw new ArgumentException("tile does not exist on grid");
+        }
+        else
+        {
+            _tileMap.SetTileFlags(posn, TileFlags.None);
+            _tileMap.SetColor(posn, color);
+            //Debug.Log(color);
+        }
+
+    }
+    #endregion
+    #region debug
+    public void AddDebugTile(Vector2Int tilePos, Color tint)
+    {
+        if (debug)
+        {
+            debugTiles.Add(tilePos, tint);
+        }
+    }
+    private void TintDebugTiles(Dictionary<Vector2Int, Color> dictionary)
+    {
+        if (dictionary.Count() >= 1)
+        {
+            foreach (var tile in dictionary)
+            {
+                if (dictionary.ContainsKey(tile.Key))
+                {
+                    TintTile(tile.Key, dictionary[tile.Key]);
+                }
+                else
+                {
+                    TintTile(tile.Key, Color.white);
+                }
+            }
+        }
+        else
+        {
+            return;
         }
     }
 
+    public void AddPlayerDebugTile(Vector2Int tilePos, Color tint)
+    {
+        if (!playerDebugTiles.ContainsKey(tilePos) && (playerDebugRawDistTiles || playerDebugMoveCostTiles))
+        {
+            playerDebugTiles.Add(tilePos, tint);
+        }
+        else
+        {
+            Debug.Log(tilePos + "already exists in Dictonary");
+        }
+    }
+    public void AddFOWDebugTile(Vector2Int pos, Color tint)
+    {
+        if (!fowTintedTiles.ContainsKey(pos) && (fowDebugTilesOn))
+        {
+            fowTintedTiles.Add(pos, tint);
+        }
+        else
+        {
+            Debug.Log(pos + "already exists in Dictonary");
+        }
+    }
 
-
+    private void TintDebug()
+    {
+        foreach (var tile in map)
+        {
+            if (debugTiles.ContainsKey(tile.Key))
+            {
+                TintTile(tile.Key, debugTiles[tile.Key]);
+            }
+            else
+            {
+                TintTile(tile.Key, Color.white);
+            }
+        }
+    }
     void ColorPlayerDebugTiles()
     {
         //Raw Dist Debug will be Blue
@@ -828,305 +1211,6 @@ public class GridManager : MonoBehaviour
         //Debug.Log("Player Debug Tiles Count: " + playerDebugTiles.Count());
         TintDebugTiles(playerDebugTiles);
     }
-
-    //applies the color to the FOW tilemap
-
-    private void CreateFOWGrid()
-    {
-        for (int x = fowTiles.cellBounds.xMin - 20; x < fowTiles.cellBounds.xMax + 20; x++)
-        {
-            for (int y = fowTiles.cellBounds.yMin - 20; y < fowTiles.cellBounds.yMax + 20; y++)
-            {
-                Vector3 worldPosition = fowTiles.CellToWorld(new Vector3Int(x, y, 0));
-                if (fowTiles.HasTile(fowTiles.WorldToCell(worldPosition)))
-                {
-                    fowTintedTiles.Add(new Vector2Int(x, y), Color.black);
-                }
-                else
-                {
-                    fowTintedTiles.Add(new Vector2Int(x, y), Color.black);
-                }
-                TintFOWTiles();
-            }
-        }
-    }
-    void ChangeFOWValue(DijkstrasNodeInfo node)
-    {
-
-        TileInfo tile;
-        bool exists = map.TryGetValue(node.position, out tile);
-        var visionAttribute = player.GetComponent<P_StateManager>().att.GetAttributeType("Vision Range");
-        int visionRange = (int)player.GetComponent<P_StateManager>().att.GetCurrentAttributeValue(visionAttribute);
-        if (!exists)
-        {
-            throw new ArgumentException("tile does not exist on grid");
-        }
-
-        if (node.visible)
-        {
-            if (node.rawDist <= visionRange)
-            {
-                tile.sightValue = FOWEnum.CurrentSeeing;
-            }
-        }
-        else if (!node.visible || node.rawDist > visionRange)
-        {
-            if (tile.sightValue == FOWEnum.CurrentSeeing)
-            {
-                tile.sightValue = FOWEnum.PrevSeen;
-            }
-        }
-
-    }
-    void ColorFOWTiles()
-    {
-        TileInfo currentTile;
-        Color tileTint = Color.white;
-        var visionAttribute = player.GetComponent<P_StateManager>().att.GetAttributeType("Vision Range");
-        int visionRange = (int)player.GetComponent<P_StateManager>().att.GetCurrentAttributeValue(visionAttribute);
-        ConvertPlayerRangetoFOWVision();
-
-        if (fowDebugTilesOn)
-        {
-            foreach (var entry in fowVision)
-            {
-                currentTile = entry.Value;
-                if (currentTile.sightValue == FOWEnum.NeverSeen)
-                {
-                    tileTint = new Color(0, 0, 0, 1);
-                }
-                else if (currentTile.sightValue == FOWEnum.PrevSeen)
-                {
-                    tileTint = new Color(0, 0, 0, .25f);
-                }
-                else if (currentTile.sightValue == FOWEnum.CurrentSeeing)
-                {
-                    tileTint = new Color(0, 0, 0, 0);
-                }
-                //Debug.Log("Key Value: " + map.FirstOrDefault(x => x.Value == currentTile).Key);
-                AddFOWDebugTile(fowVision.FirstOrDefault(x => x.Value == currentTile).Key, tileTint);
-            }
-            TintFOWTiles();
-        }
-    }
-    private void TintFOWTiles()
-    {
-        Debug.Log("FOW Debug Tiles Count: " + fowTintedTiles.Count());
-        //TintDebugTiles(fowTintedTiles);
-        if (fowTintedTiles.Count() >= 1)
-        {
-            foreach (var tile in fowTintedTiles)
-            {
-                if (fowTintedTiles.ContainsKey(tile.Key))
-                {
-                    //TintTile(tile.Key, fowTintedTiles[tile.Key]);
-                    TintTile(tile.Key, fowTintedTiles[tile.Key], fowTiles);
-                }
-                else
-                {
-                    TintTile(tile.Key, Color.white, fowTiles);
-                }
-            }
-        }
-        else
-        {
-            return;
-        }
-    }
-    public void DisplayOrHideEntity(GameObject entity)
-    {
-        var entityPos = GetTileCenter(GetCellPosition(entity.transform.position));
-    }
-    public void TintTile(Vector2Int gridPos, Color color)
-    {
-        TileInfo tile;
-        bool exists = map.TryGetValue(gridPos, out tile);
-        Vector3Int posn = new Vector3Int(gridPos.x, gridPos.y, 0);
-
-        if (!exists)
-        {
-            throw new ArgumentException("tile does not exist on grid");
-        }
-
-        if (tile.traversable)
-        {
-            traversable.SetTileFlags(posn, TileFlags.None);
-            traversable.SetColor(posn, color);
-        }
-        else
-        {
-            notTraversable.SetTileFlags(posn, TileFlags.None);
-            notTraversable.SetColor(posn, color);
-        }
-
-    }
-    public void TintTile(Vector2Int gridPos, Color color, Tilemap _tileMap)
-    {
-        TileInfo tile;
-        bool exists = map.TryGetValue(gridPos, out tile);
-        Vector3Int posn = new Vector3Int(gridPos.x, gridPos.y, 0);
-
-        if (!exists)
-        {
-            throw new ArgumentException("tile does not exist on grid");
-        }
-        else
-        {
-            _tileMap.SetTileFlags(posn, TileFlags.None);
-            _tileMap.SetColor(posn, color);
-            Debug.Log(color);
-        }
-
-    }
-    private void TintDebugTiles(Dictionary<Vector2Int, Color> dictionary)
-    {
-        if (dictionary.Count() >= 1)
-        {
-            foreach (var tile in dictionary)
-            {
-                if (dictionary.ContainsKey(tile.Key))
-                {
-                    TintTile(tile.Key, dictionary[tile.Key]);
-                }
-                else
-                {
-                    TintTile(tile.Key, Color.white);
-                }
-            }
-        }
-        else
-        {
-            return;
-        }
-    }
-    /*
-     */
-    public bool HasLineOfSight(Vector2Int from, Vector2Int to)
-    {
-        // If start and end are the same position
-        if (from == to) return true;
-        int distSqr = (to - from).sqrMagnitude;
-        if (distSqr <= 2) return true; //adjacent tiles always have LOS
-
-        List<Vector2Int> line = GetBresenhamLine(from, to);
-
-        int step = distSqr > 20 ? 2 : 1; // Adjust threshold based on your needs
-        for (int i = 1; i < line.Count - 1; i += step)
-        {
-            if (IsVisionBlocking(line[i]))
-                return false;
-        }
-        return true;
-        /*
-        Vector2 start = new Vector2(from.x + 0.5f, from.y + 0.5f); // Center of tile
-            Vector2 end = new Vector2(to.x + 0.5f, to.y + 0.5f);
-            Vector2 direction = (end - start).normalized;
-            float distance = Vector2.Distance(start, end);
-
-            // Adjust layer mask for your obstacles
-            RaycastHit2D[] hit = Physics2D.RaycastAll(start, direction, distance - 0.1f);
-            if (hit.Length > 0)
-            {
-                for (int i = 0; i < hit.Length; i++)
-                {
-                    if (hit[i].collider != null)
-                    {
-                        // Check if the hit object is an obstacle
-                        if (hit[i].collider.gameObject.CompareTag("Obstacle"))
-                        {
-                            return false; // Line of sight is blocked
-                        }
-                        else
-                        {
-                            continue; // Not an obstacle, continue checking
-                        }
-                    }
-                }
-            }
-            return true;
-        }
-        */
-    }
-    public List<Vector2Int> GetBresenhamLine(Vector2Int from, Vector2Int to)
-    {
-        List<Vector2Int> line = new List<Vector2Int>();
-
-        int x = from.x;
-        int y = from.y;
-        int x2 = to.x;
-        int y2 = to.y;
-
-        int w = x2 - x;
-        int h = y2 - y;
-        int dx1 = 0, dy1 = 0, dx2 = 0, dy2 = 0;
-
-        if (w < 0) dx1 = -1; else if (w > 0) dx1 = 1;
-        if (h < 0) dy1 = -1; else if (h > 0) dy1 = 1;
-        if (w < 0) dx2 = -1; else if (w > 0) dx2 = 1;
-
-        int longest = Mathf.Abs(w);
-        int shortest = Mathf.Abs(h);
-
-        if (!(longest > shortest))
-        {
-            longest = Mathf.Abs(h);
-            shortest = Mathf.Abs(w);
-            if (h < 0) dy2 = -1; else if (h > 0) dy2 = 1;
-            dx2 = 0;
-        }
-
-        int numerator = longest >> 1; // Divide by 2
-
-        for (int i = 0; i <= longest; i++)
-        {
-            line.Add(new Vector2Int(x, y));
-
-            numerator += shortest;
-            if (!(numerator < longest))
-            {
-                numerator -= longest;
-                x += dx1;
-                y += dy1;
-            }
-            else
-            {
-                x += dx2;
-                y += dy2;
-            }
-        }
-
-        return line;
-    }
-
-    public bool IsVisionBlocking(Vector2Int tile)
-    {
-        if (map[tile].traversable == false)
-        {
-            return true;
-        }
-        //check visionblocking[]
-        Collider2D[] colliders = Physics2D.OverlapPointAll(tile);
-        foreach (Collider2D collider in colliders)
-        {
-            Entity entity = collider.GetComponent<Entity>();
-            if (entity != null)
-            {
-                if (entity.gameObject.CompareTag("Obstacle"))
-                {
-                    return true;
-                }
-            }
-        }
-
-        return false;
-
-    }
-    public bool GetTileOccupancy(Vector2Int tile)
-    {
-        if (map[tile].occupied)
-            return true;
-        else
-            return false;
-    }
+    #endregion
 
 }

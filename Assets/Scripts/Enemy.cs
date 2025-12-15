@@ -84,9 +84,12 @@ public class Enemy : Entity
     }
     public void PerceptionCheck(float _time, float _globalTimer)
     {
+        TileInfo targetTile;
+        TileInfo myTile;
         int manhattanDistance = gridManager.ManhattanDistanceToTile(gridManager.GetCellPosition(this.transform.position), gridManager.GetCellPosition(target.position));
         float vision = att.GetBaseAttributeValue(att.GetAttributeType("Vision Range"));
-        bool inSight = gridManager.PlayerDijkstra[gridManager.GetCellPosition(this.transform.position)].visible;
+        gridManager.map.TryGetValue(gridManager.GetCellPosition(target.position), out targetTile);
+        gridManager.map.TryGetValue(gridManager.GetCellPosition(this.transform.position), out myTile);
         if (manhattanDistance > att.GetBaseAttributeValue(att.GetAttributeType("Vision Range")))
         {
             Debug.Log("Perception Check - out of range");
@@ -95,7 +98,7 @@ public class Enemy : Entity
         }
         else if (manhattanDistance <= att.GetBaseAttributeValue(att.GetAttributeType("Vision Range")))
         {
-            if (inSight)
+            if (myTile.LoS)
             {
                 currentPerception += (_time*(vision/manhattanDistance));
                 currentPerception = Mathf.Clamp(currentPerception, 0, 5);

@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using UnityEngine;
+using static GridManager;
 
 public class P_BaseState : P_State
 {
@@ -103,10 +104,13 @@ public class P_BaseState : P_State
                 //Get distance from player
                 Vector2Int targetCenter = player.gridManager.MouseToGrid();
                 //Find the Dijkstra's node at this point
-                Debug.Log("Found " + targetCenter);
-                Debug.Log("Found node. Distance = " + player.gridManager.ManhattanDistanceToTile(player.gridManager.GetCellPosition(player.gameObject.transform.position), targetCenter) + " " + player.gridManager.map[targetCenter].occupied);
+                //Debug.Log("Found " + targetCenter);
+                //Debug.Log("Found node. Distance = " + player.gridManager.ManhattanDistanceToTile(player.gridManager.GetCellPosition(player.gameObject.transform.position), targetCenter) + " " + player.gridManager.map[targetCenter].occupied);
+                TileInfo tile;
+                player.gridManager.map.TryGetValue(targetCenter, out tile);
+                //Debug.Log("Traversability Check = " + tile.traversable);
+                Debug.Log("Visibility Check = " + tile.visible);
                 //print out node info
-
             }
             else if (inputFunction(KeyCode.I))
             {
