@@ -3927,7 +3927,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gridManager: {fileID: 1350821628}
-  gameManager: {fileID: 0}
+  gameManager: {fileID: 105062098}
   rb: {fileID: 0}
   anim: {fileID: 0}
   currentPos: {x: 0, y: 0}
@@ -5996,14 +5996,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   gameManager: {fileID: 105062098}
-  entityList: []
   traversable: {fileID: 103914719}
   notTraversable: {fileID: 2013938912}
   doorOptions: {fileID: 614362944}
   fowTiles: {fileID: 1515120092}
   rangeTiles: {fileID: 2015221512}
   debug: 0
-  player: {fileID: 0}
+  player: {fileID: 490420030}
   playerDebugRawDistTiles: 0
   playerDebugMoveCostTiles: 0
   losDebug: 0
@@ -41445,11 +41444,11 @@ PrefabInstance:
       objectReference: {fileID: 490420032}
     - target: {fileID: 3857367364401055753, guid: 5b4dfe6a9f830564aa89306250f8c487, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 9.25
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 3857367364401055753, guid: 5b4dfe6a9f830564aa89306250f8c487, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -1.7499998
+      value: -2
       objectReference: {fileID: 0}
     - target: {fileID: 3857367364401055753, guid: 5b4dfe6a9f830564aa89306250f8c487, type: 3}
       propertyPath: m_LocalPosition.z
@@ -41487,14 +41486,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: TestEnemy (2)
       objectReference: {fileID: 0}
-    - target: {fileID: 5234558815470154993, guid: 5b4dfe6a9f830564aa89306250f8c487, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6090523045938297406, guid: 5b4dfe6a9f830564aa89306250f8c487, type: 3}
-      propertyPath: attributes.Array.data[2].value.baseValue
-      value: 2.4
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -41514,11 +41505,11 @@ PrefabInstance:
       objectReference: {fileID: 490420032}
     - target: {fileID: 3857367364401055753, guid: 5b4dfe6a9f830564aa89306250f8c487, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 9.25
+      value: 9
       objectReference: {fileID: 0}
     - target: {fileID: 3857367364401055753, guid: 5b4dfe6a9f830564aa89306250f8c487, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.25
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3857367364401055753, guid: 5b4dfe6a9f830564aa89306250f8c487, type: 3}
       propertyPath: m_LocalPosition.z
@@ -41583,11 +41574,11 @@ PrefabInstance:
       objectReference: {fileID: 490420032}
     - target: {fileID: 3857367364401055753, guid: 5b4dfe6a9f830564aa89306250f8c487, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 8.25
+      value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 3857367364401055753, guid: 5b4dfe6a9f830564aa89306250f8c487, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.25
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 3857367364401055753, guid: 5b4dfe6a9f830564aa89306250f8c487, type: 3}
       propertyPath: m_LocalPosition.z
@@ -41624,18 +41615,6 @@ PrefabInstance:
     - target: {fileID: 5234558815470154993, guid: 5b4dfe6a9f830564aa89306250f8c487, type: 3}
       propertyPath: m_Name
       value: TestEnemy
-      objectReference: {fileID: 0}
-    - target: {fileID: 5234558815470154993, guid: 5b4dfe6a9f830564aa89306250f8c487, type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6090523045938297406, guid: 5b4dfe6a9f830564aa89306250f8c487, type: 3}
-      propertyPath: attributes.Array.data[2].value.baseValue
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 6090523045938297406, guid: 5b4dfe6a9f830564aa89306250f8c487, type: 3}
-      propertyPath: attributes.Array.data[3].value.baseValue
-      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

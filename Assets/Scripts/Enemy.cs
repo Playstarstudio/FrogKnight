@@ -20,7 +20,9 @@ public class Enemy : Entity
         Searching,
         CurrentlySeeing
     }
-
+    private void Awake()
+    {
+    }
     void Start()
     {
         gridManager = GridManager.Instance;
@@ -28,8 +30,8 @@ public class Enemy : Entity
         aStarSearchedList = new Dictionary<AStarNodeInfo, AStarNodeInfo>();
         aStarToSearch = new SortedSet<AStarNodeInfo>();
         gameManager = FindFirstObjectByType<GameManager>();
+        this.transform.position = gridManager.GetTileCenter(gridManager.GetCellPosition(this.transform.position));
         readyTime = att.GetBaseAttributeValue(att.GetAttributeType("Move Speed")); ; // enemies are ready to go at time = their speed
-        gridManager.map[gridManager.GetCellPosition(this.transform.position)].occupied = true;
     }
     // Update is called once per frame
     void Update()
@@ -59,6 +61,7 @@ public class Enemy : Entity
     }
     public void Move()
     {
+        Vector2Int fromPos = gridManager.GetCellPosition(this.transform.position);
         // runs astar and puts the path (which is backwards) into 'path'
         gridManager.AStar(ref path, ref aStarSearchedList, ref aStarToSearch, gridManager.GetCellPosition(transform.position), gridManager.GetCellPosition(target.position));
         if (path.Count > 2)
@@ -76,6 +79,7 @@ public class Enemy : Entity
                 transform.position = Vector2.MoveTowards(transform.position, gridManager.GetTileCenter(square.position), Time.deltaTime);
                 currentPos = gridManager.GetCellPosition(transform.position);
             }
+            gridManager.MapMoveEntity(this, fromPos, currentPos);
         }
         else if (path.Count <= 2)
         {
@@ -123,9 +127,11 @@ public class Enemy : Entity
                 Debug.Log("Perception State: HAS SEEN");
 
         }
+        gridManager.CalculateTileData(currentPos);
     }
     public void OnDestroy()
     {
         gameManager.RemoveTimedEntity(this.gameObject);
+        gridManager.MapRemoveEntity(this, currentPos);
     }
 }

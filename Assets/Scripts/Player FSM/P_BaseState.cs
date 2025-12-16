@@ -108,8 +108,10 @@ public class P_BaseState : P_State
                 //Debug.Log("Found node. Distance = " + player.gridManager.ManhattanDistanceToTile(player.gridManager.GetCellPosition(player.gameObject.transform.position), targetCenter) + " " + player.gridManager.map[targetCenter].occupied);
                 TileInfo tile;
                 player.gridManager.map.TryGetValue(targetCenter, out tile);
-                //Debug.Log("Traversability Check = " + tile.traversable);
-                Debug.Log("Visibility Check = " + tile.visible);
+                //player.gridManager.ReturnTileData(targetCenter);
+                Debug.Log("Traversability = " + tile.traversable + " LoS = " + tile.LoS + " Wall = " + tile.wall + " VisionBlocking = " + tile.isVisionBlocking + " occupied = " + tile.occupied + " Visible = " + tile.visible);
+                //Debug.Log("Wall Check = " + tile.wall);
+                //Debug.Log("Visibility Check = " + tile.visible);
                 //print out node info
             }
             else if (inputFunction(KeyCode.I))
@@ -216,11 +218,9 @@ public class P_BaseState : P_State
         }
         //sets player position to the center of the target tile
         player.transform.position = player.gridManager.GetTileCenter(endPosition);
+        player.gridManager.MapMoveEntity(player, player.gridManager.GetCellPosition(startPosition), endPosition);
         //player.transform.position = new Vector3(endPosition.x, endPosition.y, 0);
         //sets tile player is on to occupied
-        player.gridManager.map[endPosition].occupied = true;
-        //sets the previous tile to unoccupied
-        player.gridManager.map[player.gridManager.GetCellPosition(startPosition)].occupied = false;
         //sends over to the game manager to increment time based on movement speed
         player.gameManager.PlayerAction(player, player.movementSpeed);
         /*

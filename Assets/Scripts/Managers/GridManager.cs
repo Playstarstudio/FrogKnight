@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Tilemaps;
 using static GameManager;
@@ -13,8 +14,6 @@ public class GridManager : MonoBehaviour
     public GameManager gameManager;
     private static GridManager _instance;
     public static GridManager Instance { get { return _instance; } }
-    public List<Entity> entityList = new List<Entity>();
-
     public enum FOWEnum
     {
         NeverSeen,
@@ -26,21 +25,23 @@ public class GridManager : MonoBehaviour
         public bool traversable;
         public int rawDist;
         public float moveCost;
-        public bool isVisionBlocking;
+        public bool wall = false;
+        public bool isVisionBlocking = false;
         public bool occupied = false;
-        public Entity[] occupyingEntities;
-        public ItemSO[] occupyingItems;
-        public bool LoS;
-        public bool visible;
+        public List<Entity> occupyingEntities = new List<Entity>();
+        public List<ItemSO> occupyingItems = new List<ItemSO>();
+        public bool LoS = false;
+        public bool visible = false;
         public FOWEnum sightValue;
         public TileInfo(bool traversable)
         {
             this.traversable = traversable;
         }
-        public TileInfo(bool traversable, bool isVisionBlocking)
+        public TileInfo(bool traversable, bool isVisionBlocking, bool wall)
         {
             this.traversable = traversable;
             this.isVisionBlocking = isVisionBlocking;
+            this.wall = wall;
         }
     }
 
@@ -117,10 +118,6 @@ public class GridManager : MonoBehaviour
         player = GameObject.FindWithTag("Player");
         playerRange = new Dictionary<DijkstrasNodeInfo, DijkstrasNodeInfo>();
         var foundEntities = FindObjectsByType<Entity>(FindObjectsSortMode.None);
-        foreach (var obj in foundEntities)
-        {
-            entityList.Add(obj.GetComponent<Entity>());
-        }
         if (fowDebugTilesOn)
         {
             fowTiles.GetComponent<TilemapRenderer>().enabled = true;
@@ -129,6 +126,10 @@ public class GridManager : MonoBehaviour
         {
             fowTiles.GetComponent<TilemapRenderer>().enabled = false;
         }
+    }
+
+    private void Start()
+    {
         PlayerDijkstras();
     }
     private void Update()
@@ -181,7 +182,6 @@ public class GridManager : MonoBehaviour
         {
             throw new ArgumentException("tile does not exist on grid");
         }
-
         if (tile.traversable)
         {
             return (Vector2)traversable.GetCellCenterWorld(new Vector3Int(gridPos.x, gridPos.y, 0));
@@ -190,10 +190,6 @@ public class GridManager : MonoBehaviour
         {
             return (Vector2)notTraversable.GetCellCenterWorld(new Vector3Int(gridPos.x, gridPos.y, 0));
         }
-    }
-    public void mapMove(Vector2Int start, Vector2Int end)
-    {
-
     }
 
     /*
@@ -233,7 +229,6 @@ public class GridManager : MonoBehaviour
     {
         // which position on the map does this correspond to
         public Vector2Int position;
-
         // parent node
         public DijkstrasNodeInfo parent;
 
@@ -371,54 +366,65 @@ public class GridManager : MonoBehaviour
         }
     }
 
-    public bool SetDijkstraVisibility(Vector2Int from, DijkstrasNodeInfo to)
+    public bool SetDijkstraVisibility(Vector2Int from, Vector2Int to)
     {
         // If start and end are the same position
-        if (from == to.position)
+
+        if (from == to)
         {
-            to.LoS = true;
-            to.visible = true;
+            map[to].LoS = true;
+            map[to].visible = true;
             return true;
         }
-        int dist = ManhattanDistanceToTile(from, to.position);
-        if (dist <= 2)
+        float dist = (to-from).magnitude;
+        if (dist <= 1.5)
         {
-            to.LoS = true;
-            to.visible = true;
+            map[to].LoS = true;
+            map[to].visible = true;
             return true; //adjacent tiles always have LOS
         }
-        List<Vector2Int> line = GetBresenhamLine(from, to.position);
+        List<Vector2Int> line = GetBresenhamLine(from, to);
         int step = dist > 20 ? 2 : 1; // Adjust threshold based on your needs
         for (int i = 1; i < line.Count - 1; i++)
         {
-            if (IsVisionBlocking(line[i]))
+            if (map[line[i]].wall == true || map[line[i]].isVisionBlocking == true)
             {
-                to.LoS = false;
-                to.visible = false;
+                map[to].LoS = false;
+                map[to].visible = false;
+                return true;
+            }
+            else if (!map.ContainsKey(line[i]))
+            {
                 return false;
             }
-            else to.LoS = true;
+            if (IsVisionBlockingCheck(line[i]))
+            {
+                map[to].LoS = false;
+                map[to].visible = false;
+                return false;
+            }
+            else map[to].LoS = true;
         }
-        if (to.LoS)
+        if (map[to].LoS)
         {
             AttributeType visionAttribute = player.GetComponent<P_StateManager>().att.GetAttributeType("Vision Range");
             int visionRange = (int)player.GetComponent<P_StateManager>().att.GetCurrentAttributeValue(visionAttribute);
             if (dist <= visionRange)
             {
-                to.visible = true;
+                map[to].visible = true;
                 return true;
             }
             else
             {
-                to.visible = false;
+                map[to].visible = false;
                 return false;
             }
         }
-        else if (!to.LoS)
+        else if (!map[to].LoS)
         {
-            to.visible = false;
+            map[to].visible = false;
         }
-        if (to.visible && to.LoS)
+        if (map[to].visible && map[to].LoS)
         {
             return true;
         }
@@ -479,30 +485,16 @@ public class GridManager : MonoBehaviour
         return line;
     }
 
-    public bool IsVisionBlocking(Vector2Int tile)
+    public bool IsVisionBlockingCheck(Vector2Int tile)
     {
-        if (map[tile].traversable == false)
+        if (map[tile].wall == true || map[tile].isVisionBlocking == true)
         {
             return true;
         }
-        //check visionblocking[]
-        //public Entity[] occupyingEntities;
-        if (map[tile].occupyingEntities != null)
+        else
         {
-            Entity[] occupyingEntities = map[tile].occupyingEntities;
-            if (occupyingEntities.Length > 0)
-                foreach (Entity entity in occupyingEntities)
-                {
-                    if (entity != null)
-                    {
-                        if (entity.gameObject.CompareTag("Obstacle"))
-                        {
-                            return true;
-                        }
-                    }
-                }
+            return false;
         }
-        return false;
     }
     public bool GetTileOccupancy(Vector2Int tile)
     {
@@ -521,17 +513,32 @@ public class GridManager : MonoBehaviour
         toSearch = MapToSortedSet();
         Vector2Int playerTransform = GetCellPosition(player.transform.position);
         Vector2Int tile;
+        AttributeType visionAttribute = player.GetComponent<P_StateManager>().att.GetAttributeType("Vision Range");
+        int playerVision = (int)player.GetComponent<P_StateManager>().att.GetCurrentAttributeValue(visionAttribute);
         Dijkstras(ref playerRange, ref toSearch, playerTransform, -1);
         map[playerTransform].visible = true;
         map[playerTransform].LoS = true;
+        ChangeFOWValue(playerTransform);
+        /*
         foreach (var entry in playerRange)
         {
             if (entry.Key != null)
             {
                 tile = entry.Key.position;
-                map[tile].LoS = entry.Key.LoS;
-                map[tile].visible = entry.Key.visible;
-                ChangeFOWValue(entry.Key);
+                SetDijkstraVisibility(playerTransform, tile);
+                ChangeFOWValue(tile);
+            }
+        }
+         */
+        Vector2Int min = new Vector2Int();
+        Vector2Int max = new Vector2Int();
+        MinMaxRange(out min, out max);
+        for (int x = min.x - 5; x < max.x + 5; x++)
+        {
+            for (int y = min.y - 5; y < max.y + 5; y++)
+            {
+                SetDijkstraVisibility(playerTransform, new Vector2Int(x, y));
+                ChangeFOWValue(new Vector2Int(x, y));
             }
         }
         foreach (TimedEntity entity in gameManager.sortedTimedEntities)
@@ -542,8 +549,34 @@ public class GridManager : MonoBehaviour
         if (playerDebugRawDistTiles || playerDebugMoveCostTiles)
             ColorPlayerDebugTiles();
         if (fowDebugTilesOn)
-            ColorFOWTiles();
+            ColorFOWTiles(min, max);
+    }
 
+
+    private bool MinMaxRange(out Vector2Int min, out Vector2Int max)
+    {
+        min = new Vector2Int(int.MaxValue, int.MaxValue);
+        max = new Vector2Int(int.MinValue, int.MinValue);
+        if (playerRange == null || playerRange.Count == 0)
+        {
+            Debug.Log("Player range is empty or null");
+            min = Vector2Int.zero;
+            max = Vector2Int.zero;
+            return false;
+        }
+        foreach (var entry in playerRange.Keys)
+        {
+            Vector2Int pos = entry.position;
+            if (pos.x < min.x)
+                min.x = pos.x;
+            if (pos.y < min.y)
+                min.y = pos.y;
+            if (pos.x > max.x)
+                max.x = pos.x;
+            if (pos.y > max.y)
+                max.y = pos.y;
+        }
+        return true;
     }
 
     /* @brief Runs AStar
@@ -680,15 +713,16 @@ public class GridManager : MonoBehaviour
                 continue;
             }
                  */
-                // if it isnt traversible ignore this node
+                /////////////SetDijkstraVisibility(startingSquare, neighbor);
+                //SetDijkstraVisibility(startingSquare, neighbor);
                 if (!map[neighbor.position].traversable)
                 {
+                    // if it isnt traversible ignore this node
                     continue;
                 }
-                SetDijkstraVisibility(startingSquare, neighbor);
-                // if already in searched list, dont add
                 if (searched.ContainsKey(neighbor))
                 {
+                    // if already in searched list, dont 
                     continue;
                 }
 
@@ -721,20 +755,33 @@ public class GridManager : MonoBehaviour
             {
                 Vector3 worldPosition = traversable.CellToWorld(new Vector3Int(x, y, 0));
                 if (notTraversable.HasTile(notTraversable.WorldToCell(worldPosition)))
-                //maybe add this to vision blocking tiles later
                 {
-                    map.Add(new Vector2Int(x, y), new TileInfo(false, true));
+                    map.Add(new Vector2Int(x, y), new TileInfo(false, true, true));
                 }
                 else
                 {
-                    map.Add(new Vector2Int(x, y), new TileInfo(true, false));
+                    map.Add(new Vector2Int(x, y), new TileInfo(true, false, false));
                 }
+                map[new Vector2Int(x, y)].occupyingEntities = FindEntities(new Vector2Int(x, y));
+                CalculateTileData(new Vector2Int(x, y));
             }
         }
-
     }
-
-
+    private List<Entity> FindEntities(Vector2Int pos)
+    {
+        Collider2D[] colliders = Physics2D.OverlapCircleAll(GetTileCenter(pos), 0.1f);
+        List<Entity> entities = new List<Entity>();
+        foreach (var collider in colliders)
+        {
+            Entity entity = collider.GetComponent<Entity>();
+            if (entity != null)
+            {
+                entities.Add(entity);
+                map[pos].occupied = true;
+            }
+        }
+        return entities;
+    }
     public bool TraversableCheck(Vector2Int pos)
     {
         TileInfo tile;
@@ -892,25 +939,25 @@ public class GridManager : MonoBehaviour
             }
         }
     }
-    void ChangeFOWValue(DijkstrasNodeInfo node)
+    void ChangeFOWValue(Vector2Int node)
     {
 
         TileInfo tile;
-        bool exists = map.TryGetValue(node.position, out tile);
+        bool exists = map.TryGetValue(node, out tile);
         var visionAttribute = player.GetComponent<P_StateManager>().att.GetAttributeType("Vision Range");
         int visionRange = (int)player.GetComponent<P_StateManager>().att.GetCurrentAttributeValue(visionAttribute);
         if (!exists)
         {
             throw new ArgumentException("tile does not exist on grid");
         }
-        if (node.visible)
+        if (tile.visible)
         {
-            if (node.rawDist <= visionRange)
+            if (tile.rawDist <= visionRange)
             {
                 tile.sightValue = FOWEnum.CurrentlySeeing;
             }
         }
-        else if (!node.visible || node.rawDist > visionRange)
+        else if (!tile.visible || tile.rawDist > visionRange)
         {
             if (tile.sightValue == FOWEnum.CurrentlySeeing)
             {
@@ -919,7 +966,7 @@ public class GridManager : MonoBehaviour
         }
 
     }
-    void ColorFOWTiles()
+    void ColorFOWTiles(Vector2Int min, Vector2Int max)
     {
         TileInfo currentTile;
         Color tileTint = Color.white;
@@ -928,30 +975,34 @@ public class GridManager : MonoBehaviour
 
         if (fowDebugTilesOn)
         {
-            foreach (var entry in playerRange)
+            for (int x = min.x - 5; x < max.x + 5; x++)
             {
-                if (entry.Key != null)
+                for (int y = min.y - 5; y < max.y + 5; y++)
                 {
-                    map.TryGetValue(entry.Key.position, out currentTile);
-                    if (currentTile == null)
+                    Vector2Int tile = new Vector2Int(x, y);
+                    if (tile != null)
                     {
-                        continue;
+                        map.TryGetValue(tile, out currentTile);
+                        if (currentTile == null)
+                        {
+                            continue;
+                        }
                     }
+                    if (map[tile].sightValue == FOWEnum.NeverSeen)
+                    {
+                        tileTint = new Color(0, 0, 0, 1);
+                    }
+                    else if (map[tile].sightValue == FOWEnum.PrevSeen)
+                    {
+                        tileTint = new Color(0, 0, 0, .25f);
+                    }
+                    else if (map[tile].sightValue == FOWEnum.CurrentlySeeing)
+                    {
+                        tileTint = new Color(0, 0, 0, 0);
+                    }
+                    //Debug.Log("Key Value: " + map.FirstOrDefault(x => x.Value == currentTile).Key);
+                    AddFOWDebugTile(tile, tileTint);
                 }
-                if (map[entry.Key.position].sightValue == FOWEnum.NeverSeen)
-                {
-                    tileTint = new Color(0, 0, 0, 1);
-                }
-                else if (map[entry.Key.position].sightValue == FOWEnum.PrevSeen)
-                {
-                    tileTint = new Color(0, 0, 0, .25f);
-                }
-                else if (map[entry.Key.position].sightValue == FOWEnum.CurrentlySeeing)
-                {
-                    tileTint = new Color(0, 0, 0, 0);
-                }
-                //Debug.Log("Key Value: " + map.FirstOrDefault(x => x.Value == currentTile).Key);
-                AddFOWDebugTile(entry.Key.position, tileTint);
             }
             TintFOWTiles();
         }
@@ -981,65 +1032,133 @@ public class GridManager : MonoBehaviour
         }
     }
 
+    public void CalculateTileData(Vector2Int tile)
+    {
+        /*
+        public bool traversable; does need to be calculated
+        public bool isVisionBlocking;
+        public bool occupied = false;
+         */
+        TileInfo tileInfo;
+        map.TryGetValue(tile, out tileInfo);
+        if (tileInfo == null)
+        {
+
+            return;
+        }
+        if (map[tile].wall)
+        {
+            map[tile].occupied = true;
+            map[tile].isVisionBlocking = true;
+            map[tile].traversable = false;
+            ChangeFOWValue(tile);
+
+            return;
+        }
+        else if (map[tile].occupyingEntities.Count == 0)
+        {
+            map[tile].occupied = false;
+            map[tile].isVisionBlocking = false;
+            map[tile].traversable = true;
+            ChangeFOWValue(tile);
+
+            return;
+        }
+        if (map[tile].occupyingEntities.Count > 0)
+        {
+            map[tile].occupied = true;
+            foreach (var entity in map[tile].occupyingEntities)
+            {
+                if (entity.CompareTag("Obstacle"))
+                {
+                    map[tile].occupied = true;
+                    map[tile].isVisionBlocking = true;
+                    map[tile].traversable = false;
+                    ChangeFOWValue(tile);
+
+                    return;
+                }
+                else if (entity.CompareTag("Entity"))
+                {
+                    map[tile].occupied = true;
+                    map[tile].isVisionBlocking = false;
+                    map[tile].traversable = false;
+                    ChangeFOWValue(tile);
+
+                }
+            }
+        }
+        ChangeFOWValue(tile);
+        return;
+    }
     public void MapMoveEntity(Entity entity, Vector2Int from, Vector2Int to)
     {
-        //remove entity from the FROM tile's occupying list
-        //add to to the TO tile's occupying list
-        map[from].occupied = false;
-        map[to].occupied = true;
+        map[from].occupyingEntities.Remove(entity);
+        map[to].occupyingEntities.Add(entity);
+        CalculateTileData(from);
+        CalculateTileData(to);
         DisplayOrHideEntity(entity);
     }
-    public void MapSpawnEntity(Entity entity, Vector2Int tilePos)
+    public void MapAddEntity(Entity entity, Vector2Int tilePos)
     {
-        //map[tilePos].occupyingEntities.Append(entity);
-        //map[tilePos].occupied = true;
-        //DisplayOrHideEntity(entity);
+        map[tilePos].occupyingEntities.Add(entity);
+        CalculateTileData(tilePos);
+        DisplayOrHideEntity(entity);
     }
-    public void MapRemoveEntity(Entity entity)
+    public void MapRemoveEntity(Entity entity, Vector2Int tilePos)
     {
-        //DisplayOrHideEntity(entity);
+        map[tilePos].occupyingEntities.Remove(entity);
+        CalculateTileData(tilePos);
+        DisplayOrHideEntity(entity);
+
     }
-    public void MapPlaceItem(ItemSO item, Vector2Int tilePos)
+    public void MapAddItem(ItemSO item, Vector2Int tilePos)
     {
-        //map[tilePos].placedItem = item;
+        map[tilePos].occupyingItems.Add(item);
+        CalculateTileData(tilePos);
+        DisplayOrHideItem(item, tilePos);
+
     }
-    public void MapRemoveItem(Vector2Int tilePos)
+    public void MapRemoveItem(ItemSO item, Vector2Int tilePos)
     {
-        //map[tilePos].placedItem = null;
+        map[tilePos].occupyingItems.Remove(item);
+        CalculateTileData(tilePos);
     }
     public void MapMoveItem(ItemSO item, Vector2Int from, Vector2Int to)
     {
-        //map[from].placedItem = null;
-        //map[to].placedItem = item;
+        map[from].occupyingItems.Remove(item);
+        map[to].occupyingItems.Add(item);
+        CalculateTileData(from);
+        CalculateTileData(to);
+        DisplayOrHideItem(item, to);
     }
-    public void MapSpawnObstacle(Entity obstacle, Vector2Int tilePos)
+    public void DisplayOrHideEntity(Entity gameObject)
     {
-        //map[tilePos].occupied = true;
-        //DisplayOrHideEntity(obstacle);
-    }
-    public void MapRemoveObstacle(Entity obstacle, Vector2Int tilePos)
-    {
-        //map[tilePos].occupied = false;
-        //DisplayOrHideEntity(obstacle);
-    }
-    public void MapMoveObstacle(Entity obstacle, Vector2Int from, Vector2Int to)
-    {
-        //map[from].occupied = false;
-        //map[to].occupied = true;
-        //DisplayOrHideEntity(obstacle);
-    }
-
-    public void DisplayOrHideEntity(Entity entity)
-    {
-        Vector2 entityPos = GetTileCenter(GetCellPosition(entity.transform.position));
-        if (entityPos != null)
+        Vector2 objectPos = GetTileCenter(GetCellPosition(gameObject.transform.position));
+        if (objectPos != null)
         {
-            SpriteRenderer render = entity.GetComponent<SpriteRenderer>();
-            if (map[GetCellPosition(entityPos)].visible)
+            SpriteRenderer render = gameObject.GetComponent<SpriteRenderer>();
+            if (map[GetCellPosition(objectPos)].visible)
             {
                 render.enabled = true;
             }
-            else if (!map[GetCellPosition(entityPos)].visible)
+            else if (!map[GetCellPosition(objectPos)].visible)
+            {
+                render.enabled = false;
+            }
+        }
+    }
+    public void DisplayOrHideItem(ItemSO gameObject, Vector2Int tile)
+    {
+        Vector2 objectPos = GetTileCenter(tile);
+        if (objectPos != null)
+        {
+            SpriteRenderer render = gameObject.GetComponent<SpriteRenderer>();
+            if (map[GetCellPosition(objectPos)].visible)
+            {
+                render.enabled = true;
+            }
+            else if (!map[GetCellPosition(objectPos)].visible)
             {
                 render.enabled = false;
             }
@@ -1213,4 +1332,11 @@ public class GridManager : MonoBehaviour
     }
     #endregion
 
+
+    public bool ReturnTileData(Vector2Int tile)
+    {
+        CalculateTileData(tile);
+        Debug.Log(map[tile].ToString());
+        return true;
+    }
 }

@@ -47,7 +47,8 @@ public class P_StateManager : Entity
         currentState.EnterState(this);
         gameManager = FindFirstObjectByType<GameManager>();
         gridManager = FindFirstObjectByType<GridManager>();
-
+        this.transform.position = gridManager.GetTileCenter(gridManager.GetCellPosition(this.transform.position));
+        gridManager.MapAddEntity(this, gridManager.GetCellPosition(this.transform.position));
     }
 
     // Update is called once per frame
