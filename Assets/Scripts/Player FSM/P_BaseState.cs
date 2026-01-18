@@ -134,6 +134,13 @@ public class P_BaseState : P_State
                     player.SwitchState(player.inventoryState);
                 }
             }
+            else if (Input.GetButtonDown("Dialogue"))
+            {
+                if (!player.dialogueManager.dialogueCheck())
+                {
+                    player.SwitchState(player.inventoryState);
+                }
+            }
         }
     }
 
