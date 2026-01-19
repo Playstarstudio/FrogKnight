@@ -7,12 +7,12 @@ using UnityEngine;
 public class DialogueEnemy : MonoBehaviour
 {
     [HeaderAttribute("Visual Cue")]
-    [SerializeField] private GameObject visualCue;
+    public GameObject visualCue;
 
     [Header("Ink JSON")]
-    [SerializeField] private TextAsset inkJSON;
+    public TextAsset inkJSON;
 
-    private bool playerInRange;
+    public bool playerInRange;
 
 
     private void Awake() //On wake, ensures that the visual cue is off and the variables are set properly
@@ -23,23 +23,30 @@ public class DialogueEnemy : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collider) //Checks to see if, upon a collider entrance, the object entering is the player, and if so, detects them for DIALOGUE
     {
-        if (collider.gameObject.tag == "Player")
+        if (collider.CompareTag("Player"))
         {
             playerInRange = true;
+            DialogueManager.instance.dialogueEnemy = this;
+            
         }
     }
 
     private void OnTriggerExit2D(Collider2D collider) //Checks to see if, upon a collider exit, the object exiting is the player to turn off dialogue capabilities if needed
     {
-        if (collider.gameObject.tag == "Player")
+        if (collider.CompareTag("Player"))
         {
+            if (DialogueManager.instance.dialogueEnemy==this)
+            {
+                DialogueManager.instance.dialogueEnemy=null;
+            }
             playerInRange = false;
+            //collider.GetComponent<P_BaseState>
         }
     }
 
     private void Update() //Updates enemy visual cue for dialogue depending on player range
     {
-        if (playerInRange)
+        if (playerInRange && !DialogueManager.GetInstance().dialogueIsPlaying)
         {
             visualCue.SetActive(true);
 

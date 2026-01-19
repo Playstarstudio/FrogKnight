@@ -134,11 +134,11 @@ public class P_BaseState : P_State
                     player.SwitchState(player.inventoryState);
                 }
             }
-            else if (Input.GetButtonDown("Dialogue"))
+            else if (Input.GetButtonDown("Dialogue")) //This should check if you can initiate dialogue
             {
-                if (!player.dialogueManager.dialogueCheck())
+                if (DialogueManager.instance.dialogueCheck())
                 {
-                    player.SwitchState(player.inventoryState);
+                    player.SwitchState(player.dialogueState);
                 }
             }
         }

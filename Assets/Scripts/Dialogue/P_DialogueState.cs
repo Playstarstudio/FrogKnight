@@ -1,31 +1,44 @@
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
+using static GridManager;
 
 public class P_DialogueState : P_State
 {
     public bool visible = false;
     public override void EnterState(P_StateManager player)
     {
-        inputFunction = Input.GetKeyDown;
+      inputFunction = Input.GetKeyDown;  
     }
     
     public override void UpdateState(P_StateManager player)
     {
-        if (Input.GetButtonDown("Dialogue"))
+        if (Input.GetKeyDown("Dialogue"))
         {
-            if (!player.dialogueManager.dialogueCheck())
+            if (DialogueManager.GetInstance().dialogueIsPlaying)
+            {
+                return;
+            }
+            if (!DialogueManager.instance.dialogueCheck())
             {
                 player.SwitchState(player.baseState);
             }
-        }
-
-        /*System.Func<KeyCode, bool> inputFunction;
-        inputFunction = Input.GetKeyDown;
-        if (Input.GetKeyDown(KeyCode.Return))
+        } 
+        else if (Input.GetKeyDown(KeyCode.Alpha1))
         {
-            DialogueManager.dialogueCheck();
-        }*/
+            DialogueManager.instance.MakeChoice(0);
+        } 
+        else if (Input.GetKeyDown(KeyCode.Alpha2))
+        {
+            DialogueManager.instance.MakeChoice(1);
+        } 
+        else if (Input.GetKeyDown(KeyCode.Alpha3))
+        {
+            DialogueManager.instance.MakeChoice(2);
+        }
+        else if (Input.GetKeyDown(KeyCode.Alpha4))
+        {
+            DialogueManager.instance.MakeChoice(3);
+        }
     }
 
     public override void ExitState(P_StateManager player)

@@ -1,8 +1,14 @@
-This is a test script
+-> main
 
-Line 2 is this one
-
-*Option 1
-*Option 2
-
-Done
+=== main ===
+Which pokemon do you choose?
+    + [Charmander]
+        -> chosen("Charmander")
+    + [Bulbasaur]
+        -> chosen("Bulbasaur")
+    + [Squirtle]
+        -> chosen("Squirtle")
+        
+=== chosen(pokemon) ===
+You chose {pokemon}!
+-> END

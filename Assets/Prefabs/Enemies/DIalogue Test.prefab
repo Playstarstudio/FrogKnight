@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5065653772201453650}
   - component: {fileID: 4471045441820388576}
+  - component: {fileID: 339473953815259618}
   m_Layer: 0
   m_Name: Dialogue Trigger
   m_TagString: Untagged
@@ -76,8 +77,23 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 2, y: 2}
+  m_Size: {x: 5, y: 5}
   m_EdgeRadius: 0
+--- !u!114 &339473953815259618
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2126830709604209840}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15e436a66e7d44748ad359f3c43f412c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueEnemy
+  visualCue: {fileID: 4209735186526539335}
+  inkJSON: {fileID: 4900000, guid: 5f55f75df9cd2ab48a22cb366fef1a64, type: 3}
+  playerInRange: 0
 --- !u!1 &4209735186526539335
 GameObject:
   m_ObjectHideFlags: 0
@@ -196,7 +212,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5234558815470154993}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 10, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -281,8 +297,8 @@ MonoBehaviour:
   anim: {fileID: 0}
   currentPos: {x: 0, y: 0}
   gridSize: 0
-  readyTime: 0
-  att: {fileID: 6090523045938297406}
+  readyTime: 1
+  att: {fileID: 0}
   visionBlock: 0
   castSuccess: 0
   casting: {fileID: 0}

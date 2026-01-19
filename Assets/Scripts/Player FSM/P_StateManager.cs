@@ -27,7 +27,7 @@ public class P_StateManager : Entity
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     public InventoryManager inventoryManager;
 
-    public DialogueManager dialogueManager;
+    //public DialogueManager dialogueManager;
     public Transform mainCamera;
     /*
     public AudioSource SoundEffect1;
