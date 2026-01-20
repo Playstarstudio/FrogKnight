@@ -2,14 +2,20 @@ using System.Collections;
 using System.Collections.Generic;
 using Ink.Runtime;
 using TMPro;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.SearchService;
 
 public class DialogueManager : MonoBehaviour
 {
     [Header("Dialogue UI")]
     public GameObject dialoguePanel;
     public TextMeshProUGUI dialogueText;
+    public TextMeshProUGUI displayNameText;
+    public Animator portraitAnimator;
+    public Animator layoutAnimator;
+
     [Header("Choices UI")]
     public GameObject[] choices;
     public TextMeshProUGUI[] choicesText;
@@ -17,6 +23,10 @@ public class DialogueManager : MonoBehaviour
     public static DialogueManager instance;
     public Story currentStory;
     public bool dialogueIsPlaying;
+
+    public const string SPEAKER_TAG = "speaker";
+    public const string PORTRAIT_TAG = "portrait";
+    public const string LAYOUT_TAG = "layout";
 
     public DialogueEnemy dialogueEnemy;
     private void Awake()
@@ -34,7 +44,9 @@ public class DialogueManager : MonoBehaviour
     {
         ExitDialogueMode(); //disables dialogue panel and dialogueisplaying var
 
-        choicesText = new TextMeshProUGUI[choices.Length];
+        layoutAnimator = dialoguePanel.GetComponent<Animator>(); //gets the layout animator
+
+        choicesText = new TextMeshProUGUI[choices.Length]; //gets all the choices into the appropriate list
         int index = 0;
         foreach (GameObject choice in choices)
         {
@@ -76,19 +88,56 @@ public class DialogueManager : MonoBehaviour
         dialogueIsPlaying = true;
         dialoguePanel.SetActive(true);
 
+        displayNameText.text = "???"; //resets dialogue tags to default
+        portraitAnimator.Play("default");
+        layoutAnimator.Play("right");
+
         ContinueStory();
     }
 
-    public void ContinueStory() //advances the text to the next line
+    public void ContinueStory() //advances the text to the next line if the text can continue, else ends dialogue
     {
         if (currentStory.canContinue)
         {
-            dialogueText.text = currentStory.Continue();
+            dialogueText.text = currentStory.Continue(); //Advances to the next line of text
             DisplayChoices();
+            HandleTags(currentStory.currentTags); //Takes in JSON text file tags
 
         } else
         {
             ExitDialogueMode();
+        }
+    }
+
+    public void HandleTags(List<string> currentTags)
+    {
+        foreach (string tag in currentTags)
+        {
+            string[] splitTag = tag.Split(':'); //Read and parse through the tags
+            if (splitTag.Length != 2)
+            {
+                Debug.LogError("Tag could not be appropriately parsed: " + tag); //Errors out if tag can't be read properly
+            }
+            string tagKey = splitTag[0].Trim();
+            string tagValue = splitTag[1].Trim();
+
+            switch (tagKey) //takes tag and implements it into the Dialogue IN PROGRESS
+            {
+                case SPEAKER_TAG:
+                    displayNameText.text = tagValue;
+                    Debug.Log("Speaker=" + tagValue);
+                    break;
+                case PORTRAIT_TAG:
+                    portraitAnimator.Play(tagValue);
+                    Debug.Log("Portrait=" + tagValue);
+                    break;
+                case LAYOUT_TAG:
+                    layoutAnimator.Play(tagValue);
+                    Debug.Log("Layout=" + tagValue);
+                    break;
+                default:
+                    break;
+            }
         }
     }
 
