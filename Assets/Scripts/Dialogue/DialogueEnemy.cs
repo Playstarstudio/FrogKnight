@@ -3,7 +3,7 @@ using System.Linq;
 using static GridManager;
 using UnityEngine;
 
-[CreateAssetMenu(fileName = "DialogueEnemy", menuName = "Scriptable Objects/DialogueEnemy")]
+//[CreateAssetMenu(fileName = "DialogueEnemy", menuName = "Scriptable Objects/DialogueEnemy")]
 public class DialogueEnemy : MonoBehaviour
 {
     [HeaderAttribute("Visual Cue")]
@@ -26,7 +26,7 @@ public class DialogueEnemy : MonoBehaviour
         if (collider.CompareTag("Player"))
         {
             playerInRange = true;
-            //DialogueManager.instance.dialogueEnemy = this;
+            DialogueManager.instance.dialogueEnemy = this;
             
         }
     }
@@ -35,10 +35,10 @@ public class DialogueEnemy : MonoBehaviour
     {
         if (collider.CompareTag("Player"))
         {
-            /*if (DialogueManager.instance.dialogueEnemy==this)
+            if (DialogueManager.instance.dialogueEnemy==this)
             {
                 DialogueManager.instance.dialogueEnemy=null;
-            }*/
+            }
             playerInRange = false;
             //collider.GetComponent<P_BaseState>
         }

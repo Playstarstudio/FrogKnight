@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using Ink.Parsed;
 using UnityEngine;
 using static GridManager;
 
@@ -12,7 +13,7 @@ public class P_DialogueState : P_State
     
     public override void UpdateState(P_StateManager player)
     {
-        if (Input.GetKeyDown("Dialogue"))
+        if (Input.GetKeyDown(KeyCode.Return))
         {
             if (DialogueManager.GetInstance().dialogueIsPlaying)
             {

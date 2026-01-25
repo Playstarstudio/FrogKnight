@@ -66,6 +66,7 @@ public class DialogueManager : MonoBehaviour
     {
         return instance;
     }
+
     private void Update()
     {
         if (!dialogueIsPlaying){ //Immediately return if no dialogue
@@ -73,7 +74,7 @@ public class DialogueManager : MonoBehaviour
         }
 
         //This line of code continues to the next line of dialogue
-        if (Input.GetKeyDown("Dialogue"))
+        if (Input.GetKeyDown(KeyCode.Return))
         {
             ContinueStory();
         }
