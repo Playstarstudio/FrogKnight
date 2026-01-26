@@ -55,7 +55,7 @@ public class DialogueManager : MonoBehaviour
         }
     }
 
-    private void ExitDialogueMode() //Exits the dialogue
+    public void ExitDialogueMode() //Exits the dialogue
     {
         dialogueIsPlaying = false;
         dialoguePanel.SetActive(false);
@@ -74,7 +74,7 @@ public class DialogueManager : MonoBehaviour
         }
 
         //This line of code continues to the next line of dialogue
-        if (Input.GetKeyDown(KeyCode.Return))
+        if (Input.GetKeyDown("Interact"))
         {
             ContinueStory();
         }

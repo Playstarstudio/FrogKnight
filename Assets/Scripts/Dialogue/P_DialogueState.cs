@@ -13,7 +13,7 @@ public class P_DialogueState : P_State
     
     public override void UpdateState(P_StateManager player)
     {
-        if (Input.GetKeyDown(KeyCode.Return))
+        if (Input.GetKeyDown("Interact"))
         {
             if (DialogueManager.GetInstance().dialogueIsPlaying)
             {
@@ -39,6 +39,11 @@ public class P_DialogueState : P_State
         else if (Input.GetKeyDown(KeyCode.Alpha4))
         {
             DialogueManager.instance.MakeChoice(3);
+        }
+        else if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            DialogueManager.instance.ExitDialogueMode();
+            player.SwitchState(player.baseState);
         }
     }
 
