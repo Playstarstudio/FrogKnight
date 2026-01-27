@@ -74,7 +74,7 @@ public class DialogueManager : MonoBehaviour
         }
 
         //This line of code continues to the next line of dialogue
-        if (Input.GetKeyDown("Interact"))
+        if (Input.GetKeyDown(KeyCode.F))
         {
             ContinueStory();
         }
@@ -196,5 +196,6 @@ public class DialogueManager : MonoBehaviour
     public void MakeChoice(int choiceIndex)
     {
         currentStory.ChooseChoiceIndex(choiceIndex);
+        ContinueStory();
     }
 }

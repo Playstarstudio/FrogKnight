@@ -8,21 +8,22 @@ public class P_DialogueState : P_State
     public bool visible = false;
     public override void EnterState(P_StateManager player)
     {
-      inputFunction = Input.GetKeyDown;  
+      //inputFunction = Input.GetKeyDown;  
     }
     
     public override void UpdateState(P_StateManager player)
     {
-        if (Input.GetKeyDown("Interact"))
+        if (!DialogueManager.GetInstance().dialogueIsPlaying)
+        {
+            player.SwitchState(player.baseState);
+        }
+        if (Input.GetKeyDown(KeyCode.F))
         {
             if (DialogueManager.GetInstance().dialogueIsPlaying)
             {
                 return;
             }
-            if (!DialogueManager.instance.dialogueCheck())
-            {
-                player.SwitchState(player.baseState);
-            }
+            
         } 
         else if (Input.GetKeyDown(KeyCode.Alpha1))
         {
@@ -40,15 +41,14 @@ public class P_DialogueState : P_State
         {
             DialogueManager.instance.MakeChoice(3);
         }
-        else if (Input.GetKeyDown(KeyCode.Escape))
+        else if (Input.GetKeyDown(KeyCode.Equals))
         {
-            DialogueManager.instance.ExitDialogueMode();
             player.SwitchState(player.baseState);
         }
     }
 
     public override void ExitState(P_StateManager player)
     {
-        base.ExitState(player);
+        DialogueManager.instance.ExitDialogueMode();
     }
 }
