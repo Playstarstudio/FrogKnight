@@ -12,9 +12,10 @@ public class P_StateManager : Entity
     public P_BaseState baseState = new P_BaseState();
     public P_AbilityState abilityState = new P_AbilityState();
     public P_InventoryState inventoryState = new P_InventoryState();
+    public P_DialogueState dialogueState = new P_DialogueState();
     /*
     public P_CharacterState characterstate = new P_CharacterState();
-    public P_DialogueState dialogueState = new P_DialogueState();
+    
     public P_PausedState pausedState = new P_PausedState();
     public P_OverworldState p_OverworldState = new P_OverworldState();
     public P_CraftingState p_CraftingState = new P_CraftingState();
@@ -25,6 +26,8 @@ public class P_StateManager : Entity
     public List<Vector2Int> rangeTile;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     public InventoryManager inventoryManager;
+
+    //public DialogueManager dialogueManager;
     public Transform mainCamera;
     /*
     public AudioSource SoundEffect1;
