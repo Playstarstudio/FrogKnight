@@ -3,18 +3,13 @@ public class Door : Entity
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        gridManager.map[gridManager.GetCellPosition(this.transform.position)].occupied = true;
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
+        gridManager.MapAddEntity(this, gridManager.GetCellPosition(this.transform.position));
     }
 
     private void OnDestroy()
     {
-        gridManager.map[gridManager.GetCellPosition(this.transform.position)].occupied = false;
+        gridManager.MapRemoveEntity(this, gridManager.GetCellPosition(this.transform.position));
+
         gameManager.RemoveTimedEntity(this.gameObject);
     }
 }

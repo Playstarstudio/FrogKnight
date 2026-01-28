@@ -1,5 +1,7 @@
+using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
+using static UnityEngine.GraphicsBuffer;
 
 [CreateAssetMenu(fileName = "Ability", menuName = "Scriptable Objects/Ability")]
 public class Ability : ScriptableObject
@@ -19,6 +21,7 @@ public class Ability : ScriptableObject
     public TargetSubType targetSubType;
     public AbilityEffect[] abilityEffects;
     public Collider2D[] colliders;
+    public List<Entity> targets;
 
     public enum TargetType
     {
@@ -38,6 +41,7 @@ public class Ability : ScriptableObject
     }
     public virtual bool TryCastAbility(Entity source, Vector2 targetPosition)
     {
+        targets.Clear();
         // Base spell logic (e.g., reduce mana)
         // if(source = source)
         // GameObject source = source.gameObject;
@@ -79,16 +83,21 @@ public class Ability : ScriptableObject
     }
     void getTargets(Entity source, Vector2 castLoc)
     {
+        Vector2Int castCenter = source.gridManager.GetCellPosition(castLoc);
         switch (targetType)
         {
             case TargetType.Direct:
                 if (targetSubType == TargetSubType.AOE)
                 {
-                    colliders = Physics2D.OverlapAreaAll(castLoc - new Vector2(areaMod, areaMod), castLoc + new Vector2(areaMod, areaMod));
+                    List<Vector2Int> tilesTargeted = GetAllCellsInArea(source, castCenter);
+                    foreach (Vector2Int tile in tilesTargeted)
+                    {
+                        targets.Add(source.gridManager.GetEnemyOnTile(tile));
+                    }
                 }
                 else if (targetSubType == TargetSubType.Target)
                 {
-                    colliders = Physics2D.OverlapPointAll(castLoc);
+                    targets.Add(source.gridManager.GetEnemyOnTile(castCenter));  
                 }
                 else
                 {
@@ -113,11 +122,37 @@ public class Ability : ScriptableObject
         }
     }
 
+    private List<Vector2Int> GetAllCellsInArea(Entity source, Vector2Int castCenter)
+    {
+        List<Vector2Int> tilesInRadius = new List<Vector2Int>();
+        float radius = areaMod;
+        float radiusSquared = areaMod * areaMod;
+
+        int minX = castCenter.x - Mathf.CeilToInt(radius);
+        int maxX = castCenter.x + Mathf.CeilToInt(radius);
+        int minY = castCenter.y - Mathf.CeilToInt(radius);
+        int maxY = castCenter.y + Mathf.CeilToInt(radius);
+
+        for (int x = minX; x <= maxX; x++)
+        {
+            for (int y = minY; y <= maxY; y++)
+            {
+                Vector2Int tilePos = new Vector2Int(x, y);
+                //float distSq = source.gridManager.ManhattanDistanceToTile(castCenter, tilePos);
+                float distSq = (tilePos - castCenter).sqrMagnitude;
+                if (distSq <= radiusSquared)
+                {
+                    tilesInRadius.Add(tilePos);
+                }
+            }
+        }
+        return tilesInRadius;
+    }
+
     private void ApplyAbilityEffects(Entity source)
     {   //apply each effect to each target entity
-        foreach (Collider2D collider in colliders)
+        foreach (Entity target in targets)
         {
-            Entity target = collider.gameObject.GetComponent<Entity>();
             foreach (AbilityEffect effect in abilityEffects)
             {
                 // Apply each effect to the target entity
@@ -127,7 +162,7 @@ public class Ability : ScriptableObject
                 }
             }
         }
-        if (colliders.Length == 0)
+        if (targets.Count == 0)
         {
             Debug.Log("No targets hit.");
         }

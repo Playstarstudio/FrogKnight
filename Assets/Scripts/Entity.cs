@@ -39,6 +39,10 @@ public class Entity : MonoBehaviour
     public InventorySO inventory;
     #endregion
 
+    private void Start()
+    {
+        this.transform.position = gridManager.GetTileCenter(gridManager.GetCellPosition(this.transform.position));
+    }
 
     public void ReceiveEffect(AbilityEffect effect, Entity source, Ability ability)
     {

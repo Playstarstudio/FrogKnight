@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using Unity.VisualScripting.FullSerializer;
 using UnityEngine;
 using static GridManager;
 
@@ -106,10 +107,14 @@ public class P_BaseState : P_State
                 //Find the Dijkstra's node at this point
                 //Debug.Log("Found " + targetCenter);
                 //Debug.Log("Found node. Distance = " + player.gridManager.ManhattanDistanceToTile(player.gridManager.GetCellPosition(player.gameObject.transform.position), targetCenter) + " " + player.gridManager.map[targetCenter].occupied);
+                Entity entity = player.gridManager.GetEnemyOnTile(targetCenter);
+                Debug.Log(entity);
+                /*
                 TileInfo tile;
                 player.gridManager.map.TryGetValue(targetCenter, out tile);
-                //player.gridManager.ReturnTileData(targetCenter);
                 Debug.Log("Traversability = " + tile.traversable + " LoS = " + tile.LoS + " Wall = " + tile.wall + " VisionBlocking = " + tile.isVisionBlocking + " occupied = " + tile.occupied + " Visible = " + tile.visible);
+                */
+                //player.gridManager.ReturnTileData(targetCenter);
                 //Debug.Log("Wall Check = " + tile.wall);
                 //Debug.Log("Visibility Check = " + tile.visible);
                 //print out node info

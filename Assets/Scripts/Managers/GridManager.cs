@@ -4,7 +4,9 @@ using System.Linq;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Tilemaps;
+using UnityEngine.WSA;
 using static GameManager;
+using static GridManager;
 using Color = UnityEngine.Color;
 
 
@@ -781,6 +783,21 @@ public class GridManager : MonoBehaviour
             }
         }
         return entities;
+    }
+    public Entity GetEnemyOnTile(Vector2Int pos)
+    {
+        TileInfo tileInfo;
+        map.TryGetValue(pos, out tileInfo);
+        foreach (Entity entity in tileInfo.occupyingEntities)
+        {
+            if (!entity)
+                continue;
+            else if (entity.GetType() == typeof(Enemy))
+            {
+                return entity;
+            }
+        }
+        return null;
     }
     public bool TraversableCheck(Vector2Int pos)
     {
