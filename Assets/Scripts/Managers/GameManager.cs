@@ -89,7 +89,6 @@ public class GameManager : MonoBehaviour
             if (enemy.readyTime <= globalTimer)
             {
                 ActivateEntity(timedEntity.entity, _time, globalTimer);
-                gridManager.PlayerDijkstras();
                 foreach (TimedEntity entity in sortedTimedEntities)
                 {
                     var te = entity.entity.GetComponent<Enemy>();

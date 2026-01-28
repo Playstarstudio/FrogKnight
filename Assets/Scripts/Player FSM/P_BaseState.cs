@@ -54,7 +54,7 @@ public class P_BaseState : P_State
             // keyboard casting ability 1-4
             else if (inputFunction(KeyCode.Alpha1))
             {
-                player.casting = player.spell0;
+                player.casting.ability = player.activeAbilityList[1];
                 if (player.att.GetBaseAttributeValue(player.att.GetAttributeType("MP")) >= player.casting.ability.manaCost)
                 {
                     player.SwitchState(player.abilityState);
@@ -66,7 +66,7 @@ public class P_BaseState : P_State
             }
             else if (inputFunction(KeyCode.Alpha2))
             {
-                player.casting = player.spell1;
+                player.casting.ability = player.activeAbilityList[2];
                 if (player.att.GetBaseAttributeValue(player.att.GetAttributeType("MP")) >= player.casting.ability.manaCost)
                 {
                     player.SwitchState(player.abilityState);
@@ -78,7 +78,7 @@ public class P_BaseState : P_State
             }
             else if (inputFunction(KeyCode.Alpha3))
             {
-                player.casting = player.spell2;
+                player.casting.ability = player.activeAbilityList[3];
                 if (player.att.GetBaseAttributeValue(player.att.GetAttributeType("MP")) >= player.casting.ability.manaCost)
                 {
                     player.SwitchState(player.abilityState);
@@ -90,7 +90,7 @@ public class P_BaseState : P_State
             }
             else if (inputFunction(KeyCode.Alpha4))
             {
-                player.casting = player.spell3;
+                player.casting.ability = player.activeAbilityList[4];
                 if (player.att.GetBaseAttributeValue(player.att.GetAttributeType("MP")) >= player.casting.ability.manaCost)
                 {
                     player.SwitchState(player.abilityState);
@@ -198,19 +198,7 @@ public class P_BaseState : P_State
         //sets a cell location for the player to move to
         if (player.gridManager.map[endPosition].occupied)
         {//HAVE TO FINISH THIS
-            Collider2D[] colliders = Physics2D.OverlapCircleAll(player.gridManager.GetTileCenter(endPosition), 0.1f);
-            for (int i = 0; i < colliders.Length; i++)
-            {
-                Entity entity = colliders[i].GetComponent<Entity>();
-                if (entity != null)
-                {
-                    entity.ReceiveEffect(player.spell0.ability.abilityEffects[0], player, player.spell0.ability);
-                }
-                if (entity = null)
-                {
-                    Debug.Log("nothing to interact with");
-                }
-            }
+            player.casting.ability = player.melee;
             moving = false;
             yield break;
         }

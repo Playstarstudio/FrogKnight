@@ -1,10 +1,12 @@
 using System.Collections.Generic;
 using TMPro;
+using UnityEditor.UIElements;
 using UnityEngine;
 
 public class P_StateManager : Entity
 {
-
+    #region SpellCasting
+    #endregion
     #region States
     public string stateName;
     public P_State currentState;
@@ -52,6 +54,10 @@ public class P_StateManager : Entity
         gridManager = FindFirstObjectByType<GridManager>();
         this.transform.position = gridManager.GetTileCenter(gridManager.GetCellPosition(this.transform.position));
         gridManager.MapAddEntity(this, gridManager.GetCellPosition(this.transform.position));
+        for(int i = 0; i < activeAbilityList.Count; i++)
+        {
+            
+        }
     }
 
     // Update is called once per frame

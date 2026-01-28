@@ -24,10 +24,9 @@ public class Entity : MonoBehaviour
     public bool visionBlock = false;
     [SerializeField] public bool castSuccess = false;
     [SerializeField] public AbilitySlot casting;
-    [SerializeField] public AbilitySlot spell0;
-    [SerializeField] public AbilitySlot spell1;
-    [SerializeField] public AbilitySlot spell2;
-    [SerializeField] public AbilitySlot spell3;
+    [SerializeField] public Ability melee;
+    [SerializeField] public List<Ability> activeAbilityList;
+    [SerializeField] public List<Ability> totalKnownAbilities;
     [SerializeField] public float movementSpeed;
     public AttributeModifier hurt;
     public bool isRepeatedMovement = false;
@@ -38,6 +37,10 @@ public class Entity : MonoBehaviour
     public AudioSource SoundEffect;
     public InventorySO inventory;
     #endregion
+
+    private void Awake()
+    {
+    }
 
     private void Start()
     {
