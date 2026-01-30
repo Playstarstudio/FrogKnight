@@ -1,38 +1,33 @@
-using NUnit.Framework;
-using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class UIInventoryPage :MonoBehaviour
+namespace Inventory.UI
 {
-    [SerializeField] private InventoryItem itemPrefab;
-    [SerializeField] private RectTransform contentPanel;
-    [SerializeField] private InventoryDescription inventoryDescription;
-    [SerializeField] private FloatingItem floatingItem;
-
-    List<InventoryItem> listofUIItems = new List<InventoryItem>();
-/*
-    public void InitializeInventoryUI(int inventorySize)
+    public class UIInventoryPage : MonoBehaviour
     {
-        for (int i = 0; i < inventorySize; i++)
+        [SerializeField] private InventoryItem itemPrefab;
+        [SerializeField] private RectTransform contentPanel;
+        [SerializeField] private InventoryDescription inventoryDescription;
+        [SerializeField] private FloatingItem floatingItem;
+        List<InventoryItem> listofUIItems = new List<InventoryItem>();
+        public void InitializeInventoryUI(int inventorySize)
         {
-            InventoryItem newItem = Instantiate(itemPrefab, Vector3.zero, Quaternion.identity);
-            newItem.transform.SetParent(contentPanel);
-            listofUIItems.Add(newItem);
-          
+            for (int i = 0; i < inventorySize; i++)
+            {
+                InventoryItem newItem = Instantiate(itemPrefab, Vector3.zero, Quaternion.identity);
+                newItem.transform.SetParent(contentPanel);
+                listofUIItems.Add(newItem);
 
+
+            }
+        }
+        public void Show()
+        {
+            gameObject.SetActive(true);
+        }
+        public void Hide()
+        {
+            gameObject.SetActive(false);
         }
     }
-
-   
-    public void Show()
-    {
-        gameObject.SetActive(true);
-    }
-    public void Hide()
-    {
-        gameObject.SetActive(false);
-    }
- */
-
 }

@@ -1,3 +1,4 @@
+using Inventory;
 using System.Collections.Generic;
 using TMPro;
 using UnityEditor.UIElements;

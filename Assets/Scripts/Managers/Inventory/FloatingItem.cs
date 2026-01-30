@@ -1,3 +1,4 @@
+using Inventory.UI;
 using UnityEngine;
 
 public class FloatingItem : MonoBehaviour

@@ -1,3 +1,4 @@
+using Inventory.Model;
 using System.Collections.Generic;
 using UnityEngine;
 using static GridManager;
