@@ -27,7 +27,6 @@ public class ItemOnGround : MonoBehaviour
         currentTile = gridManager.GetCellPosition(this.transform.position);
         PlaceItem(currentTile);
     }
-
     public void DestroyItem()
     {
         GetComponent<SpriteRenderer>().enabled = false;
@@ -43,7 +42,8 @@ public class ItemOnGround : MonoBehaviour
 
     private IEnumerator AnimateItemPickup()
     {
-        audioSource.Play();
+        if (audioSource != null)
+            audioSource.Play();
         Vector3 startScale = transform.localScale;
         Vector3 endScale = Vector3.zero;
         float currentTime = 0;

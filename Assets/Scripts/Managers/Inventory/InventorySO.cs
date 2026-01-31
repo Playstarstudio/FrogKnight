@@ -71,7 +71,9 @@ namespace Inventory.Model
             {
                 if (!inventoryItems[i].IsEmpty)
                     continue;
-                if (inventoryItems[i].item.ID == item.ID)
+                if (inventoryItems[i].item == null)
+                    continue;
+                if (inventoryItems[i].item != null && inventoryItems[i].item.ID == item.ID)
                 {
                     int amountPossibleToTake =
                         inventoryItems[i].item.MaxStackSize - inventoryItems[i].quantity;

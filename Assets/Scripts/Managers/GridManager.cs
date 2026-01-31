@@ -984,7 +984,6 @@ public class GridManager : MonoBehaviour
     }
     void ChangeFOWValue(Vector2Int node)
     {
-
         TileInfo tile;
         bool exists = map.TryGetValue(node, out tile);
         var visionAttribute = player.GetComponent<P_StateManager>().att.GetAttributeType("Vision Range");
@@ -1007,7 +1006,7 @@ public class GridManager : MonoBehaviour
                 tile.sightValue = FOWEnum.PrevSeen;
             }
         }
-
+        HandleDisplayOrHideAll(node);
     }
     void ColorFOWTiles(Vector2Int min, Vector2Int max)
     {
@@ -1126,8 +1125,6 @@ public class GridManager : MonoBehaviour
                     map[tile].occupied = true;
                     map[tile].isVisionBlocking = false;
                     map[tile].traversable = false;
-                    ChangeFOWValue(tile);
-
                 }
             }
         }
@@ -1166,6 +1163,7 @@ public class GridManager : MonoBehaviour
     public void MapRemoveItem(ItemOnGround item, Vector2Int tilePos)
     {
         map[tilePos].occupyingItems.Remove(item);
+        Destroy(item);
         CalculateTileData(tilePos);
     }
     public void MapMoveItem(ItemOnGround item, Vector2Int from, Vector2Int to)
@@ -1208,6 +1206,37 @@ public class GridManager : MonoBehaviour
             }
         }
     }
+
+    public void HandleDisplayOrHideAll(Vector2Int tile)
+    {
+        TileInfo tileInfo;
+        if (map.TryGetValue(tile, out tileInfo))
+        {
+            if (tileInfo.visible)
+            {
+                foreach (Entity entity in tileInfo.occupyingEntities)
+                {
+                    entity.GetComponent<SpriteRenderer>().enabled = true;
+                }
+                foreach (ItemOnGround item in  tileInfo.occupyingItems)
+                {
+                    item.GetComponent<SpriteRenderer>().enabled = true;
+                }
+            }
+            else if (!tileInfo.visible)
+            {
+                foreach (Entity entity in tileInfo.occupyingEntities)
+                {
+                    entity.GetComponent<SpriteRenderer>().enabled = false;
+                }
+                foreach (ItemOnGround item in tileInfo.occupyingItems)
+                {
+                    item.GetComponent<SpriteRenderer>().enabled = false;
+                }
+            }
+        }
+    }    
+
     #region tile coloring
     public void TintTile(Vector2Int gridPos, Color color)
     {

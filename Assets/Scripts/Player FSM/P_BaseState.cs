@@ -149,6 +149,18 @@ public class P_BaseState : P_State
                 {
                     //itemsOnTile[0].
                     Debug.Log(itemsOnTile[0].name);
+                    if (player.inventoryManager.TryPickupItem(itemsOnTile[0]) == 0)
+                    {
+                        player.gridManager.MapRemoveItem(itemsOnTile[0], player.currentTile);
+                    }
+                    else
+                    {
+                        {
+                            ItemOnGround swapItem = itemsOnTile[0];
+                            player.gridManager.MapRemoveItem(itemsOnTile[0], player.currentTile);
+                            player.gridManager.MapAddItem(swapItem, player.currentTile);
+                        }
+                    }
                 }
                 /*
                 else if (DialogueManager.instance.dialogueCheck())

@@ -1,5 +1,4 @@
 using Inventory.Model;
-using Inventory.UI;
 using System;
 using System.Collections.Generic;
 using UnityEngine;
@@ -73,6 +72,19 @@ namespace Inventory
             if (listofUIItems.Count > itemIndex)
             {
                 listofUIItems[itemIndex].SetData(itemImage, itemQuantity);
+            }
+        }
+        public int TryPickupItem(ItemOnGround item)
+        {
+            int reminder = inventoryData.AddItem(item.inventoryItem, item.quantity);
+            if (reminder == 0)
+            {
+                return reminder;
+            }
+            else
+            {
+                item.quantity = reminder;
+                return reminder;
             }
         }
         public bool InventoryCheck()
