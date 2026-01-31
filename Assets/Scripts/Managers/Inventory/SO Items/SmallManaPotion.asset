@@ -13,13 +13,13 @@ MonoBehaviour:
   m_Name: SmallManaPotion
   m_EditorClassIdentifier: Assembly-CSharp::Inventory.Model.ConsumableItemSO
   <itemName>k__BackingField: Health Potion
-  <image>k__BackingField: {fileID: 366320403, guid: b631ed305dfd43c488e0f8edf5c829bc, type: 3}
-  <description>k__BackingField: 'Restores 5 HP
+  <image>k__BackingField: {fileID: 1629623867, guid: b631ed305dfd43c488e0f8edf5c829bc, type: 3}
+  <description>k__BackingField: 'Restores 5 MP
 
 '
   <weight>k__BackingField: 0
   <isStackable>k__BackingField: 1
   <MaxStackSize>k__BackingField: 25
   <count>k__BackingField: 1
-  effects:
-  - {fileID: 11400000, guid: c159c13d6ce289442957e255d14324be, type: 2}
+  <effects>k__BackingField:
+  - {fileID: 11400000, guid: 36399e7af678c0249acd429881680552, type: 2}

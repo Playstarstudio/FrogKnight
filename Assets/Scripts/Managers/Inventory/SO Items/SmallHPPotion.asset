@@ -21,5 +21,5 @@ MonoBehaviour:
   <isStackable>k__BackingField: 1
   <MaxStackSize>k__BackingField: 25
   <count>k__BackingField: 1
-  effects:
-  - {fileID: 11400000, guid: 36399e7af678c0249acd429881680552, type: 2}
+  <effects>k__BackingField:
+  - {fileID: 11400000, guid: c159c13d6ce289442957e255d14324be, type: 2}

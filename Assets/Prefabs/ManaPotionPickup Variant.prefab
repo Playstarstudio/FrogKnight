@@ -12,6 +12,10 @@ PrefabInstance:
       propertyPath: <quantity>k__BackingField
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 2113866634740458368, guid: a00e0691dd83f6f4cb32504015c0debd, type: 3}
+      propertyPath: <inventoryItem>k__BackingField
+      value: 
+      objectReference: {fileID: 11400000, guid: b27a51209a30f4347bf735b949d31957, type: 2}
     - target: {fileID: 2311404508171887838, guid: a00e0691dd83f6f4cb32504015c0debd, type: 3}
       propertyPath: m_Sprite
       value: 
