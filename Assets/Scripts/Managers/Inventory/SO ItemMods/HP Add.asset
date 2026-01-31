@@ -12,6 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d051260880b06742b8bfde374275527, type: 3}
   m_Name: HP Add
   m_EditorClassIdentifier: Assembly-CSharp::ItemModifier
-  attributeName: HP
-  modifierValue: 2
+  attributeName: Restores 5 HP
+  attName: {fileID: 11400000, guid: 0a1823535b28e9640a63788909278e95, type: 2}
+  modifierValue: 5
   operation: 0

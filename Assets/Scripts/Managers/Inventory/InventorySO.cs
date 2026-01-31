@@ -34,12 +34,12 @@ namespace Inventory.Model
                     {
                         count -= AddItemToFirstFreeSlot(item, 1);
                     }
-                    ItemChange();
+                    InformAboutChange();
                     return count;
                 }
             }
             count = AddStackableItem(item, count);
-            ItemChange();
+            InformAboutChange();
             return count;
         }
 
@@ -69,9 +69,7 @@ namespace Inventory.Model
         {
             for (int i = 0; i < inventoryItems.Count; ++i)
             {
-                if (!inventoryItems[i].IsEmpty)
-                    continue;
-                if (inventoryItems[i].item == null)
+                if (inventoryItems[i].IsEmpty)
                     continue;
                 if (inventoryItems[i].item != null && inventoryItems[i].item.ID == item.ID)
                 {
@@ -87,7 +85,7 @@ namespace Inventory.Model
                     {
                         inventoryItems[i] = inventoryItems[i]
                             .ChangeQuantity(inventoryItems[i].quantity + count);
-                        ItemChange();
+                        InformAboutChange();
                         return 0;
                     }
                 }
@@ -99,6 +97,10 @@ namespace Inventory.Model
                 AddItemToFirstFreeSlot(item, newCount);
             }
             return count;
+        }
+        private void InformAboutChange()
+        {
+            InventoryChanged?.Invoke(GetCurrentInventoryState());
         }
 
         public Dictionary<int, InventoryItem> GetCurrentInventoryState()
@@ -135,6 +137,30 @@ namespace Inventory.Model
         private void ItemChange()
         {
             InventoryChanged?.Invoke(GetCurrentInventoryState());
+        }
+
+        public void RemoveItem(int itemIndex, int count)
+        {
+            if (inventoryItems[itemIndex].IsEmpty)
+            {
+                return;
+            }
+            for (int i = 0; i < count; i++)
+            {
+
+                int reminder = inventoryItems[itemIndex].quantity - count;
+                if (reminder <= 0)
+                {
+                    inventoryItems[itemIndex] = InventoryItem.GetEmptyItem();
+                    InformAboutChange();
+                }
+                else
+                {
+                    inventoryItems[itemIndex] = inventoryItems[itemIndex]
+                        .ChangeQuantity(reminder);
+                    InformAboutChange();
+                }
+            }
         }
 
         [Serializable]

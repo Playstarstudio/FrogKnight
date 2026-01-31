@@ -7,18 +7,19 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bd18e9b1cfcaa684fa48a4b65d63a785, type: 3}
+  m_Script: {fileID: 11500000, guid: 5d49e1fc18243d44a8e3fba47303b844, type: 3}
   m_Name: Potion
-  m_EditorClassIdentifier: Assembly-CSharp::Item
-  <itemName>k__BackingField: Potion
-  <image>k__BackingField: {fileID: 21300000, guid: a4cbc7dbe5fc4ca4f825bc95f485f014, type: 3}
-  <description>k__BackingField: restore health
-  <weight>k__BackingField: 1
+  m_EditorClassIdentifier: Assembly-CSharp::Inventory.Model.ConsumableItemSO
+  <itemName>k__BackingField: Health Potion
+  <image>k__BackingField: {fileID: 21300000, guid: cfaa8b02293f78442b4d9c07fef5c124, type: 3}
+  <description>k__BackingField: 'Restores 5 HP
+
+'
+  <weight>k__BackingField: 0
   <isStackable>k__BackingField: 1
-  <MaxStackSize>k__BackingField: 5
+  <MaxStackSize>k__BackingField: 25
   <count>k__BackingField: 1
   effects:
-  - {fileID: 11400000, guid: ab449a49e777bdb4cb1a1b657f99b6fa, type: 2}
-  - {fileID: 11400000, guid: f6f4bf545a6cc5549927fbf4e30ecd98, type: 2}
+  - {fileID: 11400000, guid: c159c13d6ce289442957e255d14324be, type: 2}

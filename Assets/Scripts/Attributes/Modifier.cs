@@ -12,7 +12,7 @@ public class Modifier : ScriptableObject
         Set
     }
     public string attributeName;
-    public static AttributeType attName;
+    public AttributeType attName;
     public float modifierValue;
     public Operator operation;
     public static AttributeModifier.Operator _operation;

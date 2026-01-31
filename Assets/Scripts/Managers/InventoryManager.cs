@@ -1,7 +1,9 @@
 using Inventory.Model;
 using System;
 using System.Collections.Generic;
+using System.Text;
 using UnityEngine;
+using static UnityEngine.Rendering.HDROutputUtils;
 
 namespace Inventory
 {
@@ -45,7 +47,8 @@ namespace Inventory
             {
                 if (item.empty)
                     continue;
-                inventoryData.AddInventoryItem(item);
+                else
+                    inventoryData.AddInventoryItem(item);
             }
         }
 
@@ -79,6 +82,7 @@ namespace Inventory
             int reminder = inventoryData.AddItem(item.inventoryItem, item.quantity);
             if (reminder == 0)
             {
+                item.DestroyItem();
                 return reminder;
             }
             else
@@ -175,8 +179,20 @@ namespace Inventory
         #region Event Handlers
         private void HandleItemActionRequest(int itemIndex)
         {
+            InventorySO.InventoryItem inventoryItem = inventoryData.GetItemAt(itemIndex);
+            if (inventoryItem.IsEmpty)
+                return;
+            IItemAction itemAction = inventoryItem.item as IItemAction;
+            if(itemAction != null)
+            {
+                itemAction.PerformAction(playerStateManager);
+            }
+            IDestroyableItem destroyableItem = inventoryItem.item as IDestroyableItem;
+            if (destroyableItem != null)
+            {
+                inventoryData.RemoveItem(itemIndex,1);
+            }
         }
-
 
         private void HandleStartDragging(int itemIndex)
         {
@@ -201,14 +217,37 @@ namespace Inventory
                 ResetSelection();
                 return;
             }
+            string description = PrepareDescription(inventoryItem);
             ItemSO item = inventoryItem.item;
-            UpdateDescription(itemIndex, item.image, item.name, item.description);
+            UpdateDescription(itemIndex, item.image, item.name, description);
         }
-
+        private string PrepareDescription(InventorySO.InventoryItem inventoryItem)
+        {
+            StringBuilder sb = new StringBuilder();
+            //sb.Append(inventoryItem.item.description);
+            sb.AppendLine();
+            /* FOR IF I ADD MORE INFO PAST DESC
+             */
+            for (int i = 0; i < inventoryItem.item.effects.Count; i++)
+            {
+                sb.Append(inventoryItem.item.effects[i].operation);
+                sb.Append("s ");
+                sb.Append(inventoryItem.item.effects[i].modifierValue);
+                sb.Append(" ");
+                sb.Append(inventoryItem.item.effects[i].attName.name);
+                sb.AppendLine();
+            }
+            return sb.ToString();
+        }
 
         private void HandleShowItemActions(InventoryItem invItem)
         {
-
+            int index = listofUIItems.IndexOf(invItem);
+            if (index == -1)
+            {
+                return;
+            }
+            OnItemActionRequested?.Invoke(index);
         }
 
         private void HandleItemSwap(InventoryItem invItem)
