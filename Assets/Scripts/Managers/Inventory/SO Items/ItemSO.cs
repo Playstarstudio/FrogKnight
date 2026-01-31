@@ -32,7 +32,4 @@ public abstract class ItemSO : ScriptableObject
     //public List<Modifier> finalModifiers;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
 
-    public void Awake()
-    {
-    }
 }

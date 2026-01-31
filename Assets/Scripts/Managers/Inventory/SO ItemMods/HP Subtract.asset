@@ -13,5 +13,6 @@ MonoBehaviour:
   m_Name: HP Subtract
   m_EditorClassIdentifier: Assembly-CSharp::ItemModifier
   attributeName: HP
+  attName: {fileID: 11400000, guid: 0a1823535b28e9640a63788909278e95, type: 2}
   modifierValue: 2
   operation: 1

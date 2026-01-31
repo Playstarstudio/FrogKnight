@@ -2,8 +2,10 @@ using UnityEngine;
 
 namespace Inventory.Model
 {
+    [CreateAssetMenu]
     public class EquippableItemSO : ItemSO, IDestroyableItem, IItemAction
     {
+        [SerializeField]
         public enum PartLocation
         {
             PrimaryHand, //0
