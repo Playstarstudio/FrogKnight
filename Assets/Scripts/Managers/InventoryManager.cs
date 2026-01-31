@@ -131,7 +131,7 @@ namespace Inventory
             isInventoryOpen = false;
         }
 
-        private void ResetSelection()
+        public void ResetSelection()
         {
             inventoryDescription.ResetDescription();
             DeselectAllItems();

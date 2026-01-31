@@ -159,12 +159,12 @@ TextureImporter:
       name: Hero
       rect:
         serializedVersion: 2
-        x: 15
+        x: 16
         y: 336
-        width: 19
-        height: 21
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 15
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -181,12 +181,12 @@ TextureImporter:
       name: Floor_A
       rect:
         serializedVersion: 2
-        x: 142
+        x: 144
         y: 62
-        width: 20
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -203,12 +203,12 @@ TextureImporter:
       name: Floor_B
       rect:
         serializedVersion: 2
-        x: 174
+        x: 176
         y: 62
-        width: 20
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -225,12 +225,12 @@ TextureImporter:
       name: Floor_C
       rect:
         serializedVersion: 2
-        x: 142
+        x: 144
         y: 30
-        width: 20
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -247,12 +247,12 @@ TextureImporter:
       name: Floor_D
       rect:
         serializedVersion: 2
-        x: 174
+        x: 176
         y: 30
-        width: 20
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -582,7 +582,7 @@ TextureImporter:
         width: 16
         height: 16
       alignment: 9
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -604,7 +604,7 @@ TextureImporter:
         width: 20
         height: 23
       alignment: 9
-      pivot: {x: 0.5, y: 0.3809524}
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -667,10 +667,10 @@ TextureImporter:
         serializedVersion: 2
         x: 337
         y: 16
-        width: 14
+        width: 13
         height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -691,8 +691,8 @@ TextureImporter:
         y: 33
         width: 12
         height: 13
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -713,8 +713,8 @@ TextureImporter:
         y: 49
         width: 12
         height: 13
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -735,8 +735,8 @@ TextureImporter:
         y: 33
         width: 12
         height: 14
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -757,8 +757,8 @@ TextureImporter:
         y: 35
         width: 12
         height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -779,8 +779,8 @@ TextureImporter:
         y: 21
         width: 12
         height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -801,8 +801,8 @@ TextureImporter:
         y: 21
         width: 9
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -823,8 +823,8 @@ TextureImporter:
         y: 36
         width: 12
         height: 6
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -846,7 +846,7 @@ TextureImporter:
         width: 16
         height: 18
       alignment: 9
-      pivot: {x: 0.5, y: 0.5555556}
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -863,12 +863,12 @@ TextureImporter:
       name: Prop_Env_I
       rect:
         serializedVersion: 2
-        x: 272
+        x: 274
         y: 65
-        width: 16
+        width: 11
         height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -887,10 +887,10 @@ TextureImporter:
         serializedVersion: 2
         x: 259
         y: 10
-        width: 9
+        width: 8
         height: 17
       alignment: 9
-      pivot: {x: 0.52092147, y: 0.84594893}
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -973,12 +973,12 @@ TextureImporter:
       name: Prop_Env_M
       rect:
         serializedVersion: 2
-        x: 177
-        y: 4
-        width: 21
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 178
+        y: 5
+        width: 19
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -999,8 +999,8 @@ TextureImporter:
         y: 17
         width: 7
         height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1021,8 +1021,8 @@ TextureImporter:
         y: 36
         width: 6
         height: 6
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1043,8 +1043,8 @@ TextureImporter:
         y: 22
         width: 6
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1065,8 +1065,8 @@ TextureImporter:
         y: 25
         width: 9
         height: 5
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1087,8 +1087,8 @@ TextureImporter:
         y: 36
         width: 10
         height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1105,12 +1105,12 @@ TextureImporter:
       name: Prop_Env_U
       rect:
         serializedVersion: 2
-        x: 272
+        x: 273
         y: 50
-        width: 16
-        height: 10
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 14
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1131,8 +1131,8 @@ TextureImporter:
         y: 67
         width: 8
         height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1153,8 +1153,8 @@ TextureImporter:
         y: 82
         width: 7
         height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1193,12 +1193,12 @@ TextureImporter:
       name: Prop_Env_B
       rect:
         serializedVersion: 2
-        x: 392
+        x: 386
         y: 7
-        width: 7
+        width: 13
         height: 8
       alignment: 9
-      pivot: {x: 0.42857146, y: -0.75}
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1263,8 +1263,8 @@ TextureImporter:
         y: 31
         width: 12
         height: 17
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1282,11 +1282,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 417
-        y: 31
+        y: 32
         width: 14
-        height: 17
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1329,8 +1329,8 @@ TextureImporter:
         y: 26
         width: 12
         height: 22
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1349,10 +1349,10 @@ TextureImporter:
         serializedVersion: 2
         x: 354
         y: 48
-        width: 16
+        width: 15
         height: 17
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1501,12 +1501,12 @@ TextureImporter:
       name: Prop_Candles
       rect:
         serializedVersion: 2
-        x: 253
-        y: 95
-        width: 22
-        height: 29
+        x: 255
+        y: 98
+        width: 19
+        height: 17
       alignment: 9
-      pivot: {x: 0.5, y: -0.42105263}
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1523,12 +1523,12 @@ TextureImporter:
       name: Prop_Root_K
       rect:
         serializedVersion: 2
-        x: 193
-        y: 119
-        width: 26
-        height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 198
+        y: 120
+        width: 18
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1545,12 +1545,12 @@ TextureImporter:
       name: Prop_Root_A
       rect:
         serializedVersion: 2
-        x: 222
-        y: 127
-        width: 26
-        height: 21
+        x: 224
+        y: 130
+        width: 20
+        height: 15
       alignment: 9
-      pivot: {x: 0.48676476, y: -0.2873121}
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1567,12 +1567,12 @@ TextureImporter:
       name: Prop_Root_B
       rect:
         serializedVersion: 2
-        x: 254
+        x: 256
         y: 132
-        width: 24
-        height: 16
+        width: 19
+        height: 13
       alignment: 9
-      pivot: {x: 0.50000125, y: -0.48240376}
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1589,12 +1589,12 @@ TextureImporter:
       name: Prop_Root_E
       rect:
         serializedVersion: 2
-        x: 224
-        y: 149
-        width: 21
-        height: 26
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 226
+        y: 150
+        width: 16
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1611,12 +1611,12 @@ TextureImporter:
       name: Prop_Root_G
       rect:
         serializedVersion: 2
-        x: 190
-        y: 159
-        width: 25
-        height: 25
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 192
+        y: 160
+        width: 19
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1633,12 +1633,12 @@ TextureImporter:
       name: Prop_Root_F
       rect:
         serializedVersion: 2
-        x: 253
-        y: 149
-        width: 20
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 255
+        y: 158
+        width: 17
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1655,12 +1655,12 @@ TextureImporter:
       name: Prop_Root_C
       rect:
         serializedVersion: 2
-        x: 289
-        y: 127
-        width: 43
-        height: 23
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 292
+        y: 130
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1677,12 +1677,12 @@ TextureImporter:
       name: Prop_Root_D
       rect:
         serializedVersion: 2
-        x: 336
-        y: 128
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 335
+        y: 132
+        width: 28
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1703,8 +1703,8 @@ TextureImporter:
         y: 94
         width: 16
         height: 23
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1721,12 +1721,12 @@ TextureImporter:
       name: Env_Door_V
       rect:
         serializedVersion: 2
-        x: 336
+        x: 338
         y: 94
-        width: 16
+        width: 12
         height: 26
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1743,12 +1743,12 @@ TextureImporter:
       name: Char_Eye
       rect:
         serializedVersion: 2
-        x: 37
+        x: 39
         y: 336
-        width: 16
-        height: 21
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 13
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1765,12 +1765,12 @@ TextureImporter:
       name: Char_Snake
       rect:
         serializedVersion: 2
-        x: 59
+        x: 60
         y: 336
-        width: 18
-        height: 21
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 17
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1787,12 +1787,12 @@ TextureImporter:
       name: Char_Skeletone
       rect:
         serializedVersion: 2
-        x: 83
+        x: 84
         y: 336
-        width: 14
-        height: 15
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 11
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1809,12 +1809,12 @@ TextureImporter:
       name: Char_Sunflower
       rect:
         serializedVersion: 2
-        x: 101
+        x: 102
         y: 336
-        width: 19
-        height: 21
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 17
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1831,12 +1831,12 @@ TextureImporter:
       name: Char_Slime
       rect:
         serializedVersion: 2
-        x: 126
+        x: 127
         y: 336
-        width: 20
-        height: 21
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 18
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1853,12 +1853,12 @@ TextureImporter:
       name: Char_Heat
       rect:
         serializedVersion: 2
-        x: 151
+        x: 152
         y: 336
-        width: 22
-        height: 21
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 20
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1875,12 +1875,12 @@ TextureImporter:
       name: Char_Bat
       rect:
         serializedVersion: 2
-        x: 175
+        x: 176
         y: 336
-        width: 21
-        height: 21
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 19
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1897,12 +1897,12 @@ TextureImporter:
       name: Char_Rat
       rect:
         serializedVersion: 2
-        x: 200
+        x: 201
         y: 336
-        width: 16
-        height: 13
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 14
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1919,12 +1919,12 @@ TextureImporter:
       name: Item_Poition_Red
       rect:
         serializedVersion: 2
-        x: 82
+        x: 83
         y: 480
-        width: 14
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 11
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1941,12 +1941,12 @@ TextureImporter:
       name: Item_Poition_Yellow
       rect:
         serializedVersion: 2
-        x: 82
+        x: 83
         y: 464
-        width: 14
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 11
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1963,12 +1963,12 @@ TextureImporter:
       name: Item_Poition_Blue
       rect:
         serializedVersion: 2
-        x: 82
+        x: 84
         y: 448
-        width: 14
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 9
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1985,12 +1985,12 @@ TextureImporter:
       name: Item_Poition_Green
       rect:
         serializedVersion: 2
-        x: 82
+        x: 83
         y: 432
-        width: 14
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 11
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2007,12 +2007,12 @@ TextureImporter:
       name: Item_Book_Red
       rect:
         serializedVersion: 2
-        x: 114
-        y: 480
-        width: 12
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 115
+        y: 481
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2030,11 +2030,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 129
-        y: 480
+        y: 482
         width: 14
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2052,11 +2052,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 129
-        y: 464
+        y: 466
         width: 14
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2074,11 +2074,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 129
-        y: 448
+        y: 450
         width: 14
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2096,11 +2096,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 129
-        y: 432
+        y: 434
         width: 14
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2117,12 +2117,12 @@ TextureImporter:
       name: Item_Book_Green
       rect:
         serializedVersion: 2
-        x: 114
-        y: 432
-        width: 12
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 115
+        y: 433
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2139,12 +2139,12 @@ TextureImporter:
       name: Item_Book_Blue
       rect:
         serializedVersion: 2
-        x: 114
-        y: 448
-        width: 12
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 115
+        y: 449
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2161,12 +2161,12 @@ TextureImporter:
       name: Item_Book_Yellow
       rect:
         serializedVersion: 2
-        x: 114
-        y: 464
-        width: 12
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 115
+        y: 465
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2184,11 +2184,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 146
-        y: 480
-        width: 14
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        y: 481
+        width: 13
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2206,11 +2206,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 146
-        y: 464
-        width: 14
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        y: 465
+        width: 13
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2228,11 +2228,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 146
-        y: 448
-        width: 14
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        y: 449
+        width: 13
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2250,11 +2250,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 146
-        y: 432
-        width: 14
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        y: 433
+        width: 13
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2271,12 +2271,12 @@ TextureImporter:
       name: Item_Arrow
       rect:
         serializedVersion: 2
-        x: 162
-        y: 432
-        width: 16
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 163
+        y: 433
+        width: 12
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2293,12 +2293,12 @@ TextureImporter:
       name: Item_Hammer
       rect:
         serializedVersion: 2
-        x: 162
-        y: 448
-        width: 16
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 163
+        y: 449
+        width: 14
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2315,12 +2315,12 @@ TextureImporter:
       name: Item_Shield
       rect:
         serializedVersion: 2
-        x: 162
-        y: 464
-        width: 16
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 163
+        y: 465
+        width: 14
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2337,12 +2337,12 @@ TextureImporter:
       name: Item_Sword
       rect:
         serializedVersion: 2
-        x: 162
-        y: 480
-        width: 16
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 163
+        y: 481
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2359,12 +2359,12 @@ TextureImporter:
       name: Arrow_Shot
       rect:
         serializedVersion: 2
-        x: 182
-        y: 432
-        width: 15
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 183
+        y: 436
+        width: 13
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2384,9 +2384,9 @@ TextureImporter:
         x: 81
         y: 400
         width: 15
-        height: 18
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2403,12 +2403,12 @@ TextureImporter:
       name: Env_Grave
       rect:
         serializedVersion: 2
-        x: 97
+        x: 98
         y: 400
-        width: 15
-        height: 18
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2428,9 +2428,9 @@ TextureImporter:
         x: 114
         y: 400
         width: 14
-        height: 18
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2447,12 +2447,12 @@ TextureImporter:
       name: Env_Key
       rect:
         serializedVersion: 2
-        x: 81
-        y: 384
-        width: 15
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 84
+        y: 385
+        width: 9
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2469,12 +2469,12 @@ TextureImporter:
       name: Env_lock
       rect:
         serializedVersion: 2
-        x: 97
-        y: 384
-        width: 15
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 99
+        y: 385
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2491,12 +2491,12 @@ TextureImporter:
       name: Env_Elder
       rect:
         serializedVersion: 2
-        x: 114
-        y: 384
-        width: 15
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 115
+        y: 385
+        width: 13
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2513,12 +2513,12 @@ TextureImporter:
       name: Env_Chess_C
       rect:
         serializedVersion: 2
-        x: 144
+        x: 145
         y: 400
-        width: 16
-        height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 14
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2535,12 +2535,12 @@ TextureImporter:
       name: Env_Chess_B
       rect:
         serializedVersion: 2
-        x: 160
+        x: 161
         y: 400
-        width: 16
-        height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 14
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2557,12 +2557,12 @@ TextureImporter:
       name: Env_Chess_A
       rect:
         serializedVersion: 2
-        x: 176
+        x: 177
         y: 400
-        width: 16
-        height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 14
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2579,12 +2579,12 @@ TextureImporter:
       name: Env_Chess_Small
       rect:
         serializedVersion: 2
-        x: 192
+        x: 194
         y: 400
-        width: 16
-        height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 12
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2605,8 +2605,8 @@ TextureImporter:
         y: 368
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2628,7 +2628,7 @@ TextureImporter:
         width: 16
         height: 21
       alignment: 9
-      pivot: {x: 0.5, y: 0.3809524}
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2689,12 +2689,12 @@ TextureImporter:
       name: Env_Lever_Off
       rect:
         serializedVersion: 2
-        x: 224
-        y: 400
-        width: 16
-        height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 225
+        y: 401
+        width: 13
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2713,10 +2713,10 @@ TextureImporter:
         serializedVersion: 2
         x: 406
         y: 96
-        width: 59
+        width: 58
         height: 32
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2737,8 +2737,8 @@ TextureImporter:
         y: 179
         width: 28
         height: 124
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2755,12 +2755,12 @@ TextureImporter:
       name: Floor_Wood
       rect:
         serializedVersion: 2
-        x: 206
+        x: 208
         y: 190
-        width: 20
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2777,12 +2777,12 @@ TextureImporter:
       name: Floor_Metal
       rect:
         serializedVersion: 2
-        x: 174
+        x: 176
         y: 190
-        width: 20
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2799,12 +2799,12 @@ TextureImporter:
       name: Floor_Red
       rect:
         serializedVersion: 2
-        x: 142
+        x: 144
         y: 190
-        width: 20
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2821,12 +2821,12 @@ TextureImporter:
       name: Splatter
       rect:
         serializedVersion: 2
-        x: 205
-        y: 0
-        width: 20
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 206
+        y: 1
+        width: 18
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2846,9 +2846,9 @@ TextureImporter:
         x: 322
         y: 49
         width: 12
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2865,12 +2865,12 @@ TextureImporter:
       name: Sign_0
       rect:
         serializedVersion: 2
-        x: 31
-        y: 367
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 34
+        y: 371
+        width: 11
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2887,12 +2887,12 @@ TextureImporter:
       name: Char_Trader
       rect:
         serializedVersion: 2
-        x: 15
+        x: 17
         y: 304
-        width: 19
-        height: 21
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 14
+        height: 20
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3107,12 +3107,12 @@ TextureImporter:
       name: Carpet_Scrap
       rect:
         serializedVersion: 2
-        x: 416
+        x: 417
         y: 64
-        width: 16
+        width: 14
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3130,11 +3130,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 192
-        y: 368
-        width: 16
-        height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        y: 369
+        width: 26
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3151,12 +3151,12 @@ TextureImporter:
       name: Floor_Dirt
       rect:
         serializedVersion: 2
-        x: 142
+        x: 144
         y: 238
-        width: 20
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3173,12 +3173,12 @@ TextureImporter:
       name: Floor_Flash
       rect:
         serializedVersion: 2
-        x: 174
+        x: 176
         y: 238
-        width: 20
-        height: 20
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3199,8 +3199,8 @@ TextureImporter:
         y: 448
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3217,12 +3217,12 @@ TextureImporter:
       name: Prop_TreeC
       rect:
         serializedVersion: 2
-        x: 362
-        y: 366
-        width: 22
-        height: 45
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 363
+        y: 358
+        width: 33
+        height: 47
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3239,12 +3239,12 @@ TextureImporter:
       name: Prop_TreeB
       rect:
         serializedVersion: 2
-        x: 337
-        y: 366
-        width: 22
-        height: 45
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 339
+        y: 367
+        width: 19
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3261,12 +3261,12 @@ TextureImporter:
       name: Prop_TreeA
       rect:
         serializedVersion: 2
-        x: 314
-        y: 366
-        width: 22
-        height: 45
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 315
+        y: 367
+        width: 20
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3283,12 +3283,12 @@ TextureImporter:
       name: Prop_SA
       rect:
         serializedVersion: 2
-        x: 253
-        y: 399
-        width: 22
-        height: 8
+        x: 256
+        y: 400
+        width: 16
+        height: 7
       alignment: 9
-      pivot: {x: 0.52734655, y: 0.0769577}
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3305,12 +3305,12 @@ TextureImporter:
       name: Prop_GrassA
       rect:
         serializedVersion: 2
-        x: 320
-        y: 415
-        width: 14
-        height: 17
+        x: 321
+        y: 416
+        width: 12
+        height: 15
       alignment: 9
-      pivot: {x: 0.49999848, y: 0.09742288}
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3328,11 +3328,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 275
-        y: 399
+        y: 400
         width: 11
-        height: 8
+        height: 4
       alignment: 9
-      pivot: {x: 0.52734655, y: 0.0769577}
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3349,12 +3349,12 @@ TextureImporter:
       name: Prop_SC
       rect:
         serializedVersion: 2
-        x: 290
-        y: 399
-        width: 11
-        height: 8
+        x: 292
+        y: 400
+        width: 9
+        height: 5
       alignment: 9
-      pivot: {x: 0.52734655, y: 0.0769577}
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3371,12 +3371,12 @@ TextureImporter:
       name: Prop_GrassB
       rect:
         serializedVersion: 2
-        x: 338
-        y: 415
-        width: 15
-        height: 17
+        x: 341
+        y: 416
+        width: 10
+        height: 13
       alignment: 9
-      pivot: {x: 0.48613486, y: 0.079534195}
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3393,12 +3393,12 @@ TextureImporter:
       name: Item_Heart
       rect:
         serializedVersion: 2
-        x: 192
-        y: 448
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 193
+        y: 450
+        width: 14
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3415,12 +3415,12 @@ TextureImporter:
       name: Item_Apple
       rect:
         serializedVersion: 2
-        x: 208
-        y: 448
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 210
+        y: 450
+        width: 11
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3437,12 +3437,12 @@ TextureImporter:
       name: Item_Dimond
       rect:
         serializedVersion: 2
-        x: 224
-        y: 448
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 226
+        y: 451
+        width: 12
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3506,9 +3506,9 @@ TextureImporter:
         x: 208
         y: 78
         width: 16
-        height: 31
+        height: 23
       alignment: 9
-      pivot: {x: 0.5, y: 0.32258064}
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3525,12 +3525,12 @@ TextureImporter:
       name: Env_Spot
       rect:
         serializedVersion: 2
-        x: 416
-        y: 368
-        width: 49
-        height: 60
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 418
+        y: 369
+        width: 44
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3547,12 +3547,12 @@ TextureImporter:
       name: Env_GraveA
       rect:
         serializedVersion: 2
-        x: 64
+        x: 65
         y: 400
-        width: 15
-        height: 18
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 13
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3571,10 +3571,10 @@ TextureImporter:
         serializedVersion: 2
         x: 49
         y: 400
-        width: 15
-        height: 18
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3593,10 +3593,10 @@ TextureImporter:
         serializedVersion: 2
         x: 33
         y: 400
-        width: 15
-        height: 18
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 13
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3613,12 +3613,12 @@ TextureImporter:
       name: Env_GraveD
       rect:
         serializedVersion: 2
-        x: 16
+        x: 17
         y: 400
-        width: 15
-        height: 18
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 12
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3635,12 +3635,12 @@ TextureImporter:
       name: Env_Heart
       rect:
         serializedVersion: 2
-        x: 495
+        x: 503
         y: 367
-        width: 58
-        height: 65
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        width: 45
+        height: 58
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3701,12 +3701,12 @@ TextureImporter:
       name: Decal_C
       rect:
         serializedVersion: 2
-        x: 541
-        y: 269
-        width: 18
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 546
+        y: 270
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3723,12 +3723,12 @@ TextureImporter:
       name: Decal_D
       rect:
         serializedVersion: 2
-        x: 558
-        y: 269
-        width: 14
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 561
+        y: 271
+        width: 8
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3745,12 +3745,12 @@ TextureImporter:
       name: Decal_E
       rect:
         serializedVersion: 2
-        x: 575
-        y: 273
-        width: 13
-        height: 11
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 577
+        y: 276
+        width: 9
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3811,12 +3811,12 @@ TextureImporter:
       name: Decal_H
       rect:
         serializedVersion: 2
-        x: 587
+        x: 588
         y: 243
-        width: 21
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 18
+        height: 26
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3833,12 +3833,12 @@ TextureImporter:
       name: Decal_J
       rect:
         serializedVersion: 2
-        x: 587
-        y: 226
-        width: 21
-        height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 591
+        y: 228
+        width: 14
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3857,10 +3857,10 @@ TextureImporter:
         serializedVersion: 2
         x: 540
         y: 226
-        width: 37
-        height: 37
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        width: 46
+        height: 44
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3965,12 +3965,12 @@ TextureImporter:
       name: Decal_V
       rect:
         serializedVersion: 2
-        x: 573
+        x: 575
         y: 202
-        width: 8
+        width: 4
         height: 7
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3987,12 +3987,12 @@ TextureImporter:
       name: Decal_Z
       rect:
         serializedVersion: 2
-        x: 582
-        y: 201
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 584
+        y: 203
+        width: 4
+        height: 4
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4009,12 +4009,12 @@ TextureImporter:
       name: Decal_N
       rect:
         serializedVersion: 2
-        x: 538
+        x: 539
         y: 183
-        width: 15
+        width: 13
         height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4035,8 +4035,8 @@ TextureImporter:
         y: 183
         width: 15
         height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4057,8 +4057,8 @@ TextureImporter:
         y: 183
         width: 15
         height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4079,8 +4079,8 @@ TextureImporter:
         y: 304
         width: 15
         height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4101,8 +4101,8 @@ TextureImporter:
         y: 304
         width: 15
         height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4119,12 +4119,12 @@ TextureImporter:
       name: Decal_M
       rect:
         serializedVersion: 2
-        x: 510
+        x: 512
         y: 198
-        width: 21
+        width: 16
         height: 15
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4141,12 +4141,12 @@ TextureImporter:
       name: Decal_Spot
       rect:
         serializedVersion: 2
-        x: 552
-        y: 127
-        width: 32
-        height: 22
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 553
+        y: 133
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4163,12 +4163,12 @@ TextureImporter:
       name: Env_Lever_On
       rect:
         serializedVersion: 2
-        x: 224
-        y: 416
-        width: 16
-        height: 16
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 225
+        y: 417
+        width: 13
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4185,12 +4185,12 @@ TextureImporter:
       name: Decal_ShadeA
       rect:
         serializedVersion: 2
-        x: 597
-        y: 203
-        width: 9
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+        x: 598
+        y: 204
+        width: 7
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4207,12 +4207,12 @@ TextureImporter:
       name: Decal_ShadeB
       rect:
         serializedVersion: 2
-        x: 607
+        x: 608
         y: 203
-        width: 9
+        width: 7
         height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4221,6 +4221,2184 @@ TextureImporter:
       bones: []
       spriteID: fa68c3e17167377438c69568a417ef4a
       internalID: 1777575153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 485
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee792d422100cf4492df7c750fdb2d7
+      internalID: 123763827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 480
+        width: 11
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5fa865e9e85e24baeae027e76825af
+      internalID: 2093631917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_2
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 483
+        width: 41
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5f8c0bc53685942b2de8461ecf0461
+      internalID: -2102006435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 483
+        width: 21
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafb92a16039df44b8f495b3000e7981
+      internalID: -92450456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_4
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 477
+        width: 51
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e04513cb5d4dda46b745989c1353278
+      internalID: -857036222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_5
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 483
+        width: 21
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b295b1808f0cc30468ffc0e0ae7c379e
+      internalID: 1198975203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_6
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 481
+        width: 36
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e090b883f4c92734ea83be032e82d56f
+      internalID: 118040429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_7
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 481
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c34b16054a1474f8a5940e55892e9e
+      internalID: 1639217601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_8
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 450
+        width: 19
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d641eda91722a48a4b40a5def290ce
+      internalID: 922576576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_9
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 444
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d50a96cd1938345a0ef8fc39d774ff
+      internalID: -193448409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_10
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 450
+        width: 23
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5ca2da48d5b1342910f3b933074898
+      internalID: -1633867327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_11
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 450
+        width: 21
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3326b284faca7b4fad907aaa5b9a1a3
+      internalID: 1507557137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_12
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 450
+        width: 10
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c6c46ebf4ab8b4781d8ee19ad62cdb
+      internalID: 1646363856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_13
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 450
+        width: 10
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9debd686f971b24db7c22fb4b0c89b9
+      internalID: -1306655647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_14
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 450
+        width: 36
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d11ff1b7dfbc248bb2494b58dc36a3
+      internalID: 855646870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_15
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 450
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17dcac1968244f4c98f3a6c39c066ab
+      internalID: -1167944044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_16
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 451
+        width: 21
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7afbd20716fc840b2d1a03fd41deeb
+      internalID: -494906470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_17
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 436
+        width: 43
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0976fa4c5e8503428562a9a9706061e
+      internalID: -1683262835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_18
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 436
+        width: 48
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e928682423272e0478a41d865d248d9a
+      internalID: -426279022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_19
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 377
+        width: 16
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13893c3340733874288e8dff83f44756
+      internalID: -1371129917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 368
+        width: 35
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570441663dc22ba4d8d6295e66aae9e3
+      internalID: -1937895763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_21
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 358
+        width: 8
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9755e91d0f2c1e74db392677f7122d32
+      internalID: 859809795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 304
+        width: 80
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2970c5fae8649d4ca279905ad5624e5
+      internalID: -680478960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 16
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31ba3e7aa9d6f44098c3bd43fd1bdbe
+      internalID: -1816562667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_24
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 340
+        width: 8
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ffbfa0bbfe9e644959d08496751582
+      internalID: 349938850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_25
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 328
+        width: 8
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264402c8b27920d4f880134e59b9685c
+      internalID: 1899962879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_26
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 337
+        width: 12
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4f54579408d674ba9dc45b6a491adc
+      internalID: -1113563610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_27
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 337
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cdb9e5c672340438d774a4485a5e65
+      internalID: -1922773114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_28
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 337
+        width: 5
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8a154dce17eb047904df523bdc919b
+      internalID: 1230351160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_29
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 337
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a226f4efe22784c47ba517c51d73a1ae
+      internalID: 1109920894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_30
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 337
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0cb451ec6260b45a2225f24be2a3d6
+      internalID: 1760368667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_31
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 337
+        width: 4
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d77f9184e66c866448ada6130183ee46
+      internalID: 380808595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_32
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 337
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d334bfb4d298d2439750b8548bc859e
+      internalID: -254872982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_33
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 337
+        width: 4
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b079042ca0c90e44db5124549525fa65
+      internalID: 432609301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_34
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 337
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2941d3e5e2713a4090423997e9226b8
+      internalID: 2101992865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_35
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 337
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2611f2b860726f34586e881b952fa112
+      internalID: -193306004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_36
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 337
+        width: 12
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8572b9a975c840944bfd75e6c86a3340
+      internalID: -1180308377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_37
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 334
+        width: 8
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21991234dfb7286498f56b1a5e1eec1b
+      internalID: 1914342495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_38
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 337
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b961f85d59461db4796f36a6c927b8ff
+      internalID: 791290317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_39
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 322
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6091c6529ef589b478b59d0e4a001dd4
+      internalID: -258050840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_40
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 320
+        width: 5
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c051d36d5e13a4ab776d1911ad5a19
+      internalID: 357019762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_41
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 322
+        width: 4
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c533cb2f43f9a8c488885eec1159742e
+      internalID: -769028511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_42
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 321
+        width: 20
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c213bce1c99804a919413f06962757
+      internalID: 175924084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_43
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 302
+        width: 11
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29e862eaca3404449295de489f11ea5
+      internalID: 800724020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_44
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 302
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea87acab6a6960948879e91e82ba061c
+      internalID: -394909968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_45
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 302
+        width: 4
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9dd5500a58fc84c9d43c2389228df8
+      internalID: -769792082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_46
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 302
+        width: 4
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190cd280e3dbd01429c8d3e275c59530
+      internalID: -457612218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_47
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 302
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ad2bc1e6af09b4faf263065efb65a6
+      internalID: -919804947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_48
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 302
+        width: 8
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3688e14a0d801240b456376ea93d779
+      internalID: 965303221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_49
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 302
+        width: 4
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db34f0fd0a9c90f4aa54012cddb70d29
+      internalID: 925497182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_50
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 302
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d062d99d38ccc49a562166c44fb147
+      internalID: -1012207261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_51
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 302
+        width: 9
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0242e331dfafbed4cb7b2c765357b3a4
+      internalID: 1370589044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_52
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 302
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86feca6cd077ef4aad32fd14dba50ba
+      internalID: -831495896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_53
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 48
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c73b09a212fa84a9fc9a4852b3df4c
+      internalID: 1188282860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_54
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 272
+        width: 16
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cec39f013191e498dcc688f9364338
+      internalID: 2038804907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_55
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 272
+        width: 16
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcae09f2926652442894034ec8b06d5d
+      internalID: 1075366614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 238
+        width: 48
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7774f4bdff56a2c4bb3fcbed8164f529
+      internalID: -727979189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_57
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9baa628f1c7d27745bb868f9ec3118e9
+      internalID: 532773027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_58
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 240
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cb932573164c54da0e630be06b1949
+      internalID: -44998956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_59
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 224
+        width: 13
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ebd768ffcf74d41994a95ae716c2dc
+      internalID: -1474114002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 176
+        width: 80
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baccfe069986e5940ac6b2fbf37a7bce
+      internalID: -1775337671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_61
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 80
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd96c3f21ca4804c81751762e54624f
+      internalID: -273319668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_62
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 208
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bcf3b21a8081894983236812891c19b
+      internalID: 1761695607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_63
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 213
+        width: 33
+        height: 5
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9949895770a07404cad5bcdc2240b893
+      internalID: 16093532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_64
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 194
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b673787f9e005c43a7cc44c51aa632a
+      internalID: -621946163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_65
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 112
+        width: 52
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dace37f21c62495488ee5226994590db
+      internalID: -250087815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_66
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 78
+        width: 20
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 421ed08a80f397a48aac25a36f0dd5bd
+      internalID: 1119576642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_67
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 159
+        width: 14
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbff00205df8f3409a0524cec4b0761
+      internalID: 447783271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_68
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 161
+        width: 4
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2646d2addf88344883b6c2f7745ad2
+      internalID: -1334144434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_69
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 161
+        width: 9
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c234d7260fa06fb4c99a3e268f3f5266
+      internalID: -961340872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_70
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 161
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6930e568d3b9f3a48bfdd90622492843
+      internalID: 597492689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_71
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 161
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5635bc76b1433664598e5b95629accbb
+      internalID: -1968778211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_72
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 161
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c6d68afe697f5844af80f71bf62991f
+      internalID: 1410451717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_73
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 161
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fe9f2988ceb85458b8263d3d3d6532
+      internalID: -1825576725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_74
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 161
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03544d385ef88c346a53b691f88ed586
+      internalID: -735061692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_75
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 161
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d037dad022b9a4c94ab938ce9cf49b
+      internalID: -34569406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_76
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 161
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a172e43b29c4c4aa4efeb3dbe1f6c1
+      internalID: 1334351101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_77
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 161
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8d7af2c44150b4aa1b74bc7b279e32
+      internalID: 494023918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_78
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 161
+        width: 4
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb5af165a0a52e42ace241d6d2b46f2
+      internalID: -1226651593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_79
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 161
+        width: 6
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f3ae798ff8fc3488c91f710bf5db2a
+      internalID: -1803563582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_80
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 151
+        width: 13
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6715f136bb3f2b4190b9d4725895fcf
+      internalID: 1122083432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_81
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 149
+        width: 12
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59d2bbb5d4a91945b8fc6ec89fd3b73
+      internalID: -2002345656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_82
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 140
+        width: 6
+        height: 7
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9348a24880840145a98c5f71ab58ba8
+      internalID: -673923108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_83
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 140
+        width: 14
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88032b530910464448cd9bfde3c153bf
+      internalID: 1490802386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_84
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 127
+        width: 12
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d1e97131cf3e747b4df6f62526d4d4
+      internalID: -833311295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_85
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 127
+        width: 13
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e539e70a8ea1143ab666518be00178
+      internalID: 2025274845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_86
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 46
+        width: 84
+        height: 55
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc8f355a40b49d48b38c8877463ee76
+      internalID: -1553436885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_87
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 94
+        width: 8
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea79e4357a081ab47a7cbc5f2b2dd896
+      internalID: -1346995104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_88
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 86
+        width: 6
+        height: 6
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8d26b3f92ade74b8cee15ca8035c4c
+      internalID: -1105183370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_89
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 48
+        width: 12
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b337a0f06cf04134ea648054f972e8b2
+      internalID: 1890293456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_90
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872d17b5f555ec0409e8c8b28ec659a9
+      internalID: 744330343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_91
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 48
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbc2801d132b6b45aad3f3ac8464ff2
+      internalID: 1961379544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_92
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 51
+        width: 7
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773b75ecd61fccb4aad7dbcc825b3499
+      internalID: -1908988900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_93
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 51
+        width: 6
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11702db13b4ffd6468b8552b59f8a4a6
+      internalID: -1572806715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_94
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 37
+        width: 10
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acc31248e3e3694680050e279e761b8
+      internalID: -162264811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_95
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 5
+        width: 17
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa69058427df644e826b24126e28e28
+      internalID: -2125614825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_96
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 19
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904ae4fb5939f7d4c90ba2cf6496f810
+      internalID: 929578762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_97
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 3
+        width: 48
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63e482501b25a948bf28d4fbb018ce3
+      internalID: 315161669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Atlas_98
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 0
+        width: 24
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dca158ccddb4c4c881aa11f3562d9f
+      internalID: 841291449
       vertices: []
       indices: 
       edges: []
@@ -4241,9 +6419,111 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.25},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":1,"spriteAlignment":9,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Arrow_Shot: 210736301
+      Atlas_0: 123763827
+      Atlas_1: 2093631917
+      Atlas_10: -1633867327
+      Atlas_11: 1507557137
+      Atlas_12: 1646363856
+      Atlas_13: -1306655647
+      Atlas_14: 855646870
+      Atlas_15: -1167944044
+      Atlas_16: -494906470
+      Atlas_17: -1683262835
+      Atlas_18: -426279022
+      Atlas_19: -1371129917
+      Atlas_2: -2102006435
+      Atlas_20: -1937895763
+      Atlas_21: 859809795
+      Atlas_22: -680478960
+      Atlas_23: -1816562667
+      Atlas_24: 349938850
+      Atlas_25: 1899962879
+      Atlas_26: -1113563610
+      Atlas_27: -1922773114
+      Atlas_28: 1230351160
+      Atlas_29: 1109920894
+      Atlas_3: -92450456
+      Atlas_30: 1760368667
+      Atlas_31: 380808595
+      Atlas_32: -254872982
+      Atlas_33: 432609301
+      Atlas_34: 2101992865
+      Atlas_35: -193306004
+      Atlas_36: -1180308377
+      Atlas_37: 1914342495
+      Atlas_38: 791290317
+      Atlas_39: -258050840
+      Atlas_4: -857036222
+      Atlas_40: 357019762
+      Atlas_41: -769028511
+      Atlas_42: 175924084
+      Atlas_43: 800724020
+      Atlas_44: -394909968
+      Atlas_45: -769792082
+      Atlas_46: -457612218
+      Atlas_47: -919804947
+      Atlas_48: 965303221
+      Atlas_49: 925497182
+      Atlas_5: 1198975203
+      Atlas_50: -1012207261
+      Atlas_51: 1370589044
+      Atlas_52: -831495896
+      Atlas_53: 1188282860
+      Atlas_54: 2038804907
+      Atlas_55: 1075366614
+      Atlas_56: -727979189
+      Atlas_57: 532773027
+      Atlas_58: -44998956
+      Atlas_59: -1474114002
+      Atlas_6: 118040429
+      Atlas_60: -1775337671
+      Atlas_61: -273319668
+      Atlas_62: 1761695607
+      Atlas_63: 16093532
+      Atlas_64: -621946163
+      Atlas_65: -250087815
+      Atlas_66: 1119576642
+      Atlas_67: 447783271
+      Atlas_68: -1334144434
+      Atlas_69: -961340872
+      Atlas_7: 1639217601
+      Atlas_70: 597492689
+      Atlas_71: -1968778211
+      Atlas_72: 1410451717
+      Atlas_73: -1825576725
+      Atlas_74: -735061692
+      Atlas_75: -34569406
+      Atlas_76: 1334351101
+      Atlas_77: 494023918
+      Atlas_78: -1226651593
+      Atlas_79: -1803563582
+      Atlas_8: 922576576
+      Atlas_80: 1122083432
+      Atlas_81: -2002345656
+      Atlas_82: -673923108
+      Atlas_83: 1490802386
+      Atlas_84: -833311295
+      Atlas_85: 2025274845
+      Atlas_86: -1553436885
+      Atlas_87: -1346995104
+      Atlas_88: -1105183370
+      Atlas_89: 1890293456
+      Atlas_9: -193448409
+      Atlas_90: 744330343
+      Atlas_91: 1961379544
+      Atlas_92: -1908988900
+      Atlas_93: -1572806715
+      Atlas_94: -162264811
+      Atlas_95: -2125614825
+      Atlas_96: 929578762
+      Atlas_97: 315161669
+      Atlas_98: 841291449
+      Atlas_99: 1470410743
       Carpet_A: -1455102901
       Carpet_B: 2080420847
       Carpet_C: 297017320

@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using Unity.VisualScripting;
 using UnityEngine;
 
 
@@ -99,7 +100,7 @@ namespace Inventory.Model
             return count;
         }
         private void InformAboutChange()
-        {
+        { 
             InventoryChanged?.Invoke(GetCurrentInventoryState());
         }
 
@@ -147,11 +148,15 @@ namespace Inventory.Model
             }
             for (int i = 0; i < count; i++)
             {
-
                 int reminder = inventoryItems[itemIndex].quantity - count;
                 if (reminder <= 0)
                 {
                     inventoryItems[itemIndex] = InventoryItem.GetEmptyItem();
+                    InventoryManager inv = FindFirstObjectByType<InventoryManager>();
+                    if (inv != null)
+                    {
+                        inv.ResetSelection();
+                    }
                     InformAboutChange();
                 }
                 else

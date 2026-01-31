@@ -10,10 +10,10 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5d49e1fc18243d44a8e3fba47303b844, type: 3}
-  m_Name: Potion
+  m_Name: SmallHPPotion
   m_EditorClassIdentifier: Assembly-CSharp::Inventory.Model.ConsumableItemSO
   <itemName>k__BackingField: Health Potion
-  <image>k__BackingField: {fileID: 21300000, guid: cfaa8b02293f78442b4d9c07fef5c124, type: 3}
+  <image>k__BackingField: {fileID: 366320403, guid: b631ed305dfd43c488e0f8edf5c829bc, type: 3}
   <description>k__BackingField: 'Restores 5 HP
 
 '
@@ -22,4 +22,4 @@ MonoBehaviour:
   <MaxStackSize>k__BackingField: 25
   <count>k__BackingField: 1
   effects:
-  - {fileID: 11400000, guid: c159c13d6ce289442957e255d14324be, type: 2}
+  - {fileID: 11400000, guid: 36399e7af678c0249acd429881680552, type: 2}
