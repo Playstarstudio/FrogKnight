@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Ability
   abilityName: KillEffect
   description: kills target enemy
-  manaCost: 2
+  manaCost: 0
   range: 100
   areaMod: 1
   numberMod: 0
   speed: 1
-  coolDown: 3
+  coolDown: 0
   critMod: 0
   enemyOnly: 0
   crit: 0
@@ -28,3 +28,5 @@ MonoBehaviour:
   abilityEffects:
   - {fileID: 11400000, guid: 9db45dcc1542f144d97310f3b3b8410c, type: 2}
   colliders: []
+  targets:
+  - {fileID: 0}

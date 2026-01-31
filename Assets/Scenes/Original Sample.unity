@@ -3937,10 +3937,13 @@ MonoBehaviour:
   visionBlock: 0
   castSuccess: 0
   casting: {fileID: 0}
-  spell0: {fileID: 23596842}
-  spell1: {fileID: 1167711756}
-  spell2: {fileID: 862210836}
-  spell3: {fileID: 589728175}
+  melee: {fileID: 11400000, guid: 80b4e98fd6530124488aff0f344ce037, type: 2}
+  activeAbilityList:
+  - {fileID: 11400000, guid: c9086ebbba428234891bc9c3701cd85a, type: 2}
+  - {fileID: 11400000, guid: 3364911ca8d905546bcb7edbef0b0226, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  totalKnownAbilities: []
   movementSpeed: 0
   hurt:
     attribute: {fileID: 0}
@@ -3953,6 +3956,8 @@ MonoBehaviour:
   BGM: {fileID: 0}
   SoundEffect: {fileID: 0}
   inventory: {fileID: 11400000, guid: f7e1e679692c6d445a0c450bbe9b276b, type: 2}
+  currentTile: {x: 0, y: 0}
+  targetingTile: {x: 0, y: 0}
   stateName: 
   rangeTile: []
   inventoryManager: {fileID: 105062100}
@@ -41491,6 +41496,115 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5b4dfe6a9f830564aa89306250f8c487, type: 3}
+--- !u!1 &2145082225
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2145082228}
+  - component: {fileID: 2145082227}
+  - component: {fileID: 2145082226}
+  m_Layer: 0
+  m_Name: Square
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &2145082226
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2145082225}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 324e15d817fd5b14da6db8997c17f60b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::ItemOnGround
+  <inventoryItem>k__BackingField: {fileID: 11400000, guid: b7bfdfd47bac56442bd5fc13383eb244, type: 2}
+  <quantity>k__BackingField: 5
+  audioSource: {fileID: 0}
+  duration: 0.3
+  gridManager: {fileID: 0}
+  currentTile: {x: 0, y: 0}
+--- !u!212 &2145082227
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2145082225}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_ForceMeshLod: -1
+  m_MeshLodSelectionBias: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 9dfc825aed78fcd4ba02077103263b40, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_GlobalIlluminationMeshLod: 0
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 7482667652216324306, guid: f3b753f8e78612e49b85da85d2729800, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 1, y: 1}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!4 &2145082228
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2145082225}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 1, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &2145824261
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -41628,6 +41742,7 @@ SceneRoots:
   - {fileID: 1637738871}
   - {fileID: 105062099}
   - {fileID: 1350821630}
+  - {fileID: 2145082228}
   - {fileID: 5938843500974067830}
   - {fileID: 2145824261}
   - {fileID: 2053195071}
