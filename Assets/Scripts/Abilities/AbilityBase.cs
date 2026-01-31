@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.Rendering;
 using static UnityEngine.GraphicsBuffer;
 
 [CreateAssetMenu(fileName = "Ability", menuName = "Scriptable Objects/Ability")]
@@ -39,6 +40,8 @@ public class Ability : ScriptableObject
         Bounce,
         MultiTarget
     }
+
+
     public virtual bool TryCastAbility(Entity source, Vector2 targetPosition)
     {
         targets.Clear();
@@ -92,12 +95,20 @@ public class Ability : ScriptableObject
                     List<Vector2Int> tilesTargeted = GetAllCellsInArea(source, castCenter);
                     foreach (Vector2Int tile in tilesTargeted)
                     {
-                        targets.Add(source.gridManager.GetEnemyOnTile(tile));
+                        Entity entity = null;
+                        if(source.gridManager.TryGetEnemyOnTile(tile, out entity))
+                        {
+                            targets.Add(entity);
+                        }
                     }
                 }
                 else if (targetSubType == TargetSubType.Target)
                 {
-                    targets.Add(source.gridManager.GetEnemyOnTile(castCenter));  
+                    Entity entity = null;
+                    if (source.gridManager.TryGetEnemyOnTile(castCenter, out entity))
+                    {
+                        targets.Add(entity);
+                    }
                 }
                 else
                 {

@@ -15,6 +15,7 @@ public class P_BaseState : P_State
         player.movementSpeed = player.att.GetBaseAttributeValue(player.att.GetAttributeType("Move Speed"));
         inputFunction = Input.GetKeyDown;
         player.casting = null;
+        player.targetingTile = new Vector2Int();
     }
 
     public override void UpdateState(P_StateManager player)
@@ -54,8 +55,8 @@ public class P_BaseState : P_State
             // keyboard casting ability 1-4
             else if (inputFunction(KeyCode.Alpha1))
             {
-                player.casting.ability = player.activeAbilityList[1];
-                if (player.att.GetBaseAttributeValue(player.att.GetAttributeType("MP")) >= player.casting.ability.manaCost)
+                player.casting = player.activeAbilityList[1];
+                if (player.att.GetBaseAttributeValue(player.att.GetAttributeType("MP")) >= player.casting.manaCost)
                 {
                     player.SwitchState(player.abilityState);
                 }
@@ -66,8 +67,8 @@ public class P_BaseState : P_State
             }
             else if (inputFunction(KeyCode.Alpha2))
             {
-                player.casting.ability = player.activeAbilityList[2];
-                if (player.att.GetBaseAttributeValue(player.att.GetAttributeType("MP")) >= player.casting.ability.manaCost)
+                player.casting = player.activeAbilityList[2];
+                if (player.att.GetBaseAttributeValue(player.att.GetAttributeType("MP")) >= player.casting.manaCost)
                 {
                     player.SwitchState(player.abilityState);
                 }
@@ -78,8 +79,8 @@ public class P_BaseState : P_State
             }
             else if (inputFunction(KeyCode.Alpha3))
             {
-                player.casting.ability = player.activeAbilityList[3];
-                if (player.att.GetBaseAttributeValue(player.att.GetAttributeType("MP")) >= player.casting.ability.manaCost)
+                player.casting = player.activeAbilityList[3];
+                if (player.att.GetBaseAttributeValue(player.att.GetAttributeType("MP")) >= player.casting.manaCost)
                 {
                     player.SwitchState(player.abilityState);
                 }
@@ -90,8 +91,8 @@ public class P_BaseState : P_State
             }
             else if (inputFunction(KeyCode.Alpha4))
             {
-                player.casting.ability = player.activeAbilityList[4];
-                if (player.att.GetBaseAttributeValue(player.att.GetAttributeType("MP")) >= player.casting.ability.manaCost)
+                player.casting = player.activeAbilityList[4];
+                if (player.att.GetBaseAttributeValue(player.att.GetAttributeType("MP")) >= player.casting.manaCost)
                 {
                     player.SwitchState(player.abilityState);
                 }
@@ -107,7 +108,8 @@ public class P_BaseState : P_State
                 //Find the Dijkstra's node at this point
                 //Debug.Log("Found " + targetCenter);
                 //Debug.Log("Found node. Distance = " + player.gridManager.ManhattanDistanceToTile(player.gridManager.GetCellPosition(player.gameObject.transform.position), targetCenter) + " " + player.gridManager.map[targetCenter].occupied);
-                Entity entity = player.gridManager.GetEnemyOnTile(targetCenter);
+                Entity entity = null;
+                player.gridManager.TryGetEnemyOnTile(targetCenter, out entity);
                 Debug.Log(entity);
                 /*
                 TileInfo tile;
@@ -139,11 +141,24 @@ public class P_BaseState : P_State
                     player.SwitchState(player.inventoryState);
                 }
             }
+            
             else if (inputFunction(KeyCode.F)) //This should check if you can initiate dialogue
             {
-                if (DialogueManager.instance.dialogueCheck())
+                List<ItemOnGround> itemsOnTile = new List<ItemOnGround>();
+                if (player.gridManager.TryGetItemsOnTile(player.currentTile, out itemsOnTile))
+                {
+                    //itemsOnTile[0].
+                    Debug.Log(itemsOnTile[0].name);
+                }
+                /*
+                else if (DialogueManager.instance.dialogueCheck())
                 {
                     player.SwitchState(player.dialogueState);
+                }
+                 */
+                else
+                {
+                    Debug.Log("Nothing to interact with!");
                 }
             }
         }
@@ -196,9 +211,12 @@ public class P_BaseState : P_State
         Vector2Int endPosition = player.gridManager.GetCellPosition(target);
 
         //sets a cell location for the player to move to
-        if (player.gridManager.map[endPosition].occupied)
-        {//HAVE TO FINISH THIS
-            player.casting.ability = player.melee;
+        Entity entity = null;
+        if (player.gridManager.TryGetEnemyOnTile(endPosition, out entity))
+        {//HAVE TO FINISH THI
+            player.targetingTile = endPosition;
+            player.casting = player.melee;
+            player.SwitchState(player.abilityState);
             moving = false;
             yield break;
         }
@@ -219,7 +237,6 @@ public class P_BaseState : P_State
         //sets player position to the center of the target tile
         player.transform.position = player.gridManager.GetTileCenter(endPosition);
         player.gridManager.MapMoveEntity(player, player.gridManager.GetCellPosition(startPosition), endPosition);
-        //player.transform.position = new Vector3(endPosition.x, endPosition.y, 0);
         //sets tile player is on to occupied
         //sends over to the game manager to increment time based on movement speed
         player.gameManager.PlayerAction(player, player.movementSpeed);
@@ -228,8 +245,6 @@ public class P_BaseState : P_State
         Debug.Log("End Pos:" + endPosition);
          */
         moving = false;
-        // player.gameManager.CheckAndActivateEntities();
-        // player.gameManager.UpdateTimedEntitiesList();
     }
 
     void AStarMovement()

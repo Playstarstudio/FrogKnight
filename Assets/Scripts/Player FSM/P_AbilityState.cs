@@ -1,4 +1,3 @@
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -7,8 +6,26 @@ public class P_AbilityState : P_State
     public bool visible = false;
     public override void EnterState(P_StateManager player)
     {
+        if (player.casting = player.melee)
+        {
+            Debug.Log("casting melee");
+            player.casting.TryCastAbility(player, player.targetingTile);
+            if (player.castSuccess)
+            {
+                Debug.Log("Ability cast successful");
+                player.SwitchState(player.baseState);
+            }
+            else
+            {
+                Debug.Log("Ability cast failed");
+                player.SwitchState(player.baseState);
+            }
+        }
         inputFunction = Input.GetKeyDown;
-        player.casting.gameObject.GetComponent<RawImage>().color = player.casting.activeColor;
+
+        // NEED TO FIX ****************
+        //player.casting.GetComponent<RawImage>().color = player.casting.activeColor;
+
         //no movement
         //turn on range indicator
         //turn on mouse cursor
@@ -29,9 +46,9 @@ public class P_AbilityState : P_State
         {
             player.gridManager.TintTile(tile, Color.yellow);
         }
-         */ 
+         */
 
-        
+
         System.Func<KeyCode, bool> inputFunction;
         inputFunction = Input.GetKeyDown;
         if (Input.GetKeyDown(KeyCode.Tab))
@@ -59,7 +76,7 @@ public class P_AbilityState : P_State
                 player.SwitchState(player.baseState);
                 return;
             }
-            if (player.casting.ability.manaCost >= player.att.GetBaseAttributeValue(player.att.GetAttributeType("MP")))
+            if (player.casting.manaCost >= player.att.GetBaseAttributeValue(player.att.GetAttributeType("MP")))
             {
                 Debug.Log("Not enough MP");
                 player.SwitchState(player.baseState);
@@ -68,7 +85,7 @@ public class P_AbilityState : P_State
             else
             {
                 Debug.Log("first cast check passed");
-                player.casting.ability.TryCastAbility(player, targetCenter);
+                player.casting.TryCastAbility(player, targetCenter);
             }
             //get all entities on that tile
             //attempt to cast ability on that entity
@@ -94,7 +111,7 @@ public class P_AbilityState : P_State
 
     public override void ExitState(P_StateManager player)
     {
-        player.casting.gameObject.GetComponent<RawImage>().color = Color.white;
+        //player.casting.GetComponent<RawImage>().color = Color.white;
         //turn off range indicator
         //turn off mouse cursor
         //turn off ability ui
@@ -102,24 +119,24 @@ public class P_AbilityState : P_State
     }
 
     public void DisplayAbilityRange(P_StateManager player)
-{
-
-    int abilityRange = player.casting.ability.range;
-    foreach (var entry in player.gridManager.playerRange)
     {
-        if (entry.Key.rawDist <= abilityRange)
+
+        int abilityRange = player.casting.range;
+        foreach (var entry in player.gridManager.playerRange)
         {
-            player.gridManager.TintTile(entry.Key.position, Color.red);
+            if (entry.Key.rawDist <= abilityRange)
+            {
+                player.gridManager.TintTile(entry.Key.position, Color.red);
+            }
         }
     }
-}
 
-public void ClearAllTintedTiles(P_StateManager player)
-{
-    foreach (var entry in player.gridManager.playerRange)
+    public void ClearAllTintedTiles(P_StateManager player)
     {
+        foreach (var entry in player.gridManager.playerRange)
+        {
 
-        player.gridManager.TintTile(entry.Key.position, Color.white);
+            player.gridManager.TintTile(entry.Key.position, Color.white);
+        }
     }
-}
 }

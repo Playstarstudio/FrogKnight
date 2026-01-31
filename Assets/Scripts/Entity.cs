@@ -24,7 +24,7 @@ public class Entity : MonoBehaviour
     [SerializeField] public AttributeSet att;
     public bool visionBlock = false;
     [SerializeField] public bool castSuccess = false;
-    [SerializeField] public AbilitySlot casting;
+    [SerializeField] public Ability casting;
     [SerializeField] public Ability melee;
     [SerializeField] public List<Ability> activeAbilityList;
     [SerializeField] public List<Ability> totalKnownAbilities;
@@ -37,6 +37,8 @@ public class Entity : MonoBehaviour
     public AudioSource BGM;
     public AudioSource SoundEffect;
     public InventorySO inventory;
+    public Vector2Int currentTile;
+    public Vector2Int targetingTile;
     #endregion
 
     private void Awake()
@@ -45,6 +47,7 @@ public class Entity : MonoBehaviour
 
     private void Start()
     {
+        currentTile = gridManager.GetCellPosition(this.transform.position);
         this.transform.position = gridManager.GetTileCenter(gridManager.GetCellPosition(this.transform.position));
     }
 

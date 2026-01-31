@@ -6,7 +6,6 @@ using UnityEngine;
 
 namespace Inventory.Model
 {
-
     [CreateAssetMenu(fileName = "InventorySO", menuName = "Scriptable Objects/InventorySO")]
     public class InventorySO : ScriptableObject
     {

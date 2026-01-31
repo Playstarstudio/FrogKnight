@@ -31,7 +31,7 @@ public class GridManager : MonoBehaviour
         public bool isVisionBlocking = false;
         public bool occupied = false;
         public List<Entity> occupyingEntities = new List<Entity>();
-        public List<ItemSO> occupyingItems = new List<ItemSO>();
+        public List<ItemOnGround> occupyingItems = new List<ItemOnGround>();
         public bool LoS = false;
         public bool visible = false;
         public FOWEnum sightValue;
@@ -784,21 +784,47 @@ public class GridManager : MonoBehaviour
         }
         return entities;
     }
-    public Entity GetEnemyOnTile(Vector2Int pos)
+    public bool TryGetEnemyOnTile(Vector2Int pos, out Entity entityOnTile)
     {
         TileInfo tileInfo;
         map.TryGetValue(pos, out tileInfo);
-        foreach (Entity entity in tileInfo.occupyingEntities)
+        if (tileInfo.occupyingEntities.Count == 0)
         {
-            if (!entity)
-                continue;
-            else if (entity.GetType() == typeof(Enemy))
+            entityOnTile = null;
+            return false;
+        }
+        //foreach (Entity entity in tileInfo.occupyingEntities)
+        for (int i = 0; i < tileInfo.occupyingEntities.Count; i++)
+        {
+            if (tileInfo.occupyingEntities[i].GetType() == typeof(Enemy))
             {
-                return entity;
+                entityOnTile = tileInfo.occupyingEntities[i];
+                return true;
+            }
+            else
+            {
+                continue;
             }
         }
-        return null;
+        entityOnTile = null;
+        return false;
     }
+    public bool TryGetItemsOnTile(Vector2Int pos, out List<ItemOnGround> itemList)
+    {
+        TileInfo tileInfo;
+        map.TryGetValue(pos, out tileInfo);
+        if (tileInfo.occupyingItems.Count == 0)
+        {
+            itemList = new List<ItemOnGround>();
+            return false;
+        }
+        else
+        {
+            itemList = tileInfo.occupyingItems;
+            return true;
+        }
+    }
+
     public bool TraversableCheck(Vector2Int pos)
     {
         TileInfo tile;
@@ -1112,6 +1138,7 @@ public class GridManager : MonoBehaviour
     {
         map[from].occupyingEntities.Remove(entity);
         map[to].occupyingEntities.Add(entity);
+        entity.currentTile = to;
         CalculateTileData(from);
         CalculateTileData(to);
         DisplayOrHideEntity(entity);
@@ -1119,6 +1146,7 @@ public class GridManager : MonoBehaviour
     public void MapAddEntity(Entity entity, Vector2Int tilePos)
     {
         map[tilePos].occupyingEntities.Add(entity);
+        entity.currentTile = tilePos;
         CalculateTileData(tilePos);
         DisplayOrHideEntity(entity);
     }
@@ -1129,19 +1157,18 @@ public class GridManager : MonoBehaviour
         DisplayOrHideEntity(entity);
 
     }
-    public void MapAddItem(ItemSO item, Vector2Int tilePos)
+    public void MapAddItem(ItemOnGround item, Vector2Int tilePos)
     {
         map[tilePos].occupyingItems.Add(item);
         CalculateTileData(tilePos);
         DisplayOrHideItem(item, tilePos);
-
     }
-    public void MapRemoveItem(ItemSO item, Vector2Int tilePos)
+    public void MapRemoveItem(ItemOnGround item, Vector2Int tilePos)
     {
         map[tilePos].occupyingItems.Remove(item);
         CalculateTileData(tilePos);
     }
-    public void MapMoveItem(ItemSO item, Vector2Int from, Vector2Int to)
+    public void MapMoveItem(ItemOnGround item, Vector2Int from, Vector2Int to)
     {
         map[from].occupyingItems.Remove(item);
         map[to].occupyingItems.Add(item);
@@ -1165,7 +1192,7 @@ public class GridManager : MonoBehaviour
             }
         }
     }
-    public void DisplayOrHideItem(ItemSO gameObject, Vector2Int tile)
+    public void DisplayOrHideItem(ItemOnGround gameObject, Vector2Int tile)
     {
         Vector2 objectPos = GetTileCenter(tile);
         if (objectPos != null)
