@@ -10,23 +10,23 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: be5b9eff4c7c53d4587fdf1b1d49da2c, type: 3}
-  m_Name: Melee
+  m_Name: A_Fireball
   m_EditorClassIdentifier: Assembly-CSharp::Ability
-  abilityName: KillEffect
-  description: kills target enemy
-  manaCost: 0
-  range: 100
-  areaMod: 1
+  abilityName: Fireball
+  abilityImage: {fileID: 4999615721149538655, guid: b5c5f37194a93894aa0ecf2a250d9e2e, type: 3}
+  description: Deals some damage in an area
+  manaCost: 2
+  range: 5
+  areaMod: 3
   numberMod: 0
   speed: 1
-  coolDown: 0
+  coolDown: 3
   critMod: 0
   enemyOnly: 0
   crit: 0
   targetType: 0
-  targetSubType: 0
+  targetSubType: 1
   abilityEffects:
-  - {fileID: 11400000, guid: 9db45dcc1542f144d97310f3b3b8410c, type: 2}
+  - {fileID: 11400000, guid: 1853d42b66efe3942bd819d553feb8c0, type: 2}
   colliders: []
-  targets:
-  - {fileID: 0}
+  targets: []

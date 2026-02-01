@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 99cdb7b5ddb00dd42b9ce24d24d723b6, type: 3}
-  m_Name: MeleeHit
+  m_Name: AE_Damage_5
   m_EditorClassIdentifier: Assembly-CSharp::AbilityEffect
   effectName: Damage
   description: 
-  effectValue: 50
+  effectValue: 5
   duration: 1
   tickRate: 0
   isDebuff: 0

@@ -82,7 +82,6 @@ namespace Inventory
             int reminder = inventoryData.AddItem(item.inventoryItem, item.quantity);
             if (reminder == 0)
             {
-                item.DestroyItem();
                 return reminder;
             }
             else

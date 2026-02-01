@@ -132,7 +132,7 @@ public class Enemy : Entity
     }
     public void OnDestroy()
     {
+        gridManager.MapRemoveEntity(this,currentTile);
         gameManager.RemoveTimedEntity(this.gameObject);
-        gridManager.MapRemoveEntity(this, currentPos);
     }
 }

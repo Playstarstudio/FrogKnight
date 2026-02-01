@@ -2,12 +2,14 @@ using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Rendering;
+using UnityEngine.UI;
 using static UnityEngine.GraphicsBuffer;
 
 [CreateAssetMenu(fileName = "Ability", menuName = "Scriptable Objects/Ability")]
 public class Ability : ScriptableObject
 {
     public string abilityName;
+    public Sprite abilityImage; 
     public string description;
     public float manaCost;
     public int range;
@@ -23,6 +25,7 @@ public class Ability : ScriptableObject
     public AbilityEffect[] abilityEffects;
     public Collider2D[] colliders;
     public List<Entity> targets;
+
 
     public enum TargetType
     {

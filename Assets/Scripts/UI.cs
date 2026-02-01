@@ -25,7 +25,6 @@ public class UI : MonoBehaviour
         //playerHP = PCAttributes.GetBaseAttributeValue(HP);
         _healthBar.value = GetStat("HP") / GetStat("HP Max");
         _manaBar.value = GetStat("MP") / GetStat("MP Max");
-        _staminaBar.value = GetStat("STA") / GetStat("STA Max");
     }
 
     float GetStat(string statName)

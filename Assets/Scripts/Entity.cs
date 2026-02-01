@@ -25,6 +25,7 @@ public class Entity : MonoBehaviour
     public bool visionBlock = false;
     [SerializeField] public bool castSuccess = false;
     [SerializeField] public Ability casting;
+    [SerializeField] public AbilitySlot castingSlot;
     [SerializeField] public Ability melee;
     [SerializeField] public List<Ability> activeAbilityList;
     [SerializeField] public List<Ability> totalKnownAbilities;

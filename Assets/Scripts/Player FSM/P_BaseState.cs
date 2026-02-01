@@ -2,6 +2,7 @@ using System.Collections.Generic;
 using Unity.VisualScripting.FullSerializer;
 using UnityEngine;
 using static GridManager;
+using static UnityEditor.Progress;
 
 public class P_BaseState : P_State
 {
@@ -55,9 +56,10 @@ public class P_BaseState : P_State
             // keyboard casting ability 1-4
             else if (inputFunction(KeyCode.Alpha1))
             {
-                player.casting = player.activeAbilityList[1];
+                player.casting = player.activeAbilityList[0];
                 if (player.att.GetBaseAttributeValue(player.att.GetAttributeType("MP")) >= player.casting.manaCost)
                 {
+                    player.castingSlot = player.abilitySlots[0];
                     player.SwitchState(player.abilityState);
                 }
                 else
@@ -67,9 +69,10 @@ public class P_BaseState : P_State
             }
             else if (inputFunction(KeyCode.Alpha2))
             {
-                player.casting = player.activeAbilityList[2];
+                player.casting = player.activeAbilityList[1];
                 if (player.att.GetBaseAttributeValue(player.att.GetAttributeType("MP")) >= player.casting.manaCost)
                 {
+                    player.castingSlot = player.abilitySlots[1];
                     player.SwitchState(player.abilityState);
                 }
                 else
@@ -79,9 +82,10 @@ public class P_BaseState : P_State
             }
             else if (inputFunction(KeyCode.Alpha3))
             {
-                player.casting = player.activeAbilityList[3];
+                player.casting = player.activeAbilityList[2];
                 if (player.att.GetBaseAttributeValue(player.att.GetAttributeType("MP")) >= player.casting.manaCost)
                 {
+                    player.castingSlot = player.abilitySlots[2];
                     player.SwitchState(player.abilityState);
                 }
                 else
@@ -91,9 +95,10 @@ public class P_BaseState : P_State
             }
             else if (inputFunction(KeyCode.Alpha4))
             {
-                player.casting = player.activeAbilityList[4];
+                player.casting = player.activeAbilityList[3];
                 if (player.att.GetBaseAttributeValue(player.att.GetAttributeType("MP")) >= player.casting.manaCost)
                 {
+                    player.castingSlot = player.abilitySlots[3];
                     player.SwitchState(player.abilityState);
                 }
                 else
@@ -151,7 +156,9 @@ public class P_BaseState : P_State
                     Debug.Log(itemsOnTile[0].name);
                     if (player.inventoryManager.TryPickupItem(itemsOnTile[0]) == 0)
                     {
+                        ItemOnGround item = itemsOnTile[0];
                         player.gridManager.MapRemoveItem(itemsOnTile[0], player.currentTile);
+                        item.DestroyItem();
                     }
                     else
                     {

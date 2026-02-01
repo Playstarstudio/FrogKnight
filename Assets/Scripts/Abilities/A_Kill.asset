@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: be5b9eff4c7c53d4587fdf1b1d49da2c, type: 3}
-  m_Name: KillAoe
+  m_Name: A_Kill
   m_EditorClassIdentifier: Assembly-CSharp::Ability
   abilityName: Kill
   description: kills target enemy
   manaCost: 2
-  range: 5
+  range: 3
   areaMod: 3
   numberMod: 0
   speed: 1
@@ -29,32 +29,4 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 9db45dcc1542f144d97310f3b3b8410c, type: 2}
   colliders: []
   targets:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
   - {fileID: 0}

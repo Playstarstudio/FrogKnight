@@ -1216,11 +1216,17 @@ public class GridManager : MonoBehaviour
             {
                 foreach (Entity entity in tileInfo.occupyingEntities)
                 {
-                    entity.GetComponent<SpriteRenderer>().enabled = true;
+                    if (entity != null)
+                    {
+                        entity.GetComponent<SpriteRenderer>().enabled = true;
+                    }
                 }
                 foreach (ItemOnGround item in  tileInfo.occupyingItems)
                 {
-                    item.GetComponent<SpriteRenderer>().enabled = true;
+                    if (item != null)
+                    {
+                        item.GetComponent<SpriteRenderer>().enabled = true;
+                    }
                 }
             }
             else if (!tileInfo.visible)

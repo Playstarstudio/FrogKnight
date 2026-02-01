@@ -1,8 +1,10 @@
 using Inventory;
 using System.Collections.Generic;
 using TMPro;
+using Unity.VisualScripting;
 using UnityEditor.UIElements;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class P_StateManager : Entity
 {
@@ -16,6 +18,7 @@ public class P_StateManager : Entity
     public P_AbilityState abilityState = new P_AbilityState();
     public P_InventoryState inventoryState = new P_InventoryState();
     public P_DialogueState dialogueState = new P_DialogueState();
+    public List<AbilitySlot> abilitySlots = new List<AbilitySlot>();
     /*
     public P_CharacterState characterstate = new P_CharacterState();
     
@@ -57,7 +60,8 @@ public class P_StateManager : Entity
         gridManager.MapAddEntity(this, gridManager.GetCellPosition(this.transform.position));
         for(int i = 0; i < activeAbilityList.Count; i++)
         {
-            
+            abilitySlots[i].ability = activeAbilityList[i];
+            abilitySlots[i].image.sprite = activeAbilityList[i].abilityImage;
         }
     }
 

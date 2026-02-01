@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.Rendering;
 using UnityEngine.UI;
 
 public class P_AbilityState : P_State
@@ -6,7 +7,7 @@ public class P_AbilityState : P_State
     public bool visible = false;
     public override void EnterState(P_StateManager player)
     {
-        if (player.casting = player.melee)
+        if (player.casting == player.melee)
         {
             Debug.Log("casting melee");
             player.casting.TryCastAbility(player, player.targetingTile);
@@ -21,7 +22,11 @@ public class P_AbilityState : P_State
                 player.SwitchState(player.baseState);
             }
         }
-        inputFunction = Input.GetKeyDown;
+        else
+        {
+            inputFunction = Input.GetKeyDown;
+            player.castingSlot.GetComponent<Image>().color = player.castingSlot.activeColor;
+        }
 
         // NEED TO FIX ****************
         //player.casting.GetComponent<RawImage>().color = player.casting.activeColor;
@@ -111,7 +116,7 @@ public class P_AbilityState : P_State
 
     public override void ExitState(P_StateManager player)
     {
-        //player.casting.GetComponent<RawImage>().color = Color.white;
+        player.castingSlot.GetComponent<Image>().color = Color.white;
         //turn off range indicator
         //turn off mouse cursor
         //turn off ability ui
