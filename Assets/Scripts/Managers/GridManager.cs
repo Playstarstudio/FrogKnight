@@ -63,7 +63,15 @@ public class GridManager : MonoBehaviour
     [SerializeField]
     private Tilemap fowTiles;
 
-    //Stores our range tiles
+    //Stores our BG tiles
+    [SerializeField]
+    private Tilemap bgTiles;
+
+    //Stores our Cosmetic tiles
+    [SerializeField]
+    private Tilemap cosmeticTiles;
+
+    //Stores our Range tiles
     [SerializeField]
     private Tilemap rangeTiles;
 
@@ -930,6 +938,22 @@ public class GridManager : MonoBehaviour
     {
         MergeTilemaps(ref doorOptions, ref sourceTilemap, false);
     }
+    private void MergeIntoFOW(ref Tilemap sourceTilemap)
+    {
+        MergeTilemaps(ref fowTiles, ref sourceTilemap, false);
+    }
+    private void MergeIntoBG(ref Tilemap sourceTilemap)
+    {
+        MergeTilemaps(ref bgTiles, ref sourceTilemap, false);
+    }
+    private void MergeIntoRange(ref Tilemap sourceTilemap)
+    {
+        MergeTilemaps(ref rangeTiles, ref sourceTilemap, false);
+    }
+    private void MergeIntoCosmetics(ref Tilemap sourceTilemap)
+    {
+        MergeTilemaps(ref cosmeticTiles, ref sourceTilemap, false);
+    }
 
 
     /*
@@ -972,11 +996,11 @@ public class GridManager : MonoBehaviour
                 Vector3 worldPosition = fowTiles.CellToWorld(new Vector3Int(x, y, 0));
                 if (fowTiles.HasTile(fowTiles.WorldToCell(worldPosition)))
                 {
-                    fowTintedTiles.Add(new Vector2Int(x, y), Color.black);
+                    fowTintedTiles.Add(new Vector2Int(x, y), Color.white);
                 }
                 else
                 {
-                    fowTintedTiles.Add(new Vector2Int(x, y), Color.black);
+                    fowTintedTiles.Add(new Vector2Int(x, y), Color.white);
                 }
                 TintFOWTiles();
             }
@@ -1032,11 +1056,11 @@ public class GridManager : MonoBehaviour
                     }
                     if (map[tile].sightValue == FOWEnum.NeverSeen)
                     {
-                        tileTint = new Color(0, 0, 0, 1);
+                        tileTint = new Color(9, 10, 20, 1);
                     }
                     else if (map[tile].sightValue == FOWEnum.PrevSeen)
                     {
-                        tileTint = new Color(0, 0, 0, .25f);
+                        tileTint = new Color(90, 10, 20, .6f);
                     }
                     else if (map[tile].sightValue == FOWEnum.CurrentlySeeing)
                     {

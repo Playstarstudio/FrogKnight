@@ -1,0 +1,2730 @@
+fileFormatVersion: 2
+guid: 8b74e17d1f0b26b458409f5786e85d98
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4235664400436605024
+    second: RedSmoothdungeonTileset_0
+  - first:
+      213: -3039812372443551010
+    second: RedSmoothdungeonTileset_1
+  - first:
+      213: -4242635566514286211
+    second: RedSmoothdungeonTileset_2
+  - first:
+      213: -1485355238057859027
+    second: RedSmoothdungeonTileset_3
+  - first:
+      213: 3732042306085576749
+    second: RedSmoothdungeonTileset_4
+  - first:
+      213: 4496984452095624901
+    second: RedSmoothdungeonTileset_5
+  - first:
+      213: 8247072240010550269
+    second: RedSmoothdungeonTileset_6
+  - first:
+      213: 7262087041468478703
+    second: RedSmoothdungeonTileset_7
+  - first:
+      213: -7890225670390871496
+    second: RedSmoothdungeonTileset_8
+  - first:
+      213: -2266316968326768733
+    second: RedSmoothdungeonTileset_9
+  - first:
+      213: -3644899519093191519
+    second: RedSmoothdungeonTileset_10
+  - first:
+      213: 7235727454034208731
+    second: RedSmoothdungeonTileset_11
+  - first:
+      213: -3905000006935404309
+    second: RedSmoothdungeonTileset_12
+  - first:
+      213: 7617925448558302155
+    second: RedSmoothdungeonTileset_13
+  - first:
+      213: 9120689278965816244
+    second: RedSmoothdungeonTileset_14
+  - first:
+      213: 902317060088375618
+    second: RedSmoothdungeonTileset_15
+  - first:
+      213: -271204047306017090
+    second: RedSmoothdungeonTileset_16
+  - first:
+      213: -3057376152581588900
+    second: RedSmoothdungeonTileset_17
+  - first:
+      213: 6239322101644460946
+    second: RedSmoothdungeonTileset_18
+  - first:
+      213: -3276960639221532294
+    second: RedSmoothdungeonTileset_19
+  - first:
+      213: 5543870513979415793
+    second: RedSmoothdungeonTileset_20
+  - first:
+      213: -6621149372687346837
+    second: RedSmoothdungeonTileset_21
+  - first:
+      213: -1720068692521520309
+    second: RedSmoothdungeonTileset_22
+  - first:
+      213: -5969043232391050712
+    second: RedSmoothdungeonTileset_23
+  - first:
+      213: -8082910539661718947
+    second: RedSmoothdungeonTileset_24
+  - first:
+      213: 8657742261981902148
+    second: RedSmoothdungeonTileset_25
+  - first:
+      213: 2333316287040333683
+    second: RedSmoothdungeonTileset_26
+  - first:
+      213: 8145736781093960858
+    second: RedSmoothdungeonTileset_27
+  - first:
+      213: -8134360000799043974
+    second: RedSmoothdungeonTileset_28
+  - first:
+      213: 2113978982105703156
+    second: RedSmoothdungeonTileset_29
+  - first:
+      213: 2567946123307711888
+    second: RedSmoothdungeonTileset_30
+  - first:
+      213: 1685894182318521404
+    second: RedSmoothdungeonTileset_31
+  - first:
+      213: -457714288934209558
+    second: RedSmoothdungeonTileset_32
+  - first:
+      213: -5823527272089674858
+    second: RedSmoothdungeonTileset_33
+  - first:
+      213: -683049740182905547
+    second: RedSmoothdungeonTileset_34
+  - first:
+      213: 3776125771162795684
+    second: RedSmoothdungeonTileset_35
+  - first:
+      213: 4719623489945212005
+    second: RedSmoothdungeonTileset_36
+  - first:
+      213: 3471156180994519528
+    second: RedSmoothdungeonTileset_37
+  - first:
+      213: 7907512015054129658
+    second: RedSmoothdungeonTileset_38
+  - first:
+      213: 5892340549635454391
+    second: RedSmoothdungeonTileset_39
+  - first:
+      213: 2186978921891878546
+    second: RedSmoothdungeonTileset_40
+  - first:
+      213: -7620492936036595883
+    second: RedSmoothdungeonTileset_41
+  - first:
+      213: -494482977406505758
+    second: RedSmoothdungeonTileset_42
+  - first:
+      213: -7763942767675809128
+    second: RedSmoothdungeonTileset_43
+  - first:
+      213: 4872985515513038797
+    second: RedSmoothdungeonTileset_44
+  - first:
+      213: -8115754703325167203
+    second: RedSmoothdungeonTileset_45
+  - first:
+      213: -8630718043479087142
+    second: RedSmoothdungeonTileset_46
+  - first:
+      213: 8549665248167709480
+    second: RedSmoothdungeonTileset_47
+  - first:
+      213: 7158693025507144415
+    second: RedSmoothdungeonTileset_48
+  - first:
+      213: -1338584274998825096
+    second: RedSmoothdungeonTileset_49
+  - first:
+      213: -2943385240270915148
+    second: RedSmoothdungeonTileset_50
+  - first:
+      213: -1336118568416565598
+    second: RedSmoothdungeonTileset_51
+  - first:
+      213: -5389633510453508004
+    second: RedSmoothdungeonTileset_52
+  - first:
+      213: -7080232906503625451
+    second: RedSmoothdungeonTileset_53
+  - first:
+      213: -1939863218551703436
+    second: RedSmoothdungeonTileset_54
+  - first:
+      213: 8711506230077107725
+    second: RedSmoothdungeonTileset_55
+  - first:
+      213: -8375087611701009625
+    second: RedSmoothdungeonTileset_56
+  - first:
+      213: -192812975331394048
+    second: RedSmoothdungeonTileset_57
+  - first:
+      213: -8199085261706430116
+    second: RedSmoothdungeonTileset_58
+  - first:
+      213: 5457754345368954866
+    second: RedSmoothdungeonTileset_59
+  - first:
+      213: -4353049451036242671
+    second: RedSmoothdungeonTileset_60
+  - first:
+      213: -7950633317773501944
+    second: RedSmoothdungeonTileset_61
+  - first:
+      213: 1018449999797549401
+    second: RedSmoothdungeonTileset_62
+  - first:
+      213: -7580874228155525201
+    second: RedSmoothdungeonTileset_63
+  - first:
+      213: -8553994009232455338
+    second: RedSmoothdungeonTileset_64
+  - first:
+      213: -7800087658898826578
+    second: RedSmoothdungeonTileset_65
+  - first:
+      213: 7047166588610368161
+    second: RedSmoothdungeonTileset_66
+  - first:
+      213: -1588174006014152489
+    second: RedSmoothdungeonTileset_67
+  - first:
+      213: -1826228700537010225
+    second: RedSmoothdungeonTileset_68
+  - first:
+      213: -6888710837698304846
+    second: RedSmoothdungeonTileset_69
+  - first:
+      213: -6535469224709912310
+    second: RedSmoothdungeonTileset_70
+  - first:
+      213: 420791142289513602
+    second: RedSmoothdungeonTileset_71
+  - first:
+      213: -1670373396306393593
+    second: RedSmoothdungeonTileset_72
+  - first:
+      213: -5026424026514817802
+    second: RedSmoothdungeonTileset_73
+  - first:
+      213: 4477326813205780257
+    second: RedSmoothdungeonTileset_74
+  - first:
+      213: 5457146488631069330
+    second: RedSmoothdungeonTileset_75
+  - first:
+      213: -6790650258811122168
+    second: RedSmoothdungeonTileset_76
+  - first:
+      213: -4617388084679938439
+    second: RedSmoothdungeonTileset_77
+  - first:
+      213: 2930804691088776960
+    second: RedSmoothdungeonTileset_78
+  - first:
+      213: -4856115202415164414
+    second: RedSmoothdungeonTileset_79
+  - first:
+      213: 7851995847536219725
+    second: RedSmoothdungeonTileset_80
+  - first:
+      213: 3522333975544682999
+    second: RedSmoothdungeonTileset_81
+  - first:
+      213: 6949424667936634634
+    second: RedSmoothdungeonTileset_82
+  - first:
+      213: 8779549782778543793
+    second: RedSmoothdungeonTileset_83
+  - first:
+      213: -5535684744624806240
+    second: RedSmoothdungeonTileset_84
+  - first:
+      213: -4804338396706619926
+    second: RedSmoothdungeonTileset_85
+  - first:
+      213: 5211675128113462641
+    second: RedSmoothdungeonTileset_86
+  - first:
+      213: 7818039133214377653
+    second: RedSmoothdungeonTileset_87
+  - first:
+      213: -1601340051193290127
+    second: RedSmoothdungeonTileset_88
+  - first:
+      213: -1759535715947612655
+    second: RedSmoothdungeonTileset_89
+  - first:
+      213: -2274527002471560535
+    second: RedSmoothdungeonTileset_90
+  - first:
+      213: 4374170070816201678
+    second: RedSmoothdungeonTileset_91
+  - first:
+      213: -2779545479517564058
+    second: RedSmoothdungeonTileset_92
+  - first:
+      213: 507035124306036995
+    second: RedSmoothdungeonTileset_93
+  - first:
+      213: -8804554336477356242
+    second: RedSmoothdungeonTileset_94
+  - first:
+      213: 1508546864410420500
+    second: RedSmoothdungeonTileset_95
+  - first:
+      213: -7161393413881734511
+    second: RedSmoothdungeonTileset_96
+  - first:
+      213: -3715394539265176372
+    second: RedSmoothdungeonTileset_97
+  - first:
+      213: -6034537299661227593
+    second: RedSmoothdungeonTileset_98
+  - first:
+      213: -6351860516292841028
+    second: RedSmoothdungeonTileset_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 383
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af45385ba5e735c0800000000000000
+      internalID: -4235664400436605024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 383
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda2aacb0ca60d5d0800000000000000
+      internalID: -3039812372443551010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 383
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d715a724e612f15c0800000000000000
+      internalID: -4242635566514286211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_3
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 383
+        width: 66
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28ab4ed745f26be0800000000000000
+      internalID: -1485355238057859027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_4
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 271
+        width: 124
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20e5f444b0eac330800000000000000
+      internalID: 3732042306085576749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_5
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 287
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c64d9b788f786e30800000000000000
+      internalID: 4496984452095624901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 303
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb50d6e18c737270800000000000000
+      internalID: 8247072240010550269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 171
+        width: 124
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe432b220bd18c460800000000000000
+      internalID: 7262087041468478703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_8
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 316
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a0fa69e89408290800000000000000
+      internalID: -7890225670390871496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_9
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 268
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7517a89bc6c80e0800000000000000
+      internalID: -2266316968326768733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_10
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 287
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac457ae237ba6dc0800000000000000
+      internalID: -3644899519093191519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_11
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 287
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7204d68c77a6460800000000000000
+      internalID: 7235727454034208731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_12
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 239
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0a7baee27aec9c0800000000000000
+      internalID: -3905000006935404309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 255
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3d9be75de48b960800000000000000
+      internalID: 7617925448558302155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 255
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb98736392339e70800000000000000
+      internalID: 9120689278965816244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_15
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 255
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249a751e59ca58c00800000000000000
+      internalID: 902317060088375618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_16
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 255
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb63daa1b5d7c3cf0800000000000000
+      internalID: -271204047306017090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_17
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 255
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58bf9086940295d0800000000000000
+      internalID: -3057376152581588900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_18
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 255
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29303c3e466869650800000000000000
+      internalID: 6239322101644460946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_19
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79734429a5e582d0800000000000000
+      internalID: -3276960639221532294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_20
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc518a1cd8cfec40800000000000000
+      internalID: 5543870513979415793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 207
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b639b24d9b3fc14a0800000000000000
+      internalID: -6621149372687346837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_22
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 220
+        width: 50
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43fbf033a61128e0800000000000000
+      internalID: -1720068692521520309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_23
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 209
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ac1643ec2b92da0800000000000000
+      internalID: -5969043232391050712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_24
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 209
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ac33470bbb3df80800000000000000
+      internalID: -8082910539661718947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_25
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 209
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445715277ba762870800000000000000
+      internalID: 8657742261981902148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_26
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 209
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3772ca5fcca916020800000000000000
+      internalID: 2333316287040333683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_27
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 209
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c70f6c1787b0170800000000000000
+      internalID: 8145736781093960858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_28
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 209
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e0a3d4da2fc1f80800000000000000
+      internalID: -8134360000799043974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_29
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 209
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f26d031fac565d10800000000000000
+      internalID: 2113978982105703156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_30
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 209
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09df812c46d23a320800000000000000
+      internalID: 2567946123307711888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_31
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 209
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c3ef993df756710800000000000000
+      internalID: 1685894182318521404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_32
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7b47f774fd5a9f0800000000000000
+      internalID: -457714288934209558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_33
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b9b47ecccae2fa0800000000000000
+      internalID: -5823527272089674858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_34
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 175
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d997851e15586f0800000000000000
+      internalID: -683049740182905547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_35
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 175
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae3b51d16e776430800000000000000
+      internalID: 3776125771162795684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_36
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 175
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56416c7fe887f7140800000000000000
+      internalID: 4719623489945212005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_37
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 160
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e17418d7260c2030800000000000000
+      internalID: 3471156180994519528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_38
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 160
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af94f6a28402dbd60800000000000000
+      internalID: 7907512015054129658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_39
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 160
+        width: 6
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5b6acc28cc5c150800000000000000
+      internalID: 5892340549635454391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_40
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 160
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296d1aa0eb5b95e10800000000000000
+      internalID: 2186978921891878546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_41
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 160
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5574a2ebc029e3690800000000000000
+      internalID: -7620492936036595883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_42
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 160
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec25381a5e3329f0800000000000000
+      internalID: -494482977406505758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_43
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 160
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892683c103fe04490800000000000000
+      internalID: -7763942767675809128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_44
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 160
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc747c7128250a340800000000000000
+      internalID: 4872985515513038797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_45
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 160
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d910910b81c0f5f80800000000000000
+      internalID: -8115754703325167203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_46
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 165
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7efddbaa7893880800000000000000
+      internalID: -8630718043479087142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_47
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 160
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82bc981ce3386a670800000000000000
+      internalID: 8549665248167709480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_48
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 111
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd27b69d069c85360800000000000000
+      internalID: 7158693025507144415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_49
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 111
+        width: 66
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f65caa1b46c6de0800000000000000
+      internalID: -1338584274998825096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_50
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 145
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9368cf7bef627d0800000000000000
+      internalID: -2943385240270915148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_51
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 143
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a62ab7bd37257de0800000000000000
+      internalID: -1336118568416565598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_52
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 127
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5880e3b0ec2435b0800000000000000
+      internalID: -5389633510453508004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_53
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 127
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515e1d82fa5fdbd90800000000000000
+      internalID: -7080232906503625451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_54
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 127
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47831693ea83415e0800000000000000
+      internalID: -1939863218551703436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_55
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 127
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e295eb2cc75e870800000000000000
+      internalID: 8711506230077107725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_56
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72369c5b036b5cb80800000000000000
+      internalID: -8375087611701009625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_57
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 127
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e3949de9df25df0800000000000000
+      internalID: -192812975331394048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_58
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 127
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59f8d4256ff63e80800000000000000
+      internalID: -8199085261706430116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_59
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 127
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7af0329a6ddbb40800000000000000
+      internalID: 5457754345368954866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_60
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 83
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d8645769cd693c0800000000000000
+      internalID: -4353049451036242671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_61
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 83
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a99ba2f1da9a190800000000000000
+      internalID: -7950633317773501944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_62
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959fd6bf0e2422e00800000000000000
+      internalID: 1018449999797549401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_63
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa750effd035bc690800000000000000
+      internalID: -7580874228155525201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_64
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65941e405cb1a4980800000000000000
+      internalID: -8553994009232455338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_65
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 117
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa5d62d99580c390800000000000000
+      internalID: -7800087658898826578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_66
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 79
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a25f13cca09cc160800000000000000
+      internalID: 7047166588610368161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_67
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 79
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d07402f72ca5f9e0800000000000000
+      internalID: -1588174006014152489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_68
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 79
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc74ed13caee7a6e0800000000000000
+      internalID: -1826228700537010225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_69
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 79
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4eb96bdf16660a0800000000000000
+      internalID: -6888710837698304846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_70
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 95
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a090ba4dd595d45a0800000000000000
+      internalID: -6535469224709912310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_71
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 95
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c1cc08053f6d500800000000000000
+      internalID: 420791142289513602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_72
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 95
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70605eefe34a1d8e0800000000000000
+      internalID: -1670373396306393593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_73
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 31
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc7811aafd8e3ab0800000000000000
+      internalID: -5026424026514817802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_74
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 63
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1275674c309a22e30800000000000000
+      internalID: 4477326813205780257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_75
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 47
+        width: 7
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a002671ddabbb40800000000000000
+      internalID: 5457146488631069330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_76
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 69
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e06a96193c2c1a0800000000000000
+      internalID: -6790650258811122168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_77
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 69
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ee78e300ebbefb0800000000000000
+      internalID: -4617388084679938439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_78
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 69
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f1566a65f4ca820800000000000000
+      internalID: 2930804691088776960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_79
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 69
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2048ba3c3fc9b9cb0800000000000000
+      internalID: -4856115202415164414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_80
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 65
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d461d362f94e7fc60800000000000000
+      internalID: 7851995847536219725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_81
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 65
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f951a0b618d1e030800000000000000
+      internalID: 3522333975544682999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_82
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 65
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0733b57ae0517060800000000000000
+      internalID: 6949424667936634634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_83
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be7f5ae20a37d970800000000000000
+      internalID: 8779549782778543793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_84
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 27
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6e618dd0c4d23b0800000000000000
+      internalID: -5535684744624806240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_85
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 27
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed3883ceaf835db0800000000000000
+      internalID: -4804338396706619926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_86
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 31
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17df0f79ae6935840800000000000000
+      internalID: 5211675128113462641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_87
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 31
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6885f7b214f7c60800000000000000
+      internalID: 7818039133214377653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_88
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 31
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172a40c25b5e6c9e0800000000000000
+      internalID: -1601340051193290127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_89
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 31
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1167459b69fd497e0800000000000000
+      internalID: -1759535715947612655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_90
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 48
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa06a10eb14f60e0800000000000000
+      internalID: -2274527002471560535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_91
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 48
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb152a018c24bc30800000000000000
+      internalID: 4374170070816201678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_92
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 48
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6631050fc121d69d0800000000000000
+      internalID: -2779545479517564058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_93
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 15
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30948e852c9590700800000000000000
+      internalID: 507035124306036995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_94
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 15
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f54a0ca70ffc580800000000000000
+      internalID: -8804554336477356242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_95
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 15
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415663c616f6fe410800000000000000
+      internalID: 1508546864410420500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_96
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ad1ccf1ae9d9c90800000000000000
+      internalID: -7161393413881734511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_97
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc4caef954407cc0800000000000000
+      internalID: -3715394539265176372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_98
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9f8dd5c44014ca0800000000000000
+      internalID: -6034537299661227593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedSmoothdungeonTileset_99
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 21
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb139879388a9d7a0800000000000000
+      internalID: -6351860516292841028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RedSmoothdungeonTileset_0: -4235664400436605024
+      RedSmoothdungeonTileset_1: -3039812372443551010
+      RedSmoothdungeonTileset_10: -3644899519093191519
+      RedSmoothdungeonTileset_11: 7235727454034208731
+      RedSmoothdungeonTileset_12: -3905000006935404309
+      RedSmoothdungeonTileset_13: 7617925448558302155
+      RedSmoothdungeonTileset_14: 9120689278965816244
+      RedSmoothdungeonTileset_15: 902317060088375618
+      RedSmoothdungeonTileset_16: -271204047306017090
+      RedSmoothdungeonTileset_17: -3057376152581588900
+      RedSmoothdungeonTileset_18: 6239322101644460946
+      RedSmoothdungeonTileset_19: -3276960639221532294
+      RedSmoothdungeonTileset_2: -4242635566514286211
+      RedSmoothdungeonTileset_20: 5543870513979415793
+      RedSmoothdungeonTileset_21: -6621149372687346837
+      RedSmoothdungeonTileset_22: -1720068692521520309
+      RedSmoothdungeonTileset_23: -5969043232391050712
+      RedSmoothdungeonTileset_24: -8082910539661718947
+      RedSmoothdungeonTileset_25: 8657742261981902148
+      RedSmoothdungeonTileset_26: 2333316287040333683
+      RedSmoothdungeonTileset_27: 8145736781093960858
+      RedSmoothdungeonTileset_28: -8134360000799043974
+      RedSmoothdungeonTileset_29: 2113978982105703156
+      RedSmoothdungeonTileset_3: -1485355238057859027
+      RedSmoothdungeonTileset_30: 2567946123307711888
+      RedSmoothdungeonTileset_31: 1685894182318521404
+      RedSmoothdungeonTileset_32: -457714288934209558
+      RedSmoothdungeonTileset_33: -5823527272089674858
+      RedSmoothdungeonTileset_34: -683049740182905547
+      RedSmoothdungeonTileset_35: 3776125771162795684
+      RedSmoothdungeonTileset_36: 4719623489945212005
+      RedSmoothdungeonTileset_37: 3471156180994519528
+      RedSmoothdungeonTileset_38: 7907512015054129658
+      RedSmoothdungeonTileset_39: 5892340549635454391
+      RedSmoothdungeonTileset_4: 3732042306085576749
+      RedSmoothdungeonTileset_40: 2186978921891878546
+      RedSmoothdungeonTileset_41: -7620492936036595883
+      RedSmoothdungeonTileset_42: -494482977406505758
+      RedSmoothdungeonTileset_43: -7763942767675809128
+      RedSmoothdungeonTileset_44: 4872985515513038797
+      RedSmoothdungeonTileset_45: -8115754703325167203
+      RedSmoothdungeonTileset_46: -8630718043479087142
+      RedSmoothdungeonTileset_47: 8549665248167709480
+      RedSmoothdungeonTileset_48: 7158693025507144415
+      RedSmoothdungeonTileset_49: -1338584274998825096
+      RedSmoothdungeonTileset_5: 4496984452095624901
+      RedSmoothdungeonTileset_50: -2943385240270915148
+      RedSmoothdungeonTileset_51: -1336118568416565598
+      RedSmoothdungeonTileset_52: -5389633510453508004
+      RedSmoothdungeonTileset_53: -7080232906503625451
+      RedSmoothdungeonTileset_54: -1939863218551703436
+      RedSmoothdungeonTileset_55: 8711506230077107725
+      RedSmoothdungeonTileset_56: -8375087611701009625
+      RedSmoothdungeonTileset_57: -192812975331394048
+      RedSmoothdungeonTileset_58: -8199085261706430116
+      RedSmoothdungeonTileset_59: 5457754345368954866
+      RedSmoothdungeonTileset_6: 8247072240010550269
+      RedSmoothdungeonTileset_60: -4353049451036242671
+      RedSmoothdungeonTileset_61: -7950633317773501944
+      RedSmoothdungeonTileset_62: 1018449999797549401
+      RedSmoothdungeonTileset_63: -7580874228155525201
+      RedSmoothdungeonTileset_64: -8553994009232455338
+      RedSmoothdungeonTileset_65: -7800087658898826578
+      RedSmoothdungeonTileset_66: 7047166588610368161
+      RedSmoothdungeonTileset_67: -1588174006014152489
+      RedSmoothdungeonTileset_68: -1826228700537010225
+      RedSmoothdungeonTileset_69: -6888710837698304846
+      RedSmoothdungeonTileset_7: 7262087041468478703
+      RedSmoothdungeonTileset_70: -6535469224709912310
+      RedSmoothdungeonTileset_71: 420791142289513602
+      RedSmoothdungeonTileset_72: -1670373396306393593
+      RedSmoothdungeonTileset_73: -5026424026514817802
+      RedSmoothdungeonTileset_74: 4477326813205780257
+      RedSmoothdungeonTileset_75: 5457146488631069330
+      RedSmoothdungeonTileset_76: -6790650258811122168
+      RedSmoothdungeonTileset_77: -4617388084679938439
+      RedSmoothdungeonTileset_78: 2930804691088776960
+      RedSmoothdungeonTileset_79: -4856115202415164414
+      RedSmoothdungeonTileset_8: -7890225670390871496
+      RedSmoothdungeonTileset_80: 7851995847536219725
+      RedSmoothdungeonTileset_81: 3522333975544682999
+      RedSmoothdungeonTileset_82: 6949424667936634634
+      RedSmoothdungeonTileset_83: 8779549782778543793
+      RedSmoothdungeonTileset_84: -5535684744624806240
+      RedSmoothdungeonTileset_85: -4804338396706619926
+      RedSmoothdungeonTileset_86: 5211675128113462641
+      RedSmoothdungeonTileset_87: 7818039133214377653
+      RedSmoothdungeonTileset_88: -1601340051193290127
+      RedSmoothdungeonTileset_89: -1759535715947612655
+      RedSmoothdungeonTileset_9: -2266316968326768733
+      RedSmoothdungeonTileset_90: -2274527002471560535
+      RedSmoothdungeonTileset_91: 4374170070816201678
+      RedSmoothdungeonTileset_92: -2779545479517564058
+      RedSmoothdungeonTileset_93: 507035124306036995
+      RedSmoothdungeonTileset_94: -8804554336477356242
+      RedSmoothdungeonTileset_95: 1508546864410420500
+      RedSmoothdungeonTileset_96: -7161393413881734511
+      RedSmoothdungeonTileset_97: -3715394539265176372
+      RedSmoothdungeonTileset_98: -6034537299661227593
+      RedSmoothdungeonTileset_99: -6351860516292841028
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,141 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc2acaac6c5d45c9b52f770dfd9e6bfb, type: 3}
+  m_Name: GrayWallsTemplate
+  m_EditorClassIdentifier: Unity.2D.Tilemap.Extras.Editor::UnityEngine.Tilemaps.AutoTileTemplate
+  width: 624
+  height: 448
+  maskType: 1
+  sprites:
+  - x: 496
+    y: 388
+    mask: 54
+  - x: 512
+    y: 388
+    mask: 59
+  - x: 576
+    y: 388
+    mask: 59
+  - x: 602
+    y: 388
+    mask: 26
+  - x: 48
+    y: 384
+    mask: 152
+  - x: 288
+    y: 384
+    mask: 152
+  - x: 144
+    y: 288
+    mask: 50
+  - x: 160
+    y: 288
+    mask: 56
+  - x: 176
+    y: 288
+    mask: 56
+  - x: 240
+    y: 288
+    mask: 56
+  - x: 256
+    y: 288
+    mask: 120
+  - x: 272
+    y: 288
+    mask: 10
+  - x: 496
+    y: 272
+    mask: 432
+  - x: 512
+    y: 272
+    mask: 248
+  - x: 528
+    y: 272
+    mask: 248
+  - x: 544
+    y: 272
+    mask: 56
+  - x: 560
+    y: 272
+    mask: 56
+  - x: 576
+    y: 272
+    mask: 56
+  - x: 144
+    y: 252
+    mask: 146
+  - x: 272
+    y: 252
+    mask: 438
+  - x: 144
+    y: 232
+    mask: 146
+  - x: 272
+    y: 232
+    mask: 438
+  - x: 144
+    y: 212
+    mask: 146
+  - x: 272
+    y: 212
+    mask: 438
+  - x: 144
+    y: 192
+    mask: 146
+  - x: 272
+    y: 192
+    mask: 438
+  - x: 144
+    y: 172
+    mask: 176
+  - x: 160
+    y: 172
+    mask: 56
+  - x: 176
+    y: 172
+    mask: 56
+  - x: 192
+    y: 172
+    mask: 56
+  - x: 208
+    y: 172
+    mask: 56
+  - x: 224
+    y: 172
+    mask: 56
+  - x: 240
+    y: 172
+    mask: 56
+  - x: 256
+    y: 172
+    mask: 56
+  - x: 272
+    y: 172
+    mask: 152
+  - x: 192
+    y: 96
+    mask: 50
+  - x: 256
+    y: 96
+    mask: 62
+  - x: 128
+    y: 64
+    mask: 56
+  - x: 192
+    y: 28
+    mask: 182
+  - x: 208
+    y: 28
+    mask: 504
+  - x: 256
+    y: 28
+    mask: 440
