@@ -116,7 +116,11 @@ public class P_AbilityState : P_State
 
     public override void ExitState(P_StateManager player)
     {
+        if (player.casting != player.melee)
+        {
         player.castingSlot.GetComponent<Image>().color = Color.white;
+        }
+
         //turn off range indicator
         //turn off mouse cursor
         //turn off ability ui
