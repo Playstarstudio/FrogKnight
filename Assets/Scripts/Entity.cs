@@ -14,6 +14,7 @@ public class Entity : MonoBehaviour
     public Dictionary<AStarNodeInfo, AStarNodeInfo> aStarSearchedList;
     public SortedSet<AStarNodeInfo> aStarToSearch;
     public GameManager gameManager;
+    public GameLogManager gameLogManager;
     [HideInInspector] public Rigidbody rb;
     [HideInInspector] public Animator anim;
     [HideInInspector] public Vector2Int currentPos;

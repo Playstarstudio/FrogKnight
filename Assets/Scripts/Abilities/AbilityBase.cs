@@ -60,11 +60,15 @@ public class Ability : ScriptableObject
             };
             source.att.ApplyInstantModifier(manaCostModifier);
             Debug.Log($"{abilityName} cast towards {targetPosition}");
-            source.gameManager.PlayerAction(source, speed);
             crit = TryCrit(source);
             getTargets(source, targetPosition);
             ApplyAbilityEffects(source);
             source.castSuccess = true;
+            foreach (Entity target in targets)
+            {
+                source.gameLogManager.AddEntry(source, target, this);
+            }
+            source.gameManager.PlayerAction(source, speed);
             return true;
         }
         /*
