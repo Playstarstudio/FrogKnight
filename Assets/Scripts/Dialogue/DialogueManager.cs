@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using Ink.Runtime;
+using Ink.UnityIntegration;
 using TMPro;
 using Unity.VisualScripting;
 using UnityEngine;
@@ -23,12 +24,16 @@ public class DialogueManager : MonoBehaviour
     public static DialogueManager instance;
     public Story currentStory;
     public bool dialogueIsPlaying;
+    [SerializeField] private TextAsset loadGlobalsJSON;
+
+    public DialogueEnemy dialogueEnemy;
+    public DialogueVariables dialogueVariables;
 
     public const string SPEAKER_TAG = "speaker";
     public const string PORTRAIT_TAG = "portrait";
     public const string LAYOUT_TAG = "layout";
+    
 
-    public DialogueEnemy dialogueEnemy;
     private void Awake()
     {
         if (instance != null) //Errors out if multiple Dialogue Managers
@@ -38,6 +43,7 @@ public class DialogueManager : MonoBehaviour
         instance = this;
         //dialogueEnemy = Enemy.GetComponent<DialogueEnemy>();
         
+        dialogueVariables = new DialogueVariables(loadGlobalsJSON);
     }
 
     private void Start()
@@ -60,6 +66,7 @@ public class DialogueManager : MonoBehaviour
         dialogueIsPlaying = false;
         dialoguePanel.SetActive(false);
         dialogueText.text = "";
+        dialogueVariables.StopListening(currentStory);
     }
 
     public static DialogueManager GetInstance() //Returns public instance of the dialogue manager
@@ -88,6 +95,8 @@ public class DialogueManager : MonoBehaviour
         currentStory = new Story(inkJSON.text);
         dialogueIsPlaying = true;
         dialoguePanel.SetActive(true);
+
+        dialogueVariables.StartListening(currentStory);
 
         displayNameText.text = "???"; //resets dialogue tags to default
         portraitAnimator.Play("default");
@@ -197,5 +206,20 @@ public class DialogueManager : MonoBehaviour
     {
         currentStory.ChooseChoiceIndex(choiceIndex);
         ContinueStory();
+    }
+
+    public Ink.Runtime.Object GetVariableState(string variableName)
+    {
+        Ink.Runtime.Object variableValue = null;
+        dialogueVariables.variables.TryGetValue(variableName, out variableValue);
+        if (variableValue == null)
+        {
+            Debug.LogWarning("Ink Variable was found to be null: " + variableName);
+        }
+        return variableValue;
+
+        //Pair above code with following code found in another script
+        // string variableName = ((Ink.Runtime.StringValue) DialogueManager.GetInstance().GetVariableState("variableName")).value
+        // Can be done with booleans, floats, and ints as well, just change the code accordingly
     }
 }

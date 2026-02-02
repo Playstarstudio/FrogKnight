@@ -172,6 +172,7 @@ MonoBehaviour:
   baseColor: {r: 1, g: 1, b: 1, a: 1}
   activeColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
   ability: {fileID: 11400000, guid: c9086ebbba428234891bc9c3701cd85a, type: 2}
+  image: {fileID: 0}
 --- !u!114 &23596843
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3828,15 +3829,15 @@ MonoBehaviour:
   visionBlock: 0
   castSuccess: 0
   casting: {fileID: 0}
-  spell0: {fileID: 0}
-  spell1: {fileID: 0}
-  spell2: {fileID: 0}
-  spell3: {fileID: 0}
+  castingSlot: {fileID: 0}
+  melee: {fileID: 0}
+  activeAbilityList: []
+  totalKnownAbilities: []
   movementSpeed: 0
   hurt:
     attribute: {fileID: 0}
     operation: 0
-    attributeModifierValue: 0
+    attModValue: 0
   isRepeatedMovement: 0
   huurt: 0
   moving: 0
@@ -3844,6 +3845,8 @@ MonoBehaviour:
   BGM: {fileID: 0}
   SoundEffect: {fileID: 0}
   inventory: {fileID: 0}
+  currentTile: {x: 0, y: 0}
+  targetingTile: {x: 0, y: 0}
   target: {fileID: 490420032}
   speed: 1.1
   move: 0
@@ -4117,15 +4120,15 @@ MonoBehaviour:
   visionBlock: 0
   castSuccess: 0
   casting: {fileID: 0}
-  spell0: {fileID: 23596842}
-  spell1: {fileID: 1167711756}
-  spell2: {fileID: 862210836}
-  spell3: {fileID: 589728175}
+  castingSlot: {fileID: 0}
+  melee: {fileID: 0}
+  activeAbilityList: []
+  totalKnownAbilities: []
   movementSpeed: 0
   hurt:
     attribute: {fileID: 0}
     operation: 0
-    attributeModifierValue: 0
+    attModValue: 0
   isRepeatedMovement: 1
   huurt: 0
   moving: 0
@@ -4133,7 +4136,10 @@ MonoBehaviour:
   BGM: {fileID: 0}
   SoundEffect: {fileID: 0}
   inventory: {fileID: 11400000, guid: f7e1e679692c6d445a0c450bbe9b276b, type: 2}
+  currentTile: {x: 0, y: 0}
+  targetingTile: {x: 0, y: 0}
   stateName: 
+  abilitySlots: []
   rangeTile: []
   inventoryManager: {fileID: 105062100}
   mainCamera: {fileID: 1637738871}
@@ -4434,6 +4440,7 @@ MonoBehaviour:
   baseColor: {r: 1, g: 1, b: 1, a: 1}
   activeColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
   ability: {fileID: 11400000, guid: c9086ebbba428234891bc9c3701cd85a, type: 2}
+  image: {fileID: 0}
 --- !u!114 &589728176
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5268,6 +5275,7 @@ MonoBehaviour:
   baseColor: {r: 1, g: 1, b: 1, a: 1}
   activeColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
   ability: {fileID: 11400000, guid: c9086ebbba428234891bc9c3701cd85a, type: 2}
+  image: {fileID: 0}
 --- !u!114 &862210837
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6027,6 +6035,7 @@ MonoBehaviour:
   baseColor: {r: 1, g: 1, b: 1, a: 1}
   activeColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
   ability: {fileID: 11400000, guid: c9086ebbba428234891bc9c3701cd85a, type: 2}
+  image: {fileID: 0}
 --- !u!114 &1167711757
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6432,6 +6441,8 @@ MonoBehaviour:
   notTraversable: {fileID: 2013938912}
   doorOptions: {fileID: 614362944}
   fowTiles: {fileID: 1515120092}
+  bgTiles: {fileID: 0}
+  cosmeticTiles: {fileID: 0}
   rangeTiles: {fileID: 2015221512}
   debug: 0
   player: {fileID: 490420030}
@@ -37839,7 +37850,9 @@ MonoBehaviour:
   - {fileID: 629018012}
   choicesText: []
   dialogueIsPlaying: 0
+  loadGlobalsJSON: {fileID: 4900000, guid: e5b4bf8837c3bbc4788444fee371246c, type: 3}
   dialogueEnemy: {fileID: 0}
+  dialogueVariables: {fileID: 0}
 --- !u!4 &1669802730
 Transform:
   m_ObjectHideFlags: 0

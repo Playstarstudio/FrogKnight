@@ -11,5 +11,5 @@ Would you like me to repeat myself?
 + [Yes]
     -> main
 + [No]
-Beware the corrupted skeletons in this cave, defend yourself against them!
+Beware the enemies in this cave, defend yourself against them!
 -> END
