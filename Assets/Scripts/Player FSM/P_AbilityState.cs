@@ -1,4 +1,6 @@
+using UnityEditor.U2D.Aseprite;
 using UnityEngine;
+using UnityEngine.InputSystem;
 using UnityEngine.Rendering;
 using UnityEngine.UI;
 
@@ -52,7 +54,7 @@ public class P_AbilityState : P_State
             player.gridManager.TintTile(tile, Color.yellow);
         }
          */
-
+        HandleTargeting(player);
 
         System.Func<KeyCode, bool> inputFunction;
         inputFunction = Input.GetKeyDown;
@@ -65,7 +67,7 @@ public class P_AbilityState : P_State
             }
             else
             {
-                ClearAllTintedTiles(player);
+                //ClearAllTintedTiles(player,);
                 visible = false;
             }
         }
@@ -114,8 +116,26 @@ public class P_AbilityState : P_State
         }
     }
 
+    private void HandleTargeting(P_StateManager player)
+    {
+        foreach (Vector2Int cell in player.casting.cells)
+        {
+            ClearOneTile(player, cell);
+        }
+        Vector2Int mouseCell = player.gridManager.MouseToGrid();
+        player.casting.getCells(player, mouseCell);
+        foreach (Vector2Int cell in player.casting.cells)
+        {
+            player.gridManager.TintTile(cell, new Color(1f, 0, 0, .5f), player.gridManager.rangeTiles);
+        }
+    }
+
     public override void ExitState(P_StateManager player)
     {
+        foreach (Vector2Int cell in player.casting.cells)
+        {
+            ClearOneTile(player, cell);
+        }
         if (player.casting != player.melee)
         {
         player.castingSlot.GetComponent<Image>().color = Color.white;
@@ -141,12 +161,12 @@ public class P_AbilityState : P_State
         }
     }
 
-    public void ClearAllTintedTiles(P_StateManager player)
+    public void ClearOneTile(P_StateManager player, Vector2Int cell)
     {
-        foreach (var entry in player.gridManager.playerRange)
-        {
+        player.gridManager.TintTile(cell, new Color(0, 0, 0, 0), player.gridManager.rangeTiles);
+    }
+    public void ClearAllTintedTiles(P_StateManager player, Vector2Int cell)
+    {
 
-            player.gridManager.TintTile(entry.Key.position, Color.white);
-        }
     }
 }

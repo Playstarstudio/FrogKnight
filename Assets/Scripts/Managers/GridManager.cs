@@ -73,7 +73,7 @@ public class GridManager : MonoBehaviour
 
     //Stores our Range tiles
     [SerializeField]
-    private Tilemap rangeTiles;
+    public Tilemap rangeTiles;
 
     private SortedSet<DijkstrasNodeInfo> sortedSet;
 
@@ -108,7 +108,6 @@ public class GridManager : MonoBehaviour
             Instance.MergeIntoTraversable(ref traversable);
             Instance.MergeIntoNonTraversable(ref notTraversable);
             Instance.MergeIntoDoor(ref doorOptions);
-
             Destroy(this.gameObject);
         }
         else
@@ -140,6 +139,7 @@ public class GridManager : MonoBehaviour
 
     private void Start()
     {
+        ColorRangeTiles();
         PlayerDijkstras();
     }
     private void Update()
@@ -985,7 +985,22 @@ public class GridManager : MonoBehaviour
     * @brief Runs Dijkstras from player's position
     * 
     */
-
+    private void ColorRangeTiles()
+    {
+        rangeTiles.GetComponent<TilemapRenderer>().enabled = true;
+        for (int x = rangeTiles.cellBounds.xMin - 20; x < fowTiles.cellBounds.xMax + 20; x++)
+        {
+            for (int y = rangeTiles.cellBounds.yMin - 20; y < fowTiles.cellBounds.yMax + 20; y++)
+            {
+                Vector3 worldPosition = fowTiles.CellToWorld(new Vector3Int(x, y, 0));
+                Vector2Int cell = GetCellPosition(worldPosition);
+                if (rangeTiles.HasTile(fowTiles.WorldToCell(worldPosition)))
+                {
+                    TintTile(cell, new Color(0, 0, 0, 0),rangeTiles);
+                }
+            }
+        }
+    }
 
     //applies the color to the FOW tilemap
 
@@ -1008,6 +1023,7 @@ public class GridManager : MonoBehaviour
             }
         }
     }
+
     void ChangeFOWValue(Vector2Int node)
     {
         TileInfo tile;

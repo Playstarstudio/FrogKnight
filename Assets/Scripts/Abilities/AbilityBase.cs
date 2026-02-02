@@ -21,6 +21,7 @@ public class Ability : ScriptableObject
     public AbilityEffect[] abilityEffects;
     public Collider2D[] colliders;
     public List<Entity> targets;
+    public List<Vector2Int> cells;
 
 
     public enum TargetType
@@ -82,6 +83,43 @@ public class Ability : ScriptableObject
         }
         else
             return false;
+    }
+    public List<Vector2Int> getCells(Entity source, Vector2Int castLoc)
+    {
+        cells.Clear();
+        switch (targetType)
+        {
+            case TargetType.Direct:
+                if (targetSubType == TargetSubType.AOE)
+                {
+                    cells = GetAllCellsInArea(source, castLoc);
+                }
+                else if (targetSubType == TargetSubType.Target)
+                {
+                    cells.Add(castLoc);
+                }
+                else
+                {
+                    Debug.Log("Direct target type with this subtype is not implemented.");
+                }
+                break;
+            case TargetType.Beam:
+                Debug.Log("Beam target type is not implemented.");
+                break;
+            case TargetType.Projectile:
+                Debug.Log("Projectile target type is not implemented.");
+                break;
+            case TargetType.TogglePassive:
+                Debug.Log("TogglePassive target type is not implemented.");
+                break;
+            case TargetType.FreePassive:
+                Debug.Log("FreePassive target type is not implemented.");
+                break;
+            default:
+                Debug.Log("Unknown target type.");
+                break;
+        }
+        return cells;
     }
     void getTargets(Entity source, Vector2 castLoc)
     {
