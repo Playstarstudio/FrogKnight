@@ -14,8 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::AbilityEffect
   effectName: Damage
   description: 
-  effectValue: 5
-  duration: 1
+  mod:
+    attribute: {fileID: 11400000, guid: 0a1823535b28e9640a63788909278e95, type: 2}
+    operation: 1
+    attModValue: 5
+  duration: 0
   tickRate: 0
   isDebuff: 0
   effectType: 0

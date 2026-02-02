@@ -792,7 +792,7 @@ public class GridManager : MonoBehaviour
         }
         return entities;
     }
-    public bool TryGetEnemyOnTile(Vector2Int pos, out Entity entityOnTile)
+    public bool TryGetEntityOnTile(Vector2Int pos, out Entity entityOnTile)
     {
         TileInfo tileInfo;
         map.TryGetValue(pos, out tileInfo);
@@ -804,9 +804,10 @@ public class GridManager : MonoBehaviour
         //foreach (Entity entity in tileInfo.occupyingEntities)
         for (int i = 0; i < tileInfo.occupyingEntities.Count; i++)
         {
-            if (tileInfo.occupyingEntities[i].GetType() == typeof(Enemy))
+            if (tileInfo.occupyingEntities[i].GetType() == typeof(P_StateManager) || tileInfo.occupyingEntities[i].GetType() == typeof(Enemy))
             {
                 entityOnTile = tileInfo.occupyingEntities[i];
+                Debug.Log("IFOUNDONE");
                 return true;
             }
             else
@@ -815,6 +816,7 @@ public class GridManager : MonoBehaviour
             }
         }
         entityOnTile = null;
+        Debug.Log("NOONEFOUNDIDIOT");
         return false;
     }
     public bool TryGetItemsOnTile(Vector2Int pos, out List<ItemOnGround> itemList)

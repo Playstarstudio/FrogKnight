@@ -1,15 +1,11 @@
 using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
-using UnityEngine.Rendering;
-using UnityEngine.UI;
-using static UnityEngine.GraphicsBuffer;
 
 [CreateAssetMenu(fileName = "Ability", menuName = "Scriptable Objects/Ability")]
 public class Ability : ScriptableObject
 {
     public string abilityName;
-    public Sprite abilityImage; 
+    public Sprite abilityImage;
     public string description;
     public float manaCost;
     public int range;
@@ -59,7 +55,7 @@ public class Ability : ScriptableObject
             {
                 attribute = source.att.GetAttributeType("MP"),
                 operation = AttributeModifier.Operator.Subtract,
-                attributeModifierValue = manaCost
+                attModValue = manaCost
             };
             source.att.ApplyInstantModifier(manaCostModifier);
             Debug.Log($"{abilityName} cast towards {targetPosition}");
@@ -99,18 +95,40 @@ public class Ability : ScriptableObject
                     foreach (Vector2Int tile in tilesTargeted)
                     {
                         Entity entity = null;
-                        if(source.gridManager.TryGetEnemyOnTile(tile, out entity))
+                        if (source.gridManager.TryGetEntityOnTile(tile, out entity))
                         {
-                            targets.Add(entity);
+                            if (enemyOnly == true)
+                            {
+                                //tileInfo.occupyingEntities[i].GetType() == typeof(Entity)
+                                if (entity.GetType() == typeof(Enemy))
+                                {
+                                    targets.Add(entity);
+                                }
+                            }
+                            else
+                            {
+                                targets.Add(entity);
+                            }
                         }
                     }
                 }
                 else if (targetSubType == TargetSubType.Target)
                 {
                     Entity entity = null;
-                    if (source.gridManager.TryGetEnemyOnTile(castCenter, out entity))
+                    if (source.gridManager.TryGetEntityOnTile(castCenter, out entity))
                     {
-                        targets.Add(entity);
+                        if (enemyOnly == true)
+                        {
+                            //tileInfo.occupyingEntities[i].GetType() == typeof(Entity)
+                            if (entity.GetType() == typeof(Enemy))
+                            {
+                                targets.Add(entity);
+                            }
+                        }
+                        else
+                        {
+                            targets.Add(entity);
+                        }
                     }
                 }
                 else

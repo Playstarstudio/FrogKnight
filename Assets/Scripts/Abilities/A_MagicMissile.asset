@@ -22,11 +22,13 @@ MonoBehaviour:
   speed: 1
   coolDown: 3
   critMod: 0
-  enemyOnly: 0
+  enemyOnly: 1
   crit: 0
   targetType: 0
-  targetSubType: 1
+  targetSubType: 0
   abilityEffects:
   - {fileID: 11400000, guid: 0aad590f153a81244bdd197a364cfc0a, type: 2}
   colliders: []
-  targets: []
+  targets:
+  - {fileID: 0}
+  - {fileID: 0}

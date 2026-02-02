@@ -16,7 +16,7 @@ namespace Inventory.Model
                 {
                     attribute = effect.attName,
                     operation = (AttributeModifier.Operator)effect.operation,
-                    attributeModifierValue = effect.modifierValue
+                    attModValue = effect.modifierValue
                 };
                 player.att.ApplyInstantModifier(mod);
             }

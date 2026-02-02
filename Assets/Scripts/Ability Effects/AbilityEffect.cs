@@ -6,7 +6,7 @@ public class AbilityEffect : ScriptableObject
 {
     public string effectName;
     public string description;
-    public float effectValue;
+    public AttributeModifier mod;
     public float duration;
     public float tickRate;
     public bool isDebuff;
@@ -19,7 +19,6 @@ public class AbilityEffect : ScriptableObject
     public enum EffectType
     {
         Damage,
-        Heal,
         Buff,
         Debuff,
         CrowdControl

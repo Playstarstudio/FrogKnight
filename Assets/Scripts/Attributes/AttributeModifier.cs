@@ -20,5 +20,5 @@ public class AttributeModifier
     /// </summary>
     public Operator operation;
     
-    public float attributeModifierValue;
+    public float attModValue;
 }

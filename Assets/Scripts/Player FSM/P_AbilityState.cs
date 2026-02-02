@@ -120,7 +120,8 @@ public class P_AbilityState : P_State
         {
         player.castingSlot.GetComponent<Image>().color = Color.white;
         }
-
+        player.casting = null;
+        player.castingSlot = null;
         //turn off range indicator
         //turn off mouse cursor
         //turn off ability ui

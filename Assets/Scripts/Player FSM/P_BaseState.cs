@@ -114,7 +114,7 @@ public class P_BaseState : P_State
                 //Debug.Log("Found " + targetCenter);
                 //Debug.Log("Found node. Distance = " + player.gridManager.ManhattanDistanceToTile(player.gridManager.GetCellPosition(player.gameObject.transform.position), targetCenter) + " " + player.gridManager.map[targetCenter].occupied);
                 Entity entity = null;
-                player.gridManager.TryGetEnemyOnTile(targetCenter, out entity);
+                player.gridManager.TryGetEntityOnTile(targetCenter, out entity);
                 Debug.Log(entity);
                 /*
                 TileInfo tile;
@@ -199,7 +199,7 @@ public class P_BaseState : P_State
                 {
                     attribute = owner.att.GetAttributeType(effect.attributeName),
                     operation = (AttributeModifier.Operator)effect.operation,
-                    attributeModifierValue = effect.modifierValue
+                    attModValue = effect.modifierValue
                 };
                 owner.att.ApplyInstantModifier(applyItemModifier);
                 Debug.Log("Applied " + effect.operation + " " + effect.modifierValue + " to " + effect.attributeName);
@@ -231,8 +231,8 @@ public class P_BaseState : P_State
 
         //sets a cell location for the player to move to
         Entity entity = null;
-        if (player.gridManager.TryGetEnemyOnTile(endPosition, out entity))
-        {//HAVE TO FINISH THI
+        if (player.gridManager.TryGetEntityOnTile(endPosition, out entity))
+        {
             player.targetingTile = endPosition;
             player.casting = player.melee;
             player.SwitchState(player.abilityState);

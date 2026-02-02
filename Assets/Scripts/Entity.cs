@@ -1,4 +1,5 @@
 using Inventory.Model;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using static GridManager;
@@ -50,19 +51,17 @@ public class Entity : MonoBehaviour
     {
         currentTile = gridManager.GetCellPosition(this.transform.position);
         this.transform.position = gridManager.GetTileCenter(gridManager.GetCellPosition(this.transform.position));
+
     }
 
     public void ReceiveEffect(AbilityEffect effect, Entity source, Ability ability)
     {
         // Implement effect reception logic here
         Debug.Log($"{this.name} received {effect.effectName} from {source.name} via {ability.abilityName}");
-        switch(effect.effectType)
+        switch (effect.effectType)
         {
-            case(AbilityEffect.EffectType.Damage):
+            case (AbilityEffect.EffectType.Damage):
                 ReceiveDamage(effect, source, ability);
-                break;
-            case (AbilityEffect.EffectType.Heal):
-                ReceiveHeal(effect, source, ability);
                 break;
             case (AbilityEffect.EffectType.Buff):
                 ReceiveBuff(effect, source, ability);
@@ -86,30 +85,50 @@ public class Entity : MonoBehaviour
         {
             attribute = source.att.GetAttributeType("HP"),
             operation = AttributeModifier.Operator.Subtract,
-            attributeModifierValue = effect.effectValue
+            attModValue = effect.mod.attModValue
         };
         this.att.ApplyInstantModifier(damage);
-        Debug.Log($"{this.name} takes {effect.effectValue} damage.");
-        if(this.att.GetBaseAttributeValue(att.GetAttributeType("HP")) <= 0)
+        Debug.Log($"{this.name} takes {effect.mod.attModValue} damage.");
+        if (this.att.GetBaseAttributeValue(att.GetAttributeType("HP")) <= 0)
         {
             Debug.Log($"{this.name} has been defeated!");
             Destroy(this.gameObject);
         }
     }
-    public void ReceiveHeal(AbilityEffect effect, Entity source, Ability ability)
-    {
-        Debug.Log($"{this.name} heals {effect.effectValue} health.");
-    }
     public void ReceiveBuff(AbilityEffect effect, Entity source, Ability ability)
     {
-        Debug.Log($"{this.name} receives a buff of {effect.effectValue}.");
+            SmartApplyEffect(effect);
     }
+
+
     public void ReceiveDebuff(AbilityEffect effect, Entity source, Ability ability)
     {
-        Debug.Log($"{this.name} receives a debuff of {effect.effectValue}.");
+            SmartApplyEffect(effect);
     }
     public void ReceiveCrowdControl(AbilityEffect effect, Entity source, Ability ability)
     {
         Debug.Log($"{this.name} is affected by crowd control.");
     }
+
+    private void SmartApplyEffect(AbilityEffect effect)
+    {
+        AttributeModifier mod = new AttributeModifier()
+        {
+            attribute = effect.mod.attribute,
+            operation = (AttributeModifier.Operator)effect.mod.operation,
+            attModValue = effect.mod.attModValue
+        };
+        Debug.Log(mod);
+        this.att.ApplyInstantModifier(mod);
+        //StartCoroutine(WaitForValueRoutine(effect, mod));
+    }
+
+    private IEnumerator WaitForValueRoutine(AbilityEffect effect, AttributeModifier mod)
+    {
+        float timeAtStart = gameManager.globalTimer;
+        yield return new WaitUntil(() => gameManager.globalTimer >= timeAtStart + effect.duration);
+
+    }
+
+
 }
