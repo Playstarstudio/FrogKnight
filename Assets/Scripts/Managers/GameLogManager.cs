@@ -1,10 +1,9 @@
-using Inventory.Model;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
+using static UnityEngine.GraphicsBuffer;
 
 public class GameLogManager : MonoBehaviour
 {
@@ -20,7 +19,19 @@ public class GameLogManager : MonoBehaviour
     {
         string text = PrepareDescription(source, target, ability);
         logEntries.Add(text);
-        if(logEntries.Count > maxEntries )
+        if (logEntries.Count > maxEntries)
+        {
+            logEntries.RemoveAt(0);
+        }
+        logText.text = string.Join("", logEntries);
+        Canvas.ForceUpdateCanvases();
+        scrollRect.verticalNormalizedPosition = 0f;
+    }
+    public void AddEntry(Entity source, ItemSO item)
+    {
+        string text = PrepareDescription(source, item);
+        logEntries.Add(text);
+        if (logEntries.Count > maxEntries)
         {
             logEntries.RemoveAt(0);
         }
@@ -42,7 +53,22 @@ public class GameLogManager : MonoBehaviour
             sb.Append(target.name);
             sb.Append(" by ");
             sb.Append(source.name);
+        }
+        return sb.ToString();
+    }
+    private string PrepareDescription(Entity source, ItemSO item)
+    {
+        StringBuilder sb = new StringBuilder();
+        sb.AppendLine();
+        sb.Append(source);
+        sb.Append(" drank the ");
+        sb.Append(item.itemName);
+        foreach (Modifier effect in item.effects)
+        {
             sb.AppendLine();
+            sb.Append(effect.attributeName);
+            sb.Append(" to the ");
+            sb.Append(source.name);
         }
         return sb.ToString();
     }

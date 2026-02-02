@@ -20,6 +20,7 @@ namespace Inventory.Model
                 };
                 player.att.ApplyInstantModifier(mod);
             }
+            player.gameLogManager.AddEntry(player, this);
         }
 
     }
