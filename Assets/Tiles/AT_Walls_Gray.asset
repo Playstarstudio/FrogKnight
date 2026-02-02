@@ -18,7 +18,7 @@ MonoBehaviour:
   m_MaskType: 1
   m_Random: 1
   m_AutoTileDictionary:
-    keyData: 1a0000009200000000000000980000003e00000038000000b6000000b000000032000000b801000078000000b0010000b6010000f801000036000000f80000000a0000003b000000
+    keyData: 1a0000009200000000000000980000003e00000038000000b6000000b000000032000000b801000078000000b0010000b6010000f801000036000000f80000000a0000003b000000bb010000fe000000
     valueData:
     - spriteList:
       - {fileID: -68732561, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
@@ -45,11 +45,8 @@ MonoBehaviour:
       - {fileID: -518203371, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
       - {fileID: -1298318356, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
       - {fileID: 957490505, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
-      - {fileID: -333032995, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
       - {fileID: -1070393189, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
-      - {fileID: 2106764308, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
       - {fileID: 1175323785, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
-      - {fileID: 1396708482, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
       - {fileID: -1492711989, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
       - {fileID: 2088518953, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
       - {fileID: -1875214713, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
@@ -71,6 +68,11 @@ MonoBehaviour:
       - {fileID: -1694528377, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
       - {fileID: 700799878, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
       - {fileID: 1866852766, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
+      - {fileID: 1396708482, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
+      - {fileID: 689466545, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
+      - {fileID: -1809260832, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
+      - {fileID: -90176026, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
+      - {fileID: -333032995, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
       textureList:
       - {fileID: 2800000, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
       - {fileID: 2800000, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
@@ -108,10 +110,12 @@ MonoBehaviour:
       - {fileID: 2800000, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
       - {fileID: 2800000, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
       - {fileID: 2800000, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
+      - {fileID: 2800000, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
+      - {fileID: 2800000, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
     - spriteList:
-      - {fileID: 503006552, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
-      - {fileID: 1605268273, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
       - {fileID: -2144130182, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
+      - {fileID: 2106764308, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
+      - {fileID: 503006552, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
       textureList:
       - {fileID: 2800000, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
       - {fileID: 2800000, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
@@ -209,6 +213,14 @@ MonoBehaviour:
       - {fileID: -1019675124, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
       textureList:
       - {fileID: 2800000, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
+      - {fileID: 2800000, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
+    - spriteList:
+      - {fileID: 1605268273, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
+      textureList:
+      - {fileID: 2800000, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
+    - spriteList:
+      - {fileID: 803364796, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
+      textureList:
       - {fileID: 2800000, guid: afda927ab9accb04f9ada543a1181f53, type: 3}
   m_TextureList:
   - {fileID: 2800000, guid: afda927ab9accb04f9ada543a1181f53, type: 3}

@@ -233,11 +233,14 @@ public class P_BaseState : P_State
         Entity entity = null;
         if (player.gridManager.TryGetEntityOnTile(endPosition, out entity))
         {
-            player.targetingTile = endPosition;
-            player.casting = player.melee;
-            player.SwitchState(player.abilityState);
-            moving = false;
-            yield break;
+            if (entity != null)
+            {
+                player.targetingTile = endPosition;
+                player.casting = player.melee;
+                player.SwitchState(player.abilityState);
+                moving = false;
+                yield break;
+            }
         }
         if (!player.gridManager.TraversableCheck(endPosition))
         {

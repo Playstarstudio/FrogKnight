@@ -62,12 +62,12 @@ public class Ability : ScriptableObject
             Debug.Log($"{abilityName} cast towards {targetPosition}");
             crit = TryCrit(source);
             getTargets(source, targetPosition);
-            ApplyAbilityEffects(source);
-            source.castSuccess = true;
             foreach (Entity target in targets)
             {
                 source.gameLogManager.AddEntry(source, target, this);
             }
+            source.castSuccess = true;
+            ApplyAbilityEffects(source);
             source.gameManager.PlayerAction(source, speed);
             return true;
         }
