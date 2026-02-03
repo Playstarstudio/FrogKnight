@@ -17,23 +17,24 @@ public class P_DialogueState : P_State
         {
             player.SwitchState(player.baseState);
         }
+
         if (Input.GetKeyDown(KeyCode.F) && DialogueManager.instance.currentStory.currentChoices.Count == 0 )
         {
             DialogueManager.instance.ContinueStory();            
         } 
-        else if (Input.GetKeyDown(KeyCode.Alpha1))
+        else if (Input.GetKeyDown(KeyCode.Alpha1) && DialogueManager.instance.currentStory.currentChoices.Count > 0 )
         {
             DialogueManager.instance.MakeChoice(0);
         } 
-        else if (Input.GetKeyDown(KeyCode.Alpha2))
+        else if (Input.GetKeyDown(KeyCode.Alpha2) && DialogueManager.instance.currentStory.currentChoices.Count > 0 )
         {
             DialogueManager.instance.MakeChoice(1);
         } 
-        else if (Input.GetKeyDown(KeyCode.Alpha3))
+        else if (Input.GetKeyDown(KeyCode.Alpha3) && DialogueManager.instance.currentStory.currentChoices.Count > 0 )
         {
             DialogueManager.instance.MakeChoice(2);
         }
-        else if (Input.GetKeyDown(KeyCode.Alpha4))
+        else if (Input.GetKeyDown(KeyCode.Alpha4) && DialogueManager.instance.currentStory.currentChoices.Count > 0 )
         {
             DialogueManager.instance.MakeChoice(3);
         }

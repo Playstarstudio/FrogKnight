@@ -1,5 +1,31 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!1102 &-8894248241812232907
+AnimatorState:
+  serializedVersion: 6
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: tutorial
+  m_Speed: 1
+  m_CycleOffset: 0
+  m_Transitions: []
+  m_StateMachineBehaviours: []
+  m_Position: {x: 50, y: 50, z: 0}
+  m_IKOnFeet: 0
+  m_WriteDefaultValues: 1
+  m_Mirror: 0
+  m_SpeedParameterActive: 0
+  m_MirrorParameterActive: 0
+  m_CycleOffsetParameterActive: 0
+  m_TimeParameterActive: 0
+  m_Motion: {fileID: 7400000, guid: 25311f0734f343b468c18629398551e6, type: 2}
+  m_Tag: 
+  m_SpeedParameter: 
+  m_MirrorParameter: 
+  m_CycleOffsetParameter: 
+  m_TimeParameter: 
 --- !u!1102 &-6924266477373804317
 AnimatorState:
   serializedVersion: 6
@@ -166,25 +192,28 @@ AnimatorStateMachine:
     m_Position: {x: 388.49927, y: 117.56232, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 9189330979298654257}
-    m_Position: {x: 190, y: 230, z: 0}
+    m_Position: {x: -160, y: 220, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 8433805535422714738}
-    m_Position: {x: 190, y: 270, z: 0}
+    m_Position: {x: -160, y: 260, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -1587977915280195510}
-    m_Position: {x: 190, y: 310, z: 0}
+    m_Position: {x: -160, y: 300, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -2137157854282057846}
-    m_Position: {x: 430, y: 230, z: 0}
+    m_Position: {x: -80, y: 220, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 8638179308811979179}
-    m_Position: {x: 430, y: 270, z: 0}
+    m_Position: {x: -80, y: 260, z: 0}
   - serializedVersion: 1
     m_State: {fileID: -6924266477373804317}
-    m_Position: {x: 430, y: 310, z: 0}
+    m_Position: {x: -80, y: 300, z: 0}
   - serializedVersion: 1
     m_State: {fileID: 2046810363144704948}
-    m_Position: {x: 320, y: 350, z: 0}
+    m_Position: {x: -130, y: 340, z: 0}
+  - serializedVersion: 1
+    m_State: {fileID: -8894248241812232907}
+    m_Position: {x: 400, y: 220, z: 0}
   m_ChildStateMachines: []
   m_AnyStateTransitions: []
   m_EntryTransitions: []
