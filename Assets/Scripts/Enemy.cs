@@ -30,10 +30,10 @@ public class Enemy : Entity
         aStarSearchedList = new Dictionary<AStarNodeInfo, AStarNodeInfo>();
         aStarToSearch = new SortedSet<AStarNodeInfo>();
         gameManager = FindFirstObjectByType<GameManager>();
-        this.transform.position = gridManager.GetTileCenter(gridManager.GetCellPosition(this.transform.position));
-        gridManager.MapAddEntity(this, gridManager.GetCellPosition(this.transform.position));
-
         readyTime = att.GetBaseAttributeValue(att.GetAttributeType("Move Speed")); ; // enemies are ready to go at time = their speed
+        currentTile = gridManager.GetCellPosition(this.transform.position);
+        this.transform.position = gridManager.GetTileCenter(gridManager.GetCellPosition(this.transform.position));
+        gridManager.MapAddEntity(this, currentTile);
     }
     // Update is called once per frame
     void Update()

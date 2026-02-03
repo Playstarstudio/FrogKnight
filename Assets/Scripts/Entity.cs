@@ -52,7 +52,7 @@ public class Entity : MonoBehaviour
     {
         currentTile = gridManager.GetCellPosition(this.transform.position);
         this.transform.position = gridManager.GetTileCenter(gridManager.GetCellPosition(this.transform.position));
-
+        gridManager.MapAddEntity(this, currentTile);
     }
 
     public void ReceiveEffect(AbilityEffect effect, Entity source, Ability ability)
