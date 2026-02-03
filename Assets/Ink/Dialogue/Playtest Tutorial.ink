@@ -17,7 +17,7 @@ Do you consent to your data being gathered?
 
 === main ===
 This is a turn-based rpg  where enemies move after you. When in dialogue, like now, you cannot move.
-When you move, time advances, and enemies move according to how long the action you did took
+When you move, time advances, and enemies move according to how long it takes to complete the action.
 
 + [Yes]
     -> controls

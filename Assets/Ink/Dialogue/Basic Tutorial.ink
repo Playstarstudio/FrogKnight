@@ -4,7 +4,7 @@
 //Story start
 Oh, hello there! You can advance the dialogue with the "F" key.
 This is a turn-based rpg  where enemies move after you. When in dialogue, like now, you cannot move.
-When you move, time advances, and enemies move according to how long the action you did took.
+When you move, time advances, and enemies move according to how long it takes to complete the action
 The 1-4 keys can be used to select dialogue options. Would you like to hear the controls to the game?
 
 + [Yes]
