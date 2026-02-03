@@ -265,6 +265,7 @@ public class P_BaseState : P_State
         Debug.Log("End Pos:" + endPosition);
          */
         moving = false;
+        yield break;
     }
 
     void AStarMovement()

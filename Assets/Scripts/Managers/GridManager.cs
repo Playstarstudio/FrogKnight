@@ -1172,8 +1172,8 @@ public class GridManager : MonoBehaviour
     }
     public void MapMoveEntity(Entity entity, Vector2Int from, Vector2Int to)
     {
-        map[from].occupyingEntities.Remove(entity);
-        map[to].occupyingEntities.Add(entity);
+        MapRemoveEntity(entity, from);
+        MapAddEntity(entity,to);
         entity.currentTile = to;
         CalculateTileData(from);
         CalculateTileData(to);
@@ -1188,7 +1188,10 @@ public class GridManager : MonoBehaviour
     }
     public void MapRemoveEntity(Entity entity, Vector2Int tilePos)
     {
-        map[tilePos].occupyingEntities.Remove(entity);
+        foreach (Entity entities in map[tilePos].occupyingEntities)
+        {
+            map[tilePos].occupyingEntities.Remove(entity);
+        }
         CalculateTileData(tilePos);
         DisplayOrHideEntity(entity);
 
