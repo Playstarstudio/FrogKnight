@@ -1,14 +1,11 @@
-using NUnit.Framework.Interfaces;
 using UnityEngine;
 using UnityEngine.UI;
-using static UnityEditor.Experimental.GraphView.GraphView;
 
 public class UI : MonoBehaviour
 {
     public AttributeSet PCAttributes;
     [SerializeField] Slider _healthBar;
     [SerializeField] Slider _manaBar;
-    [SerializeField] Slider _staminaBar;
 
 
     private void Start()

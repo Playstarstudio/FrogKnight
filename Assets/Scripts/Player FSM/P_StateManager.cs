@@ -1,10 +1,6 @@
 using Inventory;
 using System.Collections.Generic;
-using TMPro;
-using Unity.VisualScripting;
-using UnityEditor.UIElements;
 using UnityEngine;
-using UnityEngine.UI;
 
 public class P_StateManager : Entity
 {
@@ -58,7 +54,7 @@ public class P_StateManager : Entity
         gridManager = FindFirstObjectByType<GridManager>();
         this.transform.position = gridManager.GetTileCenter(gridManager.GetCellPosition(this.transform.position));
         gridManager.MapAddEntity(this, gridManager.GetCellPosition(this.transform.position));
-        for(int i = 0; i < activeAbilityList.Count; i++)
+        for (int i = 0; i < activeAbilityList.Count; i++)
         {
             abilitySlots[i].ability = activeAbilityList[i];
             abilitySlots[i].image.sprite = activeAbilityList[i].abilityImage;

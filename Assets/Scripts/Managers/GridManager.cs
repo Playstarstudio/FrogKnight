@@ -1,12 +1,9 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.Tilemaps;
-using UnityEngine.WSA;
 using static GameManager;
-using static GridManager;
 using Color = UnityEngine.Color;
 
 
@@ -386,7 +383,7 @@ public class GridManager : MonoBehaviour
             map[to].visible = true;
             return true;
         }
-        float dist = (to-from).magnitude;
+        float dist = (to - from).magnitude;
         if (dist <= 1.5)
         {
             map[to].LoS = true;
@@ -996,7 +993,7 @@ public class GridManager : MonoBehaviour
                 Vector2Int cell = GetCellPosition(worldPosition);
                 if (rangeTiles.HasTile(fowTiles.WorldToCell(worldPosition)))
                 {
-                    TintTile(cell, new Color(0, 0, 0, 0),rangeTiles);
+                    TintTile(cell, new Color(0, 0, 0, 0), rangeTiles);
                 }
             }
         }
@@ -1263,7 +1260,7 @@ public class GridManager : MonoBehaviour
                         entity.GetComponent<SpriteRenderer>().enabled = true;
                     }
                 }
-                foreach (ItemOnGround item in  tileInfo.occupyingItems)
+                foreach (ItemOnGround item in tileInfo.occupyingItems)
                 {
                     if (item != null)
                     {
@@ -1274,8 +1271,8 @@ public class GridManager : MonoBehaviour
             else if (!tileInfo.visible)
             {
                 foreach (Entity entity in tileInfo.occupyingEntities)
-                {  
-                    if(entity != null)
+                {
+                    if (entity != null)
                     {
                         entity.GetComponent<SpriteRenderer>().enabled = false;
                     }
@@ -1289,7 +1286,7 @@ public class GridManager : MonoBehaviour
                 }
             }
         }
-    }    
+    }
 
     #region tile coloring
     public void TintTile(Vector2Int gridPos, Color color)

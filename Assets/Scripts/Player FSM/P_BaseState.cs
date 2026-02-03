@@ -1,8 +1,5 @@
 using System.Collections.Generic;
-using Unity.VisualScripting.FullSerializer;
 using UnityEngine;
-using static GridManager;
-using static UnityEditor.Progress;
 
 public class P_BaseState : P_State
 {
@@ -146,7 +143,7 @@ public class P_BaseState : P_State
                     player.SwitchState(player.inventoryState);
                 }
             }
-            
+
             else if (inputFunction(KeyCode.F)) //This should check if you can initiate dialogue
             {
                 List<ItemOnGround> itemsOnTile = new List<ItemOnGround>();

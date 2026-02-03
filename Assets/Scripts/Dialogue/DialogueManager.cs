@@ -1,12 +1,9 @@
+using Ink.Runtime;
 using System.Collections;
 using System.Collections.Generic;
-using Ink.Runtime;
-using Ink.UnityIntegration;
 using TMPro;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.EventSystems;
-using UnityEngine.SearchService;
 
 public class DialogueManager : MonoBehaviour
 {
@@ -32,7 +29,7 @@ public class DialogueManager : MonoBehaviour
     public const string SPEAKER_TAG = "speaker";
     public const string PORTRAIT_TAG = "portrait";
     public const string LAYOUT_TAG = "layout";
-    
+
 
     private void Awake()
     {
@@ -42,7 +39,7 @@ public class DialogueManager : MonoBehaviour
         }
         instance = this;
         //dialogueEnemy = Enemy.GetComponent<DialogueEnemy>();
-        
+
         dialogueVariables = new DialogueVariables(loadGlobalsJSON);
     }
 
@@ -76,7 +73,8 @@ public class DialogueManager : MonoBehaviour
 
     private void Update()
     {
-        if (!dialogueIsPlaying){ //Immediately return if no dialogue
+        if (!dialogueIsPlaying)
+        { //Immediately return if no dialogue
             return;
         }
 
@@ -88,7 +86,7 @@ public class DialogueManager : MonoBehaviour
 
     }
 
-    
+
 
     public void EnterDialogueMode(TextAsset inkJSON)
     {
@@ -113,7 +111,8 @@ public class DialogueManager : MonoBehaviour
             DisplayChoices();
             HandleTags(currentStory.currentTags); //Takes in JSON text file tags
 
-        } else
+        }
+        else
         {
             ExitDialogueMode();
         }
@@ -153,7 +152,7 @@ public class DialogueManager : MonoBehaviour
 
     public bool dialogueCheck()
     { //This will interact with the enemy dialogue script and check to see if within range of dialogue. If so, it will return true to begin the dialogue state if the enemy has dialogue capabilities
-        
+
         if (!dialogueEnemy)
         {
             return false; //By returning true, state manager will NOT enter dialogue state
@@ -163,7 +162,8 @@ public class DialogueManager : MonoBehaviour
         {
             EnterDialogueMode(dialogueEnemy.inkJSON);
             return true; //By returning true, state manager will enter dialogue state
-        } else
+        }
+        else
         {
             ExitDialogueMode();
             return false; //By returning true, state manager will NOT enter dialogue state
@@ -180,14 +180,14 @@ public class DialogueManager : MonoBehaviour
         }
 
         int index = 0;
-        foreach(Choice choice in currentChoices)
+        foreach (Choice choice in currentChoices)
         {
             choices[index].gameObject.SetActive(true);
             choicesText[index].text = choice.text;
             index++;
         }
 
-        for (int i = index; i< choices.Length; i++)
+        for (int i = index; i < choices.Length; i++)
         {
             choices[i].gameObject.SetActive(false);
         }

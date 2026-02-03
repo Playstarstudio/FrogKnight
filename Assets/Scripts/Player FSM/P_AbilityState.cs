@@ -1,7 +1,4 @@
-using UnityEditor.U2D.Aseprite;
 using UnityEngine;
-using UnityEngine.InputSystem;
-using UnityEngine.Rendering;
 using UnityEngine.UI;
 
 public class P_AbilityState : P_State
@@ -138,7 +135,7 @@ public class P_AbilityState : P_State
         }
         if (player.casting != player.melee)
         {
-        player.castingSlot.GetComponent<Image>().color = Color.white;
+            player.castingSlot.GetComponent<Image>().color = Color.white;
         }
         player.casting = null;
         player.castingSlot = null;
