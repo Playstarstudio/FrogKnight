@@ -17,7 +17,7 @@ public class P_DialogueState : P_State
         {
             player.SwitchState(player.baseState);
         }
-        if (Input.GetKeyDown(KeyCode.F))
+        if (Input.GetKeyDown(KeyCode.F) && DialogueManager.instance.currentStory.currentChoices.Count == 0 )
         {
             DialogueManager.instance.ContinueStory();            
         } 

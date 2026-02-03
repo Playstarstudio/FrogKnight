@@ -6,16 +6,10 @@ public class DialogueVariables
     public Dictionary<string, Ink.Runtime.Object> variables;
     public Story globalVariablesStory;
     
-    public DialogueVariables(TextAsset loadGlobalsJSON)  //ENABLE THIS IF THE GLOBAL FILE IS CAUSING ISSUES (and disable it as a main file in the editor)
+    public DialogueVariables(TextAsset loadGlobalsJSON) 
     {
-        // Compiles the global variables ink  script
-        /*string inkFileContents = File.ReadAllText(globalsFilePath);
-        Ink.Compiler compiler = new Ink.Compiler(inkFileContents);
-        Story globalVariablesStory = compiler.Compile();*/
-
-        // Initializes the dictionary
-        Story globalVariablesStory = new Story(loadGlobalsJSON.text);
-        variables = new Dictionary<string, Ink.Runtime.Object>();
+        // Initializes the dictionary of variables
+        globalVariablesStory = new Story(loadGlobalsJSON.text);
         variables = new Dictionary<string, Ink.Runtime.Object>();
         foreach (string name in globalVariablesStory.variablesState)
         {

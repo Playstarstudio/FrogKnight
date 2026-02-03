@@ -24,7 +24,7 @@ public class DialogueManager : MonoBehaviour
     public TextAsset loadGlobalsJSON;
 
     public DialogueEnemy dialogueEnemy;
-    private DialogueVariables dialogueVariables;
+    public DialogueVariables dialogueVariables;
 
     public const string SPEAKER_TAG = "speaker";
     public const string PORTRAIT_TAG = "portrait";
@@ -38,22 +38,22 @@ public class DialogueManager : MonoBehaviour
             Debug.LogWarning("Found more than one Dialogue Manager in the scene");
         }
         instance = this;
-<<<<<<< Updated upstream
         //dialogueEnemy = Enemy.GetComponent<DialogueEnemy>();
 
-=======
-        
->>>>>>> Stashed changes
         dialogueVariables = new DialogueVariables(loadGlobalsJSON);
     }
 
     private void Start()
     {
-        ExitDialogueMode(); //disables dialogue panel and dialogueisplaying var
+        //resets & disables dialogue panel and dialogueisplaying var
+        dialogueIsPlaying = false;
+        dialogueText.text = "";
+        dialoguePanel.SetActive(false);
 
         layoutAnimator = dialoguePanel.GetComponent<Animator>(); //gets the layout animator
 
-        choicesText = new TextMeshProUGUI[choices.Length]; //gets all the choices into the appropriate list
+        //gets all the choice buttons into the appropriate list
+        choicesText = new TextMeshProUGUI[choices.Length]; 
         int index = 0;
         foreach (GameObject choice in choices)
         {
@@ -64,10 +64,10 @@ public class DialogueManager : MonoBehaviour
 
     public void ExitDialogueMode() //Exits the dialogue
     {
-        dialogueIsPlaying = false;
-        dialoguePanel.SetActive(false);
-        dialogueText.text = "";
         dialogueVariables.StopListening(currentStory);
+        dialogueIsPlaying = false;
+        dialogueText.text = "";
+        dialoguePanel.SetActive(false);
     }
 
     public static DialogueManager GetInstance() //Returns public instance of the dialogue manager
@@ -114,14 +114,7 @@ public class DialogueManager : MonoBehaviour
             dialogueText.text = currentStory.Continue(); //Advances to the next line of text
             DisplayChoices();
             HandleTags(currentStory.currentTags); //Takes in JSON text file tags
-<<<<<<< Updated upstream
-
         }
-=======
-            DisplayChoices();
-        }
-        
->>>>>>> Stashed changes
         else
         {
             ExitDialogueMode();
@@ -155,6 +148,7 @@ public class DialogueManager : MonoBehaviour
                     Debug.Log("Layout=" + tagValue);
                     break;
                 default:
+                    Debug.Log("Tag came in but is not currently vbeing handled: " + tag);
                     break;
             }
         }
@@ -190,22 +184,14 @@ public class DialogueManager : MonoBehaviour
         }
 
         int index = 0;
-<<<<<<< Updated upstream
         foreach (Choice choice in currentChoices)
-=======
-        foreach(Choice choice in currentChoices) //Enables & Initializes
->>>>>>> Stashed changes
         {
             choices[index].gameObject.SetActive(true);
             choicesText[index].text = choice.text;
             index++;
         }
 
-<<<<<<< Updated upstream
         for (int i = index; i < choices.Length; i++)
-=======
-        for (int i = index; i< choices.Length; i++) //Hides
->>>>>>> Stashed changes
         {
             choices[i].gameObject.SetActive(false);
         }
