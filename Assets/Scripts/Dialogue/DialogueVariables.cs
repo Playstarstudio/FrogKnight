@@ -1,7 +1,7 @@
 using UnityEngine;
 using Ink.Runtime;
 using System.Collections.Generic;
-public class DialogueVariables : MonoBehaviour
+public class DialogueVariables
 {
     public Dictionary<string, Ink.Runtime.Object> variables;
     public Story globalVariablesStory;
@@ -25,12 +25,12 @@ public class DialogueVariables : MonoBehaviour
         }
     }
 
-    public void StartListening(Story story)
+    public void StartListening(Story story) //Enables variable changes
     {
         VariablesToStory(story);
         story.variablesState.variableChangedEvent += VariableChanged;
     }
-    public void StopListening(Story story)
+    public void StopListening(Story story) //Disables variable changes
     {
         story.variablesState.variableChangedEvent -= VariableChanged;
     }
@@ -45,7 +45,7 @@ public class DialogueVariables : MonoBehaviour
         }
     }
 
-    private void VariablesToStory(Story story)
+    private void VariablesToStory(Story story) //pushes variable changes to global ink file
     {
         foreach(KeyValuePair<string, Ink.Runtime.Object> variable in variables)
         {

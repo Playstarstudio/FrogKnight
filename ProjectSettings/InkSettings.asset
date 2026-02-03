@@ -15,8 +15,7 @@ MonoBehaviour:
   templateFile: {fileID: 0}
   defaultJsonAssetPath: {fileID: 0}
   compileAllFilesAutomatically: 1
-  includeFilesToCompileAsMasterFiles:
-  - {fileID: 102900000, guid: 63ebe3d0db64a60428beee9472cc9c86, type: 3}
+  includeFilesToCompileAsMasterFiles: []
   filesToCompileAutomatically: []
   delayInPlayMode: 1
   handleJSONFilesAutomatically: 1

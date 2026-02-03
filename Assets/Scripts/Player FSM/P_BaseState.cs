@@ -144,8 +144,13 @@ public class P_BaseState : P_State
                     player.SwitchState(player.inventoryState);
                 }
             }
+<<<<<<< Updated upstream
 
             else if (inputFunction(KeyCode.F)) //This should check if you can initiate dialogue
+=======
+            
+            else if (inputFunction(KeyCode.F)) //This should check if you can pick up an item, else, initiate dialogue
+>>>>>>> Stashed changes
             {
                 List<ItemOnGround> itemsOnTile = new List<ItemOnGround>();
                 if (player.gridManager.TryGetItemsOnTile(player.currentTile, out itemsOnTile))
@@ -167,12 +172,12 @@ public class P_BaseState : P_State
                         }
                     }
                 }
-                /*
+                
                 else if (DialogueManager.instance.dialogueCheck())
                 {
                     player.SwitchState(player.dialogueState);
                 }
-                 */
+                 
                 else
                 {
                     Debug.Log("Nothing to interact with!");

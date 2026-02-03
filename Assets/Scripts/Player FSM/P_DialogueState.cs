@@ -19,11 +19,7 @@ public class P_DialogueState : P_State
         }
         if (Input.GetKeyDown(KeyCode.F))
         {
-            if (DialogueManager.GetInstance().dialogueIsPlaying)
-            {
-                return;
-            }
-            
+            DialogueManager.instance.ContinueStory();            
         } 
         else if (Input.GetKeyDown(KeyCode.Alpha1))
         {

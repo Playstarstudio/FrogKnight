@@ -13,6 +13,7 @@ Are you ready to finish up in here? You can say no and keep playing
 
 + [Yes]
     //GAME END SCRIPT
+    Great! I hope you enjoyed the game
     -> END
 + [No]
     Sounds good, I'll wait for you here to make sure you get out okay!

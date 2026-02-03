@@ -21,10 +21,10 @@ public class DialogueManager : MonoBehaviour
     public static DialogueManager instance;
     public Story currentStory;
     public bool dialogueIsPlaying;
-    [SerializeField] private TextAsset loadGlobalsJSON;
+    public TextAsset loadGlobalsJSON;
 
     public DialogueEnemy dialogueEnemy;
-    public DialogueVariables dialogueVariables;
+    private DialogueVariables dialogueVariables;
 
     public const string SPEAKER_TAG = "speaker";
     public const string PORTRAIT_TAG = "portrait";
@@ -38,8 +38,12 @@ public class DialogueManager : MonoBehaviour
             Debug.LogWarning("Found more than one Dialogue Manager in the scene");
         }
         instance = this;
+<<<<<<< Updated upstream
         //dialogueEnemy = Enemy.GetComponent<DialogueEnemy>();
 
+=======
+        
+>>>>>>> Stashed changes
         dialogueVariables = new DialogueVariables(loadGlobalsJSON);
     }
 
@@ -71,7 +75,7 @@ public class DialogueManager : MonoBehaviour
         return instance;
     }
 
-    private void Update()
+    /*private void Update()
     {
         if (!dialogueIsPlaying)
         { //Immediately return if no dialogue
@@ -84,19 +88,19 @@ public class DialogueManager : MonoBehaviour
             ContinueStory();
         }
 
-    }
+    }*/
 
 
 
     public void EnterDialogueMode(TextAsset inkJSON)
     {
-        currentStory = new Story(inkJSON.text);
+        currentStory = new Story(inkJSON.text); //Takes in the story
         dialogueIsPlaying = true;
         dialoguePanel.SetActive(true);
 
         dialogueVariables.StartListening(currentStory);
 
-        displayNameText.text = "???"; //resets dialogue tags to default
+        displayNameText.text = "???"; //resets dialogue tags to default + right
         portraitAnimator.Play("default");
         layoutAnimator.Play("right");
 
@@ -110,8 +114,14 @@ public class DialogueManager : MonoBehaviour
             dialogueText.text = currentStory.Continue(); //Advances to the next line of text
             DisplayChoices();
             HandleTags(currentStory.currentTags); //Takes in JSON text file tags
+<<<<<<< Updated upstream
 
         }
+=======
+            DisplayChoices();
+        }
+        
+>>>>>>> Stashed changes
         else
         {
             ExitDialogueMode();
@@ -180,14 +190,22 @@ public class DialogueManager : MonoBehaviour
         }
 
         int index = 0;
+<<<<<<< Updated upstream
         foreach (Choice choice in currentChoices)
+=======
+        foreach(Choice choice in currentChoices) //Enables & Initializes
+>>>>>>> Stashed changes
         {
             choices[index].gameObject.SetActive(true);
             choicesText[index].text = choice.text;
             index++;
         }
 
+<<<<<<< Updated upstream
         for (int i = index; i < choices.Length; i++)
+=======
+        for (int i = index; i< choices.Length; i++) //Hides
+>>>>>>> Stashed changes
         {
             choices[i].gameObject.SetActive(false);
         }
@@ -196,7 +214,7 @@ public class DialogueManager : MonoBehaviour
     }
     private IEnumerator SelectFirstChoice() //Some code that is meant to make unitys event system play nice with the choices? Still trying to understand this tbh
     {
-        // "Event System requires we clear it first then wait for at least one frame before we set the current selected object
+        // "Event System requires we clear it first then wait for at least one frame before we set the current selected object"
         EventSystem.current.SetSelectedGameObject(null);
         yield return new WaitForEndOfFrame();
         EventSystem.current.SetSelectedGameObject(choices[0].gameObject);

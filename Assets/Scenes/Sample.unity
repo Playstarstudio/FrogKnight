@@ -3820,6 +3820,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gridManager: {fileID: 1350821628}
   gameManager: {fileID: 105062098}
+  gameLogManager: {fileID: 0}
   rb: {fileID: 0}
   anim: {fileID: 0}
   currentPos: {x: 0, y: 0}
@@ -4111,6 +4112,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gridManager: {fileID: 1350821628}
   gameManager: {fileID: 105062098}
+  gameLogManager: {fileID: 0}
   rb: {fileID: 0}
   anim: {fileID: 0}
   currentPos: {x: 0, y: 0}
@@ -5100,8 +5102,8 @@ Transform:
   m_GameObject: {fileID: 692721034}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.5000342, z: 0}
-  m_LocalScale: {x: 0.29999998, y: 0.29999998, z: 1}
+  m_LocalPosition: {x: 0.2, y: 1.23, z: 0}
+  m_LocalScale: {x: 0.3, y: 0.3, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 427352655}
@@ -5153,12 +5155,12 @@ SpriteRenderer:
   m_SortingLayerID: 1799235983
   m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 3168504048300293370, guid: 754cf57897cd4ec46974948364d700a5, type: 3}
+  m_Sprite: {fileID: -6660573835324607807, guid: 85ed04b0a34cce84fb75d9bacbe4c9a8, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 1.92, y: 2.88}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -5393,7 +5395,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1895830042}
   m_HandleRect: {fileID: 1895830041}
   m_Direction: 2
-  m_Value: 1
+  m_Value: 0
   m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -37850,9 +37852,8 @@ MonoBehaviour:
   - {fileID: 629018012}
   choicesText: []
   dialogueIsPlaying: 0
-  loadGlobalsJSON: {fileID: 4900000, guid: e5b4bf8837c3bbc4788444fee371246c, type: 3}
+  loadGlobalsJSON: {fileID: 4900000, guid: 00f7a6cd729742146acfecd8f7f90854, type: 3}
   dialogueEnemy: {fileID: 0}
-  dialogueVariables: {fileID: 0}
 --- !u!4 &1669802730
 Transform:
   m_ObjectHideFlags: 0
@@ -38103,7 +38104,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 341519117}
   m_HandleRect: {fileID: 341519116}
   m_Direction: 2
-  m_Value: 1.0000001
+  m_Value: 1
   m_Size: 0.262898
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -42107,6 +42108,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 660137056}
     m_Modifications:
+    - target: {fileID: 19865742271792232, guid: cbb9e1550109bcb4ba07ae012a7d3668, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 136268623078504582, guid: cbb9e1550109bcb4ba07ae012a7d3668, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 1
@@ -42135,6 +42140,14 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1669802729}
+    - target: {fileID: 1444436611219680810, guid: cbb9e1550109bcb4ba07ae012a7d3668, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2190100713905562262, guid: cbb9e1550109bcb4ba07ae012a7d3668, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5803002709589061173, guid: cbb9e1550109bcb4ba07ae012a7d3668, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -42222,6 +42235,10 @@ PrefabInstance:
     - target: {fileID: 8555783641675138650, guid: cbb9e1550109bcb4ba07ae012a7d3668, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9164336688995604445, guid: cbb9e1550109bcb4ba07ae012a7d3668, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
