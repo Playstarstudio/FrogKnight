@@ -20,6 +20,7 @@ public class P_BaseState : P_State
     {
         if (!moving)
         {
+
             // try moving
             if (inputFunction(KeyCode.W))
             {

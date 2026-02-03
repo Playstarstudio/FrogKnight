@@ -149,8 +149,9 @@ namespace Inventory
         {
             for (int i = 0; i < inventorySize; i++)
             {
-                InventoryItem newItem = Instantiate(itemPrefab, Vector3.zero, Quaternion.identity);
-                newItem.transform.SetParent(contentPanel);
+                InventoryItem newItem = Instantiate(itemPrefab, contentPanel);
+                RectTransform rt = newItem.GetComponent<RectTransform>();
+                Debug.Log($"Item {i} - LocalScale: {rt.localScale}, Position: {rt.anchoredPosition}, Active: {newItem.gameObject.activeSelf}");
                 listofUIItems.Add(newItem);
                 newItem.OnItemClicked += HandleItemSelection;
                 newItem.OnItemBeginDrag += HandleItemBeginDrag;

@@ -65,6 +65,7 @@ public class InventoryItem : MonoBehaviour, IPointerClickHandler, IBeginDragHand
         {
             OnItemClicked?.Invoke(this);
         }
+
     }
 
     public void OnBeginDrag(PointerEventData eventData)
