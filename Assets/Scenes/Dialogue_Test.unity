@@ -4626,11 +4626,33 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 9164336688995604445, guid: cbb9e1550109bcb4ba07ae012a7d3668, type: 3}
   m_PrefabInstance: {fileID: 268902811245545824}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &618849184 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3203648834642724983, guid: cbb9e1550109bcb4ba07ae012a7d3668, type: 3}
+  m_PrefabInstance: {fileID: 268902811245545824}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 618849182}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
 --- !u!1 &629018012 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2190100713905562262, guid: cbb9e1550109bcb4ba07ae012a7d3668, type: 3}
   m_PrefabInstance: {fileID: 268902811245545824}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &629018015 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 984149524237821545, guid: cbb9e1550109bcb4ba07ae012a7d3668, type: 3}
+  m_PrefabInstance: {fileID: 268902811245545824}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 629018012}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
 --- !u!1 &660137052
 GameObject:
   m_ObjectHideFlags: 0
@@ -37706,7 +37728,7 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 341519117}
   m_HandleRect: {fileID: 341519116}
   m_Direction: 2
-  m_Value: 1
+  m_Value: 1.0000001
   m_Size: 0.262898
   m_NumberOfSteps: 0
   m_OnValueChanged:
@@ -38091,6 +38113,17 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 19865742271792232, guid: cbb9e1550109bcb4ba07ae012a7d3668, type: 3}
   m_PrefabInstance: {fileID: 268902811245545824}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &1913497377 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 6373703257225195545, guid: cbb9e1550109bcb4ba07ae012a7d3668, type: 3}
+  m_PrefabInstance: {fileID: 268902811245545824}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1913497375}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
 --- !u!1 &1943628593
 GameObject:
   m_ObjectHideFlags: 0
@@ -41739,9 +41772,17 @@ PrefabInstance:
       value: DialoguePanel
       objectReference: {fileID: 0}
     - target: {fileID: 915519922814021828, guid: cbb9e1550109bcb4ba07ae012a7d3668, type: 3}
+      propertyPath: m_TargetGraphic
+      value: 
+      objectReference: {fileID: 1913497377}
+    - target: {fileID: 915519922814021828, guid: cbb9e1550109bcb4ba07ae012a7d3668, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1669802729}
+    - target: {fileID: 984149524237821545, guid: cbb9e1550109bcb4ba07ae012a7d3668, type: 3}
+      propertyPath: m_Color.a
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1444436611219680810, guid: cbb9e1550109bcb4ba07ae012a7d3668, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -41751,9 +41792,17 @@ PrefabInstance:
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5803002709589061173, guid: cbb9e1550109bcb4ba07ae012a7d3668, type: 3}
+      propertyPath: m_TargetGraphic
+      value: 
+      objectReference: {fileID: 618849184}
+    - target: {fileID: 5803002709589061173, guid: cbb9e1550109bcb4ba07ae012a7d3668, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 1669802729}
+    - target: {fileID: 7846788399101326498, guid: cbb9e1550109bcb4ba07ae012a7d3668, type: 3}
+      propertyPath: m_TargetGraphic
+      value: 
+      objectReference: {fileID: 629018015}
     - target: {fileID: 7846788399101326498, guid: cbb9e1550109bcb4ba07ae012a7d3668, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 

@@ -178,6 +178,8 @@ public class DialogueManager : MonoBehaviour
     {
         List<Choice> currentChoices = currentStory.currentChoices;
 
+        //INSERT HERE CODE TO ENSURE NO BUTTONS ARE SELECTED/HIGHLIGHTED FROM PREVIOUS DIALOGUE
+
         if (currentChoices.Count > choices.Length) //Error out if too many choices
         {
             Debug.LogError("More choices were given than the UI can support. Number of choices given: " + currentChoices.Count);
@@ -196,7 +198,7 @@ public class DialogueManager : MonoBehaviour
             choices[i].gameObject.SetActive(false);
         }
 
-        StartCoroutine(SelectFirstChoice());
+        //StartCoroutine(SelectFirstChoice());
     }
     private IEnumerator SelectFirstChoice() //Some code that is meant to make unitys event system play nice with the choices? Still trying to understand this tbh
     {
