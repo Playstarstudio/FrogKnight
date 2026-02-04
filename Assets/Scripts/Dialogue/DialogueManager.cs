@@ -179,6 +179,7 @@ public class DialogueManager : MonoBehaviour
         List<Choice> currentChoices = currentStory.currentChoices;
 
         //INSERT HERE CODE TO ENSURE NO BUTTONS ARE SELECTED/HIGHLIGHTED FROM PREVIOUS DIALOGUE
+        EventSystem.current.SetSelectedGameObject(null);
 
         if (currentChoices.Count > choices.Length) //Error out if too many choices
         {

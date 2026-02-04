@@ -22,6 +22,10 @@ public class P_DialogueState : P_State
         {
             DialogueManager.instance.ContinueStory();            
         } 
+        else if (Input.GetKeyDown(KeyCode.Mouse0) && DialogueManager.instance.currentStory.currentChoices.Count == 0 )
+        {
+            DialogueManager.instance.ContinueStory();            
+        }
         else if (Input.GetKeyDown(KeyCode.Alpha1) && DialogueManager.instance.currentStory.currentChoices.Count > 0 )
         {
             DialogueManager.instance.MakeChoice(0);
