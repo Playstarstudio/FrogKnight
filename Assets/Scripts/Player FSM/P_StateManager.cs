@@ -58,6 +58,7 @@ public class P_StateManager : Entity
             abilitySlots[i].ability = activeAbilityList[i];
             abilitySlots[i].image.sprite = activeAbilityList[i].abilityImage;
         }
+        gridManager.PlayerDijkstras();
     }
 
     // Update is called once per frame
