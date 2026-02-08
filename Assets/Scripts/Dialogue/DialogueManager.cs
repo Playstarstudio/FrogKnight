@@ -23,8 +23,9 @@ public class DialogueManager : MonoBehaviour
     public bool dialogueIsPlaying;
     public TextAsset loadGlobalsJSON;
 
-    public DialogueEnemy dialogueEnemy;
+    public DialogueTrigger dialogueTrigger;
     public DialogueVariables dialogueVariables;
+    public InkExternalFunctions inkExternalFunctions;
 
     public const string SPEAKER_TAG = "speaker";
     public const string PORTRAIT_TAG = "portrait";
@@ -38,9 +39,9 @@ public class DialogueManager : MonoBehaviour
             Debug.LogWarning("Found more than one Dialogue Manager in the scene");
         }
         instance = this;
-        //dialogueEnemy = Enemy.GetComponent<DialogueEnemy>();
 
         dialogueVariables = new DialogueVariables(loadGlobalsJSON);
+        inkExternalFunctions = new InkExternalFunctions();
     }
 
     private void Start()
@@ -64,8 +65,8 @@ public class DialogueManager : MonoBehaviour
 
     public void ExitDialogueMode() //Exits the dialogue
     {
-        dialogueVariables.StopListening(currentStory);
-        //currentStory.UnbindExternalFunction("endGame");
+        dialogueVariables.StopListening(currentStory);  //Disables ink-UI variable talking
+        inkExternalFunctions.Unbind(currentStory);  //Disables ink  external functions
 
         dialogueIsPlaying = false;
         dialogueText.text = "";
@@ -100,12 +101,8 @@ public class DialogueManager : MonoBehaviour
         dialogueIsPlaying = true;
         dialoguePanel.SetActive(true);
 
-        dialogueVariables.StartListening(currentStory);
-
-        currentStory.BindExternalFunction("endGame", (bool state) => {
-            Debug.Log(state);
-            if (state == true) {Application.Quit();}
-        });
+        dialogueVariables.StartListening(currentStory);  //Enables ink-UI variable talking
+        inkExternalFunctions.Bind(currentStory);    //Enables ink external functions
 
         displayNameText.text = "???"; //resets dialogue tags to default + right
         portraitAnimator.Play("default");
@@ -164,14 +161,14 @@ public class DialogueManager : MonoBehaviour
     public bool dialogueCheck()
     { //This will interact with the enemy dialogue script and check to see if within range of dialogue. If so, it will return true to begin the dialogue state if the enemy has dialogue capabilities
 
-        if (!dialogueEnemy)
+        if (!dialogueTrigger)
         {
             return false; //By returning true, state manager will NOT enter dialogue state
         }
 
-        if (dialogueEnemy.playerInRange) //If the enemy can be spoken to, initiate dialogue
+        if (dialogueTrigger.playerInRange) //If the enemy can be spoken to, initiate dialogue
         {
-            EnterDialogueMode(dialogueEnemy.inkJSON);
+            EnterDialogueMode(dialogueTrigger.inkJSON);
             return true; //By returning true, state manager will enter dialogue state
         }
         else

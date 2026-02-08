@@ -4,7 +4,7 @@ using static GridManager;
 using UnityEngine;
 
 //[CreateAssetMenu(fileName = "DialogueEnemy", menuName = "Scriptable Objects/DialogueEnemy")]
-public class DialogueEnemy : MonoBehaviour
+public class DialogueTrigger : MonoBehaviour
 {
     [HeaderAttribute("Visual Cue")]
     public GameObject visualCue;
@@ -26,7 +26,7 @@ public class DialogueEnemy : MonoBehaviour
         if (collider.CompareTag("Player"))
         {
             playerInRange = true;
-            DialogueManager.instance.dialogueEnemy = this;
+            DialogueManager.instance.dialogueTrigger = this;
             
         }
     }
@@ -35,9 +35,9 @@ public class DialogueEnemy : MonoBehaviour
     {
         if (collider.CompareTag("Player"))
         {
-            if (DialogueManager.instance.dialogueEnemy==this)
+            if (DialogueManager.instance.dialogueTrigger==this)
             {
-                DialogueManager.instance.dialogueEnemy=null;
+                DialogueManager.instance.dialogueTrigger=null;
             }
             playerInRange = false;
             //collider.GetComponent<P_BaseState>
