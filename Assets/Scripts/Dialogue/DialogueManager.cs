@@ -65,6 +65,8 @@ public class DialogueManager : MonoBehaviour
     public void ExitDialogueMode() //Exits the dialogue
     {
         dialogueVariables.StopListening(currentStory);
+        //currentStory.UnbindExternalFunction("endGame");
+
         dialogueIsPlaying = false;
         dialogueText.text = "";
         dialoguePanel.SetActive(false);
@@ -99,6 +101,11 @@ public class DialogueManager : MonoBehaviour
         dialoguePanel.SetActive(true);
 
         dialogueVariables.StartListening(currentStory);
+
+        currentStory.BindExternalFunction("endGame", (bool state) => {
+            Debug.Log(state);
+            if (state == true) {Application.Quit();}
+        });
 
         displayNameText.text = "???"; //resets dialogue tags to default + right
         portraitAnimator.Play("default");
@@ -148,7 +155,7 @@ public class DialogueManager : MonoBehaviour
                     Debug.Log("Layout=" + tagValue);
                     break;
                 default:
-                    Debug.Log("Tag came in but is not currently vbeing handled: " + tag);
+                    Debug.Log("Tag came in but is not currently being handled: " + tag);
                     break;
             }
         }

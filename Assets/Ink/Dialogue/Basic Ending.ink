@@ -1,4 +1,5 @@
 INCLUDE globals.ink
+EXTERNAL endGame(boolean)
 //story
 {spokenTo == false:
 You made it to the end! Glad to see you're alright #speaker:Helpful Stranger #portrait:tutorial #layout:left
@@ -11,8 +12,8 @@ You made it to the end! Glad to see you're alright #speaker:Helpful Stranger #po
 Are you ready to finish up? You can say no and keep playing if you'd like. #speaker:Helpful Stranger #portrait:tutorial #layout:left
 
 + [Yes]
-    //GAME END SCRIPT
     Great! I hope you enjoyed the game!
+    ~  endGame(true)
     -> END
 + [No]
     Sounds good, I'll wait for you here to make sure you get out okay!

@@ -1,3 +1,4 @@
+EXTERNAL endGame(boolean)
 // tags
 #speaker:tutorial #portrait:tutorial #layout:left
 
@@ -12,7 +13,7 @@ Do you consent to your data being gathered?
 * [Yes]
   -> main
 * [No]
-//GAME END SCRIPT
+    ~  endGame(true)
 ->  END
 
 === main ===
