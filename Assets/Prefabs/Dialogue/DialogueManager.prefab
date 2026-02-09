@@ -44,7 +44,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 15b8fbf0430719d489719ca0f00ad29f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DialogueManager
-  dialoguePanel: {fileID: 0}
+  dialoguePanel: {fileID: 417165527101933953, guid: cbb9e1550109bcb4ba07ae012a7d3668, type: 3}
+  continueIcon: {fileID: 0}
   dialogueText: {fileID: 0}
   displayNameText: {fileID: 0}
   portraitAnimator: {fileID: 0}
@@ -55,6 +56,15 @@ MonoBehaviour:
   - {fileID: 0}
   - {fileID: 0}
   choicesText: []
+  defaultAudioInfo: {fileID: 11400000, guid: 01f1175f4eae3314c9936c7fabfc0692, type: 2}
+  currentAudioInfo: {fileID: 0}
+  audioInfos:
+  - {fileID: 11400000, guid: f2f65f8f27e7667418369e6a62ddb3d9, type: 2}
+  - {fileID: 11400000, guid: 7111048fd35e6df409a1e8a8bb7c9f29, type: 2}
+  - {fileID: 11400000, guid: aa0e27f7cdccbe147b4fb1de937958cb, type: 2}
+  makePredictable: 1
   dialogueIsPlaying: 0
   loadGlobalsJSON: {fileID: 4900000, guid: 00f7a6cd729742146acfecd8f7f90854, type: 3}
-  dialogueEnemy: {fileID: 0}
+  typingSpeed: 0.04
+  canContinueToNextLine: 0
+  dialogueTrigger: {fileID: 0}

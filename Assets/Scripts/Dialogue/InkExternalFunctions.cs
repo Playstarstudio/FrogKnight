@@ -13,6 +13,6 @@ public class InkExternalFunctions
 
     public void Unbind(Story story)
     {
-        //story.UnbindExternalFunction("endGame");
+        story.UnbindExternalFunction("endGame");
     }
 }
