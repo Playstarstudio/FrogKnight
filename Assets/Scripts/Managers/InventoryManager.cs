@@ -151,7 +151,7 @@ namespace Inventory
             {
                 InventoryItem newItem = Instantiate(itemPrefab, contentPanel);
                 RectTransform rt = newItem.GetComponent<RectTransform>();
-                Debug.Log($"Item {i} - LocalScale: {rt.localScale}, Position: {rt.anchoredPosition}, Active: {newItem.gameObject.activeSelf}");
+                //Debug.Log($"Item {i} - LocalScale: {rt.localScale}, Position: {rt.anchoredPosition}, Active: {newItem.gameObject.activeSelf}");
                 listofUIItems.Add(newItem);
                 newItem.OnItemClicked += HandleItemSelection;
                 newItem.OnItemBeginDrag += HandleItemBeginDrag;
@@ -163,7 +163,7 @@ namespace Inventory
 
         private void PrepareUI()
         {
-            InitializeInventoryUI(inventoryData.Capacity);
+            InitializeInventoryUI(inventoryData.inventoryCapacity);
             onDescriptionRequested += HandleDescriptionRequest;
             OnSwapItems += HandleSwapItems;
             OnStartDragging += HandleStartDragging;

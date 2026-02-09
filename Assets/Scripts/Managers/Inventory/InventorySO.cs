@@ -14,15 +14,26 @@ namespace Inventory.Model
         private List<InventoryItem> inventoryItems;
 
         [field: SerializeField]
-        public int Capacity { get; private set; } = 20;
+        public int inventoryCapacity { get; private set; } = 20;
+
+        [SerializeField]
+        private List<InventoryItem> equippedItems;
+
+        [field: SerializeField]
+        public int EquipmentCapacity { get; private set; } = 20;
 
         public event Action<Dictionary<int, InventoryItem>> InventoryChanged;
         public void Initialize()
         {
             inventoryItems = new List<InventoryItem>();
-            for (int i = 0; i < Capacity; i++)
+            for (int i = 0; i < inventoryCapacity; i++)
             {
                 inventoryItems.Add(InventoryItem.GetEmptyItem());
+            }
+            equippedItems = new List<InventoryItem>();
+            for (int i = 0; i < EquipmentCapacity; i++)
+            {
+                equippedItems.Add(InventoryItem.GetEmptyItem());
             }
         }
         public int AddItem(ItemSO item, int count)
