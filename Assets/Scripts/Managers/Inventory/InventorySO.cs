@@ -132,7 +132,7 @@ namespace Inventory.Model
             InventoryItem item1 = inventoryItems[itemIndex1];
             inventoryItems[itemIndex1] = inventoryItems[itemIndex2];
             inventoryItems[itemIndex2] = item1;
-            ItemChange();
+            InformAboutChange();
         }
 
         private void ItemChange()

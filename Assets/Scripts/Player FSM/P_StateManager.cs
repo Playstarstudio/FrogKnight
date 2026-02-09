@@ -1,4 +1,5 @@
 using Inventory;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -28,8 +29,7 @@ public class P_StateManager : Entity
     public List<Vector2Int> rangeTile;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     public InventoryManager inventoryManager;
-
-    //public DialogueManager dialogueManager;
+    public DialogueManager dialogueManager;
     public Transform mainCamera;
     /*
     public AudioSource SoundEffect1;
@@ -52,13 +52,14 @@ public class P_StateManager : Entity
         currentState.EnterState(this);
         gameManager = FindFirstObjectByType<GameManager>();
         gridManager = FindFirstObjectByType<GridManager>();
+        dialogueManager = FindFirstObjectByType<DialogueManager>();
         this.transform.position = gridManager.GetTileCenter(gridManager.GetCellPosition(this.transform.position));
         for (int i = 0; i < activeAbilityList.Count; i++)
         {
             abilitySlots[i].ability = activeAbilityList[i];
             abilitySlots[i].image.sprite = activeAbilityList[i].abilityImage;
         }
-        gridManager.PlayerDijkstras();
+        StartCoroutine(WaitForTime(.1f));
     }
 
     // Update is called once per frame
@@ -111,6 +112,11 @@ public class P_StateManager : Entity
         moving = false;
     }
      */
+private IEnumerator WaitForTime(float time)
+{
+        yield return new WaitForSeconds(time);
+        gridManager.PlayerDijkstras();
+}
 
     #region Save and Load
     public void Save(ref PlayerSaveData data)
