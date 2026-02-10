@@ -24,7 +24,7 @@ public class InventoryItem : MonoBehaviour, IPointerClickHandler, IBeginDragHand
     [SerializeField]
     public int quantity;
     [SerializeField]
-    public GameObject hoverPanel;
+    public HoverPanel hoverPanel;
 
     public event Action<InventoryItem> OnItemClicked, OnItemDroppedOn, OnItemBeginDrag, OnItemEndDrag, OnRightMouseBtnClick, OnPointerEnter, OnPointerExit;
 
@@ -40,9 +40,10 @@ public class InventoryItem : MonoBehaviour, IPointerClickHandler, IBeginDragHand
         this.itemImage.gameObject.SetActive(false);
         this.item = null;
         this.quantity = 0;
+        this.hoverPanel.itemName.text = string.Empty;
+        this.hoverPanel.itemDescription.text = string.Empty;
         empty = true;
     }
-
 
     public void Deselect()
     {
@@ -62,6 +63,8 @@ public class InventoryItem : MonoBehaviour, IPointerClickHandler, IBeginDragHand
         this.itemImage.gameObject.SetActive(true);
         this.itemImage.sprite = sprite;
         this.quantityTxt.text = quantity + "";
+        this.hoverPanel.PrepareHoverPanel(item);
+        Debug.Log(this.hoverPanel.itemDescription);
         empty = false;
     }
 

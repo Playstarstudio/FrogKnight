@@ -83,7 +83,7 @@ namespace Inventory
 
         public void UpdateData(int itemIndex, Sprite itemImage, int itemQuantity)
         {
-                listofUIItems[itemIndex].SetData(inventoryData.GetItemAt(itemIndex), itemImage, itemQuantity);
+            listofUIItems[itemIndex].SetData(inventoryData.GetItemAt(itemIndex), itemImage, itemQuantity);
         }
         public int TryPickupItem(ItemOnGround item)
         {
@@ -137,7 +137,6 @@ namespace Inventory
             inventoryPanel.SetActive(false);
             isInventoryOpen = false;
         }
-
         public void ResetSelection()
         {
             inventoryDescription.ResetDescription();
@@ -184,7 +183,11 @@ namespace Inventory
 
         private void HandlePointerExit(InventoryItem item)
         {
-            item.hoverPanel.SetActive(false);
+            if (item.hoverPanel != null)
+            {
+                item.hoverPanel.Toggle(false);
+
+            }
         }
 
         private void HandlePointerEnter(InventoryItem item)
@@ -194,7 +197,11 @@ namespace Inventory
             if (inventoryItem.IsEmpty)
                 return;
             else
-                item.hoverPanel.SetActive(true);
+                if (item.hoverPanel.panel != null)
+            {
+                item.hoverPanel.Toggle(true);
+
+            }
 
         }
 
@@ -209,6 +216,9 @@ namespace Inventory
         private void UpdateDescription(int itemIndex, Sprite image, string name, string description)
         {
             inventoryDescription.SetDescription(image, name, description);
+            inventoryData.GetItemAt(itemIndex);
+            inventoryData.GetInventoryItemAt(itemIndex);
+
             DeselectAllItems();
             listofUIItems[itemIndex].Select();
         }
@@ -272,6 +282,7 @@ namespace Inventory
         private void HandleStartDragging(int itemIndex)
         {
             InventorySO.InventoryItem invItem = inventoryData.GetInventoryItemAt(itemIndex);
+            
             if (invItem.IsEmpty)
             {
                 return;
