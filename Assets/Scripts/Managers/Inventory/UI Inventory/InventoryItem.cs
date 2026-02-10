@@ -48,7 +48,7 @@ public class InventoryItem : MonoBehaviour, IPointerClickHandler, IBeginDragHand
     {
         this.borderImage.enabled = false;
     }
-    public void SetData(Sprite sprite, int quantity)
+    public void SetFloatingData(Sprite sprite, int quantity)
     {
         this.itemImage.gameObject.SetActive(true);
         this.itemImage.sprite = sprite;

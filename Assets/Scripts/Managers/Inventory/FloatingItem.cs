@@ -15,7 +15,7 @@ public class FloatingItem : MonoBehaviour
 
     public void SetData(Sprite sprite, int quantity)
     {
-        itemPrefab.SetData(sprite, quantity);
+        itemPrefab.SetFloatingData(sprite, quantity);
     }
 
     private void Update()
