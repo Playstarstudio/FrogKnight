@@ -6,6 +6,7 @@ namespace Inventory.Model
     public class EquippableItemSO : ItemSO, IDestroyableItem, IItemAction
     {
         [SerializeField]
+        public PartLocation Slot;
         public enum PartLocation
         {
             PrimaryHand, //0
@@ -20,11 +21,9 @@ namespace Inventory.Model
 
         public string ActionName => "Equip";
 
-        public AudioClip actionSFX {  get; private set; }
-
         public void PerformAction(P_StateManager player)
         {
-            throw new System.NotImplementedException();
+            player.gameLogManager.AddEntry(player, this);
         }
     }
 }

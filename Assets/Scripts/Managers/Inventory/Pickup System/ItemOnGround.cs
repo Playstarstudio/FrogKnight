@@ -26,6 +26,7 @@ public class ItemOnGround : MonoBehaviour
         GetComponent<SpriteRenderer>().sprite = inventoryItem.image;
         currentTile = gridManager.GetCellPosition(this.transform.position);
         PlaceItem(currentTile);
+        this.transform.position = gridManager.GetTileCenter(currentTile);
     }
     public void DestroyItem()
     {

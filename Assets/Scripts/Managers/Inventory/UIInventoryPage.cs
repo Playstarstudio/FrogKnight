@@ -10,6 +10,8 @@ namespace Inventory.UI
         [SerializeField] private InventoryDescription inventoryDescription;
         [SerializeField] private FloatingItem floatingItem;
         List<InventoryItem> listofUIItems = new List<InventoryItem>();
+        [SerializeField] 
+        private ItemActionPanel itemActionPanel;
         public void InitializeInventoryUI(int inventorySize)
         {
             for (int i = 0; i < inventorySize; i++)
@@ -21,12 +23,14 @@ namespace Inventory.UI
 
             }
         }
+
         public void Show()
         {
             gameObject.SetActive(true);
         }
         public void Hide()
         {
+            itemActionPanel.Toggle(false);
             gameObject.SetActive(false);
         }
     }

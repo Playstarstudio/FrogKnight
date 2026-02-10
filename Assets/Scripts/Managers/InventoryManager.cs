@@ -1,9 +1,9 @@
 using Inventory.Model;
+using Inventory.UI;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using UnityEngine;
-using static UnityEngine.Rendering.HDROutputUtils;
 
 namespace Inventory
 {
@@ -22,6 +22,15 @@ namespace Inventory
         public event Action<int> onDescriptionRequested, OnItemActionRequested, OnStartDragging;
         public event Action<int, int> OnSwapItems;
         public List<InventoryItem> initialItems = new List<InventoryItem>();
+        [SerializeField]
+        private ItemActionPanel actionPanel;
+        [SerializeField]
+        private AudioSource audioSource;
+        [SerializeField]
+        private AudioClip clip;
+        [SerializeField]
+        public GameObject genericItem;
+
         private void Awake()
         {
             Hide();
@@ -43,6 +52,7 @@ namespace Inventory
             inventoryData.InventoryChanged += UpdateInventoryUI;
             //current video state is 
             //initializing inventory starts with a blank inventory - needs resolving.
+            /*
             foreach (InventoryItem item in initialItems)
             {
                 if (item.empty)
@@ -50,6 +60,7 @@ namespace Inventory
                 else
                     inventoryData.AddInventoryItem(item);
             }
+             */
         }
 
         private void UpdateInventoryUI(Dictionary<int, InventorySO.InventoryItem> InventoryState)
@@ -135,6 +146,15 @@ namespace Inventory
             inventoryDescription.ResetDescription();
             DeselectAllItems();
         }
+        public void AddAction(string actionName, Action performAction)
+        {
+            actionPanel.AddButton(actionName, performAction);
+        }
+        public void ShowItemAction(int itemIndex)
+        {
+            actionPanel.Toggle(true);
+            actionPanel.transform.position = listofUIItems[itemIndex].transform.position;
+        }
 
         private void DeselectAllItems()
         {
@@ -142,6 +162,7 @@ namespace Inventory
             {
                 item.Deselect();
             }
+            actionPanel.Toggle(false);
         }
 
 
@@ -183,14 +204,52 @@ namespace Inventory
             if (inventoryItem.IsEmpty)
                 return;
             IItemAction itemAction = inventoryItem.item as IItemAction;
-            if(itemAction != null)
+            if (itemAction != null)
             {
-                itemAction.PerformAction(playerStateManager);
+                ShowItemAction(itemIndex);
+                AddAction(itemAction.ActionName, () => PerformAction(itemIndex));
             }
             IDestroyableItem destroyableItem = inventoryItem.item as IDestroyableItem;
             if (destroyableItem != null)
             {
-                inventoryData.RemoveItem(itemIndex,1);
+                AddAction("Drop", () => DropItem(itemIndex, inventoryItem.quantity));
+            }
+        }
+
+        private void DropItem(int itemIndex, int quantity)
+        {
+            GameObject newItem = Instantiate(genericItem);
+            newItem.GetComponent<ItemOnGround>().inventoryItem = inventoryData.GetItemAt(itemIndex).item;
+            newItem.GetComponent<ItemOnGround>().quantity = inventoryData.GetItemAt(itemIndex).quantity;
+            newItem.transform.position = playerStateManager.gridManager.GetTileCenter(playerStateManager.currentTile);
+            playerStateManager.gridManager.MapAddItem(newItem.GetComponent<ItemOnGround>(), playerStateManager.currentTile);
+            inventoryData.RemoveItem(itemIndex, quantity);
+            ResetSelection();
+            if (clip != null)
+            {
+                audioSource.PlayOneShot(clip);
+            }
+        }
+
+        public void PerformAction(int itemIndex)
+        {
+            InventorySO.InventoryItem inventoryItem = inventoryData.GetItemAt(itemIndex);
+            if (inventoryItem.IsEmpty)
+                return;
+            IDestroyableItem destroyableItem = inventoryItem.item as IDestroyableItem;
+            if (destroyableItem != null)
+            {
+                inventoryData.RemoveItem(itemIndex, 1);
+                ResetSelection();
+            }
+            IItemAction itemAction = inventoryItem.item as IItemAction;
+            if (itemAction != null)
+            {
+                itemAction.PerformAction(playerStateManager);
+                if (inventoryData.GetItemAt(itemIndex).IsEmpty)
+                {
+                    ResetSelection();
+                }
             }
         }
 
