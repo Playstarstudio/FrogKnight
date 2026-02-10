@@ -13,6 +13,7 @@ public class DialogueTrigger : MonoBehaviour
     public TextAsset inkJSON;
 
     public bool playerInRange;
+    public bool areaTrigger = false;
     public DialogueManager dialogueManager;
 
 
@@ -28,7 +29,11 @@ public class DialogueTrigger : MonoBehaviour
         {
             playerInRange = true;
             DialogueManager.instance.dialogueTrigger = this;
-            
+            if (areaTrigger)
+            {
+                DialogueManager.instance.dialogueCheck();
+                //Code to put player into dialogue state needs to be added here
+            }
         }
     }
 

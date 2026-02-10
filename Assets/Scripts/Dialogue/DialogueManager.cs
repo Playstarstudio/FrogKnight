@@ -127,9 +127,17 @@ public class DialogueManager : MonoBehaviour
                 StopCoroutine(displayLineCoroutine);
             }// */
             
-            nextLine = currentStory.Continue();
-            HandleTags(currentStory.currentTags);                                //Takes in JSON text file tags
-            displayLineCoroutine = StartCoroutine(DisplayLine(nextLine));        //Advances to the next line of text
+            nextLine = currentStory.Continue(); //Reads the next line of the story
+
+            if (nextLine.Equals("") && !currentStory.canContinue) //Exits if last line is external function
+            {
+                ExitDialogueMode();
+            }
+            else
+            {
+                HandleTags(currentStory.currentTags);                                //Takes in JSON text file tags
+                displayLineCoroutine = StartCoroutine(DisplayLine(nextLine));        //Advances to the next line of text
+            }
         }
         else
         {
@@ -263,7 +271,7 @@ public class DialogueManager : MonoBehaviour
         else
         {
             ExitDialogueMode();
-            return false; //By returning true, state manager will NOT enter dialogue state
+            return false; //By returning false, state manager will NOT enter dialogue state
         }
     }
 

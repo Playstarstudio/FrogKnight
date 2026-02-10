@@ -1,5 +1,5 @@
 INCLUDE globals.ink
-EXTERNAL endGame(boolean)
+EXTERNAL endGame(bool)
 //story
 {spokenTo == false:
 You made it to the end! Glad to see you're alright #speaker:Helpful Stranger #portrait:tutorial #layout:left
