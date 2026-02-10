@@ -244,8 +244,8 @@ namespace Inventory
             if (targetIndex == -1) return;
 
             InventorySO.InventoryItem targetItem = inventoryData.GetInventoryItemAt(targetIndex);
-
-            InventoryItem unequippedItem = draggedEquipmentSlot.Unequip(targetUIItem.item);
+            ItemSO unequippedItemSO = draggedEquipmentSlot.item;
+            draggedEquipmentSlot.Unequip(targetUIItem.item);
 
             if (!targetItem.IsEmpty)
             {
@@ -258,16 +258,16 @@ namespace Inventory
                 }
                 else
                 {
-                    int remainder = inventoryData.AddItemToFirstFreeSlot(unequippedItem.item,1);
+                    int remainder = inventoryData.AddItemToFirstFreeSlot(unequippedItemSO,1);
                     if (remainder > 0)
                     {
-                        draggedEquipmentSlot.SetData(unequippedItem.item);
+                        draggedEquipmentSlot.SetData(unequippedItemSO);
                     }
                 }
             }
             else
             {
-                inventoryData.AddItem(unequippedItem.item,1);
+                inventoryData.AddItem(unequippedItemSO,1);
             }
         }
 

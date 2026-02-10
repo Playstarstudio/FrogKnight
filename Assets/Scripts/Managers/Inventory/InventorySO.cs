@@ -44,7 +44,7 @@ namespace Inventory.Model
             return count;
         }
 
-        public int AddItemToFirstFreeSlot(ItemSO item, int v)
+        public int AddItemToFirstFreeSlot(ItemSO item, int count)
         {
             if (item == null)
             {
@@ -53,7 +53,7 @@ namespace Inventory.Model
             InventoryItem newItem = new InventoryItem
             {
                 item = item,
-                quantity = v
+                quantity = count
             };
             for (int i = 0; i < inventoryItems.Count; i++)
             {
@@ -61,7 +61,7 @@ namespace Inventory.Model
                 if (inventoryItems[i].IsEmpty)
                 {
                     inventoryItems[i] = newItem;
-                    return v;
+                    return count;
                 }
             }
             return 0;

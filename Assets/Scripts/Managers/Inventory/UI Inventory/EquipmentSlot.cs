@@ -42,9 +42,9 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
         if (equippable == null || equippable.slot != acceptedPartLocation)
             return false;
 
-        item = newItem;
-        itemImage.gameObject.SetActive(true);
-        itemImage.sprite = newItem.image;
+        this.item = newItem;
+        this.itemImage.enabled = true;
+        this.itemImage.sprite = newItem.image;
         return true;
     }
     public void SetData(ItemSO newItem)
@@ -55,7 +55,7 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
             return;
         }
         this.item = newItem;
-        this.itemImage.gameObject.SetActive(true);
+        this.itemImage.enabled = true;
         this.itemImage.sprite = newItem.image;
         this.hoverPanel.PrepareHoverPanel(item);
         this.hoverPanel.Toggle(false);
@@ -64,9 +64,9 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
 
     private void ResetSlot()
     {
-        item = null;
-        itemImage.gameObject.SetActive(false);
-        itemImage.sprite = null;
+        this.item = null;
+        this.itemImage.enabled = false;
+        this.itemImage.sprite = null;
         this.hoverPanel.itemName.text = string.Empty;
         this.hoverPanel.itemDescription.text = string.Empty;
         empty = true;
@@ -83,6 +83,7 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
             item = item,
             quantity = 1
         };
+        this.itemImage.enabled = false;
         ResetSlot();
         return unequippedItem;
     }
