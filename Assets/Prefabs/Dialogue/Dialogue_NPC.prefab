@@ -184,6 +184,7 @@ MonoBehaviour:
   visualCue: {fileID: 7279822839385310822}
   inkJSON: {fileID: 4900000, guid: 7a75e5ad0b971d34abdf8154008e887d, type: 3}
   playerInRange: 0
+  dialogueManager: {fileID: 2182631121874444091, guid: 8389fbe99d25d5f4cbd4b5ac8601d590, type: 3}
 --- !u!1 &8002969349719177446
 GameObject:
   m_ObjectHideFlags: 0

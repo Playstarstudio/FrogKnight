@@ -13,6 +13,7 @@ public class DialogueTrigger : MonoBehaviour
     public TextAsset inkJSON;
 
     public bool playerInRange;
+    public DialogueManager dialogueManager;
 
 
     private void Awake() //On wake, ensures that the visual cue is off and the variables are set properly
@@ -46,7 +47,7 @@ public class DialogueTrigger : MonoBehaviour
 
     private void Update() //Updates enemy visual cue for dialogue depending on player range
     {
-        if (playerInRange && !DialogueManager.GetInstance().dialogueIsPlaying)
+        if (playerInRange && !dialogueManager.dialogueIsPlaying)
         {
             visualCue.SetActive(true);
 
