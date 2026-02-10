@@ -33,8 +33,10 @@ public class DialogueManager : MonoBehaviour
     public bool dialogueIsPlaying;
     public TextAsset loadGlobalsJSON;
     public float typingSpeed = 0.04f;   // Dialogue speed (smaller is faster)
-    private Coroutine displayLineCoroutine;
+    public Coroutine displayLineCoroutine;
+    public int coroutineIndex = 1;
     public bool canContinueToNextLine = false;
+    public string nextLine = "";
 
     [Header("Other Scripts")]
     public DialogueTrigger dialogueTrigger;
@@ -119,13 +121,13 @@ public class DialogueManager : MonoBehaviour
     public void ContinueStory() //advances the text to the next line if the text can continue, else ends dialogue
     {
         if (currentStory.canContinue)
-        {
+        { // /*
             if (displayLineCoroutine != null)
             {
                 StopCoroutine(displayLineCoroutine);
-            }
+            }// */
             
-            string nextLine = currentStory.Continue();
+            nextLine = currentStory.Continue();
             HandleTags(currentStory.currentTags);                                //Takes in JSON text file tags
             displayLineCoroutine = StartCoroutine(DisplayLine(nextLine));        //Advances to the next line of text
         }
@@ -146,41 +148,13 @@ public class DialogueManager : MonoBehaviour
 
         //bool isAddingRichTextTag = false;
 
-        for (int i = 1; i < line.Length; i++) // adds dialogue text to the UI
+        for (coroutineIndex = 1; coroutineIndex < line.Length; coroutineIndex++) // adds dialogue text to the UI
         {
             PlayDialogueSound(dialogueText.maxVisibleCharacters, dialogueText.text[dialogueText.maxVisibleCharacters]);
-            dialogueText.maxVisibleCharacters = i;
+            dialogueText.maxVisibleCharacters = coroutineIndex;
             yield return new WaitForSeconds(typingSpeed);
-
-            if ((Input.GetKeyDown(KeyCode.F) || Input.GetKeyDown(KeyCode.Mouse0)) && i > 3)    // finishes the coroutine upon repeating the dialogue input
-            {
-                dialogueText.maxVisibleCharacters = line.Length;
-                break;
-            }
         }
 
-        /*foreach  (char letter in line.ToCharArray()) // adds dialogue text to the UI
-        {
-            if ((Input.GetKeyDown(KeyCode.F) || Input.GetKeyDown(KeyCode.Mouse0)) && dialogueText.maxVisibleCharacters > 3)    // breaks the coroutine upon repeated dialogue input
-            {
-                dialogueText.maxVisibleCharacters = line.Length;
-                break;
-            }
-
-            if (letter == '<' || isAddingRichTextTag)   // checks for rich text tags and displays them properly
-            {
-                isAddingRichTextTag = true;
-                if (letter == '>')
-                {
-                    isAddingRichTextTag = false;
-                }
-            } else  // displays non-rich text
-            {
-                PlayDialogueSound(dialogueText.maxVisibleCharacters);
-                dialogueText.maxVisibleCharacters++;
-                yield return new WaitForSeconds(typingSpeed);
-            }
-        }*/
         continueIcon.SetActive(true);   // Re-enables continue icon
         DisplayChoices();   // Displays dialogue choices
 
