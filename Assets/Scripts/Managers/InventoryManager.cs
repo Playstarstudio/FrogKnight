@@ -3,6 +3,8 @@ using Inventory.UI;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using Unity.VisualScripting;
+using UnityEditorInternal.Profiling.Memory.Experimental;
 using UnityEngine;
 
 namespace Inventory
@@ -14,10 +16,14 @@ namespace Inventory
         [SerializeField] private InventoryItem itemPrefab;
         [SerializeField] private RectTransform contentPanel;
         [SerializeField] private GameObject inventoryPanel;
-        [SerializeField] private InventorySO inventoryData;
+        [SerializeField] public InventorySO inventoryData;
         [SerializeField] private InventoryDescription inventoryDescription;
         [SerializeField] private FloatingItem floatingItem;
-        List<InventoryItem> listofUIItems = new List<InventoryItem>();
+        [SerializeField] List<InventoryItem> listofUIItems = new List<InventoryItem>();
+        [SerializeField] private EquipmentSlot[] equipmentSlots;
+        private enum DragSource { None, Inventory, Equipment }
+        private DragSource dragSource = DragSource.None;
+        private EquipmentSlot draggedEquipmentSlot;
         private int currentlyDraggedItemIndex = -1;
         public event Action<int> onDescriptionRequested, OnItemActionRequested, OnStartDragging;
         public event Action<int, int> OnSwapItems;
@@ -141,6 +147,7 @@ namespace Inventory
         {
             inventoryDescription.ResetDescription();
             DeselectAllItems();
+            DeselectAllEquipmentSlots();
         }
         public void AddAction(string actionName, Action performAction)
         {
@@ -180,6 +187,125 @@ namespace Inventory
 
             }
         }
+        private void InitializeEquipmentSlots()
+        {
+            foreach (var slot in equipmentSlots)
+            {
+                slot.OnItemDroppedOnSlot += HandleDropOnEquipmentSlot;
+                slot.OnSlotBeginDrag += HandleEquipmentSlotBeginDrag;
+                slot.OnSlotEndDrag += HandleEquipmentSlotEndDrag;
+                slot.OnSlotClicked += HandleEquipmentSlotClicked;
+               // slot.OnRightMouseBtnClick
+            }
+        }
+        private void HandleDropOnEquipmentSlot(EquipmentSlot slot)
+        {
+            if (dragSource == DragSource.Inventory)
+            {
+                InventorySO.InventoryItem invItem = inventoryData.GetInventoryItemAt(currentlyDraggedItemIndex);
+                if (invItem.IsEmpty) return;
+
+                EquippableItemSO equippable = invItem.item as EquippableItemSO;
+                if (equippable == null || equippable.slot != slot.GetSlotType())
+                    return;
+                if (!slot.IsEmpty)
+                {
+                    InventoryItem replacedItem = slot.Unequip(slot.item);
+                    if (replacedItem != null)
+                    {
+                        inventoryData.AddItemToFirstFreeSlot(replacedItem.item, 1);   
+                    }
+                    slot.SetData(invItem.item);
+                    inventoryData.RemoveItem(currentlyDraggedItemIndex,1);
+                }
+                else
+                {
+                    slot.SetData(invItem.item);
+                    inventoryData.RemoveItem(currentlyDraggedItemIndex, invItem.quantity);
+                }
+            }
+            else if (dragSource == DragSource.Equipment && draggedEquipmentSlot != null)
+            {
+                if (draggedEquipmentSlot == slot) return;
+                if (draggedEquipmentSlot.GetSlotType() != slot.GetSlotType()) return;
+                ItemSO sourceItem = draggedEquipmentSlot.item;
+                EquipmentSlot sourceSlot = draggedEquipmentSlot;
+                ItemSO targetData = slot.item;
+                draggedEquipmentSlot.SetData(targetData);
+                slot.SetData(sourceItem);
+            }
+        }
+        private void HandleDropFromEquipmentToInventory(InventoryItem targetUIItem)
+        {
+            if (dragSource != DragSource.Equipment || draggedEquipmentSlot == null) return;
+            if (draggedEquipmentSlot.IsEmpty) return;
+
+            int targetIndex = listofUIItems.IndexOf(targetUIItem);
+            if (targetIndex == -1) return;
+
+            InventorySO.InventoryItem targetItem = inventoryData.GetInventoryItemAt(targetIndex);
+
+            InventoryItem unequippedItem = draggedEquipmentSlot.Unequip(targetUIItem.item);
+
+            if (!targetItem.IsEmpty)
+            {
+                EquippableItemSO equippable = targetItem.item as EquippableItemSO;
+                if (equippable != null && equippable.slot == draggedEquipmentSlot.GetSlotType())
+                {
+                    draggedEquipmentSlot.SetData(targetItem.item);
+                    inventoryData.RemoveItem(targetIndex, targetItem.quantity);
+                    inventoryData.AddItem(targetItem.item,1);
+                }
+                else
+                {
+                    int remainder = inventoryData.AddItemToFirstFreeSlot(unequippedItem.item,1);
+                    if (remainder > 0)
+                    {
+                        draggedEquipmentSlot.SetData(unequippedItem.item);
+                    }
+                }
+            }
+            else
+            {
+                inventoryData.AddItem(unequippedItem.item,1);
+            }
+        }
+
+        private void HandleEquipmentSlotClicked(EquipmentSlot slot)
+        {
+            DeselectAllItems();
+            DeselectAllEquipmentSlots();
+            if (slot.IsEmpty)
+            {
+                ResetSelection();
+                return;
+            }
+            slot.Select();
+            inventoryDescription.SetDescription(slot.item.image, slot.item.name, slot.item.description);
+        }
+
+        private void DeselectAllEquipmentSlots()
+        {
+            foreach (EquipmentSlot item in equipmentSlots)
+            {
+                item.DeselectSlot();
+            }
+            actionPanel.Toggle(false);
+        }
+
+        private void HandleEquipmentSlotBeginDrag(EquipmentSlot slot)
+        {
+            dragSource = DragSource.Equipment;
+            draggedEquipmentSlot = slot;
+            CreateDraggedItem(slot.item.image, 1);
+        }
+
+        private void HandleEquipmentSlotEndDrag(EquipmentSlot slot)
+        {
+            ResetDraggedItem();
+            dragSource = DragSource.None;
+            draggedEquipmentSlot = null;
+        }
 
         private void HandlePointerExit(InventoryItem item)
         {
@@ -208,6 +334,7 @@ namespace Inventory
         private void PrepareUI()
         {
             InitializeInventoryUI(inventoryData.inventoryCapacity);
+            InitializeEquipmentSlots();
             onDescriptionRequested += HandleDescriptionRequest;
             OnSwapItems += HandleSwapItems;
             OnStartDragging += HandleStartDragging;
@@ -220,6 +347,7 @@ namespace Inventory
             inventoryData.GetInventoryItemAt(itemIndex);
 
             DeselectAllItems();
+            DeselectAllEquipmentSlots();
             listofUIItems[itemIndex].Select();
         }
 
@@ -338,6 +466,11 @@ namespace Inventory
 
         private void HandleItemSwap(InventoryItem invItem)
         {
+            if(dragSource == DragSource.Equipment)
+            {
+                HandleDropFromEquipmentToInventory(invItem);
+                return;
+            }
             int index = listofUIItems.IndexOf(invItem);
             if (index == -1)
             {
@@ -353,6 +486,7 @@ namespace Inventory
 
         private void HandleItemBeginDrag(InventoryItem invItem)
         {
+            dragSource = DragSource.Inventory;
             int index = listofUIItems.IndexOf(invItem);
             if (index == -1)
                 return;

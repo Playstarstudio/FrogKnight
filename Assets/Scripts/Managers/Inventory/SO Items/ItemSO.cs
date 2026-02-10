@@ -15,6 +15,9 @@ public abstract class ItemSO : ScriptableObject
     public string itemName { get; set; }
     [field: SerializeField]
     public Sprite image { get; set; }
+    [SerializeField]
+    public PartLocation slot;
+
     [field: SerializeField]
     [field: TextArea]
     public string description { get; set; }
@@ -31,5 +34,17 @@ public abstract class ItemSO : ScriptableObject
     //public List<Item> materials;
     //public List<Modifier> finalModifiers;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
+    public enum PartLocation
+    {
+        PrimaryHand, //0
+        OffHand, //1
+        TwoHand, //2
+        Torso, //3
+        Head, //4
+        Glove, //5
+        Pants, //6
+        Foot, //7
+        None
+    }
 
 }

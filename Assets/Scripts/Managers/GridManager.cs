@@ -519,7 +519,6 @@ public class GridManager : MonoBehaviour
         SortedSet<DijkstrasNodeInfo> toSearch;
         toSearch = MapToSortedSet();
         Vector2Int playerTransform = GetCellPosition(player.transform.position);
-        Vector2Int tile;
         AttributeType visionAttribute = player.GetComponent<P_StateManager>().att.GetAttributeType("Vision Range");
         int playerVision = (int)player.GetComponent<P_StateManager>().att.GetCurrentAttributeValue(visionAttribute);
         Dijkstras(ref playerRange, ref toSearch, playerTransform, -1);

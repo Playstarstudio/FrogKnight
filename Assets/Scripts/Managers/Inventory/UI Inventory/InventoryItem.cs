@@ -64,6 +64,7 @@ public class InventoryItem : MonoBehaviour, IPointerClickHandler, IBeginDragHand
         this.itemImage.sprite = sprite;
         this.quantityTxt.text = quantity + "";
         this.hoverPanel.PrepareHoverPanel(item);
+        this.hoverPanel.Toggle(false);
         Debug.Log(this.hoverPanel.itemDescription);
         empty = false;
     }

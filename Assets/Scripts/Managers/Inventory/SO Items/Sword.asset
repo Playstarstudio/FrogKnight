@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e7082b9c94e661f4c8d3170134a5781f, type: 3}
   m_Name: Sword
   m_EditorClassIdentifier: Assembly-CSharp::Inventory.Model.EquippableItemSO
-  <itemName>k__BackingField: 
+  <itemName>k__BackingField: asdf
   <image>k__BackingField: {fileID: 1329060588, guid: b631ed305dfd43c488e0f8edf5c829bc, type: 3}
   <description>k__BackingField: Cuts Stuff!
   <weight>k__BackingField: 4
@@ -20,5 +20,6 @@ MonoBehaviour:
   <MaxStackSize>k__BackingField: 1
   <count>k__BackingField: 1
   <effects>k__BackingField:
-  - {fileID: 0}
-  Slot: 0
+  - {fileID: 11400000, guid: c159c13d6ce289442957e255d14324be, type: 2}
+  slot: 0
+  equipped: 0

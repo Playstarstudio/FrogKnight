@@ -16,12 +16,6 @@ namespace Inventory.Model
         [field: SerializeField]
         public int inventoryCapacity { get; private set; } = 20;
 
-        [SerializeField]
-        private List<InventoryItem> equippedItems;
-
-        [field: SerializeField]
-        public int EquipmentCapacity { get; private set; } = 20;
-
         public event Action<Dictionary<int, InventoryItem>> InventoryChanged;
         public void Initialize()
         {
@@ -29,11 +23,6 @@ namespace Inventory.Model
             for (int i = 0; i < inventoryCapacity; i++)
             {
                 inventoryItems.Add(InventoryItem.GetEmptyItem());
-            }
-            equippedItems = new List<InventoryItem>();
-            for (int i = 0; i < EquipmentCapacity; i++)
-            {
-                equippedItems.Add(InventoryItem.GetEmptyItem());
             }
         }
         public int AddItem(ItemSO item, int count)
@@ -55,7 +44,7 @@ namespace Inventory.Model
             return count;
         }
 
-        private int AddItemToFirstFreeSlot(ItemSO item, int v)
+        public int AddItemToFirstFreeSlot(ItemSO item, int v)
         {
             if (item == null)
             {

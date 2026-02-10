@@ -19,8 +19,6 @@ namespace Inventory.UI
                 InventoryItem newItem = Instantiate(itemPrefab, Vector3.zero, Quaternion.identity);
                 newItem.transform.SetParent(contentPanel);
                 listofUIItems.Add(newItem);
-
-
             }
         }
 
