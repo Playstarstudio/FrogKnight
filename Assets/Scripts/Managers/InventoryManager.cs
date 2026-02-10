@@ -83,10 +83,7 @@ namespace Inventory
 
         public void UpdateData(int itemIndex, Sprite itemImage, int itemQuantity)
         {
-            if (listofUIItems.Count > itemIndex)
-            {
-                listofUIItems[itemIndex].SetData(itemImage, itemQuantity);
-            }
+                listofUIItems[itemIndex].SetData(inventoryData.GetItemAt(itemIndex), itemImage, itemQuantity);
         }
         public int TryPickupItem(ItemOnGround item)
         {
@@ -179,7 +176,26 @@ namespace Inventory
                 newItem.OnItemEndDrag += HandleItemEndDrag;
                 newItem.OnItemDroppedOn += HandleItemSwap;
                 newItem.OnRightMouseBtnClick += HandleShowItemActions;
+                newItem.OnPointerEnter += HandlePointerEnter;
+                newItem.OnPointerExit += HandlePointerExit;
+
             }
+        }
+
+        private void HandlePointerExit(InventoryItem item)
+        {
+            item.hoverPanel.SetActive(false);
+        }
+
+        private void HandlePointerEnter(InventoryItem item)
+        {
+            int index = listofUIItems.IndexOf(item);
+            InventorySO.InventoryItem inventoryItem = inventoryData.GetInventoryItemAt(index);
+            if (inventoryItem.IsEmpty)
+                return;
+            else
+                item.hoverPanel.SetActive(true);
+
         }
 
         private void PrepareUI()
@@ -200,7 +216,7 @@ namespace Inventory
         #region Event Handlers
         private void HandleItemActionRequest(int itemIndex)
         {
-            InventorySO.InventoryItem inventoryItem = inventoryData.GetItemAt(itemIndex);
+            InventorySO.InventoryItem inventoryItem = inventoryData.GetInventoryItemAt(itemIndex);
             if (inventoryItem.IsEmpty)
                 return;
             IItemAction itemAction = inventoryItem.item as IItemAction;
@@ -219,8 +235,8 @@ namespace Inventory
         private void DropItem(int itemIndex, int quantity)
         {
             GameObject newItem = Instantiate(genericItem);
-            newItem.GetComponent<ItemOnGround>().inventoryItem = inventoryData.GetItemAt(itemIndex).item;
-            newItem.GetComponent<ItemOnGround>().quantity = inventoryData.GetItemAt(itemIndex).quantity;
+            newItem.GetComponent<ItemOnGround>().inventoryItem = inventoryData.GetInventoryItemAt(itemIndex).item;
+            newItem.GetComponent<ItemOnGround>().quantity = inventoryData.GetInventoryItemAt(itemIndex).quantity;
             newItem.transform.position = playerStateManager.gridManager.GetTileCenter(playerStateManager.currentTile);
             playerStateManager.gridManager.MapAddItem(newItem.GetComponent<ItemOnGround>(), playerStateManager.currentTile);
             inventoryData.RemoveItem(itemIndex, quantity);
@@ -233,7 +249,7 @@ namespace Inventory
 
         public void PerformAction(int itemIndex)
         {
-            InventorySO.InventoryItem inventoryItem = inventoryData.GetItemAt(itemIndex);
+            InventorySO.InventoryItem inventoryItem = inventoryData.GetInventoryItemAt(itemIndex);
             if (inventoryItem.IsEmpty)
                 return;
             IDestroyableItem destroyableItem = inventoryItem.item as IDestroyableItem;
@@ -246,7 +262,7 @@ namespace Inventory
             if (itemAction != null)
             {
                 itemAction.PerformAction(playerStateManager);
-                if (inventoryData.GetItemAt(itemIndex).IsEmpty)
+                if (inventoryData.GetInventoryItemAt(itemIndex).IsEmpty)
                 {
                     ResetSelection();
                 }
@@ -255,7 +271,7 @@ namespace Inventory
 
         private void HandleStartDragging(int itemIndex)
         {
-            InventorySO.InventoryItem invItem = inventoryData.GetItemAt(itemIndex);
+            InventorySO.InventoryItem invItem = inventoryData.GetInventoryItemAt(itemIndex);
             if (invItem.IsEmpty)
             {
                 return;
@@ -270,7 +286,7 @@ namespace Inventory
 
         private void HandleDescriptionRequest(int itemIndex)
         {
-            InventorySO.InventoryItem inventoryItem = inventoryData.GetItemAt(itemIndex);
+            InventorySO.InventoryItem inventoryItem = inventoryData.GetInventoryItemAt(itemIndex);
             if (inventoryItem.IsEmpty)
             {
                 ResetSelection();

@@ -1,10 +1,13 @@
+using Inventory.Model;
+using NUnit.Framework.Constraints;
 using System;
+using System.Reflection;
 using TMPro;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-public class InventoryItem : MonoBehaviour, IPointerClickHandler, IBeginDragHandler, IEndDragHandler, IDropHandler, IDragHandler
+public class InventoryItem : MonoBehaviour, IPointerClickHandler, IBeginDragHandler, IEndDragHandler, IDropHandler, IDragHandler, IPointerEnterHandler, IPointerExitHandler
 {
     [SerializeField]
     public ItemSO item;
@@ -20,8 +23,10 @@ public class InventoryItem : MonoBehaviour, IPointerClickHandler, IBeginDragHand
     private TMP_Text quantityTxt;
     [SerializeField]
     public int quantity;
+    [SerializeField]
+    public GameObject hoverPanel;
 
-    public event Action<InventoryItem> OnItemClicked, OnItemDroppedOn, OnItemBeginDrag, OnItemEndDrag, OnRightMouseBtnClick;
+    public event Action<InventoryItem> OnItemClicked, OnItemDroppedOn, OnItemBeginDrag, OnItemEndDrag, OnRightMouseBtnClick, OnPointerEnter, OnPointerExit;
 
     public bool empty = true;
 
@@ -33,6 +38,8 @@ public class InventoryItem : MonoBehaviour, IPointerClickHandler, IBeginDragHand
     public void ResetData()
     {
         this.itemImage.gameObject.SetActive(false);
+        this.item = null;
+        this.quantity = 0;
         empty = true;
     }
 
@@ -41,9 +48,17 @@ public class InventoryItem : MonoBehaviour, IPointerClickHandler, IBeginDragHand
     {
         this.borderImage.enabled = false;
     }
-
     public void SetData(Sprite sprite, int quantity)
     {
+        this.itemImage.gameObject.SetActive(true);
+        this.itemImage.sprite = sprite;
+        this.quantityTxt.text = quantity + "";
+        empty = false;
+    }
+    public void SetData(ItemSO item, Sprite sprite, int quantity)
+    {
+        this.item = item;
+        this.quantity = quantity;
         this.itemImage.gameObject.SetActive(true);
         this.itemImage.sprite = sprite;
         this.quantityTxt.text = quantity + "";
@@ -87,5 +102,15 @@ public class InventoryItem : MonoBehaviour, IPointerClickHandler, IBeginDragHand
     public void OnDrag(PointerEventData eventData)
     {
 
+    }
+
+    void IPointerEnterHandler.OnPointerEnter(PointerEventData eventData)
+    {
+        OnPointerEnter?.Invoke(this);
+    }
+
+    void IPointerExitHandler.OnPointerExit(PointerEventData eventData)
+    {
+        OnPointerExit?.Invoke(this);
     }
 }

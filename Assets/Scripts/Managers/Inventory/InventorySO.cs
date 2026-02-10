@@ -57,6 +57,10 @@ namespace Inventory.Model
 
         private int AddItemToFirstFreeSlot(ItemSO item, int v)
         {
+            if (item == null)
+            {
+                Debug.Log("item is null");
+            }
             InventoryItem newItem = new InventoryItem
             {
                 item = item,
@@ -127,11 +131,15 @@ namespace Inventory.Model
             return returnValue;
         }
 
-        public InventoryItem GetItemAt(int itemIndex)
+        public InventoryItem GetInventoryItemAt(int itemIndex)
         {
             return inventoryItems[itemIndex];
         }
 
+        public ItemSO GetItemAt(int itemIndex)
+        {
+            return inventoryItems[itemIndex].item;
+        }
         public void AddInventoryItem(global::InventoryItem item)
         {
             AddItem(item.item, item.quantity);
