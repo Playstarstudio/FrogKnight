@@ -2,6 +2,7 @@ using Ink.Runtime;
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
@@ -109,7 +110,7 @@ public class DialogueManager : MonoBehaviour
         dialoguePanel.SetActive(true);
 
         dialogueVariables.StartListening(currentStory);  //Enables ink-UI variable talking
-        inkExternalFunctions.Bind(currentStory);    //Enables ink external functions
+        inkExternalFunctions.Bind(currentStory, dialogueTrigger.gameObject);    //Enables ink external functions
 
         displayNameText.text = "???"; //resets dialogue tags to default + right
         portraitAnimator.Play("default");

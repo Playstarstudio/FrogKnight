@@ -16,8 +16,6 @@ public class DialogueTrigger : MonoBehaviour
     public bool areaTrigger = false;
     public DialogueManager dialogueManager;
     public P_StateManager p_StateManager;
-    public GameObject player;
-
 
     private void Awake() //On wake, ensures that the visual cue is off and the variables are set properly
     {
@@ -27,16 +25,17 @@ public class DialogueTrigger : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collider) //Checks to see if, upon a collider entrance, the object entering is the player, and if so, detects them for DIALOGUE
     {
-        if (collider.CompareTag("Player"))
+        if (collider.CompareTag("Player")) //ensure it is player
         {
-            p_StateManager = collider.gameObject.GetComponent<P_StateManager>();
-            player = collider.gameObject;
-            playerInRange = true;
-            dialogueManager.dialogueTrigger = this;
-            if (areaTrigger)
+            playerInRange = true;   //communicates to other scripts that the player is in range of this NPC
+            dialogueManager.dialogueTrigger = this; //makes the dialogue manager focus on this NPC
+            p_StateManager = collider.gameObject.GetComponent<P_StateManager>(); //gets state manager
+            if (areaTrigger) //If this is an area trigger, complete same functionality as if player entered dialogue state manually upon entering the 2D collider
             {
-                dialogueManager.dialogueCheck();
-                p_StateManager.SwitchState(p_StateManager.dialogueState);
+                if (dialogueManager.dialogueCheck())
+                {
+                    p_StateManager.SwitchState(p_StateManager.dialogueState);
+                }
             }
         }
     }
@@ -50,13 +49,12 @@ public class DialogueTrigger : MonoBehaviour
                 dialogueManager.dialogueTrigger=null;
             }
             playerInRange = false;
-            //collider.GetComponent<P_BaseState>
         }
     }
 
     private void Update() //Updates enemy visual cue for dialogue depending on player range
     {
-        if (playerInRange && !dialogueManager.dialogueIsPlaying)
+        if (playerInRange && !dialogueManager.dialogueIsPlaying && !areaTrigger)
         {
             visualCue.SetActive(true);
 
@@ -65,4 +63,5 @@ public class DialogueTrigger : MonoBehaviour
             visualCue.SetActive(false);
         }
     }
+    
 }
