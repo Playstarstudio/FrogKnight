@@ -23,7 +23,7 @@ public class DialogueManager : MonoBehaviour
     [Header("Audio")]
     private AudioSource audioSource;
     public DialogueAudioInfoSO defaultAudioInfo;
-    public DialogueAudioInfoSO currentAudioInfo;
+    [HideInInspector] public DialogueAudioInfoSO currentAudioInfo;
     public DialogueAudioInfoSO[] audioInfos;
     public Dictionary<string, DialogueAudioInfoSO> audioInfoDictionary;
     public bool makePredictable;
@@ -32,11 +32,11 @@ public class DialogueManager : MonoBehaviour
     public Story currentStory;
     public bool dialogueIsPlaying;
     public TextAsset loadGlobalsJSON;
-    public float typingSpeed = 0.04f;   // Dialogue speed (smaller is faster)
+    public float typingSpeed = 0.02f;   // Dialogue speed (smaller is faster)
     public Coroutine displayLineCoroutine;
-    public int coroutineIndex = 1;
+    [HideInInspector] public int coroutineIndex = 1;
     public bool canContinueToNextLine = false;
-    public string nextLine = "";
+    [HideInInspector] public string nextLine = "";
 
     [Header("Other Scripts")]
     public DialogueTrigger dialogueTrigger;
@@ -121,11 +121,11 @@ public class DialogueManager : MonoBehaviour
     public void ContinueStory() //advances the text to the next line if the text can continue, else ends dialogue
     {
         if (currentStory.canContinue)
-        { // /*
+        { /*
             if (displayLineCoroutine != null)
             {
                 StopCoroutine(displayLineCoroutine);
-            }// */
+            }*/
             
             nextLine = currentStory.Continue(); //Reads the next line of the story
 

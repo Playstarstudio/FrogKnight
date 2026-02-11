@@ -28,10 +28,10 @@ public class DialogueTrigger : MonoBehaviour
         if (collider.CompareTag("Player"))
         {
             playerInRange = true;
-            DialogueManager.instance.dialogueTrigger = this;
+            dialogueManager.instance.dialogueTrigger = this;
             if (areaTrigger)
             {
-                DialogueManager.instance.dialogueCheck();
+                dialogueManager.instance.dialogueCheck();
                 //Code to put player into dialogue state needs to be added here
             }
         }
@@ -41,9 +41,9 @@ public class DialogueTrigger : MonoBehaviour
     {
         if (collider.CompareTag("Player"))
         {
-            if (DialogueManager.instance.dialogueTrigger==this)
+            if (dialogueManager.instance.dialogueTrigger==this)
             {
-                DialogueManager.instance.dialogueTrigger=null;
+                dialogueManager.instance.dialogueTrigger=null;
             }
             playerInRange = false;
             //collider.GetComponent<P_BaseState>
