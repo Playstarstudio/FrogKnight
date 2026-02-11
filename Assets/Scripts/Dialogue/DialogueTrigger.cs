@@ -36,8 +36,7 @@ public class DialogueTrigger : MonoBehaviour
             if (areaTrigger)
             {
                 dialogueManager.dialogueCheck();
-                p_StateManager.SwitchState(p_StateManager.baseState);
-                //p_StateManager.SwitchState(player.baseState);
+                p_StateManager.SwitchState(p_StateManager.dialogueState);
             }
         }
     }

@@ -9,7 +9,7 @@ public class P_DialogueState : P_State
     
     public override void UpdateState(P_StateManager player)
     {
-        if (!player.dialogueManager.dialogueIsPlaying) 
+        if (!player.dialogueManager.dialogueIsPlaying) //NEEDS TO BE REFACTORED AND MOVED INTO DIALOGUE STATE
         {
             player.SwitchState(player.baseState);
         }
