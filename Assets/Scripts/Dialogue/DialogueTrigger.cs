@@ -15,6 +15,8 @@ public class DialogueTrigger : MonoBehaviour
     public bool playerInRange;
     public bool areaTrigger = false;
     public DialogueManager dialogueManager;
+    public P_StateManager p_StateManager;
+    public GameObject player;
 
 
     private void Awake() //On wake, ensures that the visual cue is off and the variables are set properly
@@ -27,12 +29,15 @@ public class DialogueTrigger : MonoBehaviour
     {
         if (collider.CompareTag("Player"))
         {
+            p_StateManager = collider.gameObject.GetComponent<P_StateManager>();
+            player = collider.gameObject;
             playerInRange = true;
             dialogueManager.dialogueTrigger = this;
             if (areaTrigger)
             {
                 dialogueManager.dialogueCheck();
-                //Code to put player into dialogue state needs to be added here
+                p_StateManager.SwitchState(p_StateManager.baseState);
+                //p_StateManager.SwitchState(player.baseState);
             }
         }
     }
