@@ -1,4 +1,4 @@
-EXTERNAL endGame(boolean)
+INCLUDE globals.ink
 // tags
 #speaker:tutorial #portrait:tutorial #layout:left
 
