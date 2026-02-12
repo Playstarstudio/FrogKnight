@@ -1,0 +1,3250 @@
+fileFormatVersion: 2
+guid: 582c2863707df8d44987e7abcd1b82e3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5167292534076411227
+    second: SS_Scythe_Red_0
+  - first:
+      213: -3239086331203711988
+    second: SS_Scythe_Red_1
+  - first:
+      213: 8053920780313681786
+    second: SS_Scythe_Red_2
+  - first:
+      213: -3997295625025076626
+    second: SS_Scythe_Red_3
+  - first:
+      213: -4624339112852748266
+    second: SS_Scythe_Red_4
+  - first:
+      213: -3745449905110732009
+    second: SS_Scythe_Red_5
+  - first:
+      213: -139964938725676631
+    second: SS_Scythe_Red_6
+  - first:
+      213: -6768392760562402788
+    second: SS_Scythe_Red_7
+  - first:
+      213: -5319720481681248132
+    second: SS_Scythe_Red_8
+  - first:
+      213: 4467036010565088090
+    second: SS_Scythe_Red_9
+  - first:
+      213: 6325847711209948865
+    second: SS_Scythe_Red_10
+  - first:
+      213: -5904161714171947143
+    second: SS_Scythe_Red_11
+  - first:
+      213: -1149516846567957625
+    second: SS_Scythe_Red_12
+  - first:
+      213: 5244179468599927055
+    second: SS_Scythe_Red_13
+  - first:
+      213: 576207111953896586
+    second: SS_Scythe_Red_14
+  - first:
+      213: 934035262042069718
+    second: SS_Scythe_Red_15
+  - first:
+      213: 5136791728500110764
+    second: SS_Scythe_Red_16
+  - first:
+      213: 9057409607792941269
+    second: SS_Scythe_Red_17
+  - first:
+      213: -9059410395248442911
+    second: SS_Scythe_Red_18
+  - first:
+      213: 3877179019839118432
+    second: SS_Scythe_Red_19
+  - first:
+      213: -1518696862307772627
+    second: SS_Scythe_Red_20
+  - first:
+      213: -7977956431756506053
+    second: SS_Scythe_Red_21
+  - first:
+      213: -551382404404113796
+    second: SS_Scythe_Red_22
+  - first:
+      213: 7938895998095812987
+    second: SS_Scythe_Red_23
+  - first:
+      213: -7670827826935068643
+    second: SS_Scythe_Red_24
+  - first:
+      213: -4468064141243981420
+    second: SS_Scythe_Red_25
+  - first:
+      213: -1501024283854300004
+    second: SS_Scythe_Red_26
+  - first:
+      213: -4210767093452940936
+    second: SS_Scythe_Red_27
+  - first:
+      213: 8588389859651284611
+    second: SS_Scythe_Red_28
+  - first:
+      213: -1942201172629108335
+    second: SS_Scythe_Red_29
+  - first:
+      213: 8807987256063736934
+    second: SS_Scythe_Red_30
+  - first:
+      213: 7255306509420300995
+    second: SS_Scythe_Red_31
+  - first:
+      213: 1219047111848134751
+    second: SS_Scythe_Red_32
+  - first:
+      213: -6646355435316766567
+    second: SS_Scythe_Red_33
+  - first:
+      213: 5787672954985637219
+    second: SS_Scythe_Red_34
+  - first:
+      213: 5418021238567766289
+    second: SS_Scythe_Red_35
+  - first:
+      213: 5365740467178607449
+    second: SS_Scythe_Red_36
+  - first:
+      213: 5728599255699201992
+    second: SS_Scythe_Red_37
+  - first:
+      213: -1458886481014294048
+    second: SS_Scythe_Red_38
+  - first:
+      213: 879425993018565989
+    second: SS_Scythe_Red_39
+  - first:
+      213: 4509448355274666883
+    second: SS_Scythe_Red_40
+  - first:
+      213: -699528652557904776
+    second: SS_Scythe_Red_41
+  - first:
+      213: -1315011520348913413
+    second: SS_Scythe_Red_42
+  - first:
+      213: -212303233313849930
+    second: SS_Scythe_Red_43
+  - first:
+      213: 6802478127305761668
+    second: SS_Scythe_Red_44
+  - first:
+      213: -2223712421812113172
+    second: SS_Scythe_Red_45
+  - first:
+      213: 8347950900341382128
+    second: SS_Scythe_Red_46
+  - first:
+      213: 7355343394359917086
+    second: SS_Scythe_Red_47
+  - first:
+      213: 4540556758666896711
+    second: SS_Scythe_Red_48
+  - first:
+      213: 2909264519050020525
+    second: SS_Scythe_Red_49
+  - first:
+      213: 3184897072935722149
+    second: SS_Scythe_Red_50
+  - first:
+      213: -4551205354485966714
+    second: SS_Scythe_Red_51
+  - first:
+      213: -749186350548207563
+    second: SS_Scythe_Red_52
+  - first:
+      213: -6513203149876082341
+    second: SS_Scythe_Red_53
+  - first:
+      213: -2965327203509173552
+    second: SS_Scythe_Red_54
+  - first:
+      213: -5121368321353177487
+    second: SS_Scythe_Red_55
+  - first:
+      213: 200310692467954042
+    second: SS_Scythe_Red_56
+  - first:
+      213: -3630031993514194427
+    second: SS_Scythe_Red_57
+  - first:
+      213: -8237219690939165045
+    second: SS_Scythe_Red_58
+  - first:
+      213: 555832909441409903
+    second: SS_Scythe_Red_59
+  - first:
+      213: -8109024848372677216
+    second: SS_Scythe_Red_60
+  - first:
+      213: -3433134684760872097
+    second: SS_Scythe_Red_61
+  - first:
+      213: -4425459132216934259
+    second: SS_Scythe_Red_62
+  - first:
+      213: -2913350562617557538
+    second: SS_Scythe_Red_63
+  - first:
+      213: -5837719948100658168
+    second: SS_Scythe_Red_64
+  - first:
+      213: 1478410333247350366
+    second: SS_Scythe_Red_65
+  - first:
+      213: 2253947063495744082
+    second: SS_Scythe_Red_66
+  - first:
+      213: -2195512978564128349
+    second: SS_Scythe_Red_67
+  - first:
+      213: -7221915925559739231
+    second: SS_Scythe_Red_68
+  - first:
+      213: -402956288704142146
+    second: SS_Scythe_Red_69
+  - first:
+      213: 1858486962698779482
+    second: SS_Scythe_Red_70
+  - first:
+      213: 7778953149245244048
+    second: SS_Scythe_Red_71
+  - first:
+      213: -5709838281904914315
+    second: SS_Scythe_Red_72
+  - first:
+      213: -489599671566953796
+    second: SS_Scythe_Red_73
+  - first:
+      213: 5470093407981796483
+    second: SS_Scythe_Red_74
+  - first:
+      213: 3306022551674836277
+    second: SS_Scythe_Red_75
+  - first:
+      213: 8244055080604054740
+    second: SS_Scythe_Red_76
+  - first:
+      213: -2356511547400838434
+    second: SS_Scythe_Red_77
+  - first:
+      213: 4668996685801935241
+    second: SS_Scythe_Red_78
+  - first:
+      213: -8251982207546905447
+    second: SS_Scythe_Red_79
+  - first:
+      213: -6522341962555902284
+    second: SS_Scythe_Red_80
+  - first:
+      213: 4009403428739806995
+    second: SS_Scythe_Red_81
+  - first:
+      213: -4971293746834686782
+    second: SS_Scythe_Red_82
+  - first:
+      213: -8057862531017297163
+    second: SS_Scythe_Red_83
+  - first:
+      213: 1402168677698121125
+    second: SS_Scythe_Red_84
+  - first:
+      213: -5893418210220137448
+    second: SS_Scythe_Red_85
+  - first:
+      213: 7572117222493361603
+    second: SS_Scythe_Red_86
+  - first:
+      213: 4242974898240889128
+    second: SS_Scythe_Red_87
+  - first:
+      213: 3618589688296181263
+    second: SS_Scythe_Red_88
+  - first:
+      213: 9100357281568246140
+    second: SS_Scythe_Red_89
+  - first:
+      213: -4298664611859053824
+    second: SS_Scythe_Red_90
+  - first:
+      213: 8829463423239752629
+    second: SS_Scythe_Red_91
+  - first:
+      213: -3565668494384344191
+    second: SS_Scythe_Red_92
+  - first:
+      213: -4493502248131482702
+    second: SS_Scythe_Red_93
+  - first:
+      213: 5139619901318202076
+    second: SS_Scythe_Red_94
+  - first:
+      213: -8589680459026721985
+    second: SS_Scythe_Red_95
+  - first:
+      213: -3690035967475649645
+    second: SS_Scythe_Red_96
+  - first:
+      213: -1071846436658088650
+    second: SS_Scythe_Red_97
+  - first:
+      213: 4532840688595762012
+    second: SS_Scythe_Red_98
+  - first:
+      213: -5145593866343882497
+    second: SS_Scythe_Red_99
+  - first:
+      213: -1420009435878203174
+    second: SS_Scythe_Red_100
+  - first:
+      213: 6656682893962509017
+    second: SS_Scythe_Red_101
+  - first:
+      213: -6606639927759495512
+    second: SS_Scythe_Red_102
+  - first:
+      213: -5292236512879740398
+    second: SS_Scythe_Red_103
+  - first:
+      213: -4126529514890242945
+    second: SS_Scythe_Red_104
+  - first:
+      213: 5949529716152877427
+    second: SS_Scythe_Red_105
+  - first:
+      213: 6351989206313764821
+    second: SS_Scythe_Red_106
+  - first:
+      213: -4427470729550828306
+    second: SS_Scythe_Red_107
+  - first:
+      213: 6205900215253528987
+    second: SS_Scythe_Red_108
+  - first:
+      213: 4279524351620350608
+    second: SS_Scythe_Red_109
+  - first:
+      213: -149366471810378669
+    second: SS_Scythe_Red_110
+  - first:
+      213: 7553489021251730182
+    second: SS_Scythe_Red_111
+  - first:
+      213: 7540548522853888390
+    second: SS_Scythe_Red_112
+  - first:
+      213: -1493743648707029015
+    second: SS_Scythe_Red_113
+  - first:
+      213: -505424170071761442
+    second: SS_Scythe_Red_114
+  - first:
+      213: -7812233938017561713
+    second: SS_Scythe_Red_115
+  - first:
+      213: -8691940899563688916
+    second: SS_Scythe_Red_116
+  - first:
+      213: -3325665796619292274
+    second: SS_Scythe_Red_117
+  - first:
+      213: 2809282401629735163
+    second: SS_Scythe_Red_118
+  - first:
+      213: -2734275400525524889
+    second: SS_Scythe_Red_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Scythe_Red_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 320
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d0728ae29e5b740800000000000000
+      internalID: 5167292534076411227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 321
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c87c7a4247c03d0800000000000000
+      internalID: -3239086331203711988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 321
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7fdbb7374645cf60800000000000000
+      internalID: 8053920780313681786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 321
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e624820cec0c688c0800000000000000
+      internalID: -3997295625025076626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 322
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6188771e31c03dfb0800000000000000
+      internalID: -4624339112852748266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 321
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713bad1d72d750cc0800000000000000
+      internalID: -3745449905110732009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 321
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a92f3a31aebe0ef0800000000000000
+      internalID: -139964938725676631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 321
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a3a5e05a6d112a0800000000000000
+      internalID: -6768392760562402788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 321
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70f401386e8c26b0800000000000000
+      internalID: -5319720481681248132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 322
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a533c9095991efd30800000000000000
+      internalID: 4467036010565088090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 321
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c603e14afce9c750800000000000000
+      internalID: 6325847711209948865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 289
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977d15ad334301ea0800000000000000
+      internalID: -5904161714171947143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b5df8b4881c00f0800000000000000
+      internalID: -1149516846567957625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 290
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01ab4c117117c840800000000000000
+      internalID: 5244179468599927055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 290
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84d011c0591ff700800000000000000
+      internalID: 576207111953896586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 289
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dad4b14f1c56fc00800000000000000
+      internalID: 934035262042069718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 289
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5f9667cdc894740800000000000000
+      internalID: 5136791728500110764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 289
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d855b1dc0262bd70800000000000000
+      internalID: 9057409607792941269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 289
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e14cbc8e32864280800000000000000
+      internalID: -9059410395248442911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_19
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 288
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c9b10c6c18ec530800000000000000
+      internalID: 3877179019839118432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_20
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 288
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2715a800418ceae0800000000000000
+      internalID: -1518696862307772627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_21
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 288
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c4c93f4ea984190800000000000000
+      internalID: -7977956431756506053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 256
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e8712ef981958f0800000000000000
+      internalID: -551382404404113796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 256
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b79654329df9c2e60800000000000000
+      internalID: 7938895998095812987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 257
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d188a52bbbebb8590800000000000000
+      internalID: -7670827826935068643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 256
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491ed7b165f3ef1c0800000000000000
+      internalID: -4468064141243981420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 256
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c11a9dd5a4b2be0800000000000000
+      internalID: -1501024283854300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 257
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87955da53a95095c0800000000000000
+      internalID: -4210767093452940936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_28
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 256
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ee419f217103770800000000000000
+      internalID: 8588389859651284611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_29
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 257
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199481fd25aeb05e0800000000000000
+      internalID: -1942201172629108335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_30
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 257
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66cb8df1eb14c3a70800000000000000
+      internalID: 8807987256063736934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_31
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 256
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca839e74d600b460800000000000000
+      internalID: 7255306509420300995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_32
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 225
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f588c22b3eceae010800000000000000
+      internalID: 1219047111848134751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_33
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 256
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99815fa02f663c3a0800000000000000
+      internalID: -6646355435316766567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 225
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365ed0e53e1f15050800000000000000
+      internalID: 5787672954985637219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_35
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 225
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1198a5e4c9da03b40800000000000000
+      internalID: 5418021238567766289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_36
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 225
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9539e17a680f67a40800000000000000
+      internalID: 5365740467178607449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_37
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 226
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf9480fba2108f40800000000000000
+      internalID: 5728599255699201992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_38
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 225
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e9f58b997ef0cbe0800000000000000
+      internalID: -1458886481014294048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_39
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 225
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565ed100849543c00800000000000000
+      internalID: 879425993018565989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_40
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 225
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383bd151367c49e30800000000000000
+      internalID: 4509448355274666883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_41
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 225
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87414129566ca46f0800000000000000
+      internalID: -699528652557904776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_42
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 224
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf08e0e4df320cde0800000000000000
+      internalID: -1315011520348913413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_43
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd39a9855fbd0df0800000000000000
+      internalID: -212303233313849930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 193
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483ac62d0d1476e50800000000000000
+      internalID: 6802478127305761668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_45
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 192
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0f3478559c321e0800000000000000
+      internalID: -2223712421812113172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 192
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb10415d11e9d370800000000000000
+      internalID: 8347950900341382128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_47
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 192
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ab6ddc8dd631660800000000000000
+      internalID: 7355343394359917086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745e6daa05c430f30800000000000000
+      internalID: 4540556758666896711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6cf978aa8cf5820800000000000000
+      internalID: 2909264519050020525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5acd3867307033c20800000000000000
+      internalID: 3184897072935722149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 161
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688120ae7ded6d0c0800000000000000
+      internalID: -4551205354485966714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_52
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 192
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 538b009cbfa5a95f0800000000000000
+      internalID: -749186350548207563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_53
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 160
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b594ead5e347c95a0800000000000000
+      internalID: -6513203149876082341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_54
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 192
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d288009e9a09d6d0800000000000000
+      internalID: -2965327203509173552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1762ec955ae3de8b0800000000000000
+      internalID: -5121368321353177487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71d3457385a7c200800000000000000
+      internalID: 200310692467954042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50a884772298f9dc0800000000000000
+      internalID: -3630031993514194427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_58
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 192
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86d7b075548fad80800000000000000
+      internalID: -8237219690939165045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f632ab11617b6b700800000000000000
+      internalID: 555832909441409903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_60
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 192
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a54ee52dd4f67f80800000000000000
+      internalID: -8109024848372677216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b61c8913e0b50d0800000000000000
+      internalID: -3433134684760872097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d808338cd5c9592c0800000000000000
+      internalID: -4425459132216934259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_63
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 160
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddfef05913b197d0800000000000000
+      internalID: -2913350562617557538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_64
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 129
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c9f3303a04cfea0800000000000000
+      internalID: -5837719948100658168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56a9797d5e548410800000000000000
+      internalID: 1478410333247350366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_66
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 160
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ad23e89e0a74f10800000000000000
+      internalID: 2253947063495744082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1ecec0498f781e0800000000000000
+      internalID: -2195512978564128349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_68
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 160
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac7643aab996cb90800000000000000
+      internalID: -7221915925559739231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_69
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4a7cfe369686af0800000000000000
+      internalID: -402956288704142146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_70
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 160
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bfa5fbb0caac910800000000000000
+      internalID: 1858486962698779482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0924b21bca464fb60800000000000000
+      internalID: 7778953149245244048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 570812aa55492c0b0800000000000000
+      internalID: -5709838281904914315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_73
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb29a1651b79439f0800000000000000
+      internalID: -489599671566953796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cf5f609fca9eb40800000000000000
+      internalID: 5470093407981796483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_75
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5355204aef951ed20800000000000000
+      internalID: 3306022551674836277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_76
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4b82cba64c86270800000000000000
+      internalID: 8244055080604054740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed22114ab3dfb4fd0800000000000000
+      internalID: -2356511547400838434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_78
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 97
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98153b29fbb9bc040800000000000000
+      internalID: 4668996685801935241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ca25237e11b7d80800000000000000
+      internalID: -8251982207546905447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_80
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 97
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b63b3aba8cfb75a0800000000000000
+      internalID: -6522341962555902284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_81
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 97
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 317f44bfc2344a730800000000000000
+      internalID: 4009403428739806995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_82
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 97
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc3cc12daa620bb0800000000000000
+      internalID: -4971293746834686782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_83
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 98
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2b8cd68b8bc2090800000000000000
+      internalID: -8057862531017297163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_84
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 98
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad206dbbf0857310800000000000000
+      internalID: 1402168677698121125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_85
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 98
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814a20bcc5f563ea0800000000000000
+      internalID: -5893418210220137448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_86
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 97
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c5955cbe70951960800000000000000
+      internalID: 7572117222493361603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_87
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 97
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8212c80903312ea30800000000000000
+      internalID: 4242974898240889128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_88
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 65
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e09ce3620d73230800000000000000
+      internalID: 3618589688296181263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_89
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 66
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79c3095bb6fa4e70800000000000000
+      internalID: 9100357281568246140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_90
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 65
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00349919f431854c0800000000000000
+      internalID: -4298664611859053824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_91
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 66
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb8283f33e888a70800000000000000
+      internalID: 8829463423239752629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_92
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 65
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1835b656563348ec0800000000000000
+      internalID: -3565668494384344191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_93
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 65
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb24be438fd3a1c0800000000000000
+      internalID: -4493502248131482702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_94
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 66
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd28992c119935740800000000000000
+      internalID: 5139619901318202076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_95
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 66
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f331991f1235bc880800000000000000
+      internalID: -8589680459026721985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_96
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 66
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 393f23696db5accc0800000000000000
+      internalID: -3690035967475649645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_97
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 66
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635f93148590021f0800000000000000
+      internalID: -1071846436658088650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_98
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 65
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bff2b1792e7ee30800000000000000
+      internalID: 4532840688595762012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_99
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 34
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff0e42e14ad2798b0800000000000000
+      internalID: -5145593866343882497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_100
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 33
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0e6cc01fc1b4ce0800000000000000
+      internalID: -1420009435878203174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_101
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 33
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dafd0dc2d9416c50800000000000000
+      internalID: 6656682893962509017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_102
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 33
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae9bfa3dff7054a0800000000000000
+      internalID: -6606639927759495512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_103
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 33
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21a73765ee23e86b0800000000000000
+      internalID: -5292236512879740398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_104
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 34
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f745dcdf44f9bb6c0800000000000000
+      internalID: -4126529514890242945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_105
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 33
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3714cef31c9f09250800000000000000
+      internalID: 5949529716152877427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_106
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 32
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d78273678cc62850800000000000000
+      internalID: 6351989206313764821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_107
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 32
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeceea744d67e82c0800000000000000
+      internalID: -4427470729550828306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_108
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 32
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91f4b19d59cf1650800000000000000
+      internalID: 6205900215253528987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_109
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 32
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09207f159bce36b30800000000000000
+      internalID: 4279524351620350608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_110
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354936a3cf75dedf0800000000000000
+      internalID: -149366471810378669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_111
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bb586ae3263d860800000000000000
+      internalID: 7553489021251730182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_112
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6817d441ee865a860800000000000000
+      internalID: 7540548522853888390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_113
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e75251d018254be0800000000000000
+      internalID: -1493743648707029015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_114
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddd9f9256f5cf8f0800000000000000
+      internalID: -505424170071761442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_115
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f835636df9e559390800000000000000
+      internalID: -7812233938017561713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_116
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c21d0cdc5006780800000000000000
+      internalID: -8691940899563688916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_117
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8137def39cd8d1d0800000000000000
+      internalID: -3325665796619292274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_118
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf885e6c5739cf620800000000000000
+      internalID: 2809282401629735163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Red_119
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76056919207ed0ad0800000000000000
+      internalID: -2734275400525524889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Scythe_Red_0: 5167292534076411227
+      SS_Scythe_Red_1: -3239086331203711988
+      SS_Scythe_Red_10: 6325847711209948865
+      SS_Scythe_Red_100: -1420009435878203174
+      SS_Scythe_Red_101: 6656682893962509017
+      SS_Scythe_Red_102: -6606639927759495512
+      SS_Scythe_Red_103: -5292236512879740398
+      SS_Scythe_Red_104: -4126529514890242945
+      SS_Scythe_Red_105: 5949529716152877427
+      SS_Scythe_Red_106: 6351989206313764821
+      SS_Scythe_Red_107: -4427470729550828306
+      SS_Scythe_Red_108: 6205900215253528987
+      SS_Scythe_Red_109: 4279524351620350608
+      SS_Scythe_Red_11: -5904161714171947143
+      SS_Scythe_Red_110: -149366471810378669
+      SS_Scythe_Red_111: 7553489021251730182
+      SS_Scythe_Red_112: 7540548522853888390
+      SS_Scythe_Red_113: -1493743648707029015
+      SS_Scythe_Red_114: -505424170071761442
+      SS_Scythe_Red_115: -7812233938017561713
+      SS_Scythe_Red_116: -8691940899563688916
+      SS_Scythe_Red_117: -3325665796619292274
+      SS_Scythe_Red_118: 2809282401629735163
+      SS_Scythe_Red_119: -2734275400525524889
+      SS_Scythe_Red_12: -1149516846567957625
+      SS_Scythe_Red_13: 5244179468599927055
+      SS_Scythe_Red_14: 576207111953896586
+      SS_Scythe_Red_15: 934035262042069718
+      SS_Scythe_Red_16: 5136791728500110764
+      SS_Scythe_Red_17: 9057409607792941269
+      SS_Scythe_Red_18: -9059410395248442911
+      SS_Scythe_Red_19: 3877179019839118432
+      SS_Scythe_Red_2: 8053920780313681786
+      SS_Scythe_Red_20: -1518696862307772627
+      SS_Scythe_Red_21: -7977956431756506053
+      SS_Scythe_Red_22: -551382404404113796
+      SS_Scythe_Red_23: 7938895998095812987
+      SS_Scythe_Red_24: -7670827826935068643
+      SS_Scythe_Red_25: -4468064141243981420
+      SS_Scythe_Red_26: -1501024283854300004
+      SS_Scythe_Red_27: -4210767093452940936
+      SS_Scythe_Red_28: 8588389859651284611
+      SS_Scythe_Red_29: -1942201172629108335
+      SS_Scythe_Red_3: -3997295625025076626
+      SS_Scythe_Red_30: 8807987256063736934
+      SS_Scythe_Red_31: 7255306509420300995
+      SS_Scythe_Red_32: 1219047111848134751
+      SS_Scythe_Red_33: -6646355435316766567
+      SS_Scythe_Red_34: 5787672954985637219
+      SS_Scythe_Red_35: 5418021238567766289
+      SS_Scythe_Red_36: 5365740467178607449
+      SS_Scythe_Red_37: 5728599255699201992
+      SS_Scythe_Red_38: -1458886481014294048
+      SS_Scythe_Red_39: 879425993018565989
+      SS_Scythe_Red_4: -4624339112852748266
+      SS_Scythe_Red_40: 4509448355274666883
+      SS_Scythe_Red_41: -699528652557904776
+      SS_Scythe_Red_42: -1315011520348913413
+      SS_Scythe_Red_43: -212303233313849930
+      SS_Scythe_Red_44: 6802478127305761668
+      SS_Scythe_Red_45: -2223712421812113172
+      SS_Scythe_Red_46: 8347950900341382128
+      SS_Scythe_Red_47: 7355343394359917086
+      SS_Scythe_Red_48: 4540556758666896711
+      SS_Scythe_Red_49: 2909264519050020525
+      SS_Scythe_Red_5: -3745449905110732009
+      SS_Scythe_Red_50: 3184897072935722149
+      SS_Scythe_Red_51: -4551205354485966714
+      SS_Scythe_Red_52: -749186350548207563
+      SS_Scythe_Red_53: -6513203149876082341
+      SS_Scythe_Red_54: -2965327203509173552
+      SS_Scythe_Red_55: -5121368321353177487
+      SS_Scythe_Red_56: 200310692467954042
+      SS_Scythe_Red_57: -3630031993514194427
+      SS_Scythe_Red_58: -8237219690939165045
+      SS_Scythe_Red_59: 555832909441409903
+      SS_Scythe_Red_6: -139964938725676631
+      SS_Scythe_Red_60: -8109024848372677216
+      SS_Scythe_Red_61: -3433134684760872097
+      SS_Scythe_Red_62: -4425459132216934259
+      SS_Scythe_Red_63: -2913350562617557538
+      SS_Scythe_Red_64: -5837719948100658168
+      SS_Scythe_Red_65: 1478410333247350366
+      SS_Scythe_Red_66: 2253947063495744082
+      SS_Scythe_Red_67: -2195512978564128349
+      SS_Scythe_Red_68: -7221915925559739231
+      SS_Scythe_Red_69: -402956288704142146
+      SS_Scythe_Red_7: -6768392760562402788
+      SS_Scythe_Red_70: 1858486962698779482
+      SS_Scythe_Red_71: 7778953149245244048
+      SS_Scythe_Red_72: -5709838281904914315
+      SS_Scythe_Red_73: -489599671566953796
+      SS_Scythe_Red_74: 5470093407981796483
+      SS_Scythe_Red_75: 3306022551674836277
+      SS_Scythe_Red_76: 8244055080604054740
+      SS_Scythe_Red_77: -2356511547400838434
+      SS_Scythe_Red_78: 4668996685801935241
+      SS_Scythe_Red_79: -8251982207546905447
+      SS_Scythe_Red_8: -5319720481681248132
+      SS_Scythe_Red_80: -6522341962555902284
+      SS_Scythe_Red_81: 4009403428739806995
+      SS_Scythe_Red_82: -4971293746834686782
+      SS_Scythe_Red_83: -8057862531017297163
+      SS_Scythe_Red_84: 1402168677698121125
+      SS_Scythe_Red_85: -5893418210220137448
+      SS_Scythe_Red_86: 7572117222493361603
+      SS_Scythe_Red_87: 4242974898240889128
+      SS_Scythe_Red_88: 3618589688296181263
+      SS_Scythe_Red_89: 9100357281568246140
+      SS_Scythe_Red_9: 4467036010565088090
+      SS_Scythe_Red_90: -4298664611859053824
+      SS_Scythe_Red_91: 8829463423239752629
+      SS_Scythe_Red_92: -3565668494384344191
+      SS_Scythe_Red_93: -4493502248131482702
+      SS_Scythe_Red_94: 5139619901318202076
+      SS_Scythe_Red_95: -8589680459026721985
+      SS_Scythe_Red_96: -3690035967475649645
+      SS_Scythe_Red_97: -1071846436658088650
+      SS_Scythe_Red_98: 4532840688595762012
+      SS_Scythe_Red_99: -5145593866343882497
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5304 @@
+fileFormatVersion: 2
+guid: d5636e0d8ecd7244db0e707c19565f56
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4667884180673008984
+    second: SS_Mask_Yellow_0
+  - first:
+      213: 2932527689218910866
+    second: SS_Mask_Yellow_1
+  - first:
+      213: 835185477800940888
+    second: SS_Mask_Yellow_2
+  - first:
+      213: -3484088053579981903
+    second: SS_Mask_Yellow_3
+  - first:
+      213: 8386549755025493975
+    second: SS_Mask_Yellow_4
+  - first:
+      213: 494063113810923086
+    second: SS_Mask_Yellow_5
+  - first:
+      213: -4615586383999502687
+    second: SS_Mask_Yellow_6
+  - first:
+      213: -1625457815706788417
+    second: SS_Mask_Yellow_7
+  - first:
+      213: 4368313043630350595
+    second: SS_Mask_Yellow_8
+  - first:
+      213: 3538592241964768318
+    second: SS_Mask_Yellow_9
+  - first:
+      213: 4144855787894812271
+    second: SS_Mask_Yellow_10
+  - first:
+      213: 3132192952888676853
+    second: SS_Mask_Yellow_11
+  - first:
+      213: -8965378037543805327
+    second: SS_Mask_Yellow_12
+  - first:
+      213: -339168895382447759
+    second: SS_Mask_Yellow_13
+  - first:
+      213: -8883942658697823362
+    second: SS_Mask_Yellow_14
+  - first:
+      213: 5000086883944800970
+    second: SS_Mask_Yellow_15
+  - first:
+      213: 3122467319234221106
+    second: SS_Mask_Yellow_16
+  - first:
+      213: 4477777191432392737
+    second: SS_Mask_Yellow_17
+  - first:
+      213: -9135428098813778104
+    second: SS_Mask_Yellow_18
+  - first:
+      213: 649601111918032170
+    second: SS_Mask_Yellow_19
+  - first:
+      213: -957887811389842276
+    second: SS_Mask_Yellow_20
+  - first:
+      213: 246132588776873988
+    second: SS_Mask_Yellow_21
+  - first:
+      213: -615320952913090825
+    second: SS_Mask_Yellow_22
+  - first:
+      213: 1872846293140637654
+    second: SS_Mask_Yellow_23
+  - first:
+      213: -6129266334531763914
+    second: SS_Mask_Yellow_24
+  - first:
+      213: -764112705275388212
+    second: SS_Mask_Yellow_25
+  - first:
+      213: 4709061782196516439
+    second: SS_Mask_Yellow_26
+  - first:
+      213: 4194378002544015882
+    second: SS_Mask_Yellow_27
+  - first:
+      213: -5787860490981009385
+    second: SS_Mask_Yellow_28
+  - first:
+      213: -5747680766111523419
+    second: SS_Mask_Yellow_29
+  - first:
+      213: -3372708540942710464
+    second: SS_Mask_Yellow_30
+  - first:
+      213: 9073452570289522867
+    second: SS_Mask_Yellow_31
+  - first:
+      213: -5988317577426342212
+    second: SS_Mask_Yellow_32
+  - first:
+      213: -6318458972685287738
+    second: SS_Mask_Yellow_33
+  - first:
+      213: 968953033541332698
+    second: SS_Mask_Yellow_34
+  - first:
+      213: 4617756659368010015
+    second: SS_Mask_Yellow_35
+  - first:
+      213: 7373181309291563214
+    second: SS_Mask_Yellow_36
+  - first:
+      213: 7943324185611119029
+    second: SS_Mask_Yellow_37
+  - first:
+      213: -5640919331618069235
+    second: SS_Mask_Yellow_38
+  - first:
+      213: 7885772217548851188
+    second: SS_Mask_Yellow_39
+  - first:
+      213: 1730777299839771421
+    second: SS_Mask_Yellow_40
+  - first:
+      213: 6563552385622384375
+    second: SS_Mask_Yellow_41
+  - first:
+      213: -4338748634695246392
+    second: SS_Mask_Yellow_42
+  - first:
+      213: -7887144714753006957
+    second: SS_Mask_Yellow_43
+  - first:
+      213: 7606315908572270803
+    second: SS_Mask_Yellow_44
+  - first:
+      213: -2428766515938746203
+    second: SS_Mask_Yellow_45
+  - first:
+      213: -338634131788057593
+    second: SS_Mask_Yellow_46
+  - first:
+      213: 5973984345093672940
+    second: SS_Mask_Yellow_47
+  - first:
+      213: -6373411194524467929
+    second: SS_Mask_Yellow_48
+  - first:
+      213: 3162265224411602760
+    second: SS_Mask_Yellow_49
+  - first:
+      213: 784002199674417468
+    second: SS_Mask_Yellow_50
+  - first:
+      213: 4497745003702091986
+    second: SS_Mask_Yellow_51
+  - first:
+      213: -147064759361373451
+    second: SS_Mask_Yellow_52
+  - first:
+      213: -5836920762841395729
+    second: SS_Mask_Yellow_53
+  - first:
+      213: 657580086731864073
+    second: SS_Mask_Yellow_54
+  - first:
+      213: -5779855100463928840
+    second: SS_Mask_Yellow_55
+  - first:
+      213: -906381491888324687
+    second: SS_Mask_Yellow_56
+  - first:
+      213: 5170209403941019986
+    second: SS_Mask_Yellow_57
+  - first:
+      213: -6592134696532450870
+    second: SS_Mask_Yellow_58
+  - first:
+      213: -1672239412904684615
+    second: SS_Mask_Yellow_59
+  - first:
+      213: -5065177737380557788
+    second: SS_Mask_Yellow_60
+  - first:
+      213: 3232209273579221679
+    second: SS_Mask_Yellow_61
+  - first:
+      213: -5348137326116800903
+    second: SS_Mask_Yellow_62
+  - first:
+      213: 8679290460669769360
+    second: SS_Mask_Yellow_63
+  - first:
+      213: 831344661470057957
+    second: SS_Mask_Yellow_64
+  - first:
+      213: -4735305158024297902
+    second: SS_Mask_Yellow_65
+  - first:
+      213: 8774418520255866064
+    second: SS_Mask_Yellow_66
+  - first:
+      213: -1249233705663993962
+    second: SS_Mask_Yellow_67
+  - first:
+      213: -52232660100050742
+    second: SS_Mask_Yellow_68
+  - first:
+      213: 8359266693611205127
+    second: SS_Mask_Yellow_69
+  - first:
+      213: -3506420695870857798
+    second: SS_Mask_Yellow_70
+  - first:
+      213: -447571734146965399
+    second: SS_Mask_Yellow_71
+  - first:
+      213: 991358198796682655
+    second: SS_Mask_Yellow_72
+  - first:
+      213: -1288248577064171641
+    second: SS_Mask_Yellow_73
+  - first:
+      213: -7614246375298915230
+    second: SS_Mask_Yellow_74
+  - first:
+      213: 5495487752420936918
+    second: SS_Mask_Yellow_75
+  - first:
+      213: -1200578468755056755
+    second: SS_Mask_Yellow_76
+  - first:
+      213: 5983534895787110637
+    second: SS_Mask_Yellow_77
+  - first:
+      213: 7435234266751779595
+    second: SS_Mask_Yellow_78
+  - first:
+      213: -5870277052944705237
+    second: SS_Mask_Yellow_79
+  - first:
+      213: 6738355944658806625
+    second: SS_Mask_Yellow_80
+  - first:
+      213: -6070933433596531569
+    second: SS_Mask_Yellow_81
+  - first:
+      213: 5290765223573608725
+    second: SS_Mask_Yellow_82
+  - first:
+      213: 4095172816633454370
+    second: SS_Mask_Yellow_83
+  - first:
+      213: -4183380980678969525
+    second: SS_Mask_Yellow_84
+  - first:
+      213: -1344116916525935910
+    second: SS_Mask_Yellow_85
+  - first:
+      213: -5801779609772348983
+    second: SS_Mask_Yellow_86
+  - first:
+      213: 3684172009510935193
+    second: SS_Mask_Yellow_87
+  - first:
+      213: -7740841186140336697
+    second: SS_Mask_Yellow_88
+  - first:
+      213: -805236992366429262
+    second: SS_Mask_Yellow_89
+  - first:
+      213: 4700971734170519447
+    second: SS_Mask_Yellow_90
+  - first:
+      213: 5288365040750398021
+    second: SS_Mask_Yellow_91
+  - first:
+      213: 3365780220412845283
+    second: SS_Mask_Yellow_92
+  - first:
+      213: -7519626813037210239
+    second: SS_Mask_Yellow_93
+  - first:
+      213: -1509917424503896559
+    second: SS_Mask_Yellow_94
+  - first:
+      213: 8469876126241310267
+    second: SS_Mask_Yellow_95
+  - first:
+      213: -1877770691016255612
+    second: SS_Mask_Yellow_96
+  - first:
+      213: -5378189239378815996
+    second: SS_Mask_Yellow_97
+  - first:
+      213: -5533031566747482887
+    second: SS_Mask_Yellow_98
+  - first:
+      213: -3324282125029560840
+    second: SS_Mask_Yellow_99
+  - first:
+      213: 1796161859802348324
+    second: SS_Mask_Yellow_100
+  - first:
+      213: 6317837284889979509
+    second: SS_Mask_Yellow_101
+  - first:
+      213: 7893510358339632580
+    second: SS_Mask_Yellow_102
+  - first:
+      213: -5498935770213258497
+    second: SS_Mask_Yellow_103
+  - first:
+      213: -1325984594136977116
+    second: SS_Mask_Yellow_104
+  - first:
+      213: -8620725736686830513
+    second: SS_Mask_Yellow_105
+  - first:
+      213: -8023511345928637480
+    second: SS_Mask_Yellow_106
+  - first:
+      213: 6345613543240042273
+    second: SS_Mask_Yellow_107
+  - first:
+      213: 1638632067511535142
+    second: SS_Mask_Yellow_108
+  - first:
+      213: -3633709721259046720
+    second: SS_Mask_Yellow_109
+  - first:
+      213: -5729928792014251477
+    second: SS_Mask_Yellow_110
+  - first:
+      213: -5074957497251029186
+    second: SS_Mask_Yellow_111
+  - first:
+      213: -7005049140591782033
+    second: SS_Mask_Yellow_112
+  - first:
+      213: -3831870223054286961
+    second: SS_Mask_Yellow_113
+  - first:
+      213: -6819241855001592542
+    second: SS_Mask_Yellow_114
+  - first:
+      213: 6942905337321686389
+    second: SS_Mask_Yellow_115
+  - first:
+      213: 3884832784526179575
+    second: SS_Mask_Yellow_116
+  - first:
+      213: -8535470823611603628
+    second: SS_Mask_Yellow_117
+  - first:
+      213: -5885579068221117161
+    second: SS_Mask_Yellow_118
+  - first:
+      213: 2435426160634222168
+    second: SS_Mask_Yellow_119
+  - first:
+      213: 8291498888755196066
+    second: SS_Mask_Yellow_120
+  - first:
+      213: -5038880537601034122
+    second: SS_Mask_Yellow_121
+  - first:
+      213: 2679565412727495015
+    second: SS_Mask_Yellow_122
+  - first:
+      213: 1026597680639422822
+    second: SS_Mask_Yellow_123
+  - first:
+      213: 3978427389273558953
+    second: SS_Mask_Yellow_124
+  - first:
+      213: 5834788945245204776
+    second: SS_Mask_Yellow_125
+  - first:
+      213: 3817589920546557182
+    second: SS_Mask_Yellow_126
+  - first:
+      213: 711611858991051352
+    second: SS_Mask_Yellow_127
+  - first:
+      213: -7789185625269855199
+    second: SS_Mask_Yellow_128
+  - first:
+      213: 5485288489640530144
+    second: SS_Mask_Yellow_129
+  - first:
+      213: -2420111174056446958
+    second: SS_Mask_Yellow_130
+  - first:
+      213: 3930250890499665251
+    second: SS_Mask_Yellow_131
+  - first:
+      213: 154571180468615783
+    second: SS_Mask_Yellow_132
+  - first:
+      213: -7348682487088968264
+    second: SS_Mask_Yellow_133
+  - first:
+      213: -1874610940747917104
+    second: SS_Mask_Yellow_134
+  - first:
+      213: 9198603709218457080
+    second: SS_Mask_Yellow_135
+  - first:
+      213: 6586933533041821937
+    second: SS_Mask_Yellow_136
+  - first:
+      213: 4552418443559080471
+    second: SS_Mask_Yellow_137
+  - first:
+      213: -80274626645120638
+    second: SS_Mask_Yellow_138
+  - first:
+      213: -5828033037789820970
+    second: SS_Mask_Yellow_139
+  - first:
+      213: 3046571246435493963
+    second: SS_Mask_Yellow_140
+  - first:
+      213: 439157112513921765
+    second: SS_Mask_Yellow_141
+  - first:
+      213: 8041881120755339351
+    second: SS_Mask_Yellow_142
+  - first:
+      213: 7611702193063685993
+    second: SS_Mask_Yellow_143
+  - first:
+      213: 8815205128723807097
+    second: SS_Mask_Yellow_144
+  - first:
+      213: 4715255209421939623
+    second: SS_Mask_Yellow_145
+  - first:
+      213: -2953317301849465379
+    second: SS_Mask_Yellow_146
+  - first:
+      213: 464317257281215826
+    second: SS_Mask_Yellow_147
+  - first:
+      213: 4698608986357830754
+    second: SS_Mask_Yellow_148
+  - first:
+      213: -2964786455991837558
+    second: SS_Mask_Yellow_149
+  - first:
+      213: -7814771659041657367
+    second: SS_Mask_Yellow_150
+  - first:
+      213: -6979760931424894978
+    second: SS_Mask_Yellow_151
+  - first:
+      213: 2785646165014710103
+    second: SS_Mask_Yellow_152
+  - first:
+      213: 7517608455901446876
+    second: SS_Mask_Yellow_153
+  - first:
+      213: 7473083062887651805
+    second: SS_Mask_Yellow_154
+  - first:
+      213: 1245244955979585628
+    second: SS_Mask_Yellow_155
+  - first:
+      213: -5446042447799345553
+    second: SS_Mask_Yellow_156
+  - first:
+      213: -3897024638631592828
+    second: SS_Mask_Yellow_157
+  - first:
+      213: 7358398825068228945
+    second: SS_Mask_Yellow_158
+  - first:
+      213: 6939854597030448768
+    second: SS_Mask_Yellow_159
+  - first:
+      213: -4210039804548136201
+    second: SS_Mask_Yellow_160
+  - first:
+      213: -1478225110822694194
+    second: SS_Mask_Yellow_161
+  - first:
+      213: 8309207635661105071
+    second: SS_Mask_Yellow_162
+  - first:
+      213: 8317910789670798387
+    second: SS_Mask_Yellow_163
+  - first:
+      213: 3038540946960208612
+    second: SS_Mask_Yellow_164
+  - first:
+      213: -1757254354576145077
+    second: SS_Mask_Yellow_165
+  - first:
+      213: -6468542067293206021
+    second: SS_Mask_Yellow_166
+  - first:
+      213: -590030180189502146
+    second: SS_Mask_Yellow_167
+  - first:
+      213: 7633268646115271604
+    second: SS_Mask_Yellow_168
+  - first:
+      213: -7902693556164031440
+    second: SS_Mask_Yellow_169
+  - first:
+      213: -4220958707166522831
+    second: SS_Mask_Yellow_170
+  - first:
+      213: -5967747079635231867
+    second: SS_Mask_Yellow_171
+  - first:
+      213: 7510486389324934120
+    second: SS_Mask_Yellow_172
+  - first:
+      213: -1812921908580006682
+    second: SS_Mask_Yellow_173
+  - first:
+      213: 4048660381167810518
+    second: SS_Mask_Yellow_174
+  - first:
+      213: -145052816038832183
+    second: SS_Mask_Yellow_175
+  - first:
+      213: 1278774884566682025
+    second: SS_Mask_Yellow_176
+  - first:
+      213: -6487627340289210597
+    second: SS_Mask_Yellow_177
+  - first:
+      213: -4346795145033352529
+    second: SS_Mask_Yellow_178
+  - first:
+      213: -6040491497381765434
+    second: SS_Mask_Yellow_179
+  - first:
+      213: 6973090389576268824
+    second: SS_Mask_Yellow_180
+  - first:
+      213: 6376488338981034985
+    second: SS_Mask_Yellow_181
+  - first:
+      213: -874566659272647665
+    second: SS_Mask_Yellow_182
+  - first:
+      213: -5463002201277247766
+    second: SS_Mask_Yellow_183
+  - first:
+      213: -6824837753123693480
+    second: SS_Mask_Yellow_184
+  - first:
+      213: 974356835630116930
+    second: SS_Mask_Yellow_185
+  - first:
+      213: -5249405432932584708
+    second: SS_Mask_Yellow_186
+  - first:
+      213: 7969228859802785057
+    second: SS_Mask_Yellow_187
+  - first:
+      213: 5011947811455898997
+    second: SS_Mask_Yellow_188
+  - first:
+      213: 1344925303606356142
+    second: SS_Mask_Yellow_189
+  - first:
+      213: -4780533828957209204
+    second: SS_Mask_Yellow_190
+  - first:
+      213: -763984786732851787
+    second: SS_Mask_Yellow_191
+  - first:
+      213: -9054774046923712856
+    second: SS_Mask_Yellow_192
+  - first:
+      213: 6278290578898085298
+    second: SS_Mask_Yellow_193
+  - first:
+      213: 5490809538179443302
+    second: SS_Mask_Yellow_194
+  - first:
+      213: 951325103308286304
+    second: SS_Mask_Yellow_195
+  - first:
+      213: 2896793342081230589
+    second: SS_Mask_Yellow_196
+  - first:
+      213: -7013279074064702657
+    second: SS_Mask_Yellow_197
+  - first:
+      213: 706034824995099373
+    second: SS_Mask_Yellow_198
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 417
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aae156b118583fb0800000000000000
+      internalID: -4667884180673008984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 416
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ae3e9656e62b820800000000000000
+      internalID: 2932527689218910866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 416
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855d3ed54cc279b00800000000000000
+      internalID: 835185477800940888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 416
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bbde20ff5806afc0800000000000000
+      internalID: -3484088053579981903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 417
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df0f6f7192036470800000000000000
+      internalID: 8386549755025493975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 385
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ec25bc8c34bd600800000000000000
+      internalID: 494063113810923086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 416
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6749f53a422ffb0800000000000000
+      internalID: -4615586383999502687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 416
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd1a698ab63179e0800000000000000
+      internalID: -1625457815706788417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 416
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301ea41a19d5f9c30800000000000000
+      internalID: 4368313043630350595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 416
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c534355ea9b1130800000000000000
+      internalID: 3538592241964768318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 418
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e21b2f06c758930800000000000000
+      internalID: 4144855787894812271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 416
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f159e445e8c77b20800000000000000
+      internalID: 3132192952888676853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 416
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17edc1bec24949380800000000000000
+      internalID: -8965378037543805327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_13
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 415
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1791ed7cfa70b4bf0800000000000000
+      internalID: -339168895382447759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_14
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 415
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b70679835e5b480800000000000000
+      internalID: -8883942658697823362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 384
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2ae938780e36540800000000000000
+      internalID: 5000086883944800970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234d8b9bb7b355b20800000000000000
+      internalID: 3122467319234221106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 383
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1209cae91a2442e30800000000000000
+      internalID: 4477777191432392737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8472513bb80783180800000000000000
+      internalID: -9135428098813778104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 384
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25b29105c8d30900800000000000000
+      internalID: 649601111918032170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_20
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 352
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c9e635c16e4b2f0800000000000000
+      internalID: -957887811389842276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 383
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40061b119407a6300800000000000000
+      internalID: 246132588776873988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_22
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 384
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6a2ca7ad0f577f0800000000000000
+      internalID: -615320952913090825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_23
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 352
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d70e85e7cfadf910800000000000000
+      internalID: 1872846293140637654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_24
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 354
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63149743eb870faa0800000000000000
+      internalID: -6129266334531763914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 384
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce92b10b835565f0800000000000000
+      internalID: -764112705275388212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_26
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756f031cdb2f95140800000000000000
+      internalID: 4709061782196516439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 384
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a395f029c653a30800000000000000
+      internalID: 4194378002544015882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_28
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 353
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7181f818c836dafa0800000000000000
+      internalID: -5787860490981009385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_29
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 384
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5add395bbc22c30b0800000000000000
+      internalID: -5747680766111523419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_30
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0490f2e837bb131d0800000000000000
+      internalID: -3372708540942710464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_31
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 383
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b8467a1a016bed70800000000000000
+      internalID: 9073452570289522867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_32
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 352
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe664b04e835eca0800000000000000
+      internalID: -5988317577426342212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_33
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 384
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ceb63d7a035058a0800000000000000
+      internalID: -6318458972685287738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_34
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 383
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adea44876a9627d00800000000000000
+      internalID: 968953033541332698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_35
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 352
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1123dc3731951040800000000000000
+      internalID: 4617756659368010015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_36
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 384
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec88fd4065dc25660800000000000000
+      internalID: 7373181309291563214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_37
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 351
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9ae13e24b5c3e60800000000000000
+      internalID: 7943324185611119029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_38
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 384
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05654831cd67b1b0800000000000000
+      internalID: -5640919331618069235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_39
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 352
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f7c4ae1d04ef6d60800000000000000
+      internalID: 7885772217548851188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_40
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 383
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13624eb8c4f40810800000000000000
+      internalID: 1730777299839771421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_41
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe90b99e1c661b50800000000000000
+      internalID: 6563552385622384375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_42
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 319
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cd574bba1ba9c3c0800000000000000
+      internalID: -4338748634695246392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_43
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 321
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3922c097bab3b8290800000000000000
+      internalID: -7887144714753006957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_44
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 320
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d05ad3d4001f8960800000000000000
+      internalID: 7606315908572270803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_45
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 352
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0ab1fc8b94b4ed0800000000000000
+      internalID: -2428766515938746203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_46
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 320
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70433f12d0eec4bf0800000000000000
+      internalID: -338634131788057593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_47
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 320
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef8d0f3c1bd7e250800000000000000
+      internalID: 5973984345093672940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_48
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 321
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dfede49481d87a0800000000000000
+      internalID: -6373411194524467929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_49
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 352
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84fdf9a977f92eb20800000000000000
+      internalID: 3162265224411602760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_50
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 321
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c31f7b6c8d551ea00800000000000000
+      internalID: 784002199674417468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_51
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 320
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d083f330433b6e30800000000000000
+      internalID: 4497745003702091986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_52
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 322
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fa794b616585fdf0800000000000000
+      internalID: -147064759361373451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_53
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 321
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed8cb4dd771ffea0800000000000000
+      internalID: -5836920762841395729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_54
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 320
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908f509da91302900800000000000000
+      internalID: 657580086731864073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_55
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 321
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f92e9bb864d9cfa0800000000000000
+      internalID: -5779855100463928840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_56
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 321
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bff109d5d2eb63f0800000000000000
+      internalID: -906381491888324687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_57
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 321
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251e9485f0640c740800000000000000
+      internalID: 5170209403941019986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_58
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 320
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1e7ad8b680484a0800000000000000
+      internalID: -6592134696532450870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_59
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 289
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b398662d130bc8e0800000000000000
+      internalID: -1672239412904684615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_60
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 288
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c073f2fafd4b9b0800000000000000
+      internalID: -5065177737380557788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_61
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 288
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2b967953d1bdc20800000000000000
+      internalID: 3232209273579221679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_62
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 288
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976fcc2007997c5b0800000000000000
+      internalID: -5348137326116800903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_63
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 289
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09678aa60b8037870800000000000000
+      internalID: 8679290460669769360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_64
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 288
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e517d0a097898b00800000000000000
+      internalID: 831344661470057957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_65
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 287
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25203e82c01d84eb0800000000000000
+      internalID: -4735305158024297902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_66
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 289
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4a572c72ff4c970800000000000000
+      internalID: 8774418520255866064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_67
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 290
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697e37c3094d9aee0800000000000000
+      internalID: -1249233705663993962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_68
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 288
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac010112cae664ff0800000000000000
+      internalID: -52232660100050742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_69
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 287
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702337fb4c4120470800000000000000
+      internalID: 8359266693611205127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_70
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 289
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abd1a8574f0b65fc0800000000000000
+      internalID: -3506420695870857798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_71
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 288
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9602aae01e7e9c9f0800000000000000
+      internalID: -447571734146965399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_72
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 288
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f958274870302cd00800000000000000
+      internalID: 991358198796682655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_73
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 289
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78700bd9eb83f1ee0800000000000000
+      internalID: -1288248577064171641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_74
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 264a0008343c45690800000000000000
+      internalID: -7614246375298915230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_75
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 224
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dc4f869ef4e34c40800000000000000
+      internalID: 5495487752420936918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_76
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d875fdc5e30b65fe0800000000000000
+      internalID: -1200578468755056755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_77
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 224
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de07b8c1949c90350800000000000000
+      internalID: 5983534895787110637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_78
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 256
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b034d8b0c224f2760800000000000000
+      internalID: 7435234266751779595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_79
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b299a165f16988ea0800000000000000
+      internalID: -5870277052944705237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_80
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 224
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 167a783c703738d50800000000000000
+      internalID: 6738355944658806625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_81
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 256
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8caf631536bfbba0800000000000000
+      internalID: -6070933433596531569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_82
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 256
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519581d60f29c6940800000000000000
+      internalID: 5290765223573608725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_83
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 224
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fd545caf9f4d830800000000000000
+      internalID: 4095172816633454370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_84
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 256
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47318e9925a1f5c0800000000000000
+      internalID: -4183380980678969525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_85
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 256
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2d0ed29ccb85de0800000000000000
+      internalID: -1344116916525935910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_86
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 224
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c92a6e1f20fb7fa0800000000000000
+      internalID: -5801779609772348983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_87
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 256
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a165e4ceec02330800000000000000
+      internalID: 3684172009510935193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_88
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 224
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd446534f1039490800000000000000
+      internalID: -7740841186140336697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_89
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbbef5c83933d4f0800000000000000
+      internalID: -805236992366429262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_90
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 256
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797c26aa2e43d3140800000000000000
+      internalID: 4700971734170519447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_91
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 256
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a85805cfb046940800000000000000
+      internalID: 5288365040750398021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_92
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec5ebd1747a5be20800000000000000
+      internalID: 3365780220412845283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_93
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1851a65114be4a790800000000000000
+      internalID: -7519626813037210239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_94
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116c5403a12bb0be0800000000000000
+      internalID: -1509917424503896559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_95
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 224
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36cc24267b0b8570800000000000000
+      internalID: 8469876126241310267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_96
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 224
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48716506181d0f5e0800000000000000
+      internalID: -1877770691016255612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_97
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 224
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4045ff3b165dc55b0800000000000000
+      internalID: -5378189239378815996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_98
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 225
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f44ef4fa19b633b0800000000000000
+      internalID: -5533031566747482887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_99
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 225
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdae642507cdd1d0800000000000000
+      internalID: -3324282125029560840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_100
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 225
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bbf9ce1bf3de810800000000000000
+      internalID: 1796161859802348324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_101
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 225
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ae59a89877da750800000000000000
+      internalID: 6317837284889979509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_102
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 226
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd33bb69d16b8d60800000000000000
+      internalID: 7893510358339632580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_103
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 225
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffaefb53d0bdfa3b0800000000000000
+      internalID: -5498935770213258497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_104
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 193
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42133d87908299de0800000000000000
+      internalID: -1325984594136977116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_105
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 194
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4cb6b6fd970d5880800000000000000
+      internalID: -8620725736686830513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_106
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 193
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d37b96f0f2c6a090800000000000000
+      internalID: -8023511345928637480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_107
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 195
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1270bb6a5e5201850800000000000000
+      internalID: 6345613543240042273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_108
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 194
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626c69dfe279db610800000000000000
+      internalID: 1638632067511535142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_109
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 193
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8887fb248729dc0800000000000000
+      internalID: -3633709721259046720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_110
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 193
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a15b34f143b70b0800000000000000
+      internalID: -5729928792014251477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_111
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 194
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f95266b012299b0800000000000000
+      internalID: -5074957497251029186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_112
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 193
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f671fd4cbe019ce90800000000000000
+      internalID: -7005049140591782033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_113
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 194
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fc371955672dac0800000000000000
+      internalID: -3831870223054286961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_114
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 193
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d772ba9af2d51a0800000000000000
+      internalID: -6819241855001592542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_115
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 193
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57509348e972a5060800000000000000
+      internalID: 6942905337321686389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_116
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 194
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc7975b5d2b9e530800000000000000
+      internalID: 3884832784526179575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_117
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 193
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4556bef328aeb8980800000000000000
+      internalID: -8535470823611603628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_118
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 194
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71da4354509325ea0800000000000000
+      internalID: -5885579068221117161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_119
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 161
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856db4d803f5cc120800000000000000
+      internalID: 2435426160634222168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_120
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 161
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a0bccf1f42511370800000000000000
+      internalID: 8291498888755196066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_121
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 162
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67839a229dc421ab0800000000000000
+      internalID: -5038880537601034122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_122
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 162
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7699b02cb8abf2520800000000000000
+      internalID: 2679565412727495015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_123
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 162
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661b0c1c6253f3e00800000000000000
+      internalID: 1026597680639422822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_124
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 162
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9afc556c1a6363730800000000000000
+      internalID: 3978427389273558953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_125
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 161
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82177b4b1a559f050800000000000000
+      internalID: 5834788945245204776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_126
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 160
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc0a486ecdcaf430800000000000000
+      internalID: 3817589920546557182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_127
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 161
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852fd19273720e900800000000000000
+      internalID: 711611858991051352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_128
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 161
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c163451f047e390800000000000000
+      internalID: -7789185625269855199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_129
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 161
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0109ba1d8af1c40800000000000000
+      internalID: 5485288489640530144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_130
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 162
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2147961a5b90a6ed0800000000000000
+      internalID: -2420111174056446958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_131
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 162
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d256e8c5e0b8630800000000000000
+      internalID: 3930250890499665251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_132
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 162
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a38507ba5252200800000000000000
+      internalID: 154571180468615783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_133
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 162
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd8de5863c340a90800000000000000
+      internalID: -7348682487088968264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_134
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 129
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8d8a0184b0cf5e0800000000000000
+      internalID: -1874610940747917104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_135
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 129
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f58e85565108af70800000000000000
+      internalID: 9198603709218457080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_136
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 128
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f80114362d796b50800000000000000
+      internalID: 6586933533041821937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_137
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 128
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712964564707d2f30800000000000000
+      internalID: 4552418443559080471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_138
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 129
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 289275207aec2eef0800000000000000
+      internalID: -80274626645120638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_139
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 131
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d70c4394daae1fa0800000000000000
+      internalID: -5828033037789820970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_140
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 129
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48e4be3868974a20800000000000000
+      internalID: 3046571246435493963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_141
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 129
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e28afb2113381600800000000000000
+      internalID: 439157112513921765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_142
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 131
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750da8885408a9f60800000000000000
+      internalID: 8041881120755339351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_143
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 130
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f6f99e0d232a960800000000000000
+      internalID: 7611702193063685993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_144
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 135
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97bb8cf0c56e55a70800000000000000
+      internalID: 8815205128723807097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_145
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 131
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3a7e661a3ff6140800000000000000
+      internalID: 4715255209421939623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_146
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 131
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd5f32bf85b307d0800000000000000
+      internalID: -2953317301849465379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_147
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 132
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d945fd516917600800000000000000
+      internalID: 464317257281215826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_148
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 131
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26411529affc43140800000000000000
+      internalID: 4698608986357830754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_149
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 97
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c97b72d66fad6d0800000000000000
+      internalID: -2964786455991837558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_150
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 97
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed280e949a5c8390800000000000000
+      internalID: -7814771659041657367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_151
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 97
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efff449c968e22f90800000000000000
+      internalID: -6979760931424894978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_152
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 63
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75781a79d6a98a620800000000000000
+      internalID: 2785646165014710103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_153
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 96
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd28a768f09e35860800000000000000
+      internalID: 7517608455901446876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_154
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 96
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9186c9379b5b760800000000000000
+      internalID: 7473083062887651805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_155
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 96
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58928b90bff74110800000000000000
+      internalID: 1245244955979585628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_156
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 96
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e98338f35cb64b0800000000000000
+      internalID: -5446042447799345553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_157
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 96
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48c3b6d0dbcfae9c0800000000000000
+      internalID: -3897024638631592828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_158
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 95
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 151f7d3beb84e1660800000000000000
+      internalID: 7358398825068228945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_159
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 96
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e8cd0bcf05f4060800000000000000
+      internalID: 6939854597030448768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_160
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 96
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f247af7a1fe295c0800000000000000
+      internalID: -4210039804548136201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_161
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 97
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2d95bf71a4c7be0800000000000000
+      internalID: -1478225110822694194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_162
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 96
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa72b80125c305370800000000000000
+      internalID: 8309207635661105071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_163
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 96
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33487b30bc72f6370800000000000000
+      internalID: 8317910789670798387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_164
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 96
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2da0374e01b2a20800000000000000
+      internalID: 3038540946960208612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_165
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 63
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b450b7f897afc97e0800000000000000
+      internalID: -1757254354576145077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_166
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 64
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf94158f24f1b36a0800000000000000
+      internalID: -6468542067293206021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_167
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 64
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e358b0f5daacfc7f0800000000000000
+      internalID: -590030180189502146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_168
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 64
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3e3de0461dee960800000000000000
+      internalID: 7633268646115271604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_169
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 64
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c0318b41ef35290800000000000000
+      internalID: -7902693556164031440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_170
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 64
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1325fbf5b642c65c0800000000000000
+      internalID: -4220958707166522831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_171
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 64
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b97f846ad4e2da0800000000000000
+      internalID: -5967747079635231867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_172
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 63
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb6e1e249b9a3860800000000000000
+      internalID: 7510486389324934120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_173
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 64
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4c091212537d6e0800000000000000
+      internalID: -1812921908580006682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_174
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 68
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d774bb7a2bbf2830800000000000000
+      internalID: 4048660381167810518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_175
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 67
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7d55a7b3bacfdf0800000000000000
+      internalID: -145052816038832183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_176
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 68
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9c9467bfe1fb110800000000000000
+      internalID: 1278774884566682025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_177
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 69
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1703f29e4157f5a0800000000000000
+      internalID: -6487627340289210597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_178
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 67
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faaf4ec88d41da3c0800000000000000
+      internalID: -4346795145033352529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_179
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 33
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cedacdacfcdb2ca0800000000000000
+      internalID: -6040491497381765434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_180
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 35
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c3269a3c465c060800000000000000
+      internalID: 6973090389576268824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_181
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 36
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb92673c56dd7850800000000000000
+      internalID: 6376488338981034985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_182
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 35
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c57adc14aecd3f0800000000000000
+      internalID: -874566659272647665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_183
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 35
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee41b131748f24b0800000000000000
+      internalID: -5463002201277247766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_184
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 34
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c136b193e4941a0800000000000000
+      internalID: -6824837753123693480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_185
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 34
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 240f430316c958d00800000000000000
+      internalID: 974356835630116930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_186
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf23c00429d5627b0800000000000000
+      internalID: -5249405432932584708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_187
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 36
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 125165adc63689e60800000000000000
+      internalID: 7969228859802785057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_188
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 35
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57510a6eaf30e8540800000000000000
+      internalID: 5011947811455898997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_189
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 34
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea824ea10722aa210800000000000000
+      internalID: 1344925303606356142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_190
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 35
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d74489fc128adb0800000000000000
+      internalID: -4780533828957209204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_191
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 35
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd5cfc52e7c565f0800000000000000
+      internalID: -763984786732851787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_192
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 35
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a69fa38afaf65280800000000000000
+      internalID: -9054774046923712856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_193
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 35
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5e6e78408f02750800000000000000
+      internalID: 6278290578898085298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_194
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a2384fe26433c40800000000000000
+      internalID: 5490809538179443302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_195
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0692a902429c33d00800000000000000
+      internalID: 951325103308286304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_196
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6e77e523a733820800000000000000
+      internalID: 2896793342081230589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_197
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3361bf07d3dbae90800000000000000
+      internalID: -7013279074064702657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Yellow_198
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 3
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de253eebee65cc900800000000000000
+      internalID: 706034824995099373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Mask_Yellow_0: -4667884180673008984
+      SS_Mask_Yellow_1: 2932527689218910866
+      SS_Mask_Yellow_10: 4144855787894812271
+      SS_Mask_Yellow_100: 1796161859802348324
+      SS_Mask_Yellow_101: 6317837284889979509
+      SS_Mask_Yellow_102: 7893510358339632580
+      SS_Mask_Yellow_103: -5498935770213258497
+      SS_Mask_Yellow_104: -1325984594136977116
+      SS_Mask_Yellow_105: -8620725736686830513
+      SS_Mask_Yellow_106: -8023511345928637480
+      SS_Mask_Yellow_107: 6345613543240042273
+      SS_Mask_Yellow_108: 1638632067511535142
+      SS_Mask_Yellow_109: -3633709721259046720
+      SS_Mask_Yellow_11: 3132192952888676853
+      SS_Mask_Yellow_110: -5729928792014251477
+      SS_Mask_Yellow_111: -5074957497251029186
+      SS_Mask_Yellow_112: -7005049140591782033
+      SS_Mask_Yellow_113: -3831870223054286961
+      SS_Mask_Yellow_114: -6819241855001592542
+      SS_Mask_Yellow_115: 6942905337321686389
+      SS_Mask_Yellow_116: 3884832784526179575
+      SS_Mask_Yellow_117: -8535470823611603628
+      SS_Mask_Yellow_118: -5885579068221117161
+      SS_Mask_Yellow_119: 2435426160634222168
+      SS_Mask_Yellow_12: -8965378037543805327
+      SS_Mask_Yellow_120: 8291498888755196066
+      SS_Mask_Yellow_121: -5038880537601034122
+      SS_Mask_Yellow_122: 2679565412727495015
+      SS_Mask_Yellow_123: 1026597680639422822
+      SS_Mask_Yellow_124: 3978427389273558953
+      SS_Mask_Yellow_125: 5834788945245204776
+      SS_Mask_Yellow_126: 3817589920546557182
+      SS_Mask_Yellow_127: 711611858991051352
+      SS_Mask_Yellow_128: -7789185625269855199
+      SS_Mask_Yellow_129: 5485288489640530144
+      SS_Mask_Yellow_13: -339168895382447759
+      SS_Mask_Yellow_130: -2420111174056446958
+      SS_Mask_Yellow_131: 3930250890499665251
+      SS_Mask_Yellow_132: 154571180468615783
+      SS_Mask_Yellow_133: -7348682487088968264
+      SS_Mask_Yellow_134: -1874610940747917104
+      SS_Mask_Yellow_135: 9198603709218457080
+      SS_Mask_Yellow_136: 6586933533041821937
+      SS_Mask_Yellow_137: 4552418443559080471
+      SS_Mask_Yellow_138: -80274626645120638
+      SS_Mask_Yellow_139: -5828033037789820970
+      SS_Mask_Yellow_14: -8883942658697823362
+      SS_Mask_Yellow_140: 3046571246435493963
+      SS_Mask_Yellow_141: 439157112513921765
+      SS_Mask_Yellow_142: 8041881120755339351
+      SS_Mask_Yellow_143: 7611702193063685993
+      SS_Mask_Yellow_144: 8815205128723807097
+      SS_Mask_Yellow_145: 4715255209421939623
+      SS_Mask_Yellow_146: -2953317301849465379
+      SS_Mask_Yellow_147: 464317257281215826
+      SS_Mask_Yellow_148: 4698608986357830754
+      SS_Mask_Yellow_149: -2964786455991837558
+      SS_Mask_Yellow_15: 5000086883944800970
+      SS_Mask_Yellow_150: -7814771659041657367
+      SS_Mask_Yellow_151: -6979760931424894978
+      SS_Mask_Yellow_152: 2785646165014710103
+      SS_Mask_Yellow_153: 7517608455901446876
+      SS_Mask_Yellow_154: 7473083062887651805
+      SS_Mask_Yellow_155: 1245244955979585628
+      SS_Mask_Yellow_156: -5446042447799345553
+      SS_Mask_Yellow_157: -3897024638631592828
+      SS_Mask_Yellow_158: 7358398825068228945
+      SS_Mask_Yellow_159: 6939854597030448768
+      SS_Mask_Yellow_16: 3122467319234221106
+      SS_Mask_Yellow_160: -4210039804548136201
+      SS_Mask_Yellow_161: -1478225110822694194
+      SS_Mask_Yellow_162: 8309207635661105071
+      SS_Mask_Yellow_163: 8317910789670798387
+      SS_Mask_Yellow_164: 3038540946960208612
+      SS_Mask_Yellow_165: -1757254354576145077
+      SS_Mask_Yellow_166: -6468542067293206021
+      SS_Mask_Yellow_167: -590030180189502146
+      SS_Mask_Yellow_168: 7633268646115271604
+      SS_Mask_Yellow_169: -7902693556164031440
+      SS_Mask_Yellow_17: 4477777191432392737
+      SS_Mask_Yellow_170: -4220958707166522831
+      SS_Mask_Yellow_171: -5967747079635231867
+      SS_Mask_Yellow_172: 7510486389324934120
+      SS_Mask_Yellow_173: -1812921908580006682
+      SS_Mask_Yellow_174: 4048660381167810518
+      SS_Mask_Yellow_175: -145052816038832183
+      SS_Mask_Yellow_176: 1278774884566682025
+      SS_Mask_Yellow_177: -6487627340289210597
+      SS_Mask_Yellow_178: -4346795145033352529
+      SS_Mask_Yellow_179: -6040491497381765434
+      SS_Mask_Yellow_18: -9135428098813778104
+      SS_Mask_Yellow_180: 6973090389576268824
+      SS_Mask_Yellow_181: 6376488338981034985
+      SS_Mask_Yellow_182: -874566659272647665
+      SS_Mask_Yellow_183: -5463002201277247766
+      SS_Mask_Yellow_184: -6824837753123693480
+      SS_Mask_Yellow_185: 974356835630116930
+      SS_Mask_Yellow_186: -5249405432932584708
+      SS_Mask_Yellow_187: 7969228859802785057
+      SS_Mask_Yellow_188: 5011947811455898997
+      SS_Mask_Yellow_189: 1344925303606356142
+      SS_Mask_Yellow_19: 649601111918032170
+      SS_Mask_Yellow_190: -4780533828957209204
+      SS_Mask_Yellow_191: -763984786732851787
+      SS_Mask_Yellow_192: -9054774046923712856
+      SS_Mask_Yellow_193: 6278290578898085298
+      SS_Mask_Yellow_194: 5490809538179443302
+      SS_Mask_Yellow_195: 951325103308286304
+      SS_Mask_Yellow_196: 2896793342081230589
+      SS_Mask_Yellow_197: -7013279074064702657
+      SS_Mask_Yellow_198: 706034824995099373
+      SS_Mask_Yellow_2: 835185477800940888
+      SS_Mask_Yellow_20: -957887811389842276
+      SS_Mask_Yellow_21: 246132588776873988
+      SS_Mask_Yellow_22: -615320952913090825
+      SS_Mask_Yellow_23: 1872846293140637654
+      SS_Mask_Yellow_24: -6129266334531763914
+      SS_Mask_Yellow_25: -764112705275388212
+      SS_Mask_Yellow_26: 4709061782196516439
+      SS_Mask_Yellow_27: 4194378002544015882
+      SS_Mask_Yellow_28: -5787860490981009385
+      SS_Mask_Yellow_29: -5747680766111523419
+      SS_Mask_Yellow_3: -3484088053579981903
+      SS_Mask_Yellow_30: -3372708540942710464
+      SS_Mask_Yellow_31: 9073452570289522867
+      SS_Mask_Yellow_32: -5988317577426342212
+      SS_Mask_Yellow_33: -6318458972685287738
+      SS_Mask_Yellow_34: 968953033541332698
+      SS_Mask_Yellow_35: 4617756659368010015
+      SS_Mask_Yellow_36: 7373181309291563214
+      SS_Mask_Yellow_37: 7943324185611119029
+      SS_Mask_Yellow_38: -5640919331618069235
+      SS_Mask_Yellow_39: 7885772217548851188
+      SS_Mask_Yellow_4: 8386549755025493975
+      SS_Mask_Yellow_40: 1730777299839771421
+      SS_Mask_Yellow_41: 6563552385622384375
+      SS_Mask_Yellow_42: -4338748634695246392
+      SS_Mask_Yellow_43: -7887144714753006957
+      SS_Mask_Yellow_44: 7606315908572270803
+      SS_Mask_Yellow_45: -2428766515938746203
+      SS_Mask_Yellow_46: -338634131788057593
+      SS_Mask_Yellow_47: 5973984345093672940
+      SS_Mask_Yellow_48: -6373411194524467929
+      SS_Mask_Yellow_49: 3162265224411602760
+      SS_Mask_Yellow_5: 494063113810923086
+      SS_Mask_Yellow_50: 784002199674417468
+      SS_Mask_Yellow_51: 4497745003702091986
+      SS_Mask_Yellow_52: -147064759361373451
+      SS_Mask_Yellow_53: -5836920762841395729
+      SS_Mask_Yellow_54: 657580086731864073
+      SS_Mask_Yellow_55: -5779855100463928840
+      SS_Mask_Yellow_56: -906381491888324687
+      SS_Mask_Yellow_57: 5170209403941019986
+      SS_Mask_Yellow_58: -6592134696532450870
+      SS_Mask_Yellow_59: -1672239412904684615
+      SS_Mask_Yellow_6: -4615586383999502687
+      SS_Mask_Yellow_60: -5065177737380557788
+      SS_Mask_Yellow_61: 3232209273579221679
+      SS_Mask_Yellow_62: -5348137326116800903
+      SS_Mask_Yellow_63: 8679290460669769360
+      SS_Mask_Yellow_64: 831344661470057957
+      SS_Mask_Yellow_65: -4735305158024297902
+      SS_Mask_Yellow_66: 8774418520255866064
+      SS_Mask_Yellow_67: -1249233705663993962
+      SS_Mask_Yellow_68: -52232660100050742
+      SS_Mask_Yellow_69: 8359266693611205127
+      SS_Mask_Yellow_7: -1625457815706788417
+      SS_Mask_Yellow_70: -3506420695870857798
+      SS_Mask_Yellow_71: -447571734146965399
+      SS_Mask_Yellow_72: 991358198796682655
+      SS_Mask_Yellow_73: -1288248577064171641
+      SS_Mask_Yellow_74: -7614246375298915230
+      SS_Mask_Yellow_75: 5495487752420936918
+      SS_Mask_Yellow_76: -1200578468755056755
+      SS_Mask_Yellow_77: 5983534895787110637
+      SS_Mask_Yellow_78: 7435234266751779595
+      SS_Mask_Yellow_79: -5870277052944705237
+      SS_Mask_Yellow_8: 4368313043630350595
+      SS_Mask_Yellow_80: 6738355944658806625
+      SS_Mask_Yellow_81: -6070933433596531569
+      SS_Mask_Yellow_82: 5290765223573608725
+      SS_Mask_Yellow_83: 4095172816633454370
+      SS_Mask_Yellow_84: -4183380980678969525
+      SS_Mask_Yellow_85: -1344116916525935910
+      SS_Mask_Yellow_86: -5801779609772348983
+      SS_Mask_Yellow_87: 3684172009510935193
+      SS_Mask_Yellow_88: -7740841186140336697
+      SS_Mask_Yellow_89: -805236992366429262
+      SS_Mask_Yellow_9: 3538592241964768318
+      SS_Mask_Yellow_90: 4700971734170519447
+      SS_Mask_Yellow_91: 5288365040750398021
+      SS_Mask_Yellow_92: 3365780220412845283
+      SS_Mask_Yellow_93: -7519626813037210239
+      SS_Mask_Yellow_94: -1509917424503896559
+      SS_Mask_Yellow_95: 8469876126241310267
+      SS_Mask_Yellow_96: -1877770691016255612
+      SS_Mask_Yellow_97: -5378189239378815996
+      SS_Mask_Yellow_98: -5533031566747482887
+      SS_Mask_Yellow_99: -3324282125029560840
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

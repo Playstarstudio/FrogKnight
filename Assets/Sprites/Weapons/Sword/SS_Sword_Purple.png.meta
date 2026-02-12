@@ -1,0 +1,3250 @@
+fileFormatVersion: 2
+guid: 2650eda2785e64f4f87f31b4051d8901
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1736708625725041137
+    second: SS_Sword_Purple_0
+  - first:
+      213: 6120664109920682841
+    second: SS_Sword_Purple_1
+  - first:
+      213: 1471141610778267194
+    second: SS_Sword_Purple_2
+  - first:
+      213: -1754032554999040975
+    second: SS_Sword_Purple_3
+  - first:
+      213: -1111585454549534073
+    second: SS_Sword_Purple_4
+  - first:
+      213: 8260227014061349463
+    second: SS_Sword_Purple_5
+  - first:
+      213: 1189587406022194322
+    second: SS_Sword_Purple_6
+  - first:
+      213: -5933641449704995718
+    second: SS_Sword_Purple_7
+  - first:
+      213: 1790692301192684256
+    second: SS_Sword_Purple_8
+  - first:
+      213: -7202036674449325983
+    second: SS_Sword_Purple_9
+  - first:
+      213: 6184158549811888773
+    second: SS_Sword_Purple_10
+  - first:
+      213: -2949659663788193994
+    second: SS_Sword_Purple_11
+  - first:
+      213: -1717103115584881137
+    second: SS_Sword_Purple_12
+  - first:
+      213: 8534582132963264243
+    second: SS_Sword_Purple_13
+  - first:
+      213: 8209124432181231807
+    second: SS_Sword_Purple_14
+  - first:
+      213: 457765513711989745
+    second: SS_Sword_Purple_15
+  - first:
+      213: 2652458400454693689
+    second: SS_Sword_Purple_16
+  - first:
+      213: 2147363510476909699
+    second: SS_Sword_Purple_17
+  - first:
+      213: 6826800958667032709
+    second: SS_Sword_Purple_18
+  - first:
+      213: 7089012972243513911
+    second: SS_Sword_Purple_19
+  - first:
+      213: 5447287088213399038
+    second: SS_Sword_Purple_20
+  - first:
+      213: -164275851845961986
+    second: SS_Sword_Purple_21
+  - first:
+      213: 6163378363879628743
+    second: SS_Sword_Purple_22
+  - first:
+      213: -5382522068237690910
+    second: SS_Sword_Purple_23
+  - first:
+      213: -2851410871443536209
+    second: SS_Sword_Purple_24
+  - first:
+      213: -4265084325215646422
+    second: SS_Sword_Purple_25
+  - first:
+      213: 8130061387636537220
+    second: SS_Sword_Purple_26
+  - first:
+      213: -6257731769323104080
+    second: SS_Sword_Purple_27
+  - first:
+      213: -4690484778202177569
+    second: SS_Sword_Purple_28
+  - first:
+      213: -3287040150847883703
+    second: SS_Sword_Purple_29
+  - first:
+      213: -4057713517357384132
+    second: SS_Sword_Purple_30
+  - first:
+      213: -3354149202916641163
+    second: SS_Sword_Purple_31
+  - first:
+      213: -6502425849615874348
+    second: SS_Sword_Purple_32
+  - first:
+      213: -8193396252060126504
+    second: SS_Sword_Purple_33
+  - first:
+      213: -3901746922741897917
+    second: SS_Sword_Purple_34
+  - first:
+      213: -1091565801153650245
+    second: SS_Sword_Purple_35
+  - first:
+      213: -4293320112306468839
+    second: SS_Sword_Purple_36
+  - first:
+      213: -8238398396273359826
+    second: SS_Sword_Purple_37
+  - first:
+      213: -8282914856070026132
+    second: SS_Sword_Purple_38
+  - first:
+      213: 7747661805706397288
+    second: SS_Sword_Purple_39
+  - first:
+      213: -8262796688724703835
+    second: SS_Sword_Purple_40
+  - first:
+      213: 5612114055506092026
+    second: SS_Sword_Purple_41
+  - first:
+      213: 8665512588107476058
+    second: SS_Sword_Purple_42
+  - first:
+      213: 6558831789339335378
+    second: SS_Sword_Purple_43
+  - first:
+      213: -3395199903619336917
+    second: SS_Sword_Purple_44
+  - first:
+      213: -7538025182637776867
+    second: SS_Sword_Purple_45
+  - first:
+      213: -1863314939593672811
+    second: SS_Sword_Purple_46
+  - first:
+      213: 5321465786316686422
+    second: SS_Sword_Purple_47
+  - first:
+      213: -7495368781053933802
+    second: SS_Sword_Purple_48
+  - first:
+      213: 1564473713635510428
+    second: SS_Sword_Purple_49
+  - first:
+      213: -7316576167849417201
+    second: SS_Sword_Purple_50
+  - first:
+      213: -1898876561840619788
+    second: SS_Sword_Purple_51
+  - first:
+      213: 7296642130809120394
+    second: SS_Sword_Purple_52
+  - first:
+      213: -2840767865048828880
+    second: SS_Sword_Purple_53
+  - first:
+      213: -5065216328263615427
+    second: SS_Sword_Purple_54
+  - first:
+      213: 5445352215383747322
+    second: SS_Sword_Purple_55
+  - first:
+      213: -5069539865536262607
+    second: SS_Sword_Purple_56
+  - first:
+      213: 3264237395530261866
+    second: SS_Sword_Purple_57
+  - first:
+      213: -2658218373105629188
+    second: SS_Sword_Purple_58
+  - first:
+      213: -526211354586548379
+    second: SS_Sword_Purple_59
+  - first:
+      213: 4055046615171034885
+    second: SS_Sword_Purple_60
+  - first:
+      213: -4282276958095626029
+    second: SS_Sword_Purple_61
+  - first:
+      213: 7593365625582895517
+    second: SS_Sword_Purple_62
+  - first:
+      213: -3587293828601938338
+    second: SS_Sword_Purple_63
+  - first:
+      213: 4199486933806718582
+    second: SS_Sword_Purple_64
+  - first:
+      213: -2949554243868356807
+    second: SS_Sword_Purple_65
+  - first:
+      213: -3039408479320524850
+    second: SS_Sword_Purple_66
+  - first:
+      213: 7797599013030016283
+    second: SS_Sword_Purple_67
+  - first:
+      213: -2821924477933607825
+    second: SS_Sword_Purple_68
+  - first:
+      213: 6811274418973098175
+    second: SS_Sword_Purple_69
+  - first:
+      213: 3635732804614932715
+    second: SS_Sword_Purple_70
+  - first:
+      213: 4862267489073841377
+    second: SS_Sword_Purple_71
+  - first:
+      213: -5634133016505929671
+    second: SS_Sword_Purple_72
+  - first:
+      213: -1973984634136629830
+    second: SS_Sword_Purple_73
+  - first:
+      213: 1730376161221801751
+    second: SS_Sword_Purple_74
+  - first:
+      213: 1782635854295735249
+    second: SS_Sword_Purple_75
+  - first:
+      213: -5417458871605827542
+    second: SS_Sword_Purple_76
+  - first:
+      213: 2432139533931106671
+    second: SS_Sword_Purple_77
+  - first:
+      213: 7997101150218026878
+    second: SS_Sword_Purple_78
+  - first:
+      213: 5984179833373133115
+    second: SS_Sword_Purple_79
+  - first:
+      213: -6816299141643750240
+    second: SS_Sword_Purple_80
+  - first:
+      213: 1396712564320004827
+    second: SS_Sword_Purple_81
+  - first:
+      213: -882373094818151569
+    second: SS_Sword_Purple_82
+  - first:
+      213: -3434384717094972885
+    second: SS_Sword_Purple_83
+  - first:
+      213: 6290036397987526575
+    second: SS_Sword_Purple_84
+  - first:
+      213: -1950622236051482719
+    second: SS_Sword_Purple_85
+  - first:
+      213: -8025498862052679497
+    second: SS_Sword_Purple_86
+  - first:
+      213: 1969652414999159311
+    second: SS_Sword_Purple_87
+  - first:
+      213: -4357582510039722732
+    second: SS_Sword_Purple_88
+  - first:
+      213: -7440475092107770306
+    second: SS_Sword_Purple_89
+  - first:
+      213: 1504346398237613673
+    second: SS_Sword_Purple_90
+  - first:
+      213: -4318382280793757090
+    second: SS_Sword_Purple_91
+  - first:
+      213: 309692497631502682
+    second: SS_Sword_Purple_92
+  - first:
+      213: 8342570826108045134
+    second: SS_Sword_Purple_93
+  - first:
+      213: 8864744588112975614
+    second: SS_Sword_Purple_94
+  - first:
+      213: 937784173789251044
+    second: SS_Sword_Purple_95
+  - first:
+      213: -522442560898741965
+    second: SS_Sword_Purple_96
+  - first:
+      213: 7961892270799199895
+    second: SS_Sword_Purple_97
+  - first:
+      213: -2686295190394929655
+    second: SS_Sword_Purple_98
+  - first:
+      213: -7137440677956248141
+    second: SS_Sword_Purple_99
+  - first:
+      213: 3730005308581871200
+    second: SS_Sword_Purple_100
+  - first:
+      213: 2461527605567503706
+    second: SS_Sword_Purple_101
+  - first:
+      213: 2137729837958709020
+    second: SS_Sword_Purple_102
+  - first:
+      213: -2403332869648426589
+    second: SS_Sword_Purple_103
+  - first:
+      213: 1138430209348996682
+    second: SS_Sword_Purple_104
+  - first:
+      213: 5210108064317028797
+    second: SS_Sword_Purple_105
+  - first:
+      213: -822236887111282638
+    second: SS_Sword_Purple_106
+  - first:
+      213: -1346029643123411079
+    second: SS_Sword_Purple_107
+  - first:
+      213: 4708829401529249570
+    second: SS_Sword_Purple_108
+  - first:
+      213: 9180569466785595280
+    second: SS_Sword_Purple_109
+  - first:
+      213: -1728404500717786460
+    second: SS_Sword_Purple_110
+  - first:
+      213: 6856962168434592974
+    second: SS_Sword_Purple_111
+  - first:
+      213: 629390367006339498
+    second: SS_Sword_Purple_112
+  - first:
+      213: -5438624845816437700
+    second: SS_Sword_Purple_113
+  - first:
+      213: 2646651932134234526
+    second: SS_Sword_Purple_114
+  - first:
+      213: 1002496727453977929
+    second: SS_Sword_Purple_115
+  - first:
+      213: 8040412170297424865
+    second: SS_Sword_Purple_116
+  - first:
+      213: -1479682693802843557
+    second: SS_Sword_Purple_117
+  - first:
+      213: -3596699837577666664
+    second: SS_Sword_Purple_118
+  - first:
+      213: 2489204954212755869
+    second: SS_Sword_Purple_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Sword_Purple_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f9a2ba2b470a1810800000000000000
+      internalID: 1736708625725041137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 322
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9530e4d4497f0f450800000000000000
+      internalID: 6120664109920682841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 321
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e0cb4208b8a6410800000000000000
+      internalID: 1471141610778267194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 321
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134bfca3fac68a7e0800000000000000
+      internalID: -1754032554999040975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a75142bead290f0800000000000000
+      internalID: -1111585454549534073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 321
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a563964b832a270800000000000000
+      internalID: 8260227014061349463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 322
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2943b3d6173428010800000000000000
+      internalID: 1189587406022194322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 321
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74cccd0a8877ada0800000000000000
+      internalID: -5933641449704995718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 322
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2ed921921d9d810800000000000000
+      internalID: 1790692301192684256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 322
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160cc187dc93d0c90800000000000000
+      internalID: -7202036674449325983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 322
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5828b3c9f6b82d550800000000000000
+      internalID: 6184158549811888773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6374b9be924b017d0800000000000000
+      internalID: -2949659663788193994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 290
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0eb8d060df9b28e0800000000000000
+      internalID: -1717103115584881137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6cba55b3de07670800000000000000
+      internalID: 8534582132963264243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 289
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb084216d2bace170800000000000000
+      internalID: 8209124432181231807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 289
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f33a333f4f4a5600800000000000000
+      internalID: 457765513711989745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 289
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9335a94acdc6fc420800000000000000
+      internalID: 2652458400454693689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 289
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cac9d4cb7fccd10800000000000000
+      internalID: 2147363510476909699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 289
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58805ad4d4badbe50800000000000000
+      internalID: 6826800958667032709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732f5b23dbb316260800000000000000
+      internalID: 7089012972243513911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5188aeeb6a89b40800000000000000
+      internalID: 5447287088213399038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6fb8dabff58bdf0800000000000000
+      internalID: -164275851845961986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 256
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf9f5b87f7b88550800000000000000
+      internalID: 6163378363879628743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7ddfe52b07d45b0800000000000000
+      internalID: -5382522068237690910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 257
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6cbea7be0cd68d0800000000000000
+      internalID: -2851410871443536209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 224
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d4f6257606fc4c0800000000000000
+      internalID: -4265084325215646422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487f134d1c7c3d070800000000000000
+      internalID: 8130061387636537220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 257
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8d1d55c121829a0800000000000000
+      internalID: -6257731769323104080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 257
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfd1ea02fc08eeb0800000000000000
+      internalID: -4690484778202177569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_29
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 224
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946f346f5661262d0800000000000000
+      internalID: -3287040150847883703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ebc9dfd0b10b7c0800000000000000
+      internalID: -4057713517357384132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_31
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 224
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5767e7c221ba371d0800000000000000
+      internalID: -3354149202916641163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6045f142eb2c5a0800000000000000
+      internalID: -6502425849615874348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 256
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d270fbe4853b4e80800000000000000
+      internalID: -8193396252060126504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_34
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 256
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345ee7a98d53ad9c0800000000000000
+      internalID: -3901746922741897917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1a54defaaf9d0f0800000000000000
+      internalID: -1091565801153650245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918cee6da101b64c0800000000000000
+      internalID: -4293320112306468839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 194
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e248af7be445bad80800000000000000
+      internalID: -8238398396273359826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_38
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6ce32bb2dc2d0d80800000000000000
+      internalID: -8282914856070026132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_39
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 192
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866cdf80d59358b60800000000000000
+      internalID: 7747661805706397288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_40
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 224
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a54a459036a45d80800000000000000
+      internalID: -8262796688724703835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 224
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affda6dcffb32ed40800000000000000
+      internalID: 5612114055506092026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c62da79c5124870800000000000000
+      internalID: 8665512588107476058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_43
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 224
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da5c1123c6a50b50800000000000000
+      internalID: 6558831789339335378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25345b1da3d1e0d0800000000000000
+      internalID: -3395199903619336917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d102de8d80e836790800000000000000
+      internalID: -7538025182637776867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59737d84fec2426e0800000000000000
+      internalID: -1863314939593672811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6540dc530f4a9d940800000000000000
+      internalID: 5321465786316686422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6174ab84ec91bf790800000000000000
+      internalID: -7495368781053933802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c984ea9bd8026b510800000000000000
+      internalID: 1564473713635510428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 193
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f062f3f7dbc467a90800000000000000
+      internalID: -7316576167849417201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 160
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4febc23e3d5d5a5e0800000000000000
+      internalID: -1898876561840619788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86e604db51e24560800000000000000
+      internalID: 7296642130809120394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0347b628da09398d0800000000000000
+      internalID: -2840767865048828880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3cb65b069cb4b9b0800000000000000
+      internalID: -5065216328263615427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afaa5da3df6c19b40800000000000000
+      internalID: 5445352215383747322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_56
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e87041a5065a9b0800000000000000
+      internalID: -5069539865536262607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65a027dd96ec4d20800000000000000
+      internalID: 3264237395530261866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf74f97397c1c1bd0800000000000000
+      internalID: -2658218373105629188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567771d9f8582b8f0800000000000000
+      internalID: -526211354586548379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f6be4796b664830800000000000000
+      internalID: 4055046615171034885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_61
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 164
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0beda8bcb4294c0800000000000000
+      internalID: -4282276958095626029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_62
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 164
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d91c78a1ecd016960800000000000000
+      internalID: 7593365625582895517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_63
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 161
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5efa39e44f573ec0800000000000000
+      internalID: -3587293828601938338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_64
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 162
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e9170dd13974a30800000000000000
+      internalID: 4199486933806718582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_65
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 162
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f0b78ea041117d0800000000000000
+      internalID: -2949554243868356807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec73ace671ad1d5d0800000000000000
+      internalID: -3039408479320524850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 129
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1537982df2a63c60800000000000000
+      internalID: 7797599013030016283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_68
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 130
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64a9c573a286d8d0800000000000000
+      internalID: -2821924477933607825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_69
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 130
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0c8921ff1868e50800000000000000
+      internalID: 6811274418973098175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_70
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8ce4d09b7b47230800000000000000
+      internalID: 3635732804614932715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_71
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 132
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e44d29158e3a7340800000000000000
+      internalID: 4862267489073841377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_72
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 130
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9303dd55fd98fc1b0800000000000000
+      internalID: -5634133016505929671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_73
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 130
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abde4321f6ffa94e0800000000000000
+      internalID: -1973984634136629830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_74
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 131
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717fd6163f7830810800000000000000
+      internalID: 1730376161221801751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_75
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 130
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db1c2b5dd13db810800000000000000
+      internalID: 1782635854295735249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_76
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 130
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2865a4fbd151d4b0800000000000000
+      internalID: -5417458871605827542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_77
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 99
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61d5242502b0c120800000000000000
+      internalID: 2432139533931106671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 97
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ffc9b20296bfe60800000000000000
+      internalID: 7997101150218026878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_79
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 100
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3903485ad31c0350800000000000000
+      internalID: 5984179833373133115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a436838b04a761a0800000000000000
+      internalID: -6816299141643750240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_81
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 97
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda6e995dae126310800000000000000
+      internalID: 1396712564320004827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_82
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 98
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f638004685e21c3f0800000000000000
+      internalID: -882373094818151569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_83
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 98
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b221683cb4d9650d0800000000000000
+      internalID: -3434384717094972885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_84
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 100
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7f25627c2ba4750800000000000000
+      internalID: 6290036397987526575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_85
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 98
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a75c21496ffde4e0800000000000000
+      internalID: -1950622236051482719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_86
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 98
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b06c0e4e43bf9090800000000000000
+      internalID: -8025498862052679497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_87
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 97
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f02e30f8f6c955b10800000000000000
+      internalID: 1969652414999159311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_88
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 67
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41590a96bc1c683c0800000000000000
+      internalID: -4357582510039722732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_89
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 65
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3646c6335f1eb890800000000000000
+      internalID: -7440475092107770306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_90
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e571e241380e410800000000000000
+      internalID: 1504346398237613673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_91
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 65
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a62f402360214c0800000000000000
+      internalID: -4318382280793757090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_92
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 66
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51edee8faf3c4400800000000000000
+      internalID: 309692497631502682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_93
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 65
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4705bb27f3c6c370800000000000000
+      internalID: 8342570826108045134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_94
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 66
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef65a074c36e50b70800000000000000
+      internalID: 8864744588112975614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_95
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 65
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e501baccbda30d00800000000000000
+      internalID: 937784173789251044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_96
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339c5164249efb8f0800000000000000
+      internalID: -522442560898741965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_97
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 65
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e1aec16d25e7e60800000000000000
+      internalID: 7961892270799199895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_98
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 65
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e7ba6c1cc58bad0800000000000000
+      internalID: -2686295190394929655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd9ef8e487b2fc90800000000000000
+      internalID: -7137440677956248141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ef754d014a3c330800000000000000
+      internalID: 3730005308581871200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d3ba6c05a192220800000000000000
+      internalID: 2461527605567503706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f384126fdbaad10800000000000000
+      internalID: 2137729837958709020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a9d59b0d75a5aed0800000000000000
+      internalID: -2403332869648426589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_104
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 32
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e02d56e348ccf00800000000000000
+      internalID: 1138430209348996682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_105
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 34
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9b30f1ea50e4840800000000000000
+      internalID: 5210108064317028797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_106
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 33
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230528658e3d694f0800000000000000
+      internalID: -822236887111282638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_107
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 35
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977bb70db21f15de0800000000000000
+      internalID: -1346029643123411079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fe01a646f195140800000000000000
+      internalID: 4708829401529249570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_109
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09f7d8f0a4fe76f70800000000000000
+      internalID: 9180569466785595280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aaa78a93497308e0800000000000000
+      internalID: -1728404500717786460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc06df23c2d82f50800000000000000
+      internalID: 6856962168434592974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa13772443b0cb800800000000000000
+      internalID: 629390367006339498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_113
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c346f7e848f1684b0800000000000000
+      internalID: -5438624845816437700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_114
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9956f2e8ebcab420800000000000000
+      internalID: 2646651932134234526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_115
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dc260567599ed00800000000000000
+      internalID: 1002496727453977929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_116
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb3e4ad448459f60800000000000000
+      internalID: 8040412170297424865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52a69ffd6c177be0800000000000000
+      internalID: -1479682693802843557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f5a79cd84f51ec0800000000000000
+      internalID: -3596699837577666664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Purple_119
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d996efca7be6b8220800000000000000
+      internalID: 2489204954212755869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Sword_Purple_0: 1736708625725041137
+      SS_Sword_Purple_1: 6120664109920682841
+      SS_Sword_Purple_10: 6184158549811888773
+      SS_Sword_Purple_100: 3730005308581871200
+      SS_Sword_Purple_101: 2461527605567503706
+      SS_Sword_Purple_102: 2137729837958709020
+      SS_Sword_Purple_103: -2403332869648426589
+      SS_Sword_Purple_104: 1138430209348996682
+      SS_Sword_Purple_105: 5210108064317028797
+      SS_Sword_Purple_106: -822236887111282638
+      SS_Sword_Purple_107: -1346029643123411079
+      SS_Sword_Purple_108: 4708829401529249570
+      SS_Sword_Purple_109: 9180569466785595280
+      SS_Sword_Purple_11: -2949659663788193994
+      SS_Sword_Purple_110: -1728404500717786460
+      SS_Sword_Purple_111: 6856962168434592974
+      SS_Sword_Purple_112: 629390367006339498
+      SS_Sword_Purple_113: -5438624845816437700
+      SS_Sword_Purple_114: 2646651932134234526
+      SS_Sword_Purple_115: 1002496727453977929
+      SS_Sword_Purple_116: 8040412170297424865
+      SS_Sword_Purple_117: -1479682693802843557
+      SS_Sword_Purple_118: -3596699837577666664
+      SS_Sword_Purple_119: 2489204954212755869
+      SS_Sword_Purple_12: -1717103115584881137
+      SS_Sword_Purple_13: 8534582132963264243
+      SS_Sword_Purple_14: 8209124432181231807
+      SS_Sword_Purple_15: 457765513711989745
+      SS_Sword_Purple_16: 2652458400454693689
+      SS_Sword_Purple_17: 2147363510476909699
+      SS_Sword_Purple_18: 6826800958667032709
+      SS_Sword_Purple_19: 7089012972243513911
+      SS_Sword_Purple_2: 1471141610778267194
+      SS_Sword_Purple_20: 5447287088213399038
+      SS_Sword_Purple_21: -164275851845961986
+      SS_Sword_Purple_22: 6163378363879628743
+      SS_Sword_Purple_23: -5382522068237690910
+      SS_Sword_Purple_24: -2851410871443536209
+      SS_Sword_Purple_25: -4265084325215646422
+      SS_Sword_Purple_26: 8130061387636537220
+      SS_Sword_Purple_27: -6257731769323104080
+      SS_Sword_Purple_28: -4690484778202177569
+      SS_Sword_Purple_29: -3287040150847883703
+      SS_Sword_Purple_3: -1754032554999040975
+      SS_Sword_Purple_30: -4057713517357384132
+      SS_Sword_Purple_31: -3354149202916641163
+      SS_Sword_Purple_32: -6502425849615874348
+      SS_Sword_Purple_33: -8193396252060126504
+      SS_Sword_Purple_34: -3901746922741897917
+      SS_Sword_Purple_35: -1091565801153650245
+      SS_Sword_Purple_36: -4293320112306468839
+      SS_Sword_Purple_37: -8238398396273359826
+      SS_Sword_Purple_38: -8282914856070026132
+      SS_Sword_Purple_39: 7747661805706397288
+      SS_Sword_Purple_4: -1111585454549534073
+      SS_Sword_Purple_40: -8262796688724703835
+      SS_Sword_Purple_41: 5612114055506092026
+      SS_Sword_Purple_42: 8665512588107476058
+      SS_Sword_Purple_43: 6558831789339335378
+      SS_Sword_Purple_44: -3395199903619336917
+      SS_Sword_Purple_45: -7538025182637776867
+      SS_Sword_Purple_46: -1863314939593672811
+      SS_Sword_Purple_47: 5321465786316686422
+      SS_Sword_Purple_48: -7495368781053933802
+      SS_Sword_Purple_49: 1564473713635510428
+      SS_Sword_Purple_5: 8260227014061349463
+      SS_Sword_Purple_50: -7316576167849417201
+      SS_Sword_Purple_51: -1898876561840619788
+      SS_Sword_Purple_52: 7296642130809120394
+      SS_Sword_Purple_53: -2840767865048828880
+      SS_Sword_Purple_54: -5065216328263615427
+      SS_Sword_Purple_55: 5445352215383747322
+      SS_Sword_Purple_56: -5069539865536262607
+      SS_Sword_Purple_57: 3264237395530261866
+      SS_Sword_Purple_58: -2658218373105629188
+      SS_Sword_Purple_59: -526211354586548379
+      SS_Sword_Purple_6: 1189587406022194322
+      SS_Sword_Purple_60: 4055046615171034885
+      SS_Sword_Purple_61: -4282276958095626029
+      SS_Sword_Purple_62: 7593365625582895517
+      SS_Sword_Purple_63: -3587293828601938338
+      SS_Sword_Purple_64: 4199486933806718582
+      SS_Sword_Purple_65: -2949554243868356807
+      SS_Sword_Purple_66: -3039408479320524850
+      SS_Sword_Purple_67: 7797599013030016283
+      SS_Sword_Purple_68: -2821924477933607825
+      SS_Sword_Purple_69: 6811274418973098175
+      SS_Sword_Purple_7: -5933641449704995718
+      SS_Sword_Purple_70: 3635732804614932715
+      SS_Sword_Purple_71: 4862267489073841377
+      SS_Sword_Purple_72: -5634133016505929671
+      SS_Sword_Purple_73: -1973984634136629830
+      SS_Sword_Purple_74: 1730376161221801751
+      SS_Sword_Purple_75: 1782635854295735249
+      SS_Sword_Purple_76: -5417458871605827542
+      SS_Sword_Purple_77: 2432139533931106671
+      SS_Sword_Purple_78: 7997101150218026878
+      SS_Sword_Purple_79: 5984179833373133115
+      SS_Sword_Purple_8: 1790692301192684256
+      SS_Sword_Purple_80: -6816299141643750240
+      SS_Sword_Purple_81: 1396712564320004827
+      SS_Sword_Purple_82: -882373094818151569
+      SS_Sword_Purple_83: -3434384717094972885
+      SS_Sword_Purple_84: 6290036397987526575
+      SS_Sword_Purple_85: -1950622236051482719
+      SS_Sword_Purple_86: -8025498862052679497
+      SS_Sword_Purple_87: 1969652414999159311
+      SS_Sword_Purple_88: -4357582510039722732
+      SS_Sword_Purple_89: -7440475092107770306
+      SS_Sword_Purple_9: -7202036674449325983
+      SS_Sword_Purple_90: 1504346398237613673
+      SS_Sword_Purple_91: -4318382280793757090
+      SS_Sword_Purple_92: 309692497631502682
+      SS_Sword_Purple_93: 8342570826108045134
+      SS_Sword_Purple_94: 8864744588112975614
+      SS_Sword_Purple_95: 937784173789251044
+      SS_Sword_Purple_96: -522442560898741965
+      SS_Sword_Purple_97: 7961892270799199895
+      SS_Sword_Purple_98: -2686295190394929655
+      SS_Sword_Purple_99: -7137440677956248141
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

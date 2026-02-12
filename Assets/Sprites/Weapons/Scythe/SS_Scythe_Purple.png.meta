@@ -1,0 +1,3250 @@
+fileFormatVersion: 2
+guid: 763cb401e26c42c4bb722fb2be6937b6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3110269497438843539
+    second: SS_Scythe_Purple_0
+  - first:
+      213: 4986161455534098892
+    second: SS_Scythe_Purple_1
+  - first:
+      213: -7269498129914058347
+    second: SS_Scythe_Purple_2
+  - first:
+      213: -4282088194205448386
+    second: SS_Scythe_Purple_3
+  - first:
+      213: 6356887508732481096
+    second: SS_Scythe_Purple_4
+  - first:
+      213: -3533856534795662689
+    second: SS_Scythe_Purple_5
+  - first:
+      213: -4310044175416264497
+    second: SS_Scythe_Purple_6
+  - first:
+      213: 8274754754482052171
+    second: SS_Scythe_Purple_7
+  - first:
+      213: 5152888755903768520
+    second: SS_Scythe_Purple_8
+  - first:
+      213: -3602969452192172812
+    second: SS_Scythe_Purple_9
+  - first:
+      213: 6165100474552545686
+    second: SS_Scythe_Purple_10
+  - first:
+      213: 7681032250277115007
+    second: SS_Scythe_Purple_11
+  - first:
+      213: 183557924250282096
+    second: SS_Scythe_Purple_12
+  - first:
+      213: 6183890221240640058
+    second: SS_Scythe_Purple_13
+  - first:
+      213: 8328720705229126445
+    second: SS_Scythe_Purple_14
+  - first:
+      213: 5010298018420463753
+    second: SS_Scythe_Purple_15
+  - first:
+      213: -6119836511017801678
+    second: SS_Scythe_Purple_16
+  - first:
+      213: -3211629631884753117
+    second: SS_Scythe_Purple_17
+  - first:
+      213: -8910460001643197224
+    second: SS_Scythe_Purple_18
+  - first:
+      213: -540838535548942269
+    second: SS_Scythe_Purple_19
+  - first:
+      213: 7892236398474167308
+    second: SS_Scythe_Purple_20
+  - first:
+      213: 1110452939521955881
+    second: SS_Scythe_Purple_21
+  - first:
+      213: 9049048596869687122
+    second: SS_Scythe_Purple_22
+  - first:
+      213: -1665662346904235496
+    second: SS_Scythe_Purple_23
+  - first:
+      213: -4186948820606546463
+    second: SS_Scythe_Purple_24
+  - first:
+      213: 6648380786816782188
+    second: SS_Scythe_Purple_25
+  - first:
+      213: 5967288294558235871
+    second: SS_Scythe_Purple_26
+  - first:
+      213: 6409338057022690652
+    second: SS_Scythe_Purple_27
+  - first:
+      213: 6620403759347187274
+    second: SS_Scythe_Purple_28
+  - first:
+      213: 7772172957489106281
+    second: SS_Scythe_Purple_29
+  - first:
+      213: 3661819949423870942
+    second: SS_Scythe_Purple_30
+  - first:
+      213: -1888940321779104992
+    second: SS_Scythe_Purple_31
+  - first:
+      213: -5786167808648900126
+    second: SS_Scythe_Purple_32
+  - first:
+      213: -9056904858636646914
+    second: SS_Scythe_Purple_33
+  - first:
+      213: -3139038005427618200
+    second: SS_Scythe_Purple_34
+  - first:
+      213: -3077234332950593682
+    second: SS_Scythe_Purple_35
+  - first:
+      213: 8815818063970649206
+    second: SS_Scythe_Purple_36
+  - first:
+      213: -6135734904760272876
+    second: SS_Scythe_Purple_37
+  - first:
+      213: 8238492868198776961
+    second: SS_Scythe_Purple_38
+  - first:
+      213: 8404726222210844805
+    second: SS_Scythe_Purple_39
+  - first:
+      213: 2294511497530601461
+    second: SS_Scythe_Purple_40
+  - first:
+      213: 2756985114977675560
+    second: SS_Scythe_Purple_41
+  - first:
+      213: 6096089157485803324
+    second: SS_Scythe_Purple_42
+  - first:
+      213: 2027559487629339466
+    second: SS_Scythe_Purple_43
+  - first:
+      213: 1743442719459373063
+    second: SS_Scythe_Purple_44
+  - first:
+      213: 3214373411038175429
+    second: SS_Scythe_Purple_45
+  - first:
+      213: -2260285475000224562
+    second: SS_Scythe_Purple_46
+  - first:
+      213: 7931675758643716231
+    second: SS_Scythe_Purple_47
+  - first:
+      213: 6192457837654922210
+    second: SS_Scythe_Purple_48
+  - first:
+      213: 8886187574739700847
+    second: SS_Scythe_Purple_49
+  - first:
+      213: 8766416988103877084
+    second: SS_Scythe_Purple_50
+  - first:
+      213: -164072514588948542
+    second: SS_Scythe_Purple_51
+  - first:
+      213: -7004543279525215711
+    second: SS_Scythe_Purple_52
+  - first:
+      213: -127669591757622050
+    second: SS_Scythe_Purple_53
+  - first:
+      213: -4060256285181564997
+    second: SS_Scythe_Purple_54
+  - first:
+      213: -6068825495161999457
+    second: SS_Scythe_Purple_55
+  - first:
+      213: 1040942336324411707
+    second: SS_Scythe_Purple_56
+  - first:
+      213: 2479859717499816439
+    second: SS_Scythe_Purple_57
+  - first:
+      213: 3434644743148794442
+    second: SS_Scythe_Purple_58
+  - first:
+      213: 3449362477553946358
+    second: SS_Scythe_Purple_59
+  - first:
+      213: 8351527305467423284
+    second: SS_Scythe_Purple_60
+  - first:
+      213: -2780096591220749474
+    second: SS_Scythe_Purple_61
+  - first:
+      213: -4606788475891515566
+    second: SS_Scythe_Purple_62
+  - first:
+      213: -7946521476227593335
+    second: SS_Scythe_Purple_63
+  - first:
+      213: -3167737761334034026
+    second: SS_Scythe_Purple_64
+  - first:
+      213: -3356060122651595954
+    second: SS_Scythe_Purple_65
+  - first:
+      213: -7697095421889986114
+    second: SS_Scythe_Purple_66
+  - first:
+      213: -3043890779053049459
+    second: SS_Scythe_Purple_67
+  - first:
+      213: 4453418874430914415
+    second: SS_Scythe_Purple_68
+  - first:
+      213: 2746837415067806222
+    second: SS_Scythe_Purple_69
+  - first:
+      213: -785483415076929960
+    second: SS_Scythe_Purple_70
+  - first:
+      213: 1311599557663100216
+    second: SS_Scythe_Purple_71
+  - first:
+      213: -2088355285770608419
+    second: SS_Scythe_Purple_72
+  - first:
+      213: 8050685781561446533
+    second: SS_Scythe_Purple_73
+  - first:
+      213: 7688032789792877472
+    second: SS_Scythe_Purple_74
+  - first:
+      213: -3076630004871763945
+    second: SS_Scythe_Purple_75
+  - first:
+      213: 9043778345632374254
+    second: SS_Scythe_Purple_76
+  - first:
+      213: -4344162581234993945
+    second: SS_Scythe_Purple_77
+  - first:
+      213: -1428200779281924730
+    second: SS_Scythe_Purple_78
+  - first:
+      213: -7574288023456452922
+    second: SS_Scythe_Purple_79
+  - first:
+      213: 9046732129123415240
+    second: SS_Scythe_Purple_80
+  - first:
+      213: 1281923707448660952
+    second: SS_Scythe_Purple_81
+  - first:
+      213: -8350602704175038084
+    second: SS_Scythe_Purple_82
+  - first:
+      213: -459018535547361846
+    second: SS_Scythe_Purple_83
+  - first:
+      213: 5756718220011902822
+    second: SS_Scythe_Purple_84
+  - first:
+      213: 7199595785369465312
+    second: SS_Scythe_Purple_85
+  - first:
+      213: -1583078889873282233
+    second: SS_Scythe_Purple_86
+  - first:
+      213: -3456390754286606724
+    second: SS_Scythe_Purple_87
+  - first:
+      213: 6296060327228418654
+    second: SS_Scythe_Purple_88
+  - first:
+      213: 7800584606929635231
+    second: SS_Scythe_Purple_89
+  - first:
+      213: -6008732282365607382
+    second: SS_Scythe_Purple_90
+  - first:
+      213: -2416827785108802862
+    second: SS_Scythe_Purple_91
+  - first:
+      213: 2304013210081616447
+    second: SS_Scythe_Purple_92
+  - first:
+      213: -1565695645024288799
+    second: SS_Scythe_Purple_93
+  - first:
+      213: -6610738356823642813
+    second: SS_Scythe_Purple_94
+  - first:
+      213: -4598523891492861992
+    second: SS_Scythe_Purple_95
+  - first:
+      213: 4472266490344828973
+    second: SS_Scythe_Purple_96
+  - first:
+      213: -8630871922622549589
+    second: SS_Scythe_Purple_97
+  - first:
+      213: 3615205128436833777
+    second: SS_Scythe_Purple_98
+  - first:
+      213: -2222524583180098070
+    second: SS_Scythe_Purple_99
+  - first:
+      213: -8124515534485659499
+    second: SS_Scythe_Purple_100
+  - first:
+      213: -6073245941856103276
+    second: SS_Scythe_Purple_101
+  - first:
+      213: 893325494222711891
+    second: SS_Scythe_Purple_102
+  - first:
+      213: -5398788308732430340
+    second: SS_Scythe_Purple_103
+  - first:
+      213: 767453324872085864
+    second: SS_Scythe_Purple_104
+  - first:
+      213: -1045728061550364297
+    second: SS_Scythe_Purple_105
+  - first:
+      213: 9211056751057149143
+    second: SS_Scythe_Purple_106
+  - first:
+      213: -9222089818745148992
+    second: SS_Scythe_Purple_107
+  - first:
+      213: 411255223276191106
+    second: SS_Scythe_Purple_108
+  - first:
+      213: -249071079647644018
+    second: SS_Scythe_Purple_109
+  - first:
+      213: -1054295700628703425
+    second: SS_Scythe_Purple_110
+  - first:
+      213: 1271493413709067873
+    second: SS_Scythe_Purple_111
+  - first:
+      213: 3140450144914988519
+    second: SS_Scythe_Purple_112
+  - first:
+      213: 509948766089462375
+    second: SS_Scythe_Purple_113
+  - first:
+      213: -7250266537458722133
+    second: SS_Scythe_Purple_114
+  - first:
+      213: 4472168965805038082
+    second: SS_Scythe_Purple_115
+  - first:
+      213: 7175570548640277685
+    second: SS_Scythe_Purple_116
+  - first:
+      213: -8804291389538408110
+    second: SS_Scythe_Purple_117
+  - first:
+      213: -7336532441168501250
+    second: SS_Scythe_Purple_118
+  - first:
+      213: 4434774657147154644
+    second: SS_Scythe_Purple_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 320
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6dcc69fe5a16d4d0800000000000000
+      internalID: -3110269497438843539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 321
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9cadd0d67623540800000000000000
+      internalID: 4986161455534098892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 321
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5992b1f57fd8d1b90800000000000000
+      internalID: -7269498129914058347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 321
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e378d7f8977f294c0800000000000000
+      internalID: -4282088194205448386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 322
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e0e1b4283383850800000000000000
+      internalID: 6356887508732481096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 321
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9acf4c643835fec0800000000000000
+      internalID: -3533856534795662689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 321
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc8721678a5af24c0800000000000000
+      internalID: -4310044175416264497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 321
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c90609b95d5d270800000000000000
+      internalID: 8274754754482052171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 321
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7afb6b50db28740800000000000000
+      internalID: 5152888755903768520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 322
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f470816f5eaffdc0800000000000000
+      internalID: -3602969452192172812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_10
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 321
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691fb4ea736de8550800000000000000
+      internalID: 6165100474552545686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 289
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f743612c222889a60800000000000000
+      internalID: 7681032250277115007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07865a6a5f02c8200800000000000000
+      internalID: 183557924250282096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 290
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a326f0f746791d550800000000000000
+      internalID: 6183890221240640058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 290
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b7f9c9a5f859370800000000000000
+      internalID: 8328720705229126445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 289
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9889bc68087288540800000000000000
+      internalID: 5010298018420463753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 289
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23861551e19f11ba0800000000000000
+      internalID: -6119836511017801678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 289
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3270461addffd63d0800000000000000
+      internalID: -3211629631884753117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 289
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc0bb096dfa75480800000000000000
+      internalID: -8910460001643197224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_19
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 288
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34843c7a73e8e78f0800000000000000
+      internalID: -540838535548942269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_20
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 288
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c040676803bd68d60800000000000000
+      internalID: 7892236398474167308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_21
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 288
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9289ef7a01f196f00800000000000000
+      internalID: 1110452939521955881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 256
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2572aa341cda49d70800000000000000
+      internalID: 9049048596869687122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_23
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 256
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8129709abe062e8e0800000000000000
+      internalID: -1665662346904235496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_24
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 257
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed81072b38f4e5c0800000000000000
+      internalID: -4186948820606546463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 256
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f0fb9d91bc34c50800000000000000
+      internalID: 6648380786816782188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 256
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc7d7d761110d250800000000000000
+      internalID: 5967288294558235871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 257
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55da36310b82f850800000000000000
+      internalID: 6409338057022690652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_28
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 256
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ebc89842660eb50800000000000000
+      internalID: 6620403759347187274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_29
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 257
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d0908402e4cdb60800000000000000
+      internalID: 7772172957489106281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_30
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 257
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed349d4c7d561d230800000000000000
+      internalID: 3661819949423870942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_31
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 256
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023c17e09c229c5e0800000000000000
+      internalID: -1888940321779104992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_32
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 225
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e19ea2d80763bfa0800000000000000
+      internalID: -5786167808648900126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_33
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 256
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5047044096f4280800000000000000
+      internalID: -9056904858636646914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 225
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86e390eb095ef64d0800000000000000
+      internalID: -3139038005427618200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_35
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 225
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ff7d59da77b45d0800000000000000
+      internalID: -3077234332950593682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_36
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 225
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 674417b22d3185a70800000000000000
+      internalID: 8815818063970649206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_37
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 226
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4187cc5dc9d79daa0800000000000000
+      internalID: -6135734904760272876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_38
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 225
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180c39d3d91055270800000000000000
+      internalID: 8238492868198776961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_39
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 225
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588c94d08f593a470800000000000000
+      internalID: 8404726222210844805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_40
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 225
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff6c57dc0eb7df10800000000000000
+      internalID: 2294511497530601461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_41
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 225
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 829a84dda57c24620800000000000000
+      internalID: 2756985114977675560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_42
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 224
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c373d0f4ac8a99450800000000000000
+      internalID: 6096089157485803324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_43
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4bae1d8c96532c10800000000000000
+      internalID: 2027559487629339466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 193
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 700fd9b8ae3f13810800000000000000
+      internalID: 1743442719459373063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_45
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 192
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0246c369fbb9c20800000000000000
+      internalID: 3214373411038175429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 192
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4f2a3065ad1a0e0800000000000000
+      internalID: -2260285475000224562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_47
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 192
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78029832419f21e60800000000000000
+      internalID: 7931675758643716231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e35104289700f550800000000000000
+      internalID: 6192457837654922210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c89d7a484125b70800000000000000
+      internalID: 8886187574739700847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_50
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1a1e0edc198a970800000000000000
+      internalID: 8766416988103877084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 161
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c74582dae819bdf0800000000000000
+      internalID: -164072514588948542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_52
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 192
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122cc0abffcdace90800000000000000
+      internalID: -7004543279525215711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_53
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 160
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4faa6ce2d6a3ef0800000000000000
+      internalID: -127669591757622050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_54
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 192
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7a4b8bb6217a7c0800000000000000
+      internalID: -4060256285181564997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_55
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fe80dbd5337cba0800000000000000
+      internalID: -6068825495161999457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31284c2a8b227e00800000000000000
+      internalID: 1040942336324411707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f98062364b3a6220800000000000000
+      internalID: 2479859717499816439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_58
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 192
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42fb05423f4aaf20800000000000000
+      internalID: 3434644743148794442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe0a28d5e89edf20800000000000000
+      internalID: 3449362477553946358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_60
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 192
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a6c5606d596e370800000000000000
+      internalID: 8351527305467423284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b430f31ec1b69d0800000000000000
+      internalID: -2780096591220749474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f7f1bf9466110c0800000000000000
+      internalID: -4606788475891515566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_63
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 160
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b0171e1d848b190800000000000000
+      internalID: -7946521476227593335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_64
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 129
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691081a1a4fe904d0800000000000000
+      internalID: -3167737761334034026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b6f708911ec61d0800000000000000
+      internalID: -3356060122651595954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_66
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 160
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb146f7ae7c6e2590800000000000000
+      internalID: -7697095421889986114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89b473b67de1c5d0800000000000000
+      internalID: -3043890779053049459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_68
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 160
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f797efed8bdcd30800000000000000
+      internalID: 4453418874430914415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_69
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a6edc531abe1620800000000000000
+      internalID: 2746837415067806222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_70
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 160
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ef063eef66915f0800000000000000
+      internalID: -785483415076929960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d811a39dcb33210800000000000000
+      internalID: 1311599557663100216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd065d2aeeba403e0800000000000000
+      internalID: -2088355285770608419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_73
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58012406018c9bf60800000000000000
+      internalID: 8050685781561446533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_74
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abe821e61161ba60800000000000000
+      internalID: 7688032789792877472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_75
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7186f4eaf4d9d45d0800000000000000
+      internalID: -3076630004871763945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_76
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed99c64d74f18d70800000000000000
+      internalID: 9043778345632374254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4b1f2162f66b3c0800000000000000
+      internalID: -4344162581234993945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_78
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 97
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68df6fa45f20e2ce0800000000000000
+      internalID: -1428200779281924730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cee1674c29b2e690800000000000000
+      internalID: -7574288023456452922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_80
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 97
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4b38690f27c8d70800000000000000
+      internalID: 9046732129123415240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_81
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 97
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d311abe1de4ac110800000000000000
+      internalID: 1281923707448660952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_82
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 97
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c710b3d7513bc1c80800000000000000
+      internalID: -8350602704175038084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_83
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 98
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5216be21d31a9f0800000000000000
+      internalID: -459018535547361846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_84
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 98
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66714df78b8f3ef40800000000000000
+      internalID: 5756718220011902822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_85
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 98
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1b851c83a1ae360800000000000000
+      internalID: 7199595785369465312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_86
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 97
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74beead1326c70ae0800000000000000
+      internalID: -1583078889873282233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_87
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 97
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c766dc5fbee6800d0800000000000000
+      internalID: -3456390754286606724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_88
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 65
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a21e87289106750800000000000000
+      internalID: 6296060327228418654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_89
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 66
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f97cb68ee5e314c60800000000000000
+      internalID: 7800584606929635231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_90
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 65
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a220d2723d1bc9ca0800000000000000
+      internalID: -6008732282365607382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_91
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 66
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2bb413fe3b57ed0800000000000000
+      internalID: -2416827785108802862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_92
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 65
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32e8b0becf79ff10800000000000000
+      internalID: 2304013210081616447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_93
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 65
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef73f33b18854ae0800000000000000
+      internalID: -1565695645024288799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_94
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 66
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d2a7a5d70f144a0800000000000000
+      internalID: -6610738356823642813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_95
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 66
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7cb6c72e2ce20c0800000000000000
+      internalID: -4598523891492861992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_96
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 66
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20f2e98daea01e30800000000000000
+      internalID: 4472266490344828973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_97
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 66
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1b036f6bbf83880800000000000000
+      internalID: -8630871922622549589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_98
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 65
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdd5aef8e9cb2230800000000000000
+      internalID: 3615205128436833777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_99
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 34
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae52af2caa10821e0800000000000000
+      internalID: -2222524583180098070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_100
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 33
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590e6daba2cef3f80800000000000000
+      internalID: -8124515534485659499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_101
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 33
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494951a4efe77bba0800000000000000
+      internalID: -6073245941856103276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_102
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 33
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ce1ffcdcab56c00800000000000000
+      internalID: 893325494222711891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_103
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 33
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf7b87023a6a315b0800000000000000
+      internalID: -5398788308732430340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_104
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 34
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86171ba9bba86aa00800000000000000
+      internalID: 767453324872085864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_105
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 33
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779f1a75ed3dc71f0800000000000000
+      internalID: -1045728061550364297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_106
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 32
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc99b4105f34df70800000000000000
+      internalID: 9211056751057149143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_107
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 32
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9e2faab2e840080800000000000000
+      internalID: -9222089818745148992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_108
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 32
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28db667527215b500800000000000000
+      internalID: 411255223276191106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_109
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 32
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8677c53c2f1b8cf0800000000000000
+      internalID: -249071079647644018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_110
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37fdcb65a36e51f0800000000000000
+      internalID: -1054295700628703425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_111
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166b06ae58045a110800000000000000
+      internalID: 1271493413709067873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_112
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed5b7a94ce159b20800000000000000
+      internalID: 3140450144914988519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_113
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762496073b3b31700800000000000000
+      internalID: 509948766089462375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_114
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 0
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa1fdb6ff0e16b90800000000000000
+      internalID: -7250266537458722133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_115
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ad556daf5501e30800000000000000
+      internalID: 4472168965805038082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_116
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 0
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4657c656fb49360800000000000000
+      internalID: 7175570548640277685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_117
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259688bd0afd0d580800000000000000
+      internalID: -8804291389538408110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_118
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5a5098d966f2a90800000000000000
+      internalID: -7336532441168501250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Scythe_Purple_119
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 0
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d03922ed0c7b8d30800000000000000
+      internalID: 4434774657147154644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Scythe_Purple_0: -3110269497438843539
+      SS_Scythe_Purple_1: 4986161455534098892
+      SS_Scythe_Purple_10: 6165100474552545686
+      SS_Scythe_Purple_100: -8124515534485659499
+      SS_Scythe_Purple_101: -6073245941856103276
+      SS_Scythe_Purple_102: 893325494222711891
+      SS_Scythe_Purple_103: -5398788308732430340
+      SS_Scythe_Purple_104: 767453324872085864
+      SS_Scythe_Purple_105: -1045728061550364297
+      SS_Scythe_Purple_106: 9211056751057149143
+      SS_Scythe_Purple_107: -9222089818745148992
+      SS_Scythe_Purple_108: 411255223276191106
+      SS_Scythe_Purple_109: -249071079647644018
+      SS_Scythe_Purple_11: 7681032250277115007
+      SS_Scythe_Purple_110: -1054295700628703425
+      SS_Scythe_Purple_111: 1271493413709067873
+      SS_Scythe_Purple_112: 3140450144914988519
+      SS_Scythe_Purple_113: 509948766089462375
+      SS_Scythe_Purple_114: -7250266537458722133
+      SS_Scythe_Purple_115: 4472168965805038082
+      SS_Scythe_Purple_116: 7175570548640277685
+      SS_Scythe_Purple_117: -8804291389538408110
+      SS_Scythe_Purple_118: -7336532441168501250
+      SS_Scythe_Purple_119: 4434774657147154644
+      SS_Scythe_Purple_12: 183557924250282096
+      SS_Scythe_Purple_13: 6183890221240640058
+      SS_Scythe_Purple_14: 8328720705229126445
+      SS_Scythe_Purple_15: 5010298018420463753
+      SS_Scythe_Purple_16: -6119836511017801678
+      SS_Scythe_Purple_17: -3211629631884753117
+      SS_Scythe_Purple_18: -8910460001643197224
+      SS_Scythe_Purple_19: -540838535548942269
+      SS_Scythe_Purple_2: -7269498129914058347
+      SS_Scythe_Purple_20: 7892236398474167308
+      SS_Scythe_Purple_21: 1110452939521955881
+      SS_Scythe_Purple_22: 9049048596869687122
+      SS_Scythe_Purple_23: -1665662346904235496
+      SS_Scythe_Purple_24: -4186948820606546463
+      SS_Scythe_Purple_25: 6648380786816782188
+      SS_Scythe_Purple_26: 5967288294558235871
+      SS_Scythe_Purple_27: 6409338057022690652
+      SS_Scythe_Purple_28: 6620403759347187274
+      SS_Scythe_Purple_29: 7772172957489106281
+      SS_Scythe_Purple_3: -4282088194205448386
+      SS_Scythe_Purple_30: 3661819949423870942
+      SS_Scythe_Purple_31: -1888940321779104992
+      SS_Scythe_Purple_32: -5786167808648900126
+      SS_Scythe_Purple_33: -9056904858636646914
+      SS_Scythe_Purple_34: -3139038005427618200
+      SS_Scythe_Purple_35: -3077234332950593682
+      SS_Scythe_Purple_36: 8815818063970649206
+      SS_Scythe_Purple_37: -6135734904760272876
+      SS_Scythe_Purple_38: 8238492868198776961
+      SS_Scythe_Purple_39: 8404726222210844805
+      SS_Scythe_Purple_4: 6356887508732481096
+      SS_Scythe_Purple_40: 2294511497530601461
+      SS_Scythe_Purple_41: 2756985114977675560
+      SS_Scythe_Purple_42: 6096089157485803324
+      SS_Scythe_Purple_43: 2027559487629339466
+      SS_Scythe_Purple_44: 1743442719459373063
+      SS_Scythe_Purple_45: 3214373411038175429
+      SS_Scythe_Purple_46: -2260285475000224562
+      SS_Scythe_Purple_47: 7931675758643716231
+      SS_Scythe_Purple_48: 6192457837654922210
+      SS_Scythe_Purple_49: 8886187574739700847
+      SS_Scythe_Purple_5: -3533856534795662689
+      SS_Scythe_Purple_50: 8766416988103877084
+      SS_Scythe_Purple_51: -164072514588948542
+      SS_Scythe_Purple_52: -7004543279525215711
+      SS_Scythe_Purple_53: -127669591757622050
+      SS_Scythe_Purple_54: -4060256285181564997
+      SS_Scythe_Purple_55: -6068825495161999457
+      SS_Scythe_Purple_56: 1040942336324411707
+      SS_Scythe_Purple_57: 2479859717499816439
+      SS_Scythe_Purple_58: 3434644743148794442
+      SS_Scythe_Purple_59: 3449362477553946358
+      SS_Scythe_Purple_6: -4310044175416264497
+      SS_Scythe_Purple_60: 8351527305467423284
+      SS_Scythe_Purple_61: -2780096591220749474
+      SS_Scythe_Purple_62: -4606788475891515566
+      SS_Scythe_Purple_63: -7946521476227593335
+      SS_Scythe_Purple_64: -3167737761334034026
+      SS_Scythe_Purple_65: -3356060122651595954
+      SS_Scythe_Purple_66: -7697095421889986114
+      SS_Scythe_Purple_67: -3043890779053049459
+      SS_Scythe_Purple_68: 4453418874430914415
+      SS_Scythe_Purple_69: 2746837415067806222
+      SS_Scythe_Purple_7: 8274754754482052171
+      SS_Scythe_Purple_70: -785483415076929960
+      SS_Scythe_Purple_71: 1311599557663100216
+      SS_Scythe_Purple_72: -2088355285770608419
+      SS_Scythe_Purple_73: 8050685781561446533
+      SS_Scythe_Purple_74: 7688032789792877472
+      SS_Scythe_Purple_75: -3076630004871763945
+      SS_Scythe_Purple_76: 9043778345632374254
+      SS_Scythe_Purple_77: -4344162581234993945
+      SS_Scythe_Purple_78: -1428200779281924730
+      SS_Scythe_Purple_79: -7574288023456452922
+      SS_Scythe_Purple_8: 5152888755903768520
+      SS_Scythe_Purple_80: 9046732129123415240
+      SS_Scythe_Purple_81: 1281923707448660952
+      SS_Scythe_Purple_82: -8350602704175038084
+      SS_Scythe_Purple_83: -459018535547361846
+      SS_Scythe_Purple_84: 5756718220011902822
+      SS_Scythe_Purple_85: 7199595785369465312
+      SS_Scythe_Purple_86: -1583078889873282233
+      SS_Scythe_Purple_87: -3456390754286606724
+      SS_Scythe_Purple_88: 6296060327228418654
+      SS_Scythe_Purple_89: 7800584606929635231
+      SS_Scythe_Purple_9: -3602969452192172812
+      SS_Scythe_Purple_90: -6008732282365607382
+      SS_Scythe_Purple_91: -2416827785108802862
+      SS_Scythe_Purple_92: 2304013210081616447
+      SS_Scythe_Purple_93: -1565695645024288799
+      SS_Scythe_Purple_94: -6610738356823642813
+      SS_Scythe_Purple_95: -4598523891492861992
+      SS_Scythe_Purple_96: 4472266490344828973
+      SS_Scythe_Purple_97: -8630871922622549589
+      SS_Scythe_Purple_98: 3615205128436833777
+      SS_Scythe_Purple_99: -2222524583180098070
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

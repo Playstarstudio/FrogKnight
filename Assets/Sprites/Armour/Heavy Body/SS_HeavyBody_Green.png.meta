@@ -1,0 +1,3250 @@
+fileFormatVersion: 2
+guid: d317086fe64fe9e4da367b4efeddb169
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3226038066225212667
+    second: SS_HeavyBody_Green_0
+  - first:
+      213: 2408993588728220416
+    second: SS_HeavyBody_Green_1
+  - first:
+      213: 1755457011211047788
+    second: SS_HeavyBody_Green_2
+  - first:
+      213: -3168128472613129093
+    second: SS_HeavyBody_Green_3
+  - first:
+      213: 2576540192898172194
+    second: SS_HeavyBody_Green_4
+  - first:
+      213: -2229973803611309811
+    second: SS_HeavyBody_Green_5
+  - first:
+      213: 54102625751075592
+    second: SS_HeavyBody_Green_6
+  - first:
+      213: -8105924959458970636
+    second: SS_HeavyBody_Green_7
+  - first:
+      213: -3585426094819132675
+    second: SS_HeavyBody_Green_8
+  - first:
+      213: -1554787155821356565
+    second: SS_HeavyBody_Green_9
+  - first:
+      213: -6726734904205911182
+    second: SS_HeavyBody_Green_10
+  - first:
+      213: -2889834434538200984
+    second: SS_HeavyBody_Green_11
+  - first:
+      213: 3493430656947910236
+    second: SS_HeavyBody_Green_12
+  - first:
+      213: 7981924974632302004
+    second: SS_HeavyBody_Green_13
+  - first:
+      213: 3820348497515524804
+    second: SS_HeavyBody_Green_14
+  - first:
+      213: -6238648912526366772
+    second: SS_HeavyBody_Green_15
+  - first:
+      213: 8533305902794892162
+    second: SS_HeavyBody_Green_16
+  - first:
+      213: 3042170341488925613
+    second: SS_HeavyBody_Green_17
+  - first:
+      213: -6554175919992052732
+    second: SS_HeavyBody_Green_18
+  - first:
+      213: -1390560201341928854
+    second: SS_HeavyBody_Green_19
+  - first:
+      213: -5070483986704188387
+    second: SS_HeavyBody_Green_20
+  - first:
+      213: -8011890183927516049
+    second: SS_HeavyBody_Green_21
+  - first:
+      213: 6142158082876185740
+    second: SS_HeavyBody_Green_22
+  - first:
+      213: 202950478514603671
+    second: SS_HeavyBody_Green_23
+  - first:
+      213: -3455329096260842825
+    second: SS_HeavyBody_Green_24
+  - first:
+      213: 1577304610888611289
+    second: SS_HeavyBody_Green_25
+  - first:
+      213: 2808861672977696678
+    second: SS_HeavyBody_Green_26
+  - first:
+      213: 5468358200227945250
+    second: SS_HeavyBody_Green_27
+  - first:
+      213: -2092840966072994617
+    second: SS_HeavyBody_Green_28
+  - first:
+      213: 818116019064193168
+    second: SS_HeavyBody_Green_29
+  - first:
+      213: -7026045812273655263
+    second: SS_HeavyBody_Green_30
+  - first:
+      213: -1562753362852366061
+    second: SS_HeavyBody_Green_31
+  - first:
+      213: -9179678836996117811
+    second: SS_HeavyBody_Green_32
+  - first:
+      213: 6424667089208172585
+    second: SS_HeavyBody_Green_33
+  - first:
+      213: -8888467626242105616
+    second: SS_HeavyBody_Green_34
+  - first:
+      213: 2003017699947440532
+    second: SS_HeavyBody_Green_35
+  - first:
+      213: 1565604782398336469
+    second: SS_HeavyBody_Green_36
+  - first:
+      213: -7360358769273707853
+    second: SS_HeavyBody_Green_37
+  - first:
+      213: 1568496714496366476
+    second: SS_HeavyBody_Green_38
+  - first:
+      213: 6926045544367085167
+    second: SS_HeavyBody_Green_39
+  - first:
+      213: -1434918144525211866
+    second: SS_HeavyBody_Green_40
+  - first:
+      213: 4953757441715689001
+    second: SS_HeavyBody_Green_41
+  - first:
+      213: -4150311908279584686
+    second: SS_HeavyBody_Green_42
+  - first:
+      213: 3057570278297078607
+    second: SS_HeavyBody_Green_43
+  - first:
+      213: -6164474081215728507
+    second: SS_HeavyBody_Green_44
+  - first:
+      213: 3779846582669636409
+    second: SS_HeavyBody_Green_45
+  - first:
+      213: 4928924787867379001
+    second: SS_HeavyBody_Green_46
+  - first:
+      213: -8754068068647990288
+    second: SS_HeavyBody_Green_47
+  - first:
+      213: -2924763485289764133
+    second: SS_HeavyBody_Green_48
+  - first:
+      213: 1064639717515012045
+    second: SS_HeavyBody_Green_49
+  - first:
+      213: -7477173075409625077
+    second: SS_HeavyBody_Green_50
+  - first:
+      213: -5744581158001237326
+    second: SS_HeavyBody_Green_51
+  - first:
+      213: 6524270526603093595
+    second: SS_HeavyBody_Green_52
+  - first:
+      213: 3240947498765432305
+    second: SS_HeavyBody_Green_53
+  - first:
+      213: -7826159336600433148
+    second: SS_HeavyBody_Green_54
+  - first:
+      213: -3914458232228085896
+    second: SS_HeavyBody_Green_55
+  - first:
+      213: 1018728653291026973
+    second: SS_HeavyBody_Green_56
+  - first:
+      213: -8401795554569888315
+    second: SS_HeavyBody_Green_57
+  - first:
+      213: 5418176038471062205
+    second: SS_HeavyBody_Green_58
+  - first:
+      213: 1161027080286614275
+    second: SS_HeavyBody_Green_59
+  - first:
+      213: -4943233809753708460
+    second: SS_HeavyBody_Green_60
+  - first:
+      213: -7911234135774123988
+    second: SS_HeavyBody_Green_61
+  - first:
+      213: 4219107460030384583
+    second: SS_HeavyBody_Green_62
+  - first:
+      213: 5888177366493438311
+    second: SS_HeavyBody_Green_63
+  - first:
+      213: -6511457985898791034
+    second: SS_HeavyBody_Green_64
+  - first:
+      213: 8350746985063758497
+    second: SS_HeavyBody_Green_65
+  - first:
+      213: -7564761721375715752
+    second: SS_HeavyBody_Green_66
+  - first:
+      213: 1706903351002144900
+    second: SS_HeavyBody_Green_67
+  - first:
+      213: 8128088318352057833
+    second: SS_HeavyBody_Green_68
+  - first:
+      213: -4295800537649567952
+    second: SS_HeavyBody_Green_69
+  - first:
+      213: -3132336511179379333
+    second: SS_HeavyBody_Green_70
+  - first:
+      213: 2310218043676752103
+    second: SS_HeavyBody_Green_71
+  - first:
+      213: -5152638586006178708
+    second: SS_HeavyBody_Green_72
+  - first:
+      213: -3726801699154893161
+    second: SS_HeavyBody_Green_73
+  - first:
+      213: -1818153999663058094
+    second: SS_HeavyBody_Green_74
+  - first:
+      213: -3321005459102159923
+    second: SS_HeavyBody_Green_75
+  - first:
+      213: -2271213545945713630
+    second: SS_HeavyBody_Green_76
+  - first:
+      213: -7141496321802847273
+    second: SS_HeavyBody_Green_77
+  - first:
+      213: -1205801372589452618
+    second: SS_HeavyBody_Green_78
+  - first:
+      213: 3775270521143688648
+    second: SS_HeavyBody_Green_79
+  - first:
+      213: 2121698989471284316
+    second: SS_HeavyBody_Green_80
+  - first:
+      213: -3386321471432101641
+    second: SS_HeavyBody_Green_81
+  - first:
+      213: 7202627122724875549
+    second: SS_HeavyBody_Green_82
+  - first:
+      213: 6800996580578638857
+    second: SS_HeavyBody_Green_83
+  - first:
+      213: 8641540966593192693
+    second: SS_HeavyBody_Green_84
+  - first:
+      213: -8166142307039483174
+    second: SS_HeavyBody_Green_85
+  - first:
+      213: -6784002137197334899
+    second: SS_HeavyBody_Green_86
+  - first:
+      213: 3088462413904532858
+    second: SS_HeavyBody_Green_87
+  - first:
+      213: 4636690250549435620
+    second: SS_HeavyBody_Green_88
+  - first:
+      213: 122479986533898953
+    second: SS_HeavyBody_Green_89
+  - first:
+      213: 2652407974920039897
+    second: SS_HeavyBody_Green_90
+  - first:
+      213: -692655373212491407
+    second: SS_HeavyBody_Green_91
+  - first:
+      213: -4035852405171850232
+    second: SS_HeavyBody_Green_92
+  - first:
+      213: -4185205652315190654
+    second: SS_HeavyBody_Green_93
+  - first:
+      213: -32791585327643640
+    second: SS_HeavyBody_Green_94
+  - first:
+      213: 8131271745258304823
+    second: SS_HeavyBody_Green_95
+  - first:
+      213: -4127358294966731771
+    second: SS_HeavyBody_Green_96
+  - first:
+      213: -7543887138581246831
+    second: SS_HeavyBody_Green_97
+  - first:
+      213: -5665577407623356451
+    second: SS_HeavyBody_Green_98
+  - first:
+      213: -3932385024078413817
+    second: SS_HeavyBody_Green_99
+  - first:
+      213: 6952042739482003108
+    second: SS_HeavyBody_Green_100
+  - first:
+      213: 2795755082928116627
+    second: SS_HeavyBody_Green_101
+  - first:
+      213: -6613009983595235323
+    second: SS_HeavyBody_Green_102
+  - first:
+      213: 2683024614353626818
+    second: SS_HeavyBody_Green_103
+  - first:
+      213: 5154838106655007849
+    second: SS_HeavyBody_Green_104
+  - first:
+      213: 7800299207111895437
+    second: SS_HeavyBody_Green_105
+  - first:
+      213: 6198512273361557345
+    second: SS_HeavyBody_Green_106
+  - first:
+      213: -2546039477888151178
+    second: SS_HeavyBody_Green_107
+  - first:
+      213: 3819077730574048537
+    second: SS_HeavyBody_Green_108
+  - first:
+      213: 5426658085289469217
+    second: SS_HeavyBody_Green_109
+  - first:
+      213: 5772745099209552479
+    second: SS_HeavyBody_Green_110
+  - first:
+      213: 4844476349381804021
+    second: SS_HeavyBody_Green_111
+  - first:
+      213: -8289846093501210586
+    second: SS_HeavyBody_Green_112
+  - first:
+      213: -6802393123376039837
+    second: SS_HeavyBody_Green_113
+  - first:
+      213: 8668990212230370017
+    second: SS_HeavyBody_Green_114
+  - first:
+      213: 8278153344635946880
+    second: SS_HeavyBody_Green_115
+  - first:
+      213: -5083312674300363612
+    second: SS_HeavyBody_Green_116
+  - first:
+      213: -3095171443648951485
+    second: SS_HeavyBody_Green_117
+  - first:
+      213: -4553910668152943563
+    second: SS_HeavyBody_Green_118
+  - first:
+      213: 9197884443413578624
+    second: SS_HeavyBody_Green_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 321
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50312c6987fca33d0800000000000000
+      internalID: -3226038066225212667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 321
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00bc652d7e67e6120800000000000000
+      internalID: 2408993588728220416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 322
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6314b3d9d2ac5810800000000000000
+      internalID: 1755457011211047788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 321
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b74f71b80fb8804d0800000000000000
+      internalID: -3168128472613129093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 321
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225463387a5b1c320800000000000000
+      internalID: 2576540192898172194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 322
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d093259f3aa8d01e0800000000000000
+      internalID: -2229973803611309811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 321
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b0f4d2d0630c000800000000000000
+      internalID: 54102625751075592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 321
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3b9774238f18f80800000000000000
+      internalID: -8105924959458970636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 321
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfab3e196f10e3ec0800000000000000
+      internalID: -3585426094819132675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 321
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be99de3c1594c6ae0800000000000000
+      internalID: -1554787155821356565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 321
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27bd5909e36d5a2a0800000000000000
+      internalID: -6726734904205911182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 289
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860a8ad84ee35e7d0800000000000000
+      internalID: -2889834434538200984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56f6da6ca82b7030800000000000000
+      internalID: 3493430656947910236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5f6c0797e75ce60800000000000000
+      internalID: 7981924974632302004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c23c98a7ba940530800000000000000
+      internalID: 3820348497515524804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 289
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc72d7a2edddb69a0800000000000000
+      internalID: -6238648912526366772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_16
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 289
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28365d7d1846c6670800000000000000
+      internalID: 8533305902794892162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 289
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab1da6bec5f73a20800000000000000
+      internalID: 3042170341488925613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 289
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 404647de9b3ea05a0800000000000000
+      internalID: -6554175919992052732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 289
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6af7384ddcb3bce0800000000000000
+      internalID: -1390560201341928854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_20
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 290
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cb03dbda502a9b0800000000000000
+      internalID: -5070483986704188387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 290
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64bf87935c00d090800000000000000
+      internalID: -8011890183927516049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c112cdb345d3550800000000000000
+      internalID: 6142158082876185740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 258
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796cbda826601d200800000000000000
+      internalID: 202950478514603671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 257
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba0d4b7e743c00d0800000000000000
+      internalID: -3455329096260842825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 257
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5f99acf26b3e510800000000000000
+      internalID: 1577304610888611289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 258
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a78b014fc41bf620800000000000000
+      internalID: 2808861672977696678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 257
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b5e2d7fc283eb40800000000000000
+      internalID: 5468358200227945250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 258
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c475ddca3cb4f2e0800000000000000
+      internalID: -2092840966072994617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 258
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090c06d4f288a5b00800000000000000
+      internalID: 818116019064193168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 258
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122decf2f887e7e90800000000000000
+      internalID: -7026045812273655263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 258
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31933a7a81cff4ae0800000000000000
+      internalID: -1562753362852366061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_32
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 258
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcaeca8dbba3b9080800000000000000
+      internalID: -9179678836996117811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 227
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9206564ada0092950800000000000000
+      internalID: 6424667089208172585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_34
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 227
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe974c79c1d5a480800000000000000
+      internalID: -8888467626242105616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 225
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499ef245cf52ccb10800000000000000
+      internalID: 2003017699947440532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 226
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd618131452ab510800000000000000
+      internalID: 1565604782398336469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_37
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 226
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2620a32b0cad990800000000000000
+      internalID: -7360358769273707853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 226
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c875cea937b64c510800000000000000
+      internalID: 1568496714496366476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f665d221ab14e1060800000000000000
+      internalID: 6926045544367085167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_40
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 224
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627efc1dc85261ce0800000000000000
+      internalID: -1434918144525211866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92659e8a5284fb440800000000000000
+      internalID: 4953757441715689001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_42
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258fbe70f412766c0800000000000000
+      internalID: -4150311908279584686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_43
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 224
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b80b9e7fbae6a20800000000000000
+      internalID: 3057570278297078607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 194
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584b802eb73637aa0800000000000000
+      internalID: -6164474081215728507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_45
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 193
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9337f71c076b47430800000000000000
+      internalID: 3779846582669636409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_46
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 193
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935e371eafe076440800000000000000
+      internalID: 4928924787867379001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_47
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 193
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fb85acf87d438680800000000000000
+      internalID: -8754068068647990288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_48
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 192
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda254f2b172967d0800000000000000
+      internalID: -2924763485289764133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 193
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc72140be2c56ce00800000000000000
+      internalID: 1064639717515012045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 193
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00281424bebb3890800000000000000
+      internalID: -7477173075409625077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_51
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 193
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b22fe57fd52740b0800000000000000
+      internalID: -5744581158001237326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_52
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 195
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b566ab41a7dda8a50800000000000000
+      internalID: 6524270526603093595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_53
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 192
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5ba9f24982afc20800000000000000
+      internalID: 3240947498765432305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_54
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 193
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e03525c85e36390800000000000000
+      internalID: -7826159336600433148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 161
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ff0fb3afc0da9c0800000000000000
+      internalID: -3914458232228085896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 162
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a7ced0050432e00800000000000000
+      internalID: 1018728653291026973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 161
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdd76e2573d66b80800000000000000
+      internalID: -8401795554569888315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 161
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2d997766a313b40800000000000000
+      internalID: 5418176038471062205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303b7176afbcc1010800000000000000
+      internalID: 1161027080286614275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_60
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 162
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458ede75a0b166bb0800000000000000
+      internalID: -4943233809753708460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_61
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 163
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c282d321876a53290800000000000000
+      internalID: -7911234135774123988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_62
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 162
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9cf4091e74d8a30800000000000000
+      internalID: 4219107460030384583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_63
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 163
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76126503e1207b150800000000000000
+      internalID: 5888177366493438311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_64
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 162
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f3f940677a2a5a0800000000000000
+      internalID: -6511457985898791034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_65
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 163
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aab3e58320d3e370800000000000000
+      internalID: 8350746985063758497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 131
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e8de25b41940790800000000000000
+      internalID: -7564761721375715752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_67
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 130
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480286edd8320b710800000000000000
+      internalID: 1706903351002144900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_68
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 131
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e56066d245ccc070800000000000000
+      internalID: 8128088318352057833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_69
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 131
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037277fcb204264c0800000000000000
+      internalID: -4295800537649567952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_70
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 130
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7daa26f984b784d0800000000000000
+      internalID: -3132336511179379333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_71
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 131
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8fc07121b8f0020800000000000000
+      internalID: 2310218043676752103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_72
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 130
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64712181862e78b0800000000000000
+      internalID: -5152638586006178708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_73
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 131
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796ec8d999db74cc0800000000000000
+      internalID: -3726801699154893161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_74
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 130
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253b02ff19e94c6e0800000000000000
+      internalID: -1818153999663058094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_75
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 131
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb2511612b69e1d0800000000000000
+      internalID: -3321005459102159923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_76
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 131
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224b9d830570b70e0800000000000000
+      internalID: -2271213545945713630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 98
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dbbe2ebeee44ec90800000000000000
+      internalID: -7141496321802847273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_78
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 99
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2902d4a02244fe0800000000000000
+      internalID: -1205801372589452618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_79
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 99
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdf5c76984746430800000000000000
+      internalID: 3775270521143688648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_80
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 98
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cbdbb5df9c17d10800000000000000
+      internalID: 2121698989471284316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_81
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 99
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f0f200309e5101d0800000000000000
+      internalID: -3386321471432101641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_82
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 99
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d2c9bf43fd4f360800000000000000
+      internalID: 7202627122724875549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_83
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 98
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c39085b5ef16e50800000000000000
+      internalID: 6800996580578638857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_84
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 99
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2e5c969bbece770800000000000000
+      internalID: 8641540966593192693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_85
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 97
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ada6f9b76d80cae80800000000000000
+      internalID: -8166142307039483174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_86
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 97
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8eacd8dff16ad1a0800000000000000
+      internalID: -6784002137197334899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_87
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 98
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75dceab33c6cda20800000000000000
+      internalID: 3088462413904532858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_88
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 67
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec14857735d85040800000000000000
+      internalID: 4636690250549435620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_89
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 67
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca927916e223b100800000000000000
+      internalID: 122479986533898953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_90
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 66
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dda588000f3fc420800000000000000
+      internalID: 2652407974920039897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_91
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 66
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17167ef9b913366f0800000000000000
+      internalID: -692655373212491407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_92
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 66
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80473dfce95cdf7c0800000000000000
+      internalID: -4035852405171850232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_93
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 66
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28acbc522a92be5c0800000000000000
+      internalID: -4185205652315190654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_94
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 66
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8048ce41a308b8ff0800000000000000
+      internalID: -32791585327643640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_95
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 65
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735ba4c229418d070800000000000000
+      internalID: 8131271745258304823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_96
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 66
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cfeb79f7da8b6c0800000000000000
+      internalID: -4127358294966731771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_97
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 65
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c0a3fdd9abe4790800000000000000
+      internalID: -7543887138581246831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_98
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 65
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf91238d53df51b0800000000000000
+      internalID: -5665577407623356451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_99
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 34
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7008dbfb7ac5d69c0800000000000000
+      internalID: -3932385024078413817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_100
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 35
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6882eb90e9a7060800000000000000
+      internalID: 6952042739482003108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 35
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3935ce47f648cc620800000000000000
+      internalID: 2795755082928116627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508b1b7057ed934a0800000000000000
+      internalID: -6613009983595235323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c66d26eba40c3520800000000000000
+      internalID: 2683024614353626818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_104
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 34
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964a1dd42f9a98740800000000000000
+      internalID: 5154838106655007849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_105
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 34
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d896aa51dca304c60800000000000000
+      internalID: 7800299207111895437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_106
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 33
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1675d9d421a850650800000000000000
+      internalID: 6198512273361557345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_107
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 34
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6711b589596aaacd0800000000000000
+      internalID: -2546039477888151178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_108
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 34
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d987c26f6100530800000000000000
+      internalID: 3819077730574048537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_109
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 33
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1252e23e6cc5f4b40800000000000000
+      internalID: 5426658085289469217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_110
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5233491519ec1050800000000000000
+      internalID: 5772745099209552479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_111
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fffea792990b3340800000000000000
+      internalID: 4844476349381804021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620633246ec84fc80800000000000000
+      internalID: -8289846093501210586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_113
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3687c92be7b0991a0800000000000000
+      internalID: -6802393123376039837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_114
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e25451faa07e4870800000000000000
+      internalID: 8668990212230370017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_115
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087cc3f7b98e1e270800000000000000
+      internalID: 8278153344635946880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_116
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acf5162e027479b0800000000000000
+      internalID: -5083312674300363612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b0f5e88fdbb05d0800000000000000
+      internalID: -3095171443648951485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_118
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 0
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cc1edff524dc0c0800000000000000
+      internalID: -4553910668152943563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_HeavyBody_Green_119
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08302c63b2375af70800000000000000
+      internalID: 9197884443413578624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_HeavyBody_Green_0: -3226038066225212667
+      SS_HeavyBody_Green_1: 2408993588728220416
+      SS_HeavyBody_Green_10: -6726734904205911182
+      SS_HeavyBody_Green_100: 6952042739482003108
+      SS_HeavyBody_Green_101: 2795755082928116627
+      SS_HeavyBody_Green_102: -6613009983595235323
+      SS_HeavyBody_Green_103: 2683024614353626818
+      SS_HeavyBody_Green_104: 5154838106655007849
+      SS_HeavyBody_Green_105: 7800299207111895437
+      SS_HeavyBody_Green_106: 6198512273361557345
+      SS_HeavyBody_Green_107: -2546039477888151178
+      SS_HeavyBody_Green_108: 3819077730574048537
+      SS_HeavyBody_Green_109: 5426658085289469217
+      SS_HeavyBody_Green_11: -2889834434538200984
+      SS_HeavyBody_Green_110: 5772745099209552479
+      SS_HeavyBody_Green_111: 4844476349381804021
+      SS_HeavyBody_Green_112: -8289846093501210586
+      SS_HeavyBody_Green_113: -6802393123376039837
+      SS_HeavyBody_Green_114: 8668990212230370017
+      SS_HeavyBody_Green_115: 8278153344635946880
+      SS_HeavyBody_Green_116: -5083312674300363612
+      SS_HeavyBody_Green_117: -3095171443648951485
+      SS_HeavyBody_Green_118: -4553910668152943563
+      SS_HeavyBody_Green_119: 9197884443413578624
+      SS_HeavyBody_Green_12: 3493430656947910236
+      SS_HeavyBody_Green_13: 7981924974632302004
+      SS_HeavyBody_Green_14: 3820348497515524804
+      SS_HeavyBody_Green_15: -6238648912526366772
+      SS_HeavyBody_Green_16: 8533305902794892162
+      SS_HeavyBody_Green_17: 3042170341488925613
+      SS_HeavyBody_Green_18: -6554175919992052732
+      SS_HeavyBody_Green_19: -1390560201341928854
+      SS_HeavyBody_Green_2: 1755457011211047788
+      SS_HeavyBody_Green_20: -5070483986704188387
+      SS_HeavyBody_Green_21: -8011890183927516049
+      SS_HeavyBody_Green_22: 6142158082876185740
+      SS_HeavyBody_Green_23: 202950478514603671
+      SS_HeavyBody_Green_24: -3455329096260842825
+      SS_HeavyBody_Green_25: 1577304610888611289
+      SS_HeavyBody_Green_26: 2808861672977696678
+      SS_HeavyBody_Green_27: 5468358200227945250
+      SS_HeavyBody_Green_28: -2092840966072994617
+      SS_HeavyBody_Green_29: 818116019064193168
+      SS_HeavyBody_Green_3: -3168128472613129093
+      SS_HeavyBody_Green_30: -7026045812273655263
+      SS_HeavyBody_Green_31: -1562753362852366061
+      SS_HeavyBody_Green_32: -9179678836996117811
+      SS_HeavyBody_Green_33: 6424667089208172585
+      SS_HeavyBody_Green_34: -8888467626242105616
+      SS_HeavyBody_Green_35: 2003017699947440532
+      SS_HeavyBody_Green_36: 1565604782398336469
+      SS_HeavyBody_Green_37: -7360358769273707853
+      SS_HeavyBody_Green_38: 1568496714496366476
+      SS_HeavyBody_Green_39: 6926045544367085167
+      SS_HeavyBody_Green_4: 2576540192898172194
+      SS_HeavyBody_Green_40: -1434918144525211866
+      SS_HeavyBody_Green_41: 4953757441715689001
+      SS_HeavyBody_Green_42: -4150311908279584686
+      SS_HeavyBody_Green_43: 3057570278297078607
+      SS_HeavyBody_Green_44: -6164474081215728507
+      SS_HeavyBody_Green_45: 3779846582669636409
+      SS_HeavyBody_Green_46: 4928924787867379001
+      SS_HeavyBody_Green_47: -8754068068647990288
+      SS_HeavyBody_Green_48: -2924763485289764133
+      SS_HeavyBody_Green_49: 1064639717515012045
+      SS_HeavyBody_Green_5: -2229973803611309811
+      SS_HeavyBody_Green_50: -7477173075409625077
+      SS_HeavyBody_Green_51: -5744581158001237326
+      SS_HeavyBody_Green_52: 6524270526603093595
+      SS_HeavyBody_Green_53: 3240947498765432305
+      SS_HeavyBody_Green_54: -7826159336600433148
+      SS_HeavyBody_Green_55: -3914458232228085896
+      SS_HeavyBody_Green_56: 1018728653291026973
+      SS_HeavyBody_Green_57: -8401795554569888315
+      SS_HeavyBody_Green_58: 5418176038471062205
+      SS_HeavyBody_Green_59: 1161027080286614275
+      SS_HeavyBody_Green_6: 54102625751075592
+      SS_HeavyBody_Green_60: -4943233809753708460
+      SS_HeavyBody_Green_61: -7911234135774123988
+      SS_HeavyBody_Green_62: 4219107460030384583
+      SS_HeavyBody_Green_63: 5888177366493438311
+      SS_HeavyBody_Green_64: -6511457985898791034
+      SS_HeavyBody_Green_65: 8350746985063758497
+      SS_HeavyBody_Green_66: -7564761721375715752
+      SS_HeavyBody_Green_67: 1706903351002144900
+      SS_HeavyBody_Green_68: 8128088318352057833
+      SS_HeavyBody_Green_69: -4295800537649567952
+      SS_HeavyBody_Green_7: -8105924959458970636
+      SS_HeavyBody_Green_70: -3132336511179379333
+      SS_HeavyBody_Green_71: 2310218043676752103
+      SS_HeavyBody_Green_72: -5152638586006178708
+      SS_HeavyBody_Green_73: -3726801699154893161
+      SS_HeavyBody_Green_74: -1818153999663058094
+      SS_HeavyBody_Green_75: -3321005459102159923
+      SS_HeavyBody_Green_76: -2271213545945713630
+      SS_HeavyBody_Green_77: -7141496321802847273
+      SS_HeavyBody_Green_78: -1205801372589452618
+      SS_HeavyBody_Green_79: 3775270521143688648
+      SS_HeavyBody_Green_8: -3585426094819132675
+      SS_HeavyBody_Green_80: 2121698989471284316
+      SS_HeavyBody_Green_81: -3386321471432101641
+      SS_HeavyBody_Green_82: 7202627122724875549
+      SS_HeavyBody_Green_83: 6800996580578638857
+      SS_HeavyBody_Green_84: 8641540966593192693
+      SS_HeavyBody_Green_85: -8166142307039483174
+      SS_HeavyBody_Green_86: -6784002137197334899
+      SS_HeavyBody_Green_87: 3088462413904532858
+      SS_HeavyBody_Green_88: 4636690250549435620
+      SS_HeavyBody_Green_89: 122479986533898953
+      SS_HeavyBody_Green_9: -1554787155821356565
+      SS_HeavyBody_Green_90: 2652407974920039897
+      SS_HeavyBody_Green_91: -692655373212491407
+      SS_HeavyBody_Green_92: -4035852405171850232
+      SS_HeavyBody_Green_93: -4185205652315190654
+      SS_HeavyBody_Green_94: -32791585327643640
+      SS_HeavyBody_Green_95: 8131271745258304823
+      SS_HeavyBody_Green_96: -4127358294966731771
+      SS_HeavyBody_Green_97: -7543887138581246831
+      SS_HeavyBody_Green_98: -5665577407623356451
+      SS_HeavyBody_Green_99: -3932385024078413817
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3250 @@
+fileFormatVersion: 2
+guid: 7a716c3000e780d44bef49732db57848
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5122924781470166685
+    second: SS_Axe_Red_0
+  - first:
+      213: -3456132328325536246
+    second: SS_Axe_Red_1
+  - first:
+      213: -5200706225789245690
+    second: SS_Axe_Red_2
+  - first:
+      213: -3753867866895729678
+    second: SS_Axe_Red_3
+  - first:
+      213: -7749074058578160640
+    second: SS_Axe_Red_4
+  - first:
+      213: -3607207307641634874
+    second: SS_Axe_Red_5
+  - first:
+      213: 1343546555014757017
+    second: SS_Axe_Red_6
+  - first:
+      213: -97796023531988157
+    second: SS_Axe_Red_7
+  - first:
+      213: -4530436321872391362
+    second: SS_Axe_Red_8
+  - first:
+      213: 4330232594384924294
+    second: SS_Axe_Red_9
+  - first:
+      213: -8767950917753132264
+    second: SS_Axe_Red_10
+  - first:
+      213: 1524886101395309044
+    second: SS_Axe_Red_11
+  - first:
+      213: 3481649653708530357
+    second: SS_Axe_Red_12
+  - first:
+      213: 6000468344976332476
+    second: SS_Axe_Red_13
+  - first:
+      213: -7470484802451990279
+    second: SS_Axe_Red_14
+  - first:
+      213: 5972676934138387752
+    second: SS_Axe_Red_15
+  - first:
+      213: 3903099119970502037
+    second: SS_Axe_Red_16
+  - first:
+      213: 4361802081966385267
+    second: SS_Axe_Red_17
+  - first:
+      213: -8052514613051565872
+    second: SS_Axe_Red_18
+  - first:
+      213: 7027050646312195183
+    second: SS_Axe_Red_19
+  - first:
+      213: 8287110289150497025
+    second: SS_Axe_Red_20
+  - first:
+      213: 5640163313184784904
+    second: SS_Axe_Red_21
+  - first:
+      213: -1712126096876828667
+    second: SS_Axe_Red_22
+  - first:
+      213: 1398225275734898926
+    second: SS_Axe_Red_23
+  - first:
+      213: 744465164001396922
+    second: SS_Axe_Red_24
+  - first:
+      213: -4177620889409126737
+    second: SS_Axe_Red_25
+  - first:
+      213: 4123288907867086280
+    second: SS_Axe_Red_26
+  - first:
+      213: -99907823672966809
+    second: SS_Axe_Red_27
+  - first:
+      213: 5520575523436279272
+    second: SS_Axe_Red_28
+  - first:
+      213: 6538577140551598430
+    second: SS_Axe_Red_29
+  - first:
+      213: -582797890463173569
+    second: SS_Axe_Red_30
+  - first:
+      213: -9171539085093371911
+    second: SS_Axe_Red_31
+  - first:
+      213: -2444115905641470006
+    second: SS_Axe_Red_32
+  - first:
+      213: 1429627991202408285
+    second: SS_Axe_Red_33
+  - first:
+      213: -506707392464571980
+    second: SS_Axe_Red_34
+  - first:
+      213: -8301176293201897789
+    second: SS_Axe_Red_35
+  - first:
+      213: -7457186732587641584
+    second: SS_Axe_Red_36
+  - first:
+      213: 1693194621898419986
+    second: SS_Axe_Red_37
+  - first:
+      213: -1567227085120850864
+    second: SS_Axe_Red_38
+  - first:
+      213: 8163728255293829305
+    second: SS_Axe_Red_39
+  - first:
+      213: 4824830452923244932
+    second: SS_Axe_Red_40
+  - first:
+      213: 8147913286067979530
+    second: SS_Axe_Red_41
+  - first:
+      213: -6729658520487813637
+    second: SS_Axe_Red_42
+  - first:
+      213: 8418783598623645678
+    second: SS_Axe_Red_43
+  - first:
+      213: -3957496263330030721
+    second: SS_Axe_Red_44
+  - first:
+      213: 6448398908504789840
+    second: SS_Axe_Red_45
+  - first:
+      213: -3551126203624138497
+    second: SS_Axe_Red_46
+  - first:
+      213: -7652682533489880366
+    second: SS_Axe_Red_47
+  - first:
+      213: 5664045287436262762
+    second: SS_Axe_Red_48
+  - first:
+      213: 3065474361888303038
+    second: SS_Axe_Red_49
+  - first:
+      213: 7521596512146894833
+    second: SS_Axe_Red_50
+  - first:
+      213: -6664273753031174448
+    second: SS_Axe_Red_51
+  - first:
+      213: -8720377580293093554
+    second: SS_Axe_Red_52
+  - first:
+      213: -5701724772154632292
+    second: SS_Axe_Red_53
+  - first:
+      213: -1868696964703811685
+    second: SS_Axe_Red_54
+  - first:
+      213: 744073139302037075
+    second: SS_Axe_Red_55
+  - first:
+      213: 6288363551929337441
+    second: SS_Axe_Red_56
+  - first:
+      213: -8471536638031450760
+    second: SS_Axe_Red_57
+  - first:
+      213: 3351450253669494588
+    second: SS_Axe_Red_58
+  - first:
+      213: 5032458524347074712
+    second: SS_Axe_Red_59
+  - first:
+      213: 8892326952771192327
+    second: SS_Axe_Red_60
+  - first:
+      213: -2764224193055451271
+    second: SS_Axe_Red_61
+  - first:
+      213: -2263980152775508486
+    second: SS_Axe_Red_62
+  - first:
+      213: 7612018883714970695
+    second: SS_Axe_Red_63
+  - first:
+      213: 1420375020531817932
+    second: SS_Axe_Red_64
+  - first:
+      213: -5852887069439522226
+    second: SS_Axe_Red_65
+  - first:
+      213: -5418806181742725026
+    second: SS_Axe_Red_66
+  - first:
+      213: 1271101880175098410
+    second: SS_Axe_Red_67
+  - first:
+      213: 5647438773882748446
+    second: SS_Axe_Red_68
+  - first:
+      213: 4593893010679517384
+    second: SS_Axe_Red_69
+  - first:
+      213: 7209344922025367441
+    second: SS_Axe_Red_70
+  - first:
+      213: -8634436529941935558
+    second: SS_Axe_Red_71
+  - first:
+      213: 6144653213772776742
+    second: SS_Axe_Red_72
+  - first:
+      213: 6416767037291792287
+    second: SS_Axe_Red_73
+  - first:
+      213: -3098723509355685893
+    second: SS_Axe_Red_74
+  - first:
+      213: -3200523366860862328
+    second: SS_Axe_Red_75
+  - first:
+      213: 7045617935739775424
+    second: SS_Axe_Red_76
+  - first:
+      213: 2681659265934641380
+    second: SS_Axe_Red_77
+  - first:
+      213: 8476301841402446612
+    second: SS_Axe_Red_78
+  - first:
+      213: 2777570405163388915
+    second: SS_Axe_Red_79
+  - first:
+      213: -2641490082803440222
+    second: SS_Axe_Red_80
+  - first:
+      213: 8388201018839207345
+    second: SS_Axe_Red_81
+  - first:
+      213: -5125313189442365923
+    second: SS_Axe_Red_82
+  - first:
+      213: 1932997882739816167
+    second: SS_Axe_Red_83
+  - first:
+      213: -2243342012456871473
+    second: SS_Axe_Red_84
+  - first:
+      213: 9114612907048866693
+    second: SS_Axe_Red_85
+  - first:
+      213: -4617723469256455422
+    second: SS_Axe_Red_86
+  - first:
+      213: 137474919944096922
+    second: SS_Axe_Red_87
+  - first:
+      213: -1240883106350527625
+    second: SS_Axe_Red_88
+  - first:
+      213: -5158466029365965837
+    second: SS_Axe_Red_89
+  - first:
+      213: 8619877518394696586
+    second: SS_Axe_Red_90
+  - first:
+      213: -5753951805537413495
+    second: SS_Axe_Red_91
+  - first:
+      213: 4656056406301450669
+    second: SS_Axe_Red_92
+  - first:
+      213: -2753065914911410672
+    second: SS_Axe_Red_93
+  - first:
+      213: -6031249423828791000
+    second: SS_Axe_Red_94
+  - first:
+      213: 4184142902006339935
+    second: SS_Axe_Red_95
+  - first:
+      213: -3594644513064103399
+    second: SS_Axe_Red_96
+  - first:
+      213: 516598018975414212
+    second: SS_Axe_Red_97
+  - first:
+      213: -3630122380872203432
+    second: SS_Axe_Red_98
+  - first:
+      213: -8090370094658769707
+    second: SS_Axe_Red_99
+  - first:
+      213: 4569281943403801682
+    second: SS_Axe_Red_100
+  - first:
+      213: 6500790052210460938
+    second: SS_Axe_Red_101
+  - first:
+      213: 8879950569734024589
+    second: SS_Axe_Red_102
+  - first:
+      213: -7312261690780628466
+    second: SS_Axe_Red_103
+  - first:
+      213: -6310487497109509702
+    second: SS_Axe_Red_104
+  - first:
+      213: 1010483100076409829
+    second: SS_Axe_Red_105
+  - first:
+      213: -3167461153858987567
+    second: SS_Axe_Red_106
+  - first:
+      213: -4343858941259468780
+    second: SS_Axe_Red_107
+  - first:
+      213: -7429404756588649601
+    second: SS_Axe_Red_108
+  - first:
+      213: 3351430537399790677
+    second: SS_Axe_Red_109
+  - first:
+      213: 618880070804059187
+    second: SS_Axe_Red_110
+  - first:
+      213: -5627764007710434489
+    second: SS_Axe_Red_111
+  - first:
+      213: -7747470984250429890
+    second: SS_Axe_Red_112
+  - first:
+      213: 2873474609612405125
+    second: SS_Axe_Red_113
+  - first:
+      213: -8542254701272437606
+    second: SS_Axe_Red_114
+  - first:
+      213: -3563120092778032850
+    second: SS_Axe_Red_115
+  - first:
+      213: -5700960392225238779
+    second: SS_Axe_Red_116
+  - first:
+      213: -8392550521385604543
+    second: SS_Axe_Red_117
+  - first:
+      213: -6460479811614236719
+    second: SS_Axe_Red_118
+  - first:
+      213: 5180425477572702504
+    second: SS_Axe_Red_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Axe_Red_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 320
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e239242f8481740800000000000000
+      internalID: 5122924781470166685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 321
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06a96175f95900d0800000000000000
+      internalID: -3456132328325536246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 322
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6076baefd3163d7b0800000000000000
+      internalID: -5200706225789245690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 321
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb3deb501597ebc0800000000000000
+      internalID: -3753867866895729678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 320
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00411483332c57490800000000000000
+      internalID: -7749074058578160640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 321
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfb3d4c010a0fdc0800000000000000
+      internalID: -3607207307641634874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 323
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99abade297c35a210800000000000000
+      internalID: 1343546555014757017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 321
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b1ee4e80f84aef0800000000000000
+      internalID: -97796023531988157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 321
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e33d4452b28a021c0800000000000000
+      internalID: -4530436321872391362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 322
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ea12f1a93181c30800000000000000
+      internalID: 4330232594384924294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ba34b481bf15680800000000000000
+      internalID: -8767950917753132264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 290
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1099c74db792510800000000000000
+      internalID: 1524886101395309044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 289
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2a8a9d9ed415030800000000000000
+      internalID: 3481649653708530357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 288
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb65a4cfa22f54350800000000000000
+      internalID: 6000468344976332476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 289
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f815e907a1835890800000000000000
+      internalID: -7470484802451990279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 289
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ddc79e60633e250800000000000000
+      internalID: 5972676934138387752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_16
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 289
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5954bf858f79a2630800000000000000
+      internalID: 3903099119970502037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 288
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3786a2c32eb388c30800000000000000
+      internalID: 4361802081966385267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 290
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d85b6c9f98bf3090800000000000000
+      internalID: -8052514613051565872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_19
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 288
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f641e18f459158160800000000000000
+      internalID: 7027050646312195183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_20
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 289
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101dc47a6eab10370800000000000000
+      internalID: 8287110289150497025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_21
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 289
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802c19586a2e54e40800000000000000
+      internalID: 5640163313184784904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 256
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5080bf8d26e4d38e0800000000000000
+      internalID: -1712126096876828667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 258
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8b62cea7e776310800000000000000
+      internalID: 1398225275734898926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 257
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8c4ff4f1fd45a00800000000000000
+      internalID: 744465164001396922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 256
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae74806feb1606c0800000000000000
+      internalID: -4177620889409126737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_26
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 256
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdd9b36a6dd83930800000000000000
+      internalID: 4123288907867086280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_27
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 256
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761c0bb1d5e0d9ef0800000000000000
+      internalID: -99907823672966809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 256
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5b22670360d9c40800000000000000
+      internalID: 5520575523436279272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_29
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 256
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5141173441bdba50800000000000000
+      internalID: 6538577140551598430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_30
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 256
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34781b086c79e7f0800000000000000
+      internalID: -582797890463173569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_31
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 258
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fff5658bc528b080800000000000000
+      internalID: -9171539085093371911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_32
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 257
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7ab568881c41ed0800000000000000
+      internalID: -2444115905641470006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 225
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d572390651f07d310800000000000000
+      internalID: 1429627991202408285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_34
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 224
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b1b51baf40d7f8f0800000000000000
+      internalID: -506707392464571980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_35
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 225
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c69ec1942c4ccc80800000000000000
+      internalID: -8301176293201897789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 225
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0159b543d20c28890800000000000000
+      internalID: -7457186732587641584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_37
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 224
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f6bd5a98f6f7710800000000000000
+      internalID: 1693194621898419986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_38
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 224
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05430050547104ae0800000000000000
+      internalID: -1567227085120850864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_39
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 226
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0bb9b48936b4170800000000000000
+      internalID: 8163728255293829305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_40
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 225
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4812affdbbd35f240800000000000000
+      internalID: 4824830452923244932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_41
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 226
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0584c4d6f3331170800000000000000
+      internalID: 8147913286067979530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_42
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 226
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd94aa1b337b92a0800000000000000
+      internalID: -6729658520487813637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_43
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 225
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefd8dc041785d470800000000000000
+      internalID: 8418783598623645678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 193
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b1740cd162419c0800000000000000
+      internalID: -3957496263330030721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_45
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 193
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053d17764a05d7950800000000000000
+      internalID: 6448398908504789840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_46
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 194
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8d660588dd7bec0800000000000000
+      internalID: -3551126203624138497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_47
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 196
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2df7c08c53cc590800000000000000
+      internalID: -7652682533489880366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_48
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 194
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d1d55fd2bba9e40800000000000000
+      internalID: 5664045287436262762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_49
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 193
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb76b68c0b0ca8a20800000000000000
+      internalID: 3065474361888303038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_50
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 193
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff255a3d24126860800000000000000
+      internalID: 7521596512146894833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_51
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 194
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d61e98945eb383a0800000000000000
+      internalID: -6664273753031174448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_52
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 194
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4789531bcefaf680800000000000000
+      internalID: -8720377580293093554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_53
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 194
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c979dac57876fd0b0800000000000000
+      internalID: -5701724772154632292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_54
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 194
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b978af9e20e0116e0800000000000000
+      internalID: -1868696964703811685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 162
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356f103f39a735a00800000000000000
+      internalID: 744073139302037075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_56
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 163
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16603435551c44750800000000000000
+      internalID: 6288363551929337441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_57
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 163
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87dad64df4e0f6a80800000000000000
+      internalID: -8471536638031450760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_58
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 161
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3fec5cbf3eb28e20800000000000000
+      internalID: 3351450253669494588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_59
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 163
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89808926d52e6d540800000000000000
+      internalID: 5032458524347074712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_60
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 163
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7060f8eff34e76b70800000000000000
+      internalID: 8892326952771192327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_61
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 160
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977936dedb083a9d0800000000000000
+      internalID: -2764224193055451271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_62
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 162
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdf74fcb0ab490e0800000000000000
+      internalID: -2263980152775508486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_63
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 162
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744756338d253a960800000000000000
+      internalID: 7612018883714970695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_64
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 162
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd13a24e8f26b310800000000000000
+      internalID: 1420375020531817932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_65
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 161
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a8493683e56cea0800000000000000
+      internalID: -5852887069439522226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_66
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 131
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e58b88edc788cc4b0800000000000000
+      internalID: -5418806181742725026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_67
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 130
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2afa29ec6cd3a110800000000000000
+      internalID: 1271101880175098410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_68
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 129
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e7c08b4abbf5e40800000000000000
+      internalID: 5647438773882748446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_69
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 131
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0d3bd8a59c0cf30800000000000000
+      internalID: 4593893010679517384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_70
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 130
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1979694820dbc0460800000000000000
+      internalID: 7209344922025367441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_71
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 129
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a872529b15c2880800000000000000
+      internalID: -8634436529941935558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_72
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 130
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62583eaca81364550800000000000000
+      internalID: 6144653213772776742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_73
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 130
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9786387f9fec0950800000000000000
+      internalID: 6416767037291792287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_74
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 130
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7d3bfc26f1ff4d0800000000000000
+      internalID: -3098723509355685893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_75
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 129
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ccbe674f47593d0800000000000000
+      internalID: -3200523366860862328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_76
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 131
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9e3eaee2017c160800000000000000
+      internalID: 7045617935739775424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_77
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 98
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e84ba2f4ea273520800000000000000
+      internalID: 2681659265934641380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_78
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 98
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41348c98d9fd1a570800000000000000
+      internalID: 8476301841402446612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_79
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 98
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffc66a3199eb8620800000000000000
+      internalID: 2777570405163388915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_80
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 97
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5a8c0d3ca875bd0800000000000000
+      internalID: -2641490082803440222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_81
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 97
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bd0b705260e86470800000000000000
+      internalID: 8388201018839207345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_82
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 97
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16d9ac2fca3fd8b0800000000000000
+      internalID: -5125313189442365923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_83
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 97
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6f948355363da10800000000000000
+      internalID: 1932997882739816167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_84
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 97
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc95ccd435c0ed0e0800000000000000
+      internalID: -2243342012456871473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_85
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 98
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58396ddc52c9d7e70800000000000000
+      internalID: 9114612907048866693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_86
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 97
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b0cff68fc8aefb0800000000000000
+      internalID: -4617723469256455422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_87
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 97
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c0bc816b868e100800000000000000
+      internalID: 137474919944096922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_88
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 64
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b8136a36f77cee0800000000000000
+      internalID: -1240883106350527625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 66
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbc8bd1a727968b0800000000000000
+      internalID: -5158466029365965837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_90
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83aa43dee4ff9770800000000000000
+      internalID: 8619877518394696586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_91
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 65
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9869930915bd520b0800000000000000
+      internalID: -5753951805537413495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1a7c7f1a2ad9040800000000000000
+      internalID: 4656056406301450669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 65
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016387203252bc9d0800000000000000
+      internalID: -2753065914911410672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_94
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 65
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821d7ec9a92bc4ca0800000000000000
+      internalID: -6031249423828791000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_95
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 66
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f595f830dcf011a30800000000000000
+      internalID: 4184142902006339935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_96
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912d1015cd14d1ec0800000000000000
+      internalID: -3594644513064103399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_97
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c733b449235b2700800000000000000
+      internalID: 516598018975414212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_98
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 66
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853cae48de63f9dc0800000000000000
+      internalID: -3630122380872203432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_99
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 33
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcab66734b39bf80800000000000000
+      internalID: -8090370094658769707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_100
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ca03be7b9596f30800000000000000
+      internalID: 4569281943403801682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 33
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09c56d1c12773a50800000000000000
+      internalID: 6500790052210460938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d2604cefbeb3b70800000000000000
+      internalID: 8879950569734024589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_103
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 34
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ac258fbb0a58a90800000000000000
+      internalID: -7312261690780628466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_104
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 33
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab96e374e05ac68a0800000000000000
+      internalID: -6310487497109509702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_105
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 34
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e307979605f50e00800000000000000
+      internalID: 1010483100076409829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_106
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9d26cccdaea04d0800000000000000
+      internalID: -3167461153858987567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_107
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 32
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41033d3ce4387b3c0800000000000000
+      internalID: -4343858941259468780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73afee8cb375e890800000000000000
+      internalID: -7429404756588649601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_109
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 33
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c6c1f215ca28e20800000000000000
+      internalID: 3351430537399790677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33438da3524b69800800000000000000
+      internalID: 618880070804059187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bd0b0c37a26e1b0800000000000000
+      internalID: -5627764007710434489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e6b1c00347b7490800000000000000
+      internalID: -7747470984250429890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5893d01eee1a0e720800000000000000
+      internalID: 2873474609612405125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_114
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ceeb5ab90d37980800000000000000
+      internalID: -8542254701272437606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_115
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2198e167214d8ec0800000000000000
+      internalID: -3563120092778032850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501d7de6abe12e0b0800000000000000
+      internalID: -5700960392225238779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14aaa4534cba78b80800000000000000
+      internalID: -8392550521385604543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df962627d3c756a0800000000000000
+      internalID: -6460479811614236719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Red_119
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 821ba18568194e740800000000000000
+      internalID: 5180425477572702504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Axe_Red_0: 5122924781470166685
+      SS_Axe_Red_1: -3456132328325536246
+      SS_Axe_Red_10: -8767950917753132264
+      SS_Axe_Red_100: 4569281943403801682
+      SS_Axe_Red_101: 6500790052210460938
+      SS_Axe_Red_102: 8879950569734024589
+      SS_Axe_Red_103: -7312261690780628466
+      SS_Axe_Red_104: -6310487497109509702
+      SS_Axe_Red_105: 1010483100076409829
+      SS_Axe_Red_106: -3167461153858987567
+      SS_Axe_Red_107: -4343858941259468780
+      SS_Axe_Red_108: -7429404756588649601
+      SS_Axe_Red_109: 3351430537399790677
+      SS_Axe_Red_11: 1524886101395309044
+      SS_Axe_Red_110: 618880070804059187
+      SS_Axe_Red_111: -5627764007710434489
+      SS_Axe_Red_112: -7747470984250429890
+      SS_Axe_Red_113: 2873474609612405125
+      SS_Axe_Red_114: -8542254701272437606
+      SS_Axe_Red_115: -3563120092778032850
+      SS_Axe_Red_116: -5700960392225238779
+      SS_Axe_Red_117: -8392550521385604543
+      SS_Axe_Red_118: -6460479811614236719
+      SS_Axe_Red_119: 5180425477572702504
+      SS_Axe_Red_12: 3481649653708530357
+      SS_Axe_Red_13: 6000468344976332476
+      SS_Axe_Red_14: -7470484802451990279
+      SS_Axe_Red_15: 5972676934138387752
+      SS_Axe_Red_16: 3903099119970502037
+      SS_Axe_Red_17: 4361802081966385267
+      SS_Axe_Red_18: -8052514613051565872
+      SS_Axe_Red_19: 7027050646312195183
+      SS_Axe_Red_2: -5200706225789245690
+      SS_Axe_Red_20: 8287110289150497025
+      SS_Axe_Red_21: 5640163313184784904
+      SS_Axe_Red_22: -1712126096876828667
+      SS_Axe_Red_23: 1398225275734898926
+      SS_Axe_Red_24: 744465164001396922
+      SS_Axe_Red_25: -4177620889409126737
+      SS_Axe_Red_26: 4123288907867086280
+      SS_Axe_Red_27: -99907823672966809
+      SS_Axe_Red_28: 5520575523436279272
+      SS_Axe_Red_29: 6538577140551598430
+      SS_Axe_Red_3: -3753867866895729678
+      SS_Axe_Red_30: -582797890463173569
+      SS_Axe_Red_31: -9171539085093371911
+      SS_Axe_Red_32: -2444115905641470006
+      SS_Axe_Red_33: 1429627991202408285
+      SS_Axe_Red_34: -506707392464571980
+      SS_Axe_Red_35: -8301176293201897789
+      SS_Axe_Red_36: -7457186732587641584
+      SS_Axe_Red_37: 1693194621898419986
+      SS_Axe_Red_38: -1567227085120850864
+      SS_Axe_Red_39: 8163728255293829305
+      SS_Axe_Red_4: -7749074058578160640
+      SS_Axe_Red_40: 4824830452923244932
+      SS_Axe_Red_41: 8147913286067979530
+      SS_Axe_Red_42: -6729658520487813637
+      SS_Axe_Red_43: 8418783598623645678
+      SS_Axe_Red_44: -3957496263330030721
+      SS_Axe_Red_45: 6448398908504789840
+      SS_Axe_Red_46: -3551126203624138497
+      SS_Axe_Red_47: -7652682533489880366
+      SS_Axe_Red_48: 5664045287436262762
+      SS_Axe_Red_49: 3065474361888303038
+      SS_Axe_Red_5: -3607207307641634874
+      SS_Axe_Red_50: 7521596512146894833
+      SS_Axe_Red_51: -6664273753031174448
+      SS_Axe_Red_52: -8720377580293093554
+      SS_Axe_Red_53: -5701724772154632292
+      SS_Axe_Red_54: -1868696964703811685
+      SS_Axe_Red_55: 744073139302037075
+      SS_Axe_Red_56: 6288363551929337441
+      SS_Axe_Red_57: -8471536638031450760
+      SS_Axe_Red_58: 3351450253669494588
+      SS_Axe_Red_59: 5032458524347074712
+      SS_Axe_Red_6: 1343546555014757017
+      SS_Axe_Red_60: 8892326952771192327
+      SS_Axe_Red_61: -2764224193055451271
+      SS_Axe_Red_62: -2263980152775508486
+      SS_Axe_Red_63: 7612018883714970695
+      SS_Axe_Red_64: 1420375020531817932
+      SS_Axe_Red_65: -5852887069439522226
+      SS_Axe_Red_66: -5418806181742725026
+      SS_Axe_Red_67: 1271101880175098410
+      SS_Axe_Red_68: 5647438773882748446
+      SS_Axe_Red_69: 4593893010679517384
+      SS_Axe_Red_7: -97796023531988157
+      SS_Axe_Red_70: 7209344922025367441
+      SS_Axe_Red_71: -8634436529941935558
+      SS_Axe_Red_72: 6144653213772776742
+      SS_Axe_Red_73: 6416767037291792287
+      SS_Axe_Red_74: -3098723509355685893
+      SS_Axe_Red_75: -3200523366860862328
+      SS_Axe_Red_76: 7045617935739775424
+      SS_Axe_Red_77: 2681659265934641380
+      SS_Axe_Red_78: 8476301841402446612
+      SS_Axe_Red_79: 2777570405163388915
+      SS_Axe_Red_8: -4530436321872391362
+      SS_Axe_Red_80: -2641490082803440222
+      SS_Axe_Red_81: 8388201018839207345
+      SS_Axe_Red_82: -5125313189442365923
+      SS_Axe_Red_83: 1932997882739816167
+      SS_Axe_Red_84: -2243342012456871473
+      SS_Axe_Red_85: 9114612907048866693
+      SS_Axe_Red_86: -4617723469256455422
+      SS_Axe_Red_87: 137474919944096922
+      SS_Axe_Red_88: -1240883106350527625
+      SS_Axe_Red_89: -5158466029365965837
+      SS_Axe_Red_9: 4330232594384924294
+      SS_Axe_Red_90: 8619877518394696586
+      SS_Axe_Red_91: -5753951805537413495
+      SS_Axe_Red_92: 4656056406301450669
+      SS_Axe_Red_93: -2753065914911410672
+      SS_Axe_Red_94: -6031249423828791000
+      SS_Axe_Red_95: 4184142902006339935
+      SS_Axe_Red_96: -3594644513064103399
+      SS_Axe_Red_97: 516598018975414212
+      SS_Axe_Red_98: -3630122380872203432
+      SS_Axe_Red_99: -8090370094658769707
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

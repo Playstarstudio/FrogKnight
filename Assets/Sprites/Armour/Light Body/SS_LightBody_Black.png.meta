@@ -1,0 +1,2730 @@
+fileFormatVersion: 2
+guid: 5597a23e0702a964f85a8aac6ac410e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3302960190200676980
+    second: SS_LightBody_Black_0
+  - first:
+      213: 1541102632807446653
+    second: SS_LightBody_Black_1
+  - first:
+      213: -7720484704428899149
+    second: SS_LightBody_Black_2
+  - first:
+      213: -7242418638071304991
+    second: SS_LightBody_Black_3
+  - first:
+      213: -8840467717444231377
+    second: SS_LightBody_Black_4
+  - first:
+      213: -8158326711616791000
+    second: SS_LightBody_Black_5
+  - first:
+      213: 2504222675651564817
+    second: SS_LightBody_Black_6
+  - first:
+      213: 4342930678159382253
+    second: SS_LightBody_Black_7
+  - first:
+      213: -636411817921049100
+    second: SS_LightBody_Black_8
+  - first:
+      213: 6225823518718141636
+    second: SS_LightBody_Black_9
+  - first:
+      213: 2763109616189789673
+    second: SS_LightBody_Black_10
+  - first:
+      213: -3418958985793434521
+    second: SS_LightBody_Black_11
+  - first:
+      213: -8517170678387267777
+    second: SS_LightBody_Black_12
+  - first:
+      213: 5348281724515248658
+    second: SS_LightBody_Black_13
+  - first:
+      213: -4750069218670088704
+    second: SS_LightBody_Black_14
+  - first:
+      213: 5271461366936890359
+    second: SS_LightBody_Black_15
+  - first:
+      213: -1261052066192924101
+    second: SS_LightBody_Black_16
+  - first:
+      213: 4582156107929907038
+    second: SS_LightBody_Black_17
+  - first:
+      213: 9011046317607487410
+    second: SS_LightBody_Black_18
+  - first:
+      213: -8052539657814489955
+    second: SS_LightBody_Black_19
+  - first:
+      213: -7083025100138387958
+    second: SS_LightBody_Black_20
+  - first:
+      213: 7902966490007910415
+    second: SS_LightBody_Black_21
+  - first:
+      213: -4644920887819183015
+    second: SS_LightBody_Black_22
+  - first:
+      213: 778879443530972092
+    second: SS_LightBody_Black_23
+  - first:
+      213: 825335768232733665
+    second: SS_LightBody_Black_24
+  - first:
+      213: -742550162740741228
+    second: SS_LightBody_Black_25
+  - first:
+      213: -3807476210951291076
+    second: SS_LightBody_Black_26
+  - first:
+      213: -7917806683145359962
+    second: SS_LightBody_Black_27
+  - first:
+      213: -4031086928325119642
+    second: SS_LightBody_Black_28
+  - first:
+      213: -3271493201753295468
+    second: SS_LightBody_Black_29
+  - first:
+      213: 7772174471331595843
+    second: SS_LightBody_Black_30
+  - first:
+      213: -5347580092025011949
+    second: SS_LightBody_Black_31
+  - first:
+      213: 2337060944167828757
+    second: SS_LightBody_Black_32
+  - first:
+      213: 2224341111664718718
+    second: SS_LightBody_Black_33
+  - first:
+      213: -3908217576051024168
+    second: SS_LightBody_Black_34
+  - first:
+      213: -6792879830472544790
+    second: SS_LightBody_Black_35
+  - first:
+      213: 1906405185098123724
+    second: SS_LightBody_Black_36
+  - first:
+      213: 8429952081881347665
+    second: SS_LightBody_Black_37
+  - first:
+      213: -6314587185801381767
+    second: SS_LightBody_Black_38
+  - first:
+      213: -8690152243942219635
+    second: SS_LightBody_Black_39
+  - first:
+      213: -2270311651222939703
+    second: SS_LightBody_Black_40
+  - first:
+      213: 905039177359460070
+    second: SS_LightBody_Black_41
+  - first:
+      213: 7233169468265649836
+    second: SS_LightBody_Black_42
+  - first:
+      213: 3822988369390259179
+    second: SS_LightBody_Black_43
+  - first:
+      213: 3465160758711551791
+    second: SS_LightBody_Black_44
+  - first:
+      213: 4861190314798531164
+    second: SS_LightBody_Black_45
+  - first:
+      213: -1802478507165322557
+    second: SS_LightBody_Black_46
+  - first:
+      213: -2144186401151216848
+    second: SS_LightBody_Black_47
+  - first:
+      213: -4710026308674731060
+    second: SS_LightBody_Black_48
+  - first:
+      213: -5577908380543607365
+    second: SS_LightBody_Black_49
+  - first:
+      213: -9188222014751934564
+    second: SS_LightBody_Black_50
+  - first:
+      213: -5123300731567979134
+    second: SS_LightBody_Black_51
+  - first:
+      213: 7643046824204981786
+    second: SS_LightBody_Black_52
+  - first:
+      213: -8562820906209093156
+    second: SS_LightBody_Black_53
+  - first:
+      213: 2228904569811129112
+    second: SS_LightBody_Black_54
+  - first:
+      213: -4868275109776047698
+    second: SS_LightBody_Black_55
+  - first:
+      213: 538513885685596761
+    second: SS_LightBody_Black_56
+  - first:
+      213: 7073605890183840715
+    second: SS_LightBody_Black_57
+  - first:
+      213: -3348609119102378966
+    second: SS_LightBody_Black_58
+  - first:
+      213: -8503726766739516230
+    second: SS_LightBody_Black_59
+  - first:
+      213: -66827345452715832
+    second: SS_LightBody_Black_60
+  - first:
+      213: 8991231182567973222
+    second: SS_LightBody_Black_61
+  - first:
+      213: 6160187893592863274
+    second: SS_LightBody_Black_62
+  - first:
+      213: -3240876748015918748
+    second: SS_LightBody_Black_63
+  - first:
+      213: -5760191713087671809
+    second: SS_LightBody_Black_64
+  - first:
+      213: 2531763277295508590
+    second: SS_LightBody_Black_65
+  - first:
+      213: -7735796813314167770
+    second: SS_LightBody_Black_66
+  - first:
+      213: 6017281086024928401
+    second: SS_LightBody_Black_67
+  - first:
+      213: -997067504010850576
+    second: SS_LightBody_Black_68
+  - first:
+      213: 6038330558245335432
+    second: SS_LightBody_Black_69
+  - first:
+      213: 5755842864287188893
+    second: SS_LightBody_Black_70
+  - first:
+      213: 8552870573483688831
+    second: SS_LightBody_Black_71
+  - first:
+      213: 2342364202713971513
+    second: SS_LightBody_Black_72
+  - first:
+      213: 4630010925703723314
+    second: SS_LightBody_Black_73
+  - first:
+      213: 3564290633028178992
+    second: SS_LightBody_Black_74
+  - first:
+      213: -4592033080090316731
+    second: SS_LightBody_Black_75
+  - first:
+      213: 7710502698069899012
+    second: SS_LightBody_Black_76
+  - first:
+      213: 6213660248107785396
+    second: SS_LightBody_Black_77
+  - first:
+      213: 6851382897981328221
+    second: SS_LightBody_Black_78
+  - first:
+      213: 5968879129157808087
+    second: SS_LightBody_Black_79
+  - first:
+      213: 5721393662179111876
+    second: SS_LightBody_Black_80
+  - first:
+      213: -5922517987870011011
+    second: SS_LightBody_Black_81
+  - first:
+      213: -6905655082601830884
+    second: SS_LightBody_Black_82
+  - first:
+      213: -723562639688193507
+    second: SS_LightBody_Black_83
+  - first:
+      213: -1999461381754041827
+    second: SS_LightBody_Black_84
+  - first:
+      213: 4311819163184867652
+    second: SS_LightBody_Black_85
+  - first:
+      213: 1404640993829128780
+    second: SS_LightBody_Black_86
+  - first:
+      213: 9010829410068048800
+    second: SS_LightBody_Black_87
+  - first:
+      213: -2263581540025754608
+    second: SS_LightBody_Black_88
+  - first:
+      213: 795609421224003053
+    second: SS_LightBody_Black_89
+  - first:
+      213: 4210632298785571850
+    second: SS_LightBody_Black_90
+  - first:
+      213: -8735185825361004240
+    second: SS_LightBody_Black_91
+  - first:
+      213: 5367240912007064398
+    second: SS_LightBody_Black_92
+  - first:
+      213: -8410679024422439038
+    second: SS_LightBody_Black_93
+  - first:
+      213: -5125902281558741308
+    second: SS_LightBody_Black_94
+  - first:
+      213: 1526154113536663540
+    second: SS_LightBody_Black_95
+  - first:
+      213: -4083721902923156007
+    second: SS_LightBody_Black_96
+  - first:
+      213: -5432376468288071923
+    second: SS_LightBody_Black_97
+  - first:
+      213: -9220280163870723500
+    second: SS_LightBody_Black_98
+  - first:
+      213: -8408174868599315285
+    second: SS_LightBody_Black_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_LightBody_Black_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 289
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4720b2c0bc876dd20800000000000000
+      internalID: 3302960190200676980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 289
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7838eeeda8136510800000000000000
+      internalID: 1541102632807446653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 289
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4cda2f0145bd490800000000000000
+      internalID: -7720484704428899149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 289
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec6713ee92cd7b90800000000000000
+      internalID: -7242418638071304991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 290
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f9d652379505580800000000000000
+      internalID: -8840467717444231377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 288
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e1088941dc7ce80800000000000000
+      internalID: -8158326711616791000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 289
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11590bc6149c0c220800000000000000
+      internalID: 2504222675651564817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 288
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de616d32170354c30800000000000000
+      internalID: 4342930678159382253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 289
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd84fdc2d20b27f0800000000000000
+      internalID: -636411817921049100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 289
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4a7732181966650800000000000000
+      internalID: 6225823518718141636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5557c6e89885620800000000000000
+      internalID: 2763109616189789673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 257
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c0726baea6d80d0800000000000000
+      internalID: -3418958985793434521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 256
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37aa57d46eecc980800000000000000
+      internalID: -8517170678387267777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 256
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ae17c54e9e83a40800000000000000
+      internalID: 5348281724515248658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 256
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ee6aa663d541eb0800000000000000
+      internalID: -4750069218670088704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbe77f0f2ef72940800000000000000
+      internalID: 5271461366936890359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 257
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b326c4fb3d7df7ee0800000000000000
+      internalID: -1261052066192924101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 256
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f6c8ee3b6179f30800000000000000
+      internalID: 4582156107929907038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7069f12eaad0d70800000000000000
+      internalID: 9011046317607487410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94c83c68d1af3090800000000000000
+      internalID: -8052539657814489955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06631be23a04bd90800000000000000
+      internalID: -7083025100138387958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 225
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08bcb4a62afcad60800000000000000
+      internalID: 7902966490007910415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 225
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cdeb7ff0de98fb0800000000000000
+      internalID: -4644920887819183015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 224
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb748a2ab22fca00800000000000000
+      internalID: 778879443530972092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 225
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ebafe5228e247b00800000000000000
+      internalID: 825335768232733665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_25
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 225
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bfde9af8ee1b5f0800000000000000
+      internalID: -742550162740741228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 225
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f7f7b1f80292bc0800000000000000
+      internalID: -3807476210951291076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_27
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 225
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad28e2a5cc4e1290800000000000000
+      internalID: -7917806683145359962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_28
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 224
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661f57adbc3be08c0800000000000000
+      internalID: -4031086928325119642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_29
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495b36024425992d0800000000000000
+      internalID: -3271493201753295468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 193
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3464410c08f4cdb60800000000000000
+      internalID: 7772174471331595843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_31
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 192
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31106ee2d3499c5b0800000000000000
+      internalID: -5347580092025011949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_32
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 193
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51dff83eb88ee6020800000000000000
+      internalID: 2337060944167828757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 193
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73b21cb4727ede10800000000000000
+      internalID: 2224341111664718718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_34
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 192
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de5a8a32d833c9c0800000000000000
+      internalID: -3908217576051024168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_35
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 193
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeda4cec8c7dab1a0800000000000000
+      internalID: -6792879830472544790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_36
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 193
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc98cbf4a69e47a10800000000000000
+      internalID: 1906405185098123724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_37
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 193
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1563a1231c43df470800000000000000
+      internalID: 8429952081881347665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_38
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 192
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978331f19641e58a0800000000000000
+      internalID: -6314587185801381767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_39
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80a2c79390666780800000000000000
+      internalID: -8690152243942219635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 160
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c71d63f49b3e70e0800000000000000
+      internalID: -2270311651222939703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_41
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 161
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6825236585f8c00800000000000000
+      internalID: 905039177359460070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_42
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 161
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6dc24fe41616460800000000000000
+      internalID: 7233169468265649836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_43
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 160
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebc4f9baabfd0530800000000000000
+      internalID: 3822988369390259179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_44
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 160
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2700a0d959b61030800000000000000
+      internalID: 3465160758711551791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_45
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 160
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52c22be5da667340800000000000000
+      internalID: 4861190314798531164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 160
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c27221095f4cf6e0800000000000000
+      internalID: -1802478507165322557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_47
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 161
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033982b14d15e32e0800000000000000
+      internalID: -2144186401151216848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_48
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 161
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3c2bce600a2aeb0800000000000000
+      internalID: -4710026308674731060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd160481e94792b0800000000000000
+      internalID: -5577908380543607365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 128
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97794542c0ec7080800000000000000
+      internalID: -9188222014751934564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_51
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 129
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2854469012166e8b0800000000000000
+      internalID: -5123300731567979134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_52
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a165a6e879e811a60800000000000000
+      internalID: 7643046824204981786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_53
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 127
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd95e1ae0cfba2980800000000000000
+      internalID: -8562820906209093156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_54
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 129
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81356d1a5e8aeee10800000000000000
+      internalID: 2228904569811129112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_55
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 128
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea14ce4b499607cb0800000000000000
+      internalID: -4868275109776047698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_56
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 129
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952c7ee968f297700800000000000000
+      internalID: 538513885685596761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_57
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 130
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3c48d541f7a2260800000000000000
+      internalID: 7073605890183840715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_58
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 130
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2cd4447fb95781d0800000000000000
+      internalID: -3348609119102378966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_59
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 129
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab492817f81bcf980800000000000000
+      internalID: -8503726766739516230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 96
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0320522e4921ff0800000000000000
+      internalID: -66827345452715832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_61
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 97
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661216a7f1547cc70800000000000000
+      internalID: 8991231182567973222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_62
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 97
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22b34b40426d7550800000000000000
+      internalID: 6160187893592863274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_63
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 97
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46120b1c4c71603d0800000000000000
+      internalID: -3240876748015918748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_64
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 96
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1b24fd720bf00b0800000000000000
+      internalID: -5760191713087671809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_65
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 96
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cd39e6941a22320800000000000000
+      internalID: 2531763277295508590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_66
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 98
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c6fc7c8cde4a490800000000000000
+      internalID: -7735796813314167770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_67
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 96
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c413e444da18350800000000000000
+      internalID: 6017281086024928401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_68
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 96
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe09564364b922f0800000000000000
+      internalID: -997067504010850576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_69
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 98
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881799876a57cc350800000000000000
+      internalID: 6038330558245335432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 64
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d970eccd69cd0ef40800000000000000
+      internalID: 5755842864287188893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_71
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f730366b876e1b670800000000000000
+      internalID: 8552870573483688831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_72
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 65
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b7b5df4dfb18020800000000000000
+      internalID: 2342364202713971513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_73
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 33
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2397fb4f76a114040800000000000000
+      internalID: 4630010925703723314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_74
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 64
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03495e14277e67130800000000000000
+      internalID: 3564290633028178992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_75
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 64
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 540bf584e32d540c0800000000000000
+      internalID: -4592033080090316731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_76
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 65
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407b5261a55310b60800000000000000
+      internalID: 7710502698069899012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_77
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 65
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc1e63031b5b3650800000000000000
+      internalID: 6213660248107785396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_78
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 64
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b0d5e0270051f50800000000000000
+      internalID: 6851382897981328221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_79
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 64
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfa1b881f7b5d250800000000000000
+      internalID: 5968879129157808087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_80
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 65
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c37b56f839766f40800000000000000
+      internalID: 5721393662179111876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_81
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d719525d44dfecda0800000000000000
+      internalID: -5922517987870011011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_82
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 33
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16a5244a4f2a20a0800000000000000
+      internalID: -6905655082601830884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_83
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 33
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a24a0ec9365f5f0800000000000000
+      internalID: -723562639688193507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_84
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 32
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a4076877c7044e0800000000000000
+      internalID: -1999461381754041827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_85
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4492b551fa8a6db30800000000000000
+      internalID: 4311819163184867652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_86
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 32
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a0322ba894e7310800000000000000
+      internalID: 1404640993829128780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_87
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 32
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abafb66b95ec0d70800000000000000
+      internalID: 9010829410068048800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_88
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 33
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c12a215942690e0800000000000000
+      internalID: -2263581540025754608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_89
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 32
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5c204ad829a0b00800000000000000
+      internalID: 795609421224003053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_90
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0486e054cb2f6a30800000000000000
+      internalID: 4210632298785571850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_91
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0397458d5c266c680800000000000000
+      internalID: -8735185825361004240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_92
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bef103c254c7a40800000000000000
+      internalID: 5367240912007064398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_93
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287b87d2df3474b80800000000000000
+      internalID: -8410679024422439038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_94
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cea35a78032dd8b0800000000000000
+      internalID: -5125902281558741308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_95
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ff9ad1941dfd2510800000000000000
+      internalID: 1526154113536663540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_96
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d578c6d094b357c0800000000000000
+      internalID: -4083721902923156007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_97
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d079f7152625c94b0800000000000000
+      internalID: -5432376468288071923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_98
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452b7e6ca0cfa0080800000000000000
+      internalID: -9220280163870723500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Black_99
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba465c36189205b80800000000000000
+      internalID: -8408174868599315285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_LightBody_Black_0: 3302960190200676980
+      SS_LightBody_Black_1: 1541102632807446653
+      SS_LightBody_Black_10: 2763109616189789673
+      SS_LightBody_Black_11: -3418958985793434521
+      SS_LightBody_Black_12: -8517170678387267777
+      SS_LightBody_Black_13: 5348281724515248658
+      SS_LightBody_Black_14: -4750069218670088704
+      SS_LightBody_Black_15: 5271461366936890359
+      SS_LightBody_Black_16: -1261052066192924101
+      SS_LightBody_Black_17: 4582156107929907038
+      SS_LightBody_Black_18: 9011046317607487410
+      SS_LightBody_Black_19: -8052539657814489955
+      SS_LightBody_Black_2: -7720484704428899149
+      SS_LightBody_Black_20: -7083025100138387958
+      SS_LightBody_Black_21: 7902966490007910415
+      SS_LightBody_Black_22: -4644920887819183015
+      SS_LightBody_Black_23: 778879443530972092
+      SS_LightBody_Black_24: 825335768232733665
+      SS_LightBody_Black_25: -742550162740741228
+      SS_LightBody_Black_26: -3807476210951291076
+      SS_LightBody_Black_27: -7917806683145359962
+      SS_LightBody_Black_28: -4031086928325119642
+      SS_LightBody_Black_29: -3271493201753295468
+      SS_LightBody_Black_3: -7242418638071304991
+      SS_LightBody_Black_30: 7772174471331595843
+      SS_LightBody_Black_31: -5347580092025011949
+      SS_LightBody_Black_32: 2337060944167828757
+      SS_LightBody_Black_33: 2224341111664718718
+      SS_LightBody_Black_34: -3908217576051024168
+      SS_LightBody_Black_35: -6792879830472544790
+      SS_LightBody_Black_36: 1906405185098123724
+      SS_LightBody_Black_37: 8429952081881347665
+      SS_LightBody_Black_38: -6314587185801381767
+      SS_LightBody_Black_39: -8690152243942219635
+      SS_LightBody_Black_4: -8840467717444231377
+      SS_LightBody_Black_40: -2270311651222939703
+      SS_LightBody_Black_41: 905039177359460070
+      SS_LightBody_Black_42: 7233169468265649836
+      SS_LightBody_Black_43: 3822988369390259179
+      SS_LightBody_Black_44: 3465160758711551791
+      SS_LightBody_Black_45: 4861190314798531164
+      SS_LightBody_Black_46: -1802478507165322557
+      SS_LightBody_Black_47: -2144186401151216848
+      SS_LightBody_Black_48: -4710026308674731060
+      SS_LightBody_Black_49: -5577908380543607365
+      SS_LightBody_Black_5: -8158326711616791000
+      SS_LightBody_Black_50: -9188222014751934564
+      SS_LightBody_Black_51: -5123300731567979134
+      SS_LightBody_Black_52: 7643046824204981786
+      SS_LightBody_Black_53: -8562820906209093156
+      SS_LightBody_Black_54: 2228904569811129112
+      SS_LightBody_Black_55: -4868275109776047698
+      SS_LightBody_Black_56: 538513885685596761
+      SS_LightBody_Black_57: 7073605890183840715
+      SS_LightBody_Black_58: -3348609119102378966
+      SS_LightBody_Black_59: -8503726766739516230
+      SS_LightBody_Black_6: 2504222675651564817
+      SS_LightBody_Black_60: -66827345452715832
+      SS_LightBody_Black_61: 8991231182567973222
+      SS_LightBody_Black_62: 6160187893592863274
+      SS_LightBody_Black_63: -3240876748015918748
+      SS_LightBody_Black_64: -5760191713087671809
+      SS_LightBody_Black_65: 2531763277295508590
+      SS_LightBody_Black_66: -7735796813314167770
+      SS_LightBody_Black_67: 6017281086024928401
+      SS_LightBody_Black_68: -997067504010850576
+      SS_LightBody_Black_69: 6038330558245335432
+      SS_LightBody_Black_7: 4342930678159382253
+      SS_LightBody_Black_70: 5755842864287188893
+      SS_LightBody_Black_71: 8552870573483688831
+      SS_LightBody_Black_72: 2342364202713971513
+      SS_LightBody_Black_73: 4630010925703723314
+      SS_LightBody_Black_74: 3564290633028178992
+      SS_LightBody_Black_75: -4592033080090316731
+      SS_LightBody_Black_76: 7710502698069899012
+      SS_LightBody_Black_77: 6213660248107785396
+      SS_LightBody_Black_78: 6851382897981328221
+      SS_LightBody_Black_79: 5968879129157808087
+      SS_LightBody_Black_8: -636411817921049100
+      SS_LightBody_Black_80: 5721393662179111876
+      SS_LightBody_Black_81: -5922517987870011011
+      SS_LightBody_Black_82: -6905655082601830884
+      SS_LightBody_Black_83: -723562639688193507
+      SS_LightBody_Black_84: -1999461381754041827
+      SS_LightBody_Black_85: 4311819163184867652
+      SS_LightBody_Black_86: 1404640993829128780
+      SS_LightBody_Black_87: 9010829410068048800
+      SS_LightBody_Black_88: -2263581540025754608
+      SS_LightBody_Black_89: 795609421224003053
+      SS_LightBody_Black_9: 6225823518718141636
+      SS_LightBody_Black_90: 4210632298785571850
+      SS_LightBody_Black_91: -8735185825361004240
+      SS_LightBody_Black_92: 5367240912007064398
+      SS_LightBody_Black_93: -8410679024422439038
+      SS_LightBody_Black_94: -5125902281558741308
+      SS_LightBody_Black_95: 1526154113536663540
+      SS_LightBody_Black_96: -4083721902923156007
+      SS_LightBody_Black_97: -5432376468288071923
+      SS_LightBody_Black_98: -9220280163870723500
+      SS_LightBody_Black_99: -8408174868599315285
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

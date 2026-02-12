@@ -1,0 +1,3250 @@
+fileFormatVersion: 2
+guid: a123563fc2b06ad44b365febf2261de4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6115539375249982655
+    second: SS_Bow_Yellow_0
+  - first:
+      213: -3284656094749976179
+    second: SS_Bow_Yellow_1
+  - first:
+      213: 107763648890163341
+    second: SS_Bow_Yellow_2
+  - first:
+      213: 1527463512855758682
+    second: SS_Bow_Yellow_3
+  - first:
+      213: 2325897733084067511
+    second: SS_Bow_Yellow_4
+  - first:
+      213: -3414584012540244528
+    second: SS_Bow_Yellow_5
+  - first:
+      213: 618905875733388579
+    second: SS_Bow_Yellow_6
+  - first:
+      213: -3917080480722425496
+    second: SS_Bow_Yellow_7
+  - first:
+      213: -1389323243952980850
+    second: SS_Bow_Yellow_8
+  - first:
+      213: -6998096233566505546
+    second: SS_Bow_Yellow_9
+  - first:
+      213: 801623304400830611
+    second: SS_Bow_Yellow_10
+  - first:
+      213: -3958736145812312930
+    second: SS_Bow_Yellow_11
+  - first:
+      213: -7737752224726267101
+    second: SS_Bow_Yellow_12
+  - first:
+      213: 717501294013719857
+    second: SS_Bow_Yellow_13
+  - first:
+      213: 8838558467692932650
+    second: SS_Bow_Yellow_14
+  - first:
+      213: 6258134756759959346
+    second: SS_Bow_Yellow_15
+  - first:
+      213: -4939825346231659600
+    second: SS_Bow_Yellow_16
+  - first:
+      213: -447200749215699329
+    second: SS_Bow_Yellow_17
+  - first:
+      213: -8588778019247389925
+    second: SS_Bow_Yellow_18
+  - first:
+      213: -447484992918286455
+    second: SS_Bow_Yellow_19
+  - first:
+      213: 7800719003169056800
+    second: SS_Bow_Yellow_20
+  - first:
+      213: -5965820989040998738
+    second: SS_Bow_Yellow_21
+  - first:
+      213: 1786848935950434100
+    second: SS_Bow_Yellow_22
+  - first:
+      213: -8910633256140072503
+    second: SS_Bow_Yellow_23
+  - first:
+      213: 9086340744009511368
+    second: SS_Bow_Yellow_24
+  - first:
+      213: 1659482461826421255
+    second: SS_Bow_Yellow_25
+  - first:
+      213: -3714843266220716512
+    second: SS_Bow_Yellow_26
+  - first:
+      213: 6496984706882201249
+    second: SS_Bow_Yellow_27
+  - first:
+      213: 5790141420315958211
+    second: SS_Bow_Yellow_28
+  - first:
+      213: -4272238383026717261
+    second: SS_Bow_Yellow_29
+  - first:
+      213: -6005492033854925034
+    second: SS_Bow_Yellow_30
+  - first:
+      213: -9193085052418045149
+    second: SS_Bow_Yellow_31
+  - first:
+      213: 3204554968264211746
+    second: SS_Bow_Yellow_32
+  - first:
+      213: 1670326932660253590
+    second: SS_Bow_Yellow_33
+  - first:
+      213: 4780819995008115914
+    second: SS_Bow_Yellow_34
+  - first:
+      213: -387921634680564808
+    second: SS_Bow_Yellow_35
+  - first:
+      213: -4490286658628833530
+    second: SS_Bow_Yellow_36
+  - first:
+      213: -6905992106940012661
+    second: SS_Bow_Yellow_37
+  - first:
+      213: -9005174129990412075
+    second: SS_Bow_Yellow_38
+  - first:
+      213: -3843563472457310224
+    second: SS_Bow_Yellow_39
+  - first:
+      213: -8146305263330575322
+    second: SS_Bow_Yellow_40
+  - first:
+      213: 353710811709952627
+    second: SS_Bow_Yellow_41
+  - first:
+      213: -148706357252215659
+    second: SS_Bow_Yellow_42
+  - first:
+      213: 4904525030583804448
+    second: SS_Bow_Yellow_43
+  - first:
+      213: -2084672904586612725
+    second: SS_Bow_Yellow_44
+  - first:
+      213: 712831327154867443
+    second: SS_Bow_Yellow_45
+  - first:
+      213: -1309098539684429806
+    second: SS_Bow_Yellow_46
+  - first:
+      213: -3319549330252259405
+    second: SS_Bow_Yellow_47
+  - first:
+      213: -6093191705307468909
+    second: SS_Bow_Yellow_48
+  - first:
+      213: 5841290754666519602
+    second: SS_Bow_Yellow_49
+  - first:
+      213: -6641924346910474869
+    second: SS_Bow_Yellow_50
+  - first:
+      213: -3909193309532179028
+    second: SS_Bow_Yellow_51
+  - first:
+      213: -9184313647274288880
+    second: SS_Bow_Yellow_52
+  - first:
+      213: 589028774631028631
+    second: SS_Bow_Yellow_53
+  - first:
+      213: -314738611162757145
+    second: SS_Bow_Yellow_54
+  - first:
+      213: -5038637166783905935
+    second: SS_Bow_Yellow_55
+  - first:
+      213: -5540819302648311261
+    second: SS_Bow_Yellow_56
+  - first:
+      213: -8521942142272734027
+    second: SS_Bow_Yellow_57
+  - first:
+      213: -3886044231462318833
+    second: SS_Bow_Yellow_58
+  - first:
+      213: 4046193844836553171
+    second: SS_Bow_Yellow_59
+  - first:
+      213: 626568239371134833
+    second: SS_Bow_Yellow_60
+  - first:
+      213: 786439159622735277
+    second: SS_Bow_Yellow_61
+  - first:
+      213: -486825160014574702
+    second: SS_Bow_Yellow_62
+  - first:
+      213: 6637042763737786014
+    second: SS_Bow_Yellow_63
+  - first:
+      213: -7541852884573044633
+    second: SS_Bow_Yellow_64
+  - first:
+      213: 6491057293010343043
+    second: SS_Bow_Yellow_65
+  - first:
+      213: 4493556114928854431
+    second: SS_Bow_Yellow_66
+  - first:
+      213: 5481104748229909121
+    second: SS_Bow_Yellow_67
+  - first:
+      213: -4311274019082522644
+    second: SS_Bow_Yellow_68
+  - first:
+      213: 7562474856837757738
+    second: SS_Bow_Yellow_69
+  - first:
+      213: 6415406390625270297
+    second: SS_Bow_Yellow_70
+  - first:
+      213: -6864721020135822751
+    second: SS_Bow_Yellow_71
+  - first:
+      213: -203687044087725939
+    second: SS_Bow_Yellow_72
+  - first:
+      213: -4660295014042416138
+    second: SS_Bow_Yellow_73
+  - first:
+      213: -1670409188855220110
+    second: SS_Bow_Yellow_74
+  - first:
+      213: -8020107438705276130
+    second: SS_Bow_Yellow_75
+  - first:
+      213: -7331722313922594303
+    second: SS_Bow_Yellow_76
+  - first:
+      213: -1388602862455302385
+    second: SS_Bow_Yellow_77
+  - first:
+      213: -1117233094974902664
+    second: SS_Bow_Yellow_78
+  - first:
+      213: 7301466455534355943
+    second: SS_Bow_Yellow_79
+  - first:
+      213: 5030577946213813528
+    second: SS_Bow_Yellow_80
+  - first:
+      213: -8453907580966567752
+    second: SS_Bow_Yellow_81
+  - first:
+      213: 5506609031265293293
+    second: SS_Bow_Yellow_82
+  - first:
+      213: -1417296845369904094
+    second: SS_Bow_Yellow_83
+  - first:
+      213: 3813160277984407654
+    second: SS_Bow_Yellow_84
+  - first:
+      213: 3348761410005037849
+    second: SS_Bow_Yellow_85
+  - first:
+      213: 8053648882484820848
+    second: SS_Bow_Yellow_86
+  - first:
+      213: -2706719456771509884
+    second: SS_Bow_Yellow_87
+  - first:
+      213: 7112301365773342154
+    second: SS_Bow_Yellow_88
+  - first:
+      213: -2989817087407932546
+    second: SS_Bow_Yellow_89
+  - first:
+      213: 3823058658670779999
+    second: SS_Bow_Yellow_90
+  - first:
+      213: -7666534305874198627
+    second: SS_Bow_Yellow_91
+  - first:
+      213: -8075568165642250409
+    second: SS_Bow_Yellow_92
+  - first:
+      213: 694113025247274461
+    second: SS_Bow_Yellow_93
+  - first:
+      213: 2699122717152747887
+    second: SS_Bow_Yellow_94
+  - first:
+      213: 5741260878311852331
+    second: SS_Bow_Yellow_95
+  - first:
+      213: 7361446800220498424
+    second: SS_Bow_Yellow_96
+  - first:
+      213: 838107862459921831
+    second: SS_Bow_Yellow_97
+  - first:
+      213: 4855358518631669848
+    second: SS_Bow_Yellow_98
+  - first:
+      213: -380406379776983426
+    second: SS_Bow_Yellow_99
+  - first:
+      213: -8494811335830811126
+    second: SS_Bow_Yellow_100
+  - first:
+      213: 3373336612912421647
+    second: SS_Bow_Yellow_101
+  - first:
+      213: 6779825067904809184
+    second: SS_Bow_Yellow_102
+  - first:
+      213: -2392355778134379440
+    second: SS_Bow_Yellow_103
+  - first:
+      213: 7317171158392663162
+    second: SS_Bow_Yellow_104
+  - first:
+      213: 7330869893913137099
+    second: SS_Bow_Yellow_105
+  - first:
+      213: 7550185105300450024
+    second: SS_Bow_Yellow_106
+  - first:
+      213: 5533854219705322714
+    second: SS_Bow_Yellow_107
+  - first:
+      213: -4410235973491465414
+    second: SS_Bow_Yellow_108
+  - first:
+      213: 6336732606534089022
+    second: SS_Bow_Yellow_109
+  - first:
+      213: -5501030328915572598
+    second: SS_Bow_Yellow_110
+  - first:
+      213: -5065222885982002471
+    second: SS_Bow_Yellow_111
+  - first:
+      213: -7103071663485899041
+    second: SS_Bow_Yellow_112
+  - first:
+      213: -7976060133644656462
+    second: SS_Bow_Yellow_113
+  - first:
+      213: -8163624013140854547
+    second: SS_Bow_Yellow_114
+  - first:
+      213: -8480202748706052649
+    second: SS_Bow_Yellow_115
+  - first:
+      213: -7509936122652261886
+    second: SS_Bow_Yellow_116
+  - first:
+      213: 5271771820510091565
+    second: SS_Bow_Yellow_117
+  - first:
+      213: 8224035347436847787
+    second: SS_Bow_Yellow_118
+  - first:
+      213: -4741007737246079010
+    second: SS_Bow_Yellow_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 322
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b7f48f65d312ba0800000000000000
+      internalID: -6115539375249982655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 322
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d891b174fae8a62d0800000000000000
+      internalID: -3284656094749976179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 322
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d805ccbb77ade7100800000000000000
+      internalID: 107763648890163341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 322
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57432bd8f3a23510800000000000000
+      internalID: 1527463512855758682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 322
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6bc544aaf374020800000000000000
+      internalID: 2325897733084067511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 322
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd8fcc8ee5fc90d0800000000000000
+      internalID: -3414584012540244528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 321
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d9d786d9bc69800800000000000000
+      internalID: 618905875733388579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 320
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8696ced6e0cb3a9c0800000000000000
+      internalID: -3917080480722425496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 322
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c3dfdded128bce0800000000000000
+      internalID: -1389323243952980850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 322
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5f4469d84c1ee90800000000000000
+      internalID: -6998096233566505546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 322
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3908c7ee520ff1b00800000000000000
+      internalID: 801623304400830611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 290
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cab5d137ebf09c0800000000000000
+      internalID: -3958736145812312930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 290
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bc335195bfd9490800000000000000
+      internalID: -7737752224726267101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 290
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 135229b10a315f900800000000000000
+      internalID: 717501294013719857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 290
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2eab51091ed8aa70800000000000000
+      internalID: 8838558467692932650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 289
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237f33d776c59d650800000000000000
+      internalID: 6258134756759959346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 290
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b314691507327bb0800000000000000
+      internalID: -4939825346231659600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_17
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 290
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ea5b7b9493bc9f0800000000000000
+      internalID: -447200749215699329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 290
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13831495e78ec880800000000000000
+      internalID: -8588778019247389925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_19
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 290
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f89c215c63ac9f0800000000000000
+      internalID: -447484992918286455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_20
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 290
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028e7887a98b14c60800000000000000
+      internalID: 7800719003169056800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 288
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea644a23b65253da0800000000000000
+      internalID: -5965820989040998738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 257
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f3c9ed3a92cc810800000000000000
+      internalID: 1786848935950434100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 257
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c91dfb9342175480800000000000000
+      internalID: -8910633256140072503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 257
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c178d2e3ca291e70800000000000000
+      internalID: 9086340744009511368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 256
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7029728b18aa70710800000000000000
+      internalID: 1659482461826421255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 257
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e89a04bb9327cc0800000000000000
+      internalID: -3714843266220716512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 259
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6ebdc1b2de92a50800000000000000
+      internalID: 6496984706882201249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_28
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 260
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb553db1f6ba5050800000000000000
+      internalID: 5790141420315958211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 257
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd37ef63d5f5b4c0800000000000000
+      internalID: -4272238383026717261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_30
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 257
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61793ac40d438aca0800000000000000
+      internalID: -6005492033854925034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_31
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 257
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b4ba41ad99b6080800000000000000
+      internalID: -9193085052418045149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_32
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 257
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22df992e3cdd87c20800000000000000
+      internalID: 3204554968264211746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6937bf7de713e2710800000000000000
+      internalID: 1670326932660253590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac42b81a472e85240800000000000000
+      internalID: 4780819995008115914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_35
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 225
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b31d2c1453dd9af0800000000000000
+      internalID: -387921634680564808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 228
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fa0c4131c4fa1c0800000000000000
+      internalID: -4490286658628833530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 228
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87603ca4ccf820a0800000000000000
+      internalID: -6905992106940012661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_38
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 225
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8526917d1370380800000000000000
+      internalID: -9005174129990412075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 225
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ffd388c26be8aac0800000000000000
+      internalID: -3843563472457310224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_40
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 225
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c3943268282fe80800000000000000
+      internalID: -8146305263330575322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_41
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 226
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372df25fb12a8e400800000000000000
+      internalID: 353710811709952627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_42
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 226
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ca3202b50bfedf0800000000000000
+      internalID: -148706357252215659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_43
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 226
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022a5ffa78f501440800000000000000
+      internalID: 4904525030583804448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 192
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00bb31d901c113e0800000000000000
+      internalID: -2084672904586612725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 192
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc06d7b05c74e900800000000000000
+      internalID: 712831327154867443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_46
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 194
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210802660d525dde0800000000000000
+      internalID: -1309098539684429806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_47
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 193
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf9debc8779ee1d0800000000000000
+      internalID: -3319549330252259405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_48
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 194
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39baac85d62a07ba0800000000000000
+      internalID: -6093191705307468909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_49
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 194
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23cdbad2efe601150800000000000000
+      internalID: 5841290754666519602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_50
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 193
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8df1653ff423d3a0800000000000000
+      internalID: -6641924346910474869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_51
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 192
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca530039561cfb9c0800000000000000
+      internalID: -3909193309532179028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_52
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 194
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019917cf563ca8080800000000000000
+      internalID: -9184313647274288880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_53
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 194
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797bd5abc86ac2800800000000000000
+      internalID: 589028774631028631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_54
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 193
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e74b8496e2d1abf0800000000000000
+      internalID: -314738611162757145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 162
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fb3c1513a231ab0800000000000000
+      internalID: -5038637166783905935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_56
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 162
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3221505633e0b13b0800000000000000
+      internalID: -5540819302648311261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_57
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 162
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcf665d5cafbb980800000000000000
+      internalID: -8521942142272734027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_58
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 162
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d8b325c5ff11ac0800000000000000
+      internalID: -3886044231462318833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_59
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 162
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d1dadd3dd7f62830800000000000000
+      internalID: 4046193844836553171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_60
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 161
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17722477e7402b800800000000000000
+      internalID: 626568239371134833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_61
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 161
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da515cabf3ef9ea00800000000000000
+      internalID: 786439159622735277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_62
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 161
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bcb95a8137e39f0800000000000000
+      internalID: -486825160014574702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_63
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 162
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96eaa3aa338b1c50800000000000000
+      internalID: 6637042763737786014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_64
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 162
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760c4ca82c4f55790800000000000000
+      internalID: -7541852884573044633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_65
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 161
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3841796873ed41a50800000000000000
+      internalID: 6491057293010343043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_66
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 131
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f956e988a715c5e30800000000000000
+      internalID: 4493556114928854431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_67
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 132
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a53f67abbc01c40800000000000000
+      internalID: 5481104748229909121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_68
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 130
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef273b2f174b24c0800000000000000
+      internalID: -4311274019082522644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_69
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 129
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b33a880de43f860800000000000000
+      internalID: 7562474856837757738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_70
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 129
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a7dfa3f1a180950800000000000000
+      internalID: 6415406390625270297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_71
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 130
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16aa5a06a9c9bb0a0800000000000000
+      internalID: -6864721020135822751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_72
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 129
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d804dcb66bb5c2df0800000000000000
+      internalID: -203687044087725939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_73
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 129
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb4a73406e435fb0800000000000000
+      internalID: -4660295014042416138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_74
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 130
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2787cb461b381d8e0800000000000000
+      internalID: -1670409188855220110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_75
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 131
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b018fd6cad2b090800000000000000
+      internalID: -8020107438705276130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_76
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 129
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ab6de866d704a90800000000000000
+      internalID: -7331722313922594303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_77
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 98
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07d241cd01babce0800000000000000
+      internalID: -1388602862455302385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_78
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 97
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ee5b26b6ace70f0800000000000000
+      internalID: -1117233094974902664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_79
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 97
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e54e857e05045560800000000000000
+      internalID: 7301466455534355943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_80
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 98
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d0dfa2df330d540800000000000000
+      internalID: 5030577946213813528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_81
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 97
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0818888dfadaa80800000000000000
+      internalID: -8453907580966567752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_82
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 99
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de396891db76b6c40800000000000000
+      internalID: 5506609031265293293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 97
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224f17e3700c45ce0800000000000000
+      internalID: -1417296845369904094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_84
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 97
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660f3e0e1111be430800000000000000
+      internalID: 3813160277984407654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_85
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 99
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913f2e882c0397e20800000000000000
+      internalID: 3348761410005037849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_86
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 99
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bba321dfe44cf60800000000000000
+      internalID: 8053648882484820848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_87
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 97
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481fe70befccf6ad0800000000000000
+      internalID: -2706719456771509884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_88
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 65
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5127ad868f3b260800000000000000
+      internalID: 7112301365773342154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_89
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 67
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b38a123390286d0800000000000000
+      internalID: -2989817087407932546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_90
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 64
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e9d89389b3e0530800000000000000
+      internalID: 3823058658670779999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_91
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 69
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fb508faaffa9590800000000000000
+      internalID: -7666534305874198627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_92
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 67
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 757d07f1a81ddef80800000000000000
+      internalID: -8075568165642250409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_93
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 67
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd5e5df6e1cf1a900800000000000000
+      internalID: 694113025247274461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_94
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 67
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61a3198fc5357520800000000000000
+      internalID: 2699122717152747887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_95
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 66
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2900aea95e0daf40800000000000000
+      internalID: 5741260878311852331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_96
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 67
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f92418bcdc192660800000000000000
+      internalID: 7361446800220498424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_97
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 68
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5b26119ae81ab00800000000000000
+      internalID: 838107862459921831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_98
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 65
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850253019d2b16340800000000000000
+      internalID: 4855358518631669848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_99
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 35
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7eb91fb96688baf0800000000000000
+      internalID: -380406379776983426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_100
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 34
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ec7d5f81e5c1a80800000000000000
+      internalID: -8494811335830811126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_101
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 35
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bd678d6cf70de20800000000000000
+      internalID: 3373336612912421647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_102
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 34
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e831cb6af6c61e50800000000000000
+      internalID: 6779825067904809184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_103
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 37
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05472f35815acced0800000000000000
+      internalID: -2392355778134379440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_104
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 34
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c6ab88660db8560800000000000000
+      internalID: 7317171158392663162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_105
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 32
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf4c41f35b7cb560800000000000000
+      internalID: 7330869893913137099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_106
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 34
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eae0e5c955a7c860800000000000000
+      internalID: 7550185105300450024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_107
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 35
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adc055cd7133ccc40800000000000000
+      internalID: 5533854219705322714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_108
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 35
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a336460afb1bbc2c0800000000000000
+      internalID: -4410235973491465414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_109
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 34
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3979117bb890f750800000000000000
+      internalID: 6336732606534089022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_110
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a884652cf0a68a3b0800000000000000
+      internalID: -5501030328915572598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_111
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d22dd43f96b4b9b0800000000000000
+      internalID: -5065222885982002471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_112
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdea7cba4f1dc6d90800000000000000
+      internalID: -7103071663485899041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_113
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 3
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0a4f241975f4190800000000000000
+      internalID: -7976060133644656462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_114
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8f3e8763bf4be80800000000000000
+      internalID: -8163624013140854547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_115
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 5
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5a514b784405a80800000000000000
+      internalID: -8480202748706052649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_116
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2020073c2e857c790800000000000000
+      internalID: -7509936122652261886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_117
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d291b6a2a88192940800000000000000
+      internalID: 5271771820510091565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_118
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2ca306394a12270800000000000000
+      internalID: 8224035347436847787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Yellow_119
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7a118f49e843eb0800000000000000
+      internalID: -4741007737246079010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Bow_Yellow_0: -6115539375249982655
+      SS_Bow_Yellow_1: -3284656094749976179
+      SS_Bow_Yellow_10: 801623304400830611
+      SS_Bow_Yellow_100: -8494811335830811126
+      SS_Bow_Yellow_101: 3373336612912421647
+      SS_Bow_Yellow_102: 6779825067904809184
+      SS_Bow_Yellow_103: -2392355778134379440
+      SS_Bow_Yellow_104: 7317171158392663162
+      SS_Bow_Yellow_105: 7330869893913137099
+      SS_Bow_Yellow_106: 7550185105300450024
+      SS_Bow_Yellow_107: 5533854219705322714
+      SS_Bow_Yellow_108: -4410235973491465414
+      SS_Bow_Yellow_109: 6336732606534089022
+      SS_Bow_Yellow_11: -3958736145812312930
+      SS_Bow_Yellow_110: -5501030328915572598
+      SS_Bow_Yellow_111: -5065222885982002471
+      SS_Bow_Yellow_112: -7103071663485899041
+      SS_Bow_Yellow_113: -7976060133644656462
+      SS_Bow_Yellow_114: -8163624013140854547
+      SS_Bow_Yellow_115: -8480202748706052649
+      SS_Bow_Yellow_116: -7509936122652261886
+      SS_Bow_Yellow_117: 5271771820510091565
+      SS_Bow_Yellow_118: 8224035347436847787
+      SS_Bow_Yellow_119: -4741007737246079010
+      SS_Bow_Yellow_12: -7737752224726267101
+      SS_Bow_Yellow_13: 717501294013719857
+      SS_Bow_Yellow_14: 8838558467692932650
+      SS_Bow_Yellow_15: 6258134756759959346
+      SS_Bow_Yellow_16: -4939825346231659600
+      SS_Bow_Yellow_17: -447200749215699329
+      SS_Bow_Yellow_18: -8588778019247389925
+      SS_Bow_Yellow_19: -447484992918286455
+      SS_Bow_Yellow_2: 107763648890163341
+      SS_Bow_Yellow_20: 7800719003169056800
+      SS_Bow_Yellow_21: -5965820989040998738
+      SS_Bow_Yellow_22: 1786848935950434100
+      SS_Bow_Yellow_23: -8910633256140072503
+      SS_Bow_Yellow_24: 9086340744009511368
+      SS_Bow_Yellow_25: 1659482461826421255
+      SS_Bow_Yellow_26: -3714843266220716512
+      SS_Bow_Yellow_27: 6496984706882201249
+      SS_Bow_Yellow_28: 5790141420315958211
+      SS_Bow_Yellow_29: -4272238383026717261
+      SS_Bow_Yellow_3: 1527463512855758682
+      SS_Bow_Yellow_30: -6005492033854925034
+      SS_Bow_Yellow_31: -9193085052418045149
+      SS_Bow_Yellow_32: 3204554968264211746
+      SS_Bow_Yellow_33: 1670326932660253590
+      SS_Bow_Yellow_34: 4780819995008115914
+      SS_Bow_Yellow_35: -387921634680564808
+      SS_Bow_Yellow_36: -4490286658628833530
+      SS_Bow_Yellow_37: -6905992106940012661
+      SS_Bow_Yellow_38: -9005174129990412075
+      SS_Bow_Yellow_39: -3843563472457310224
+      SS_Bow_Yellow_4: 2325897733084067511
+      SS_Bow_Yellow_40: -8146305263330575322
+      SS_Bow_Yellow_41: 353710811709952627
+      SS_Bow_Yellow_42: -148706357252215659
+      SS_Bow_Yellow_43: 4904525030583804448
+      SS_Bow_Yellow_44: -2084672904586612725
+      SS_Bow_Yellow_45: 712831327154867443
+      SS_Bow_Yellow_46: -1309098539684429806
+      SS_Bow_Yellow_47: -3319549330252259405
+      SS_Bow_Yellow_48: -6093191705307468909
+      SS_Bow_Yellow_49: 5841290754666519602
+      SS_Bow_Yellow_5: -3414584012540244528
+      SS_Bow_Yellow_50: -6641924346910474869
+      SS_Bow_Yellow_51: -3909193309532179028
+      SS_Bow_Yellow_52: -9184313647274288880
+      SS_Bow_Yellow_53: 589028774631028631
+      SS_Bow_Yellow_54: -314738611162757145
+      SS_Bow_Yellow_55: -5038637166783905935
+      SS_Bow_Yellow_56: -5540819302648311261
+      SS_Bow_Yellow_57: -8521942142272734027
+      SS_Bow_Yellow_58: -3886044231462318833
+      SS_Bow_Yellow_59: 4046193844836553171
+      SS_Bow_Yellow_6: 618905875733388579
+      SS_Bow_Yellow_60: 626568239371134833
+      SS_Bow_Yellow_61: 786439159622735277
+      SS_Bow_Yellow_62: -486825160014574702
+      SS_Bow_Yellow_63: 6637042763737786014
+      SS_Bow_Yellow_64: -7541852884573044633
+      SS_Bow_Yellow_65: 6491057293010343043
+      SS_Bow_Yellow_66: 4493556114928854431
+      SS_Bow_Yellow_67: 5481104748229909121
+      SS_Bow_Yellow_68: -4311274019082522644
+      SS_Bow_Yellow_69: 7562474856837757738
+      SS_Bow_Yellow_7: -3917080480722425496
+      SS_Bow_Yellow_70: 6415406390625270297
+      SS_Bow_Yellow_71: -6864721020135822751
+      SS_Bow_Yellow_72: -203687044087725939
+      SS_Bow_Yellow_73: -4660295014042416138
+      SS_Bow_Yellow_74: -1670409188855220110
+      SS_Bow_Yellow_75: -8020107438705276130
+      SS_Bow_Yellow_76: -7331722313922594303
+      SS_Bow_Yellow_77: -1388602862455302385
+      SS_Bow_Yellow_78: -1117233094974902664
+      SS_Bow_Yellow_79: 7301466455534355943
+      SS_Bow_Yellow_8: -1389323243952980850
+      SS_Bow_Yellow_80: 5030577946213813528
+      SS_Bow_Yellow_81: -8453907580966567752
+      SS_Bow_Yellow_82: 5506609031265293293
+      SS_Bow_Yellow_83: -1417296845369904094
+      SS_Bow_Yellow_84: 3813160277984407654
+      SS_Bow_Yellow_85: 3348761410005037849
+      SS_Bow_Yellow_86: 8053648882484820848
+      SS_Bow_Yellow_87: -2706719456771509884
+      SS_Bow_Yellow_88: 7112301365773342154
+      SS_Bow_Yellow_89: -2989817087407932546
+      SS_Bow_Yellow_9: -6998096233566505546
+      SS_Bow_Yellow_90: 3823058658670779999
+      SS_Bow_Yellow_91: -7666534305874198627
+      SS_Bow_Yellow_92: -8075568165642250409
+      SS_Bow_Yellow_93: 694113025247274461
+      SS_Bow_Yellow_94: 2699122717152747887
+      SS_Bow_Yellow_95: 5741260878311852331
+      SS_Bow_Yellow_96: 7361446800220498424
+      SS_Bow_Yellow_97: 838107862459921831
+      SS_Bow_Yellow_98: 4855358518631669848
+      SS_Bow_Yellow_99: -380406379776983426
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

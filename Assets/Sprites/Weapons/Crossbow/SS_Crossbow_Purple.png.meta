@@ -1,0 +1,4576 @@
+fileFormatVersion: 2
+guid: f7544245ed1ebd0458adf46c8971c04d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3692328407919893290
+    second: SS_Crossbow_Purple_0
+  - first:
+      213: 7315549458771260024
+    second: SS_Crossbow_Purple_1
+  - first:
+      213: -5377627255284801389
+    second: SS_Crossbow_Purple_2
+  - first:
+      213: -7683913937330194127
+    second: SS_Crossbow_Purple_3
+  - first:
+      213: -79819982772488989
+    second: SS_Crossbow_Purple_4
+  - first:
+      213: -7437280582359730070
+    second: SS_Crossbow_Purple_5
+  - first:
+      213: -4125414719439702271
+    second: SS_Crossbow_Purple_6
+  - first:
+      213: 1354520931794088968
+    second: SS_Crossbow_Purple_7
+  - first:
+      213: 3419181015383697640
+    second: SS_Crossbow_Purple_8
+  - first:
+      213: 6041344055447046701
+    second: SS_Crossbow_Purple_9
+  - first:
+      213: 4348053300770183425
+    second: SS_Crossbow_Purple_10
+  - first:
+      213: 8449676305279413509
+    second: SS_Crossbow_Purple_11
+  - first:
+      213: -5508499206614909489
+    second: SS_Crossbow_Purple_12
+  - first:
+      213: -8763892306964105780
+    second: SS_Crossbow_Purple_13
+  - first:
+      213: -8228284712502214792
+    second: SS_Crossbow_Purple_14
+  - first:
+      213: -7493907185734852424
+    second: SS_Crossbow_Purple_15
+  - first:
+      213: -3172545232956983850
+    second: SS_Crossbow_Purple_16
+  - first:
+      213: 4885514573803380698
+    second: SS_Crossbow_Purple_17
+  - first:
+      213: 5086758101953209289
+    second: SS_Crossbow_Purple_18
+  - first:
+      213: -6117098594309006002
+    second: SS_Crossbow_Purple_19
+  - first:
+      213: -7273476725309607982
+    second: SS_Crossbow_Purple_20
+  - first:
+      213: 5813352468207013750
+    second: SS_Crossbow_Purple_21
+  - first:
+      213: 1139347702587584943
+    second: SS_Crossbow_Purple_22
+  - first:
+      213: 1266814415790674532
+    second: SS_Crossbow_Purple_23
+  - first:
+      213: 4452180138444319510
+    second: SS_Crossbow_Purple_24
+  - first:
+      213: 3290708579337170240
+    second: SS_Crossbow_Purple_25
+  - first:
+      213: -5811079960918078760
+    second: SS_Crossbow_Purple_26
+  - first:
+      213: 6267874047580950410
+    second: SS_Crossbow_Purple_27
+  - first:
+      213: 6322665095045717231
+    second: SS_Crossbow_Purple_28
+  - first:
+      213: 3659262335771553695
+    second: SS_Crossbow_Purple_29
+  - first:
+      213: -7995208256504044000
+    second: SS_Crossbow_Purple_30
+  - first:
+      213: 7322448423229700374
+    second: SS_Crossbow_Purple_31
+  - first:
+      213: 8196930894090561862
+    second: SS_Crossbow_Purple_32
+  - first:
+      213: -8837752795274116804
+    second: SS_Crossbow_Purple_33
+  - first:
+      213: -5612232713173438194
+    second: SS_Crossbow_Purple_34
+  - first:
+      213: 1712641945991271617
+    second: SS_Crossbow_Purple_35
+  - first:
+      213: -4549023325561493647
+    second: SS_Crossbow_Purple_36
+  - first:
+      213: 7282673056421887451
+    second: SS_Crossbow_Purple_37
+  - first:
+      213: -357822873187171873
+    second: SS_Crossbow_Purple_38
+  - first:
+      213: 7722786832440977140
+    second: SS_Crossbow_Purple_39
+  - first:
+      213: 3585188746098059936
+    second: SS_Crossbow_Purple_40
+  - first:
+      213: 5597379197015656116
+    second: SS_Crossbow_Purple_41
+  - first:
+      213: -7807005799593634023
+    second: SS_Crossbow_Purple_42
+  - first:
+      213: 5523369252229483095
+    second: SS_Crossbow_Purple_43
+  - first:
+      213: -7189550472177160542
+    second: SS_Crossbow_Purple_44
+  - first:
+      213: -6755697950678799395
+    second: SS_Crossbow_Purple_45
+  - first:
+      213: -2759890709610397919
+    second: SS_Crossbow_Purple_46
+  - first:
+      213: -1633494580242707565
+    second: SS_Crossbow_Purple_47
+  - first:
+      213: -8718266645061448061
+    second: SS_Crossbow_Purple_48
+  - first:
+      213: 6475251864310864741
+    second: SS_Crossbow_Purple_49
+  - first:
+      213: 3486593487125399085
+    second: SS_Crossbow_Purple_50
+  - first:
+      213: 7209839832890491116
+    second: SS_Crossbow_Purple_51
+  - first:
+      213: -6978611303027556527
+    second: SS_Crossbow_Purple_52
+  - first:
+      213: 1298083588098934205
+    second: SS_Crossbow_Purple_53
+  - first:
+      213: 7086824780171619626
+    second: SS_Crossbow_Purple_54
+  - first:
+      213: -4083680794263161182
+    second: SS_Crossbow_Purple_55
+  - first:
+      213: 905965693831636213
+    second: SS_Crossbow_Purple_56
+  - first:
+      213: -2162350767305762865
+    second: SS_Crossbow_Purple_57
+  - first:
+      213: 5320902502539918538
+    second: SS_Crossbow_Purple_58
+  - first:
+      213: -6639313643007682955
+    second: SS_Crossbow_Purple_59
+  - first:
+      213: -5948712121991602728
+    second: SS_Crossbow_Purple_60
+  - first:
+      213: 3034783860426423897
+    second: SS_Crossbow_Purple_61
+  - first:
+      213: -8606679750200150640
+    second: SS_Crossbow_Purple_62
+  - first:
+      213: 7283348551686649898
+    second: SS_Crossbow_Purple_63
+  - first:
+      213: 3628154904823766629
+    second: SS_Crossbow_Purple_64
+  - first:
+      213: -4491483464309603465
+    second: SS_Crossbow_Purple_65
+  - first:
+      213: 4882467156167645088
+    second: SS_Crossbow_Purple_66
+  - first:
+      213: -2965853165426246237
+    second: SS_Crossbow_Purple_67
+  - first:
+      213: 4678259439188697902
+    second: SS_Crossbow_Purple_68
+  - first:
+      213: 234618145415771608
+    second: SS_Crossbow_Purple_69
+  - first:
+      213: 5176212725244411210
+    second: SS_Crossbow_Purple_70
+  - first:
+      213: 5234273277767617787
+    second: SS_Crossbow_Purple_71
+  - first:
+      213: 1363798462754151124
+    second: SS_Crossbow_Purple_72
+  - first:
+      213: 8814533647768917178
+    second: SS_Crossbow_Purple_73
+  - first:
+      213: -7844090690238044818
+    second: SS_Crossbow_Purple_74
+  - first:
+      213: 3004945233118639
+    second: SS_Crossbow_Purple_75
+  - first:
+      213: -6534872902801828004
+    second: SS_Crossbow_Purple_76
+  - first:
+      213: 6354172415834833488
+    second: SS_Crossbow_Purple_77
+  - first:
+      213: 1469466324439578795
+    second: SS_Crossbow_Purple_78
+  - first:
+      213: -953932701044318346
+    second: SS_Crossbow_Purple_79
+  - first:
+      213: -7902319068110632535
+    second: SS_Crossbow_Purple_80
+  - first:
+      213: -6191431746313462958
+    second: SS_Crossbow_Purple_81
+  - first:
+      213: -9058006022446304157
+    second: SS_Crossbow_Purple_82
+  - first:
+      213: -8320237207544885835
+    second: SS_Crossbow_Purple_83
+  - first:
+      213: -8753370499805944390
+    second: SS_Crossbow_Purple_84
+  - first:
+      213: 5390385688935566571
+    second: SS_Crossbow_Purple_85
+  - first:
+      213: -8185479298809725226
+    second: SS_Crossbow_Purple_86
+  - first:
+      213: -9008554274608745680
+    second: SS_Crossbow_Purple_87
+  - first:
+      213: 6226581448619141932
+    second: SS_Crossbow_Purple_88
+  - first:
+      213: -4713062450440175906
+    second: SS_Crossbow_Purple_89
+  - first:
+      213: 5460890887085244424
+    second: SS_Crossbow_Purple_90
+  - first:
+      213: 5770833170925708306
+    second: SS_Crossbow_Purple_91
+  - first:
+      213: -2795604829155641977
+    second: SS_Crossbow_Purple_92
+  - first:
+      213: -2611754315417002510
+    second: SS_Crossbow_Purple_93
+  - first:
+      213: 4705462916404601642
+    second: SS_Crossbow_Purple_94
+  - first:
+      213: -3554805109314636261
+    second: SS_Crossbow_Purple_95
+  - first:
+      213: -2587645423818348018
+    second: SS_Crossbow_Purple_96
+  - first:
+      213: 8669931890023469499
+    second: SS_Crossbow_Purple_97
+  - first:
+      213: 7973961439936799617
+    second: SS_Crossbow_Purple_98
+  - first:
+      213: 4375436569197984808
+    second: SS_Crossbow_Purple_99
+  - first:
+      213: 4324581671582613434
+    second: SS_Crossbow_Purple_100
+  - first:
+      213: 5734698842914589037
+    second: SS_Crossbow_Purple_101
+  - first:
+      213: -2302584831627800420
+    second: SS_Crossbow_Purple_102
+  - first:
+      213: 4796474593261540073
+    second: SS_Crossbow_Purple_103
+  - first:
+      213: 2871998300617620784
+    second: SS_Crossbow_Purple_104
+  - first:
+      213: -4046953425653541451
+    second: SS_Crossbow_Purple_105
+  - first:
+      213: -5339415347951437233
+    second: SS_Crossbow_Purple_106
+  - first:
+      213: -846841524265934121
+    second: SS_Crossbow_Purple_107
+  - first:
+      213: -5881640622851518603
+    second: SS_Crossbow_Purple_108
+  - first:
+      213: -1975261956940255945
+    second: SS_Crossbow_Purple_109
+  - first:
+      213: 5387651193737964842
+    second: SS_Crossbow_Purple_110
+  - first:
+      213: 7822848056520311788
+    second: SS_Crossbow_Purple_111
+  - first:
+      213: 3170176488547574467
+    second: SS_Crossbow_Purple_112
+  - first:
+      213: 8123351948843498538
+    second: SS_Crossbow_Purple_113
+  - first:
+      213: -7510103846804894075
+    second: SS_Crossbow_Purple_114
+  - first:
+      213: 5677088112750033540
+    second: SS_Crossbow_Purple_115
+  - first:
+      213: 5593186441725298076
+    second: SS_Crossbow_Purple_116
+  - first:
+      213: 739738489009770191
+    second: SS_Crossbow_Purple_117
+  - first:
+      213: 584749100141746995
+    second: SS_Crossbow_Purple_118
+  - first:
+      213: -2735410449054267258
+    second: SS_Crossbow_Purple_119
+  - first:
+      213: 4402232631754403378
+    second: SS_Crossbow_Purple_120
+  - first:
+      213: -1973620902428547010
+    second: SS_Crossbow_Purple_121
+  - first:
+      213: -2536709792291859980
+    second: SS_Crossbow_Purple_122
+  - first:
+      213: -6857978481600019157
+    second: SS_Crossbow_Purple_123
+  - first:
+      213: 3192585728823020888
+    second: SS_Crossbow_Purple_124
+  - first:
+      213: 2074762889120700804
+    second: SS_Crossbow_Purple_125
+  - first:
+      213: 8347498728767784424
+    second: SS_Crossbow_Purple_126
+  - first:
+      213: -5124033546246526028
+    second: SS_Crossbow_Purple_127
+  - first:
+      213: 613484841816329976
+    second: SS_Crossbow_Purple_128
+  - first:
+      213: -3691095807740324236
+    second: SS_Crossbow_Purple_129
+  - first:
+      213: 1134704629572436779
+    second: SS_Crossbow_Purple_130
+  - first:
+      213: 6064656194766451429
+    second: SS_Crossbow_Purple_131
+  - first:
+      213: -8235372129161739585
+    second: SS_Crossbow_Purple_132
+  - first:
+      213: -4384529435385744855
+    second: SS_Crossbow_Purple_133
+  - first:
+      213: 1138586508751647098
+    second: SS_Crossbow_Purple_134
+  - first:
+      213: -6248525646370412530
+    second: SS_Crossbow_Purple_135
+  - first:
+      213: -9187684870452279958
+    second: SS_Crossbow_Purple_136
+  - first:
+      213: -7135148077793492529
+    second: SS_Crossbow_Purple_137
+  - first:
+      213: 6277767217823058528
+    second: SS_Crossbow_Purple_138
+  - first:
+      213: 7904463748684296855
+    second: SS_Crossbow_Purple_139
+  - first:
+      213: -4182158915366274426
+    second: SS_Crossbow_Purple_140
+  - first:
+      213: -2639859628026188489
+    second: SS_Crossbow_Purple_141
+  - first:
+      213: -4435353144997005012
+    second: SS_Crossbow_Purple_142
+  - first:
+      213: -9102097924170185772
+    second: SS_Crossbow_Purple_143
+  - first:
+      213: 8360540735867050771
+    second: SS_Crossbow_Purple_144
+  - first:
+      213: -6372033697880434229
+    second: SS_Crossbow_Purple_145
+  - first:
+      213: 9195252234536231360
+    second: SS_Crossbow_Purple_146
+  - first:
+      213: -374467607326481041
+    second: SS_Crossbow_Purple_147
+  - first:
+      213: -6381440729828240458
+    second: SS_Crossbow_Purple_148
+  - first:
+      213: 4826307601508139049
+    second: SS_Crossbow_Purple_149
+  - first:
+      213: 8806423992234571113
+    second: SS_Crossbow_Purple_150
+  - first:
+      213: 7087904938486845707
+    second: SS_Crossbow_Purple_151
+  - first:
+      213: 5723589807396338147
+    second: SS_Crossbow_Purple_152
+  - first:
+      213: 7068781747333888536
+    second: SS_Crossbow_Purple_153
+  - first:
+      213: -3111761977959117102
+    second: SS_Crossbow_Purple_154
+  - first:
+      213: -1455483339736258697
+    second: SS_Crossbow_Purple_155
+  - first:
+      213: -8363496234179998209
+    second: SS_Crossbow_Purple_156
+  - first:
+      213: -86930990017957591
+    second: SS_Crossbow_Purple_157
+  - first:
+      213: -8771591032195690893
+    second: SS_Crossbow_Purple_158
+  - first:
+      213: 3235225704784821803
+    second: SS_Crossbow_Purple_159
+  - first:
+      213: 1352986153456203680
+    second: SS_Crossbow_Purple_160
+  - first:
+      213: 4484225830182764441
+    second: SS_Crossbow_Purple_161
+  - first:
+      213: 6798787810128077962
+    second: SS_Crossbow_Purple_162
+  - first:
+      213: 1818764689387818292
+    second: SS_Crossbow_Purple_163
+  - first:
+      213: -9078295136708175102
+    second: SS_Crossbow_Purple_164
+  - first:
+      213: -4881350031611784649
+    second: SS_Crossbow_Purple_165
+  - first:
+      213: -3056681526461289115
+    second: SS_Crossbow_Purple_166
+  - first:
+      213: -8259677599401670774
+    second: SS_Crossbow_Purple_167
+  - first:
+      213: 4398763219733322760
+    second: SS_Crossbow_Purple_168
+  - first:
+      213: 2187105496442484921
+    second: SS_Crossbow_Purple_169
+  - first:
+      213: 4068540442423498715
+    second: SS_Crossbow_Purple_170
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 386
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4e9d330e632ccc0800000000000000
+      internalID: -3692328407919893290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 386
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872bcda297d068560800000000000000
+      internalID: 7315549458771260024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 385
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3906a42d084de55b0800000000000000
+      internalID: -5377627255284801389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 385
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139b2c03cf04d5590800000000000000
+      internalID: -7683913937330194127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 385
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e43ed8062c64eef0800000000000000
+      internalID: -79819982772488989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 385
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68b989f6b879c890800000000000000
+      internalID: -7437280582359730070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_6
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 384
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107f0a88b259fb6c0800000000000000
+      internalID: -4125414719439702271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804fa646c993cc210800000000000000
+      internalID: 1354520931794088968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 387
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e864b4940f537f20800000000000000
+      internalID: 3419181015383697640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 385
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ac6d6f86a27d350800000000000000
+      internalID: 6041344055447046701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 386
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1091fd8a073675c30800000000000000
+      internalID: 4348053300770183425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_11
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 385
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50de633d4d7434570800000000000000
+      internalID: 8449676305279413509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 385
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd72382821ed83b0800000000000000
+      internalID: -5508499206614909489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 385
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc530a14166606680800000000000000
+      internalID: -8763892306964105780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_14
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 353
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f378836a24fcd80800000000000000
+      internalID: -8228284712502214792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 353
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0e6867e1b400890800000000000000
+      internalID: -7493907185734852424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_16
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 355
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d57db36bead8f3d0800000000000000
+      internalID: -3172545232956983850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_17
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 354
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf5b8cce95dcc340800000000000000
+      internalID: 4885514573803380698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_18
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 352
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3e24dfa8bc79640800000000000000
+      internalID: 5086758101953209289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 354
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d9b2efc33bb1ba0800000000000000
+      internalID: -6117098594309006002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_20
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 354
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df69d1747b6f0b90800000000000000
+      internalID: -7273476725309607982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f8e95f44d2da050800000000000000
+      internalID: 5813352468207013750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 354
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1f360f2b6cfcf00800000000000000
+      internalID: 1139347702587584943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_23
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 353
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4621c81dff0a49110800000000000000
+      internalID: 1266814415790674532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_24
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 353
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61be50c4f3259cd30800000000000000
+      internalID: 4452180138444319510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_25
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 354
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04de8ba9402faad20800000000000000
+      internalID: 3290708579337170240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_26
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 354
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da46106095ea5fa0800000000000000
+      internalID: -5811079960918078760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8fc3f6dc36fbf650800000000000000
+      internalID: 6267874047580950410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_28
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 322
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec16ffa76e9eb750800000000000000
+      internalID: 6322665095045717231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_29
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 321
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f21afe4bf48c230800000000000000
+      internalID: 3659262335771553695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 321
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0266ecd73705b0190800000000000000
+      internalID: -7995208256504044000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_31
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 321
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619b9b08b009e9560800000000000000
+      internalID: 7322448423229700374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_32
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 320
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64961be083951c170800000000000000
+      internalID: 8196930894090561862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_33
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 320
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3188f838aef95580800000000000000
+      internalID: -8837752795274116804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_34
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 321
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01787e05185d12b0800000000000000
+      internalID: -5612232713173438194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_35
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 321
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c45e32a6c684c710800000000000000
+      internalID: 1712641945991271617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_36
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 321
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177e0fc136f9ed0c0800000000000000
+      internalID: -4549023325561493647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_37
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 320
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddb55f3f80411560800000000000000
+      internalID: 7282673056421887451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_38
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 321
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd14b2f1ef1c80bf0800000000000000
+      internalID: -357822873187171873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_39
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 322
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f665bff4b9dc2b60800000000000000
+      internalID: 7722786832440977140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_40
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 322
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa27ef5b2621c130800000000000000
+      internalID: 3585188746098059936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_41
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 322
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6874739b2edad40800000000000000
+      internalID: 5597379197015656116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_42
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 292
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9179ecba691f7a390800000000000000
+      internalID: -7807005799593634023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a04722213f6ac40800000000000000
+      internalID: 5523369252229483095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_44
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 290
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae632bffe5993c90800000000000000
+      internalID: -7189550472177160542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_45
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 290
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddba4ffc180fe32a0800000000000000
+      internalID: -6755697950678799395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f75caa506e2b9d0800000000000000
+      internalID: -2759890709610397919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_47
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 290
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b8b1a7559a459e0800000000000000
+      internalID: -1633494580242707565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_48
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 289
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ec9fb7dae720780800000000000000
+      internalID: -8718266645061448061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_49
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 289
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b5f636347bcd950800000000000000
+      internalID: 6475251864310864741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_50
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 289
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26cc44cd4ed26030800000000000000
+      internalID: 3486593487125399085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_51
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 290
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce046eee02f7e0460800000000000000
+      internalID: 7209839832890491116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_52
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f34818efdf62f90800000000000000
+      internalID: -6978611303027556527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_53
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5c6655528b30210800000000000000
+      internalID: 1298083588098934205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_54
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 289
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2da0970795795260800000000000000
+      internalID: 7086824780171619626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_55
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6fbd134f9d357c0800000000000000
+      internalID: -4083680794263161182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_56
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 257
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4668f9ff2a29c00800000000000000
+      internalID: 905965693831636213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_57
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 257
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc752fa0f69cdf1e0800000000000000
+      internalID: -2162350767305762865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_58
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 257
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accf06c72a4a7d940800000000000000
+      internalID: 5320902502539918538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_59
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 256
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5765f141b6b6cd3a0800000000000000
+      internalID: -6639313643007682955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd51a9b7dde17da0800000000000000
+      internalID: -5948712121991602728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 257
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e3ec297d7bd1a20800000000000000
+      internalID: 3034783860426423897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_62
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095b5c90e5eee8880800000000000000
+      internalID: -8606679750200150640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2873ae3be6a31560800000000000000
+      internalID: 7283348551686649898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_64
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e9c14c9abc95230800000000000000
+      internalID: 3628154904823766629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 257
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773094b069b0ba1c0800000000000000
+      internalID: -4491483464309603465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_66
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 256
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a752e6920202c340800000000000000
+      internalID: 4882467156167645088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_67
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3adfcc2824c27d6d0800000000000000
+      internalID: -2965853165426246237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_68
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 258
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23e5f76c248ce040800000000000000
+      internalID: 4678259439188697902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_69
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 257
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d53e5fc5f7814300800000000000000
+      internalID: 234618145415771608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_70
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 225
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4dbc028c0a95d740800000000000000
+      internalID: 5176212725244411210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_71
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 225
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc88a250dfd3a840800000000000000
+      internalID: 5234273277767617787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_72
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 225
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da5fa5e97f2de210800000000000000
+      internalID: 1363798462754151124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_73
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab49ef7b6a3835a70800000000000000
+      internalID: 8814533647768917178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_74
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65a966b311342390800000000000000
+      internalID: -7844090690238044818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_75
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 226
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa580355bfcaa0000800000000000000
+      internalID: 3004945233118639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 226
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57db28d7b77f45a0800000000000000
+      internalID: -6534872902801828004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_77
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 227
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052cb67752e8e2850800000000000000
+      internalID: 6354172415834833488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_78
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 226
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8be9526d7946410800000000000000
+      internalID: 1469466324439578795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_79
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 225
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67fdf963343f2c2f0800000000000000
+      internalID: -953932701044318346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_80
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a948730da2555290800000000000000
+      internalID: -7902319068110632535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_81
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 225
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bd8ed51ad931aa0800000000000000
+      internalID: -6191431746313462958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_82
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 226
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3643db2938f7b4280800000000000000
+      internalID: -9058006022446304157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_83
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 225
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd8c4d9754988c80800000000000000
+      internalID: -8320237207544885835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_84
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 194
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5eea368e7c58680800000000000000
+      internalID: -8753370499805944390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 193
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec8a5f793f7eca40800000000000000
+      internalID: 5390385688935566571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_86
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 194
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6def12e32f5576e80800000000000000
+      internalID: -8185479298809725226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 193
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0337e1add9f2bf280800000000000000
+      internalID: -9008554274608745680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_88
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 195
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b2bf176d2496650800000000000000
+      internalID: 6226581448619141932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_89
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 194
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edef7451ca6d79eb0800000000000000
+      internalID: -4713062450440175906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 193
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80042e9245bf8cb40800000000000000
+      internalID: 5460890887085244424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_91
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 194
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214611b913e161050800000000000000
+      internalID: 5770833170925708306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_92
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 193
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785bfc938340439d0800000000000000
+      internalID: -2795604829155641977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_93
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 193
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fdd9fca94f21cbd0800000000000000
+      internalID: -2611754315417002510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 193
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23e11487992d4140800000000000000
+      internalID: 4705462916404601642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_95
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 195
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16be85569bcaaec0800000000000000
+      internalID: -3554805109314636261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_96
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 195
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a64ac6236d61cd0800000000000000
+      internalID: -2587645423818348018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_97
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 194
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb11ea36e19c15870800000000000000
+      internalID: 8669931890023469499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_98
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 161
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18368188ea339ae60800000000000000
+      internalID: 7973961439936799617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_99
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 161
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cbc4ca06ca8bc30800000000000000
+      internalID: 4375436569197984808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_100
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 161
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abfb8d02e10040c30800000000000000
+      internalID: 4324581671582613434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_101
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 161
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6984c1c63eb59f40800000000000000
+      internalID: 5734698842914589037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_102
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 161
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c905f959b439b00e0800000000000000
+      internalID: -2302584831627800420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_103
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 162
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e25a81da30809240800000000000000
+      internalID: 4796474593261540073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_104
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 161
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03db6d7ec336bd720800000000000000
+      internalID: 2871998300617620784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_105
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 164
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5de511d4556d7c0800000000000000
+      internalID: -4046953425653541451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_106
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 163
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4af51dc70696e5b0800000000000000
+      internalID: -5339415347951437233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_107
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 161
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d22415de1a6f34f0800000000000000
+      internalID: -846841524265934121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_108
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 161
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f8d6a0407306ea0800000000000000
+      internalID: -5881640622851518603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_109
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 162
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73dab3e27b57694e0800000000000000
+      internalID: -1975261956940255945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_110
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 162
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2de5783738c4ca40800000000000000
+      internalID: 5387651193737964842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_111
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 161
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce38fb43cd6509c60800000000000000
+      internalID: 7822848056520311788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c26c2358babefb20800000000000000
+      internalID: 3170176488547574467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 129
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c3b40ee81fbb070800000000000000
+      internalID: 8123351948843498538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_114
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 130
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e46e07750c6c790800000000000000
+      internalID: -7510103846804894075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_115
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 131
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48afe0f5f8119ce40800000000000000
+      internalID: 5677088112750033540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 129
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95419d4f6dfe9d40800000000000000
+      internalID: 5593186441725298076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_117
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 131
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce8c188c34144a00800000000000000
+      internalID: 739738489009770191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 129
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b9dac55327d1800800000000000000
+      internalID: 584749100141746995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 129
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6888a3d70bed90ad0800000000000000
+      internalID: -2735410449054267258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23eaa5a214fd71d30800000000000000
+      internalID: 4402232631754403378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_121
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 130
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38e575fe3a4c94e0800000000000000
+      internalID: -1973620902428547010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_122
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 130
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1503c42ebcbccd0800000000000000
+      internalID: -2536709792291859980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_123
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 129
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2545f6f7e093d0a0800000000000000
+      internalID: -6857978481600019157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 129
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d4a792ec75e4c20800000000000000
+      internalID: 3192585728823020888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489d337ead90bcc10800000000000000
+      internalID: 2074762889120700804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_126
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e58a3bedd548d370800000000000000
+      internalID: 8347498728767784424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_127
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb6ac253a6c3e8b0800000000000000
+      internalID: -5124033546246526028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 97
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe8c879639838800800000000000000
+      internalID: 613484841816329976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_129
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47654bb4be796ccc0800000000000000
+      internalID: -3691095807740324236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_130
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2308a249d74fbf00800000000000000
+      internalID: 1134704629572436779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_131
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e23ded5dacf92450800000000000000
+      internalID: 6064656194766451429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_132
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 97
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb289207ea416bd80800000000000000
+      internalID: -8235372129161739585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_133
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 97
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922b69075b50723c0800000000000000
+      internalID: -4384529435385744855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_134
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 97
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71b130b5621dcf00800000000000000
+      internalID: 1138586508751647098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_135
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 97
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e086c2ed707c849a0800000000000000
+      internalID: -6248525646370412530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_136
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 99
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a65067ce949ce7080800000000000000
+      internalID: -9187684870452279958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_137
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc1ce4b70acdafc90800000000000000
+      internalID: -7135148077793492529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_138
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a8fe8060c1f1750800000000000000
+      internalID: 6277767217823058528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_139
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 97
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792b74856eb42bd60800000000000000
+      internalID: 7904463748684296855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a3c5fdf9cf5f5c0800000000000000
+      internalID: -4182158915366274426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_141
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 66
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73daa96a7a55d5bd0800000000000000
+      internalID: -2639859628026188489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_142
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 65
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c29ba0b60d57272c0800000000000000
+      internalID: -4435353144997005012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_143
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d30407b92adea180800000000000000
+      internalID: -9102097924170185772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_144
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 65
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bd983d08b960470800000000000000
+      internalID: 8360540735867050771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_145
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9940dbc1df197a0800000000000000
+      internalID: -6372033697880434229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_146
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 65
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c126a350391c9f70800000000000000
+      internalID: 9195252234536231360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_147
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f652a65f1bf9dcaf0800000000000000
+      internalID: -374467607326481041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_148
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 65
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3d06f67719077a0800000000000000
+      internalID: -6381440729828240458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_149
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 65
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92009a4513d7af240800000000000000
+      internalID: 4826307601508139049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_150
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 67
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9657e9666f3b63a70800000000000000
+      internalID: 8806423992234571113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_151
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 66
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01de3cfcfb4d5260800000000000000
+      internalID: 7087904938486845707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_152
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 64
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9b7edda964e6f40800000000000000
+      internalID: 5723589807396338147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_153
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 65
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81af9941c8b591260800000000000000
+      internalID: 7068781747333888536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de0e26c7fcc0d4d0800000000000000
+      internalID: -3111761977959117102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_155
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777658e2d951dcbe0800000000000000
+      internalID: -1455483339736258697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_156
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd42699c74eeeb80800000000000000
+      internalID: -8363496234179998209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_157
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921b104a9b82bcef0800000000000000
+      internalID: -86930990017957591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_158
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e49fa1e6c054680800000000000000
+      internalID: -8771591032195690893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_159
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 33
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2e79e533a4d5ec20800000000000000
+      internalID: 3235225704784821803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_160
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 33
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a777c6fcb5c6c210800000000000000
+      internalID: 1352986153456203680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_161
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 32
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fbca452ab2b3e30800000000000000
+      internalID: 4484225830182764441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_162
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 33
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84a0f5ed752a5e50800000000000000
+      internalID: 6798787810128077962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_163
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 33
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d0cf849dc8d3910800000000000000
+      internalID: 1818764689387818292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_164
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b5a5a0caa630280800000000000000
+      internalID: -9078295136708175102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_165
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 34
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732107d3206f14cb0800000000000000
+      internalID: -4881350031611784649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_166
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56da6cfb85c7495d0800000000000000
+      internalID: -3056681526461289115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_167
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 33
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8789682cfabf5d80800000000000000
+      internalID: -8259677599401670774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c124bb7db8b0d30800000000000000
+      internalID: 4398763219733322760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_169
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b832c97cd82a5e10800000000000000
+      internalID: 2187105496442484921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Crossbow_Purple_170
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd796f0f9fb567830800000000000000
+      internalID: 4068540442423498715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Crossbow_Purple_0: -3692328407919893290
+      SS_Crossbow_Purple_1: 7315549458771260024
+      SS_Crossbow_Purple_10: 4348053300770183425
+      SS_Crossbow_Purple_100: 4324581671582613434
+      SS_Crossbow_Purple_101: 5734698842914589037
+      SS_Crossbow_Purple_102: -2302584831627800420
+      SS_Crossbow_Purple_103: 4796474593261540073
+      SS_Crossbow_Purple_104: 2871998300617620784
+      SS_Crossbow_Purple_105: -4046953425653541451
+      SS_Crossbow_Purple_106: -5339415347951437233
+      SS_Crossbow_Purple_107: -846841524265934121
+      SS_Crossbow_Purple_108: -5881640622851518603
+      SS_Crossbow_Purple_109: -1975261956940255945
+      SS_Crossbow_Purple_11: 8449676305279413509
+      SS_Crossbow_Purple_110: 5387651193737964842
+      SS_Crossbow_Purple_111: 7822848056520311788
+      SS_Crossbow_Purple_112: 3170176488547574467
+      SS_Crossbow_Purple_113: 8123351948843498538
+      SS_Crossbow_Purple_114: -7510103846804894075
+      SS_Crossbow_Purple_115: 5677088112750033540
+      SS_Crossbow_Purple_116: 5593186441725298076
+      SS_Crossbow_Purple_117: 739738489009770191
+      SS_Crossbow_Purple_118: 584749100141746995
+      SS_Crossbow_Purple_119: -2735410449054267258
+      SS_Crossbow_Purple_12: -5508499206614909489
+      SS_Crossbow_Purple_120: 4402232631754403378
+      SS_Crossbow_Purple_121: -1973620902428547010
+      SS_Crossbow_Purple_122: -2536709792291859980
+      SS_Crossbow_Purple_123: -6857978481600019157
+      SS_Crossbow_Purple_124: 3192585728823020888
+      SS_Crossbow_Purple_125: 2074762889120700804
+      SS_Crossbow_Purple_126: 8347498728767784424
+      SS_Crossbow_Purple_127: -5124033546246526028
+      SS_Crossbow_Purple_128: 613484841816329976
+      SS_Crossbow_Purple_129: -3691095807740324236
+      SS_Crossbow_Purple_13: -8763892306964105780
+      SS_Crossbow_Purple_130: 1134704629572436779
+      SS_Crossbow_Purple_131: 6064656194766451429
+      SS_Crossbow_Purple_132: -8235372129161739585
+      SS_Crossbow_Purple_133: -4384529435385744855
+      SS_Crossbow_Purple_134: 1138586508751647098
+      SS_Crossbow_Purple_135: -6248525646370412530
+      SS_Crossbow_Purple_136: -9187684870452279958
+      SS_Crossbow_Purple_137: -7135148077793492529
+      SS_Crossbow_Purple_138: 6277767217823058528
+      SS_Crossbow_Purple_139: 7904463748684296855
+      SS_Crossbow_Purple_14: -8228284712502214792
+      SS_Crossbow_Purple_140: -4182158915366274426
+      SS_Crossbow_Purple_141: -2639859628026188489
+      SS_Crossbow_Purple_142: -4435353144997005012
+      SS_Crossbow_Purple_143: -9102097924170185772
+      SS_Crossbow_Purple_144: 8360540735867050771
+      SS_Crossbow_Purple_145: -6372033697880434229
+      SS_Crossbow_Purple_146: 9195252234536231360
+      SS_Crossbow_Purple_147: -374467607326481041
+      SS_Crossbow_Purple_148: -6381440729828240458
+      SS_Crossbow_Purple_149: 4826307601508139049
+      SS_Crossbow_Purple_15: -7493907185734852424
+      SS_Crossbow_Purple_150: 8806423992234571113
+      SS_Crossbow_Purple_151: 7087904938486845707
+      SS_Crossbow_Purple_152: 5723589807396338147
+      SS_Crossbow_Purple_153: 7068781747333888536
+      SS_Crossbow_Purple_154: -3111761977959117102
+      SS_Crossbow_Purple_155: -1455483339736258697
+      SS_Crossbow_Purple_156: -8363496234179998209
+      SS_Crossbow_Purple_157: -86930990017957591
+      SS_Crossbow_Purple_158: -8771591032195690893
+      SS_Crossbow_Purple_159: 3235225704784821803
+      SS_Crossbow_Purple_16: -3172545232956983850
+      SS_Crossbow_Purple_160: 1352986153456203680
+      SS_Crossbow_Purple_161: 4484225830182764441
+      SS_Crossbow_Purple_162: 6798787810128077962
+      SS_Crossbow_Purple_163: 1818764689387818292
+      SS_Crossbow_Purple_164: -9078295136708175102
+      SS_Crossbow_Purple_165: -4881350031611784649
+      SS_Crossbow_Purple_166: -3056681526461289115
+      SS_Crossbow_Purple_167: -8259677599401670774
+      SS_Crossbow_Purple_168: 4398763219733322760
+      SS_Crossbow_Purple_169: 2187105496442484921
+      SS_Crossbow_Purple_17: 4885514573803380698
+      SS_Crossbow_Purple_170: 4068540442423498715
+      SS_Crossbow_Purple_18: 5086758101953209289
+      SS_Crossbow_Purple_19: -6117098594309006002
+      SS_Crossbow_Purple_2: -5377627255284801389
+      SS_Crossbow_Purple_20: -7273476725309607982
+      SS_Crossbow_Purple_21: 5813352468207013750
+      SS_Crossbow_Purple_22: 1139347702587584943
+      SS_Crossbow_Purple_23: 1266814415790674532
+      SS_Crossbow_Purple_24: 4452180138444319510
+      SS_Crossbow_Purple_25: 3290708579337170240
+      SS_Crossbow_Purple_26: -5811079960918078760
+      SS_Crossbow_Purple_27: 6267874047580950410
+      SS_Crossbow_Purple_28: 6322665095045717231
+      SS_Crossbow_Purple_29: 3659262335771553695
+      SS_Crossbow_Purple_3: -7683913937330194127
+      SS_Crossbow_Purple_30: -7995208256504044000
+      SS_Crossbow_Purple_31: 7322448423229700374
+      SS_Crossbow_Purple_32: 8196930894090561862
+      SS_Crossbow_Purple_33: -8837752795274116804
+      SS_Crossbow_Purple_34: -5612232713173438194
+      SS_Crossbow_Purple_35: 1712641945991271617
+      SS_Crossbow_Purple_36: -4549023325561493647
+      SS_Crossbow_Purple_37: 7282673056421887451
+      SS_Crossbow_Purple_38: -357822873187171873
+      SS_Crossbow_Purple_39: 7722786832440977140
+      SS_Crossbow_Purple_4: -79819982772488989
+      SS_Crossbow_Purple_40: 3585188746098059936
+      SS_Crossbow_Purple_41: 5597379197015656116
+      SS_Crossbow_Purple_42: -7807005799593634023
+      SS_Crossbow_Purple_43: 5523369252229483095
+      SS_Crossbow_Purple_44: -7189550472177160542
+      SS_Crossbow_Purple_45: -6755697950678799395
+      SS_Crossbow_Purple_46: -2759890709610397919
+      SS_Crossbow_Purple_47: -1633494580242707565
+      SS_Crossbow_Purple_48: -8718266645061448061
+      SS_Crossbow_Purple_49: 6475251864310864741
+      SS_Crossbow_Purple_5: -7437280582359730070
+      SS_Crossbow_Purple_50: 3486593487125399085
+      SS_Crossbow_Purple_51: 7209839832890491116
+      SS_Crossbow_Purple_52: -6978611303027556527
+      SS_Crossbow_Purple_53: 1298083588098934205
+      SS_Crossbow_Purple_54: 7086824780171619626
+      SS_Crossbow_Purple_55: -4083680794263161182
+      SS_Crossbow_Purple_56: 905965693831636213
+      SS_Crossbow_Purple_57: -2162350767305762865
+      SS_Crossbow_Purple_58: 5320902502539918538
+      SS_Crossbow_Purple_59: -6639313643007682955
+      SS_Crossbow_Purple_6: -4125414719439702271
+      SS_Crossbow_Purple_60: -5948712121991602728
+      SS_Crossbow_Purple_61: 3034783860426423897
+      SS_Crossbow_Purple_62: -8606679750200150640
+      SS_Crossbow_Purple_63: 7283348551686649898
+      SS_Crossbow_Purple_64: 3628154904823766629
+      SS_Crossbow_Purple_65: -4491483464309603465
+      SS_Crossbow_Purple_66: 4882467156167645088
+      SS_Crossbow_Purple_67: -2965853165426246237
+      SS_Crossbow_Purple_68: 4678259439188697902
+      SS_Crossbow_Purple_69: 234618145415771608
+      SS_Crossbow_Purple_7: 1354520931794088968
+      SS_Crossbow_Purple_70: 5176212725244411210
+      SS_Crossbow_Purple_71: 5234273277767617787
+      SS_Crossbow_Purple_72: 1363798462754151124
+      SS_Crossbow_Purple_73: 8814533647768917178
+      SS_Crossbow_Purple_74: -7844090690238044818
+      SS_Crossbow_Purple_75: 3004945233118639
+      SS_Crossbow_Purple_76: -6534872902801828004
+      SS_Crossbow_Purple_77: 6354172415834833488
+      SS_Crossbow_Purple_78: 1469466324439578795
+      SS_Crossbow_Purple_79: -953932701044318346
+      SS_Crossbow_Purple_8: 3419181015383697640
+      SS_Crossbow_Purple_80: -7902319068110632535
+      SS_Crossbow_Purple_81: -6191431746313462958
+      SS_Crossbow_Purple_82: -9058006022446304157
+      SS_Crossbow_Purple_83: -8320237207544885835
+      SS_Crossbow_Purple_84: -8753370499805944390
+      SS_Crossbow_Purple_85: 5390385688935566571
+      SS_Crossbow_Purple_86: -8185479298809725226
+      SS_Crossbow_Purple_87: -9008554274608745680
+      SS_Crossbow_Purple_88: 6226581448619141932
+      SS_Crossbow_Purple_89: -4713062450440175906
+      SS_Crossbow_Purple_9: 6041344055447046701
+      SS_Crossbow_Purple_90: 5460890887085244424
+      SS_Crossbow_Purple_91: 5770833170925708306
+      SS_Crossbow_Purple_92: -2795604829155641977
+      SS_Crossbow_Purple_93: -2611754315417002510
+      SS_Crossbow_Purple_94: 4705462916404601642
+      SS_Crossbow_Purple_95: -3554805109314636261
+      SS_Crossbow_Purple_96: -2587645423818348018
+      SS_Crossbow_Purple_97: 8669931890023469499
+      SS_Crossbow_Purple_98: 7973961439936799617
+      SS_Crossbow_Purple_99: 4375436569197984808
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

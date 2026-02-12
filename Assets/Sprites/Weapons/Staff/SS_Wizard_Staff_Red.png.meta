@@ -1,0 +1,3250 @@
+fileFormatVersion: 2
+guid: f4f9a43f65320354c90a77fffe48b371
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7563374692087771786
+    second: SS_Wizard_Staff_Red_0
+  - first:
+      213: 3284307057394192735
+    second: SS_Wizard_Staff_Red_1
+  - first:
+      213: -8830826006397155657
+    second: SS_Wizard_Staff_Red_2
+  - first:
+      213: 6227704181513896931
+    second: SS_Wizard_Staff_Red_3
+  - first:
+      213: 5558768052116839994
+    second: SS_Wizard_Staff_Red_4
+  - first:
+      213: -3667138652440477203
+    second: SS_Wizard_Staff_Red_5
+  - first:
+      213: 430539004026651556
+    second: SS_Wizard_Staff_Red_6
+  - first:
+      213: -5011603773145028441
+    second: SS_Wizard_Staff_Red_7
+  - first:
+      213: -8670675733842503345
+    second: SS_Wizard_Staff_Red_8
+  - first:
+      213: 757701322876959491
+    second: SS_Wizard_Staff_Red_9
+  - first:
+      213: 7492637459447680864
+    second: SS_Wizard_Staff_Red_10
+  - first:
+      213: 8866387051481364673
+    second: SS_Wizard_Staff_Red_11
+  - first:
+      213: 8418188182358106502
+    second: SS_Wizard_Staff_Red_12
+  - first:
+      213: -669926403984233418
+    second: SS_Wizard_Staff_Red_13
+  - first:
+      213: -3688500904287808003
+    second: SS_Wizard_Staff_Red_14
+  - first:
+      213: 5808348459340519879
+    second: SS_Wizard_Staff_Red_15
+  - first:
+      213: -2643058970267552986
+    second: SS_Wizard_Staff_Red_16
+  - first:
+      213: -5238064857132777731
+    second: SS_Wizard_Staff_Red_17
+  - first:
+      213: -1591790077714174706
+    second: SS_Wizard_Staff_Red_18
+  - first:
+      213: -3106904275590432255
+    second: SS_Wizard_Staff_Red_19
+  - first:
+      213: 2107895304705470410
+    second: SS_Wizard_Staff_Red_20
+  - first:
+      213: 9198296273045420527
+    second: SS_Wizard_Staff_Red_21
+  - first:
+      213: -2325746777091009321
+    second: SS_Wizard_Staff_Red_22
+  - first:
+      213: 5238414421629447336
+    second: SS_Wizard_Staff_Red_23
+  - first:
+      213: 8124077848592017775
+    second: SS_Wizard_Staff_Red_24
+  - first:
+      213: -8958117211857605525
+    second: SS_Wizard_Staff_Red_25
+  - first:
+      213: -2699172696704877202
+    second: SS_Wizard_Staff_Red_26
+  - first:
+      213: -5494685534868950270
+    second: SS_Wizard_Staff_Red_27
+  - first:
+      213: -4538439454578269949
+    second: SS_Wizard_Staff_Red_28
+  - first:
+      213: 8883150060702329335
+    second: SS_Wizard_Staff_Red_29
+  - first:
+      213: -1424326894709055537
+    second: SS_Wizard_Staff_Red_30
+  - first:
+      213: -918168926751106403
+    second: SS_Wizard_Staff_Red_31
+  - first:
+      213: 5519931871064535830
+    second: SS_Wizard_Staff_Red_32
+  - first:
+      213: 7198428965613193077
+    second: SS_Wizard_Staff_Red_33
+  - first:
+      213: -803082526873314426
+    second: SS_Wizard_Staff_Red_34
+  - first:
+      213: 680546690815784579
+    second: SS_Wizard_Staff_Red_35
+  - first:
+      213: 1910082414224481527
+    second: SS_Wizard_Staff_Red_36
+  - first:
+      213: -5808949840262658110
+    second: SS_Wizard_Staff_Red_37
+  - first:
+      213: 6300304801318341212
+    second: SS_Wizard_Staff_Red_38
+  - first:
+      213: 6805106034089321090
+    second: SS_Wizard_Staff_Red_39
+  - first:
+      213: 6297199007504551593
+    second: SS_Wizard_Staff_Red_40
+  - first:
+      213: 1332067331077299412
+    second: SS_Wizard_Staff_Red_41
+  - first:
+      213: 1468822577329422872
+    second: SS_Wizard_Staff_Red_42
+  - first:
+      213: 1642781462142261235
+    second: SS_Wizard_Staff_Red_43
+  - first:
+      213: -7217922575442263889
+    second: SS_Wizard_Staff_Red_44
+  - first:
+      213: 2465899093063552943
+    second: SS_Wizard_Staff_Red_45
+  - first:
+      213: 5468189181165082120
+    second: SS_Wizard_Staff_Red_46
+  - first:
+      213: -8193763829293980046
+    second: SS_Wizard_Staff_Red_47
+  - first:
+      213: -679800931390373394
+    second: SS_Wizard_Staff_Red_48
+  - first:
+      213: -5192855236417679434
+    second: SS_Wizard_Staff_Red_49
+  - first:
+      213: -8266214950974267469
+    second: SS_Wizard_Staff_Red_50
+  - first:
+      213: 3932662700861493153
+    second: SS_Wizard_Staff_Red_51
+  - first:
+      213: 4694645469131892119
+    second: SS_Wizard_Staff_Red_52
+  - first:
+      213: -4143970819591850418
+    second: SS_Wizard_Staff_Red_53
+  - first:
+      213: -1639979673057274056
+    second: SS_Wizard_Staff_Red_54
+  - first:
+      213: -4258852134397049280
+    second: SS_Wizard_Staff_Red_55
+  - first:
+      213: 6405736399627280551
+    second: SS_Wizard_Staff_Red_56
+  - first:
+      213: -5340228664825203456
+    second: SS_Wizard_Staff_Red_57
+  - first:
+      213: 5152938963371955348
+    second: SS_Wizard_Staff_Red_58
+  - first:
+      213: 825577459568062723
+    second: SS_Wizard_Staff_Red_59
+  - first:
+      213: 5041335163422323516
+    second: SS_Wizard_Staff_Red_60
+  - first:
+      213: -4849699863697466646
+    second: SS_Wizard_Staff_Red_61
+  - first:
+      213: 904534469018033282
+    second: SS_Wizard_Staff_Red_62
+  - first:
+      213: -257344563773658335
+    second: SS_Wizard_Staff_Red_63
+  - first:
+      213: 2640428148901507236
+    second: SS_Wizard_Staff_Red_64
+  - first:
+      213: 8868325379393251297
+    second: SS_Wizard_Staff_Red_65
+  - first:
+      213: -3525579427080945014
+    second: SS_Wizard_Staff_Red_66
+  - first:
+      213: 257948355440127929
+    second: SS_Wizard_Staff_Red_67
+  - first:
+      213: 8713714113934531086
+    second: SS_Wizard_Staff_Red_68
+  - first:
+      213: 3713512870608259967
+    second: SS_Wizard_Staff_Red_69
+  - first:
+      213: -2977399633064717339
+    second: SS_Wizard_Staff_Red_70
+  - first:
+      213: -8255773791469791173
+    second: SS_Wizard_Staff_Red_71
+  - first:
+      213: -5192233205735304608
+    second: SS_Wizard_Staff_Red_72
+  - first:
+      213: -3902292493833259870
+    second: SS_Wizard_Staff_Red_73
+  - first:
+      213: -968142948333939155
+    second: SS_Wizard_Staff_Red_74
+  - first:
+      213: 5411836831558193086
+    second: SS_Wizard_Staff_Red_75
+  - first:
+      213: -6082464375420558010
+    second: SS_Wizard_Staff_Red_76
+  - first:
+      213: -3854354446747195322
+    second: SS_Wizard_Staff_Red_77
+  - first:
+      213: 7212391277950256674
+    second: SS_Wizard_Staff_Red_78
+  - first:
+      213: 7030563184170930283
+    second: SS_Wizard_Staff_Red_79
+  - first:
+      213: 7090150025259852345
+    second: SS_Wizard_Staff_Red_80
+  - first:
+      213: -4307239289108742229
+    second: SS_Wizard_Staff_Red_81
+  - first:
+      213: -5488963059701893791
+    second: SS_Wizard_Staff_Red_82
+  - first:
+      213: -9033744239695194815
+    second: SS_Wizard_Staff_Red_83
+  - first:
+      213: 4053222229225294573
+    second: SS_Wizard_Staff_Red_84
+  - first:
+      213: -2411471898328231706
+    second: SS_Wizard_Staff_Red_85
+  - first:
+      213: -9064333792823889175
+    second: SS_Wizard_Staff_Red_86
+  - first:
+      213: 8180966360061915907
+    second: SS_Wizard_Staff_Red_87
+  - first:
+      213: -3610954047923006633
+    second: SS_Wizard_Staff_Red_88
+  - first:
+      213: 4463475515192993051
+    second: SS_Wizard_Staff_Red_89
+  - first:
+      213: 4205984290752221821
+    second: SS_Wizard_Staff_Red_90
+  - first:
+      213: -518502068054461920
+    second: SS_Wizard_Staff_Red_91
+  - first:
+      213: -4936497981417000695
+    second: SS_Wizard_Staff_Red_92
+  - first:
+      213: 8031492575230988836
+    second: SS_Wizard_Staff_Red_93
+  - first:
+      213: 3940731214549764473
+    second: SS_Wizard_Staff_Red_94
+  - first:
+      213: 6175332199690801248
+    second: SS_Wizard_Staff_Red_95
+  - first:
+      213: -8907168654558292306
+    second: SS_Wizard_Staff_Red_96
+  - first:
+      213: 3310172439673211023
+    second: SS_Wizard_Staff_Red_97
+  - first:
+      213: -6526885660559761744
+    second: SS_Wizard_Staff_Red_98
+  - first:
+      213: 3150818832006266975
+    second: SS_Wizard_Staff_Red_99
+  - first:
+      213: 1651037084345184696
+    second: SS_Wizard_Staff_Red_100
+  - first:
+      213: -5365186573190260819
+    second: SS_Wizard_Staff_Red_101
+  - first:
+      213: -1230893189237988951
+    second: SS_Wizard_Staff_Red_102
+  - first:
+      213: 1761580258373745811
+    second: SS_Wizard_Staff_Red_103
+  - first:
+      213: -3896192906211164087
+    second: SS_Wizard_Staff_Red_104
+  - first:
+      213: 5212255351510023223
+    second: SS_Wizard_Staff_Red_105
+  - first:
+      213: -1331351882084151040
+    second: SS_Wizard_Staff_Red_106
+  - first:
+      213: -8623624449569587542
+    second: SS_Wizard_Staff_Red_107
+  - first:
+      213: -4300615854595161230
+    second: SS_Wizard_Staff_Red_108
+  - first:
+      213: 649484443678620506
+    second: SS_Wizard_Staff_Red_109
+  - first:
+      213: 2415218743753880178
+    second: SS_Wizard_Staff_Red_110
+  - first:
+      213: -7151522050446966644
+    second: SS_Wizard_Staff_Red_111
+  - first:
+      213: 2543751583505530106
+    second: SS_Wizard_Staff_Red_112
+  - first:
+      213: 784016005986239754
+    second: SS_Wizard_Staff_Red_113
+  - first:
+      213: 2326488065149817224
+    second: SS_Wizard_Staff_Red_114
+  - first:
+      213: -5381489032338863223
+    second: SS_Wizard_Staff_Red_115
+  - first:
+      213: 4455496981447690106
+    second: SS_Wizard_Staff_Red_116
+  - first:
+      213: 6575761216095960767
+    second: SS_Wizard_Staff_Red_117
+  - first:
+      213: 8703648030054231046
+    second: SS_Wizard_Staff_Red_118
+  - first:
+      213: -1640611310804499613
+    second: SS_Wizard_Staff_Red_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 321
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a823211c53186f860800000000000000
+      internalID: 7563374692087771786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 321
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f511a412ed3349d20800000000000000
+      internalID: 3284307057394192735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 322
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b68a6fe88a927580800000000000000
+      internalID: -8830826006397155657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e3c95115ff3d6650800000000000000
+      internalID: 6227704181513896931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 322
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ed63f7716b42d40800000000000000
+      internalID: 5558768052116839994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 322
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de14e2f23d4bb1dc0800000000000000
+      internalID: -3667138652440477203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 321
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a385fc61f499f500800000000000000
+      internalID: 430539004026651556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 321
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8eea2cbe4337ab0800000000000000
+      internalID: -5011603773145028441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 322
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49d7b9fb529ba780800000000000000
+      internalID: -8670675733842503345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 321
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bbce3b655e38a00800000000000000
+      internalID: 757701322876959491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 321
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f0a2952123bf760800000000000000
+      internalID: 7492637459447680864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 288
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c87ba41c0cbb0b70800000000000000
+      internalID: 8866387051481364673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 290
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 681a8d5ec8963d470800000000000000
+      internalID: 8418188182358106502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 289
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63c6dd82c71f3b6f0800000000000000
+      internalID: -669926403984233418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 290
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5d73658ffcfccc0800000000000000
+      internalID: -3688500904287808003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 289
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9ddaa56266b9050800000000000000
+      internalID: 5808348459340519879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 289
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623faccbed7f15bd0800000000000000
+      internalID: -2643058970267552986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 289
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfeb420d3c7ae47b0800000000000000
+      internalID: -5238064857132777731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 291
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dead4ab53d8e9e0800000000000000
+      internalID: -1591790077714174706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_19
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 289
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a3a4eb50f02e4d0800000000000000
+      internalID: -3106904275590432255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_20
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 289
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acfeeac8c9fb04d10800000000000000
+      internalID: 2107895304705470410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9fba5c9b9e6af70800000000000000
+      internalID: 9198296273045420527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d41bf9e0a949bfd0800000000000000
+      internalID: -2325746777091009321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 258
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aca183892692b840800000000000000
+      internalID: 5238414421629447336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 257
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6962f492c58eb070800000000000000
+      internalID: 8124077848592017775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 257
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c2ae2abdf5ea380800000000000000
+      internalID: -8958117211857605525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6df871bbbc9a8ad0800000000000000
+      internalID: -2699172696704877202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_27
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 257
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203b8ad3e94feb3b0800000000000000
+      internalID: -5494685534868950270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_28
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 256
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301ae3b9c593401c0800000000000000
+      internalID: -4538439454578269949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_29
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 257
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9e6ae4ae9474b70800000000000000
+      internalID: 8883150060702329335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_30
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfd4d45c36cb3ce0800000000000000
+      internalID: -1424326894709055537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_31
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 257
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ad23dc9320243f0800000000000000
+      internalID: -918168926751106403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_32
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 256
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613b8277accba9c40800000000000000
+      internalID: 5519931871064535830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 225
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 577c14c5105f5e360800000000000000
+      internalID: 7198428965613193077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_34
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 225
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b946c52b0ead4f0800000000000000
+      internalID: -803082526873314426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_35
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 225
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386742f0c99c17900800000000000000
+      internalID: 680546690815784579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 226
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc129fe5d9f18a10800000000000000
+      internalID: 1910082414224481527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 224
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7051db5e6726fa0800000000000000
+      internalID: -5808949840262658110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_38
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 224
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a844b16dd2f6750800000000000000
+      internalID: 6300304801318341212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_39
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 225
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282e2cc02e7907e50800000000000000
+      internalID: 6805106034089321090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_40
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 225
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae40422225246750800000000000000
+      internalID: 6297199007504551593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_41
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 225
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcd3c51e247c7210800000000000000
+      internalID: 1332067331077299412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_42
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 225
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8124bc71a5e426410800000000000000
+      internalID: 1468822577329422872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_43
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 226
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7169639055cc610800000000000000
+      internalID: 1642781462142261235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 193
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0cd7ae8a9c4db90800000000000000
+      internalID: -7217922575442263889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_45
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 193
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafc2060922a83220800000000000000
+      internalID: 2465899093063552943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_46
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 193
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8069afba619e2eb40800000000000000
+      internalID: 5468189181165082120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_47
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 193
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276ec7da537e94e80800000000000000
+      internalID: -8193763829293980046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_48
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 192
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee14f7697acd096f0800000000000000
+      internalID: -679800931390373394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_49
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 193
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf0c47eca54fe7b0800000000000000
+      internalID: -5192855236417679434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_50
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 192
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfd7226c41884d80800000000000000
+      internalID: -8266214950974267469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_51
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 194
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1af074ae3ef939630800000000000000
+      internalID: 3932662700861493153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_52
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 194
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795e00e4e2bb62140800000000000000
+      internalID: 4694645469131892119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_53
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 195
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46b4aace78ad76c0800000000000000
+      internalID: -4143970819591850418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_54
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 193
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8375f842d2f9d39e0800000000000000
+      internalID: -1639979673057274056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_55
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 162
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04689525c8485e4c0800000000000000
+      internalID: -4258852134397049280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_56
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 162
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0e290015fb5e850800000000000000
+      internalID: 6405736399627280551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_57
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 163
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0053cb5b252b3e5b0800000000000000
+      internalID: -5340228664825203456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_58
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 161
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4941e0d8faae28740800000000000000
+      internalID: 5152938963371955348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_59
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 162
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301bf1c435a057b00800000000000000
+      internalID: 825577459568062723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_60
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 162
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c333979fe9b66f540800000000000000
+      internalID: 5041335163422323516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_61
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 161
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea5d053ba762bcb0800000000000000
+      internalID: -4849699863697466646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_62
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 161
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c9ae0ae4d8d8c00800000000000000
+      internalID: 904534469018033282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_63
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 162
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ba4639b7abd6cf0800000000000000
+      internalID: -257344563773658335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_64
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 162
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0773e696fa4a420800000000000000
+      internalID: 2640428148901507236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_65
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 161
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e7e05732fe921b70800000000000000
+      internalID: 8868325379393251297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 129
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a824a6db030a21fc0800000000000000
+      internalID: -3525579427080945014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_67
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 130
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfa760a9aa649300800000000000000
+      internalID: 257948355440127929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 129
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a1063c1d45de870800000000000000
+      internalID: 8713714113934531086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_69
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 129
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b4271e74c098330800000000000000
+      internalID: 3713512870608259967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_70
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 130
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e39cc40fc62ea6d0800000000000000
+      internalID: -2977399633064717339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_71
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 130
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3896754a799d6d80800000000000000
+      internalID: -8255773791469791173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_72
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 130
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062d825b86b71f7b0800000000000000
+      internalID: -5192233205735304608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_73
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 129
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a4356fe6a548d9c0800000000000000
+      internalID: -3902292493833259870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_74
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 130
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2691c03e177092f0800000000000000
+      internalID: -968142948333939155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_75
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 129
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfc667dce4ba1b40800000000000000
+      internalID: 5411836831558193086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_76
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 130
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645e61870eeb69ba0800000000000000
+      internalID: -6082464375420558010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648af2b4d05928ac0800000000000000
+      internalID: -3854354446747195322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_78
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 96
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226c95787af871460800000000000000
+      internalID: 7212391277950256674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 97
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60927b67f3919160800000000000000
+      internalID: 7030563184170930283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93227dbf1e5456260800000000000000
+      internalID: 7090150025259852345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_81
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 97
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf3112ffac9934c0800000000000000
+      internalID: -4307239289108742229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1653a31dd2943d3b0800000000000000
+      internalID: -5488963059701893791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1459c311a71b1a280800000000000000
+      internalID: -9033744239695194815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_84
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deac0b08420ff3830800000000000000
+      internalID: 4053222229225294573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_85
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e01f42c51bb88ed0800000000000000
+      internalID: -2411471898328231706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2b929b074053280800000000000000
+      internalID: -9064333792823889175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_87
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 96
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30339e25f81a88170800000000000000
+      internalID: 8180966360061915907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7535a41dc6053edc0800000000000000
+      internalID: -3610954047923006633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b156bb2255371fd30800000000000000
+      internalID: 4463475515192993051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_90
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d72d82d9d68ae5a30800000000000000
+      internalID: 4205984290752221821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022fe42cd19edc8f0800000000000000
+      internalID: -518502068054461920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901f4379d390e7bb0800000000000000
+      internalID: -4936497981417000695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42294dac1f7957f60800000000000000
+      internalID: 8031492575230988836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9794886292a40b630800000000000000
+      internalID: 3940731214549764473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_95
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0601a94daef23b550800000000000000
+      internalID: 6175332199690801248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_96
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea61f860d41636480800000000000000
+      internalID: -8907168654558292306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_97
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88820cbb4810fd20800000000000000
+      internalID: 3310172439673211023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_98
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 66
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be9eb89218db65a0800000000000000
+      internalID: -6526885660559761744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f504851b805f9bb20800000000000000
+      internalID: 3150818832006266975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1346b0b79a9e610800000000000000
+      internalID: 1651037084345184696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_101
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 34
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da79c47dc370b85b0800000000000000
+      internalID: -5365186573190260819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1a50b7a2dfaeee0800000000000000
+      internalID: -1230893189237988951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c35b769e3627810800000000000000
+      internalID: 1761580258373745811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_104
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94003e8d131fde9c0800000000000000
+      internalID: -3896192906211164087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c326160a6a55840800000000000000
+      internalID: 5212255351510023223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_106
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001935d5486168de0800000000000000
+      internalID: -1331351882084151040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_107
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 33
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaef707c04bb25880800000000000000
+      internalID: -8623624449569587542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27341777aa42154c0800000000000000
+      internalID: -4300615854595161230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_109
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 33
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b3b9019ae630900800000000000000
+      internalID: 649484443678620506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 272b05ca6a4948120800000000000000
+      internalID: 2415218743753880178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c804cb3e590b0cc90800000000000000
+      internalID: -7151522050446966644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc3fab76983d4320800000000000000
+      internalID: 2543751583505530106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_113
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05c70f476261ea00800000000000000
+      internalID: 784016005986239754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_114
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881d079a198594020800000000000000
+      internalID: 2326488065149817224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_115
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b08c8cc3c1155b0800000000000000
+      internalID: -5381489032338863223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77c30df5ea15dd30800000000000000
+      internalID: 4455496981447690106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_117
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbeb0357cfbc14b50800000000000000
+      internalID: 6575761216095960767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_118
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 3
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c2969f4c199c870800000000000000
+      internalID: 8703648030054231046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Red_119
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363820584b06b39e0800000000000000
+      internalID: -1640611310804499613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Wizard_Staff_Red_0: 7563374692087771786
+      SS_Wizard_Staff_Red_1: 3284307057394192735
+      SS_Wizard_Staff_Red_10: 7492637459447680864
+      SS_Wizard_Staff_Red_100: 1651037084345184696
+      SS_Wizard_Staff_Red_101: -5365186573190260819
+      SS_Wizard_Staff_Red_102: -1230893189237988951
+      SS_Wizard_Staff_Red_103: 1761580258373745811
+      SS_Wizard_Staff_Red_104: -3896192906211164087
+      SS_Wizard_Staff_Red_105: 5212255351510023223
+      SS_Wizard_Staff_Red_106: -1331351882084151040
+      SS_Wizard_Staff_Red_107: -8623624449569587542
+      SS_Wizard_Staff_Red_108: -4300615854595161230
+      SS_Wizard_Staff_Red_109: 649484443678620506
+      SS_Wizard_Staff_Red_11: 8866387051481364673
+      SS_Wizard_Staff_Red_110: 2415218743753880178
+      SS_Wizard_Staff_Red_111: -7151522050446966644
+      SS_Wizard_Staff_Red_112: 2543751583505530106
+      SS_Wizard_Staff_Red_113: 784016005986239754
+      SS_Wizard_Staff_Red_114: 2326488065149817224
+      SS_Wizard_Staff_Red_115: -5381489032338863223
+      SS_Wizard_Staff_Red_116: 4455496981447690106
+      SS_Wizard_Staff_Red_117: 6575761216095960767
+      SS_Wizard_Staff_Red_118: 8703648030054231046
+      SS_Wizard_Staff_Red_119: -1640611310804499613
+      SS_Wizard_Staff_Red_12: 8418188182358106502
+      SS_Wizard_Staff_Red_13: -669926403984233418
+      SS_Wizard_Staff_Red_14: -3688500904287808003
+      SS_Wizard_Staff_Red_15: 5808348459340519879
+      SS_Wizard_Staff_Red_16: -2643058970267552986
+      SS_Wizard_Staff_Red_17: -5238064857132777731
+      SS_Wizard_Staff_Red_18: -1591790077714174706
+      SS_Wizard_Staff_Red_19: -3106904275590432255
+      SS_Wizard_Staff_Red_2: -8830826006397155657
+      SS_Wizard_Staff_Red_20: 2107895304705470410
+      SS_Wizard_Staff_Red_21: 9198296273045420527
+      SS_Wizard_Staff_Red_22: -2325746777091009321
+      SS_Wizard_Staff_Red_23: 5238414421629447336
+      SS_Wizard_Staff_Red_24: 8124077848592017775
+      SS_Wizard_Staff_Red_25: -8958117211857605525
+      SS_Wizard_Staff_Red_26: -2699172696704877202
+      SS_Wizard_Staff_Red_27: -5494685534868950270
+      SS_Wizard_Staff_Red_28: -4538439454578269949
+      SS_Wizard_Staff_Red_29: 8883150060702329335
+      SS_Wizard_Staff_Red_3: 6227704181513896931
+      SS_Wizard_Staff_Red_30: -1424326894709055537
+      SS_Wizard_Staff_Red_31: -918168926751106403
+      SS_Wizard_Staff_Red_32: 5519931871064535830
+      SS_Wizard_Staff_Red_33: 7198428965613193077
+      SS_Wizard_Staff_Red_34: -803082526873314426
+      SS_Wizard_Staff_Red_35: 680546690815784579
+      SS_Wizard_Staff_Red_36: 1910082414224481527
+      SS_Wizard_Staff_Red_37: -5808949840262658110
+      SS_Wizard_Staff_Red_38: 6300304801318341212
+      SS_Wizard_Staff_Red_39: 6805106034089321090
+      SS_Wizard_Staff_Red_4: 5558768052116839994
+      SS_Wizard_Staff_Red_40: 6297199007504551593
+      SS_Wizard_Staff_Red_41: 1332067331077299412
+      SS_Wizard_Staff_Red_42: 1468822577329422872
+      SS_Wizard_Staff_Red_43: 1642781462142261235
+      SS_Wizard_Staff_Red_44: -7217922575442263889
+      SS_Wizard_Staff_Red_45: 2465899093063552943
+      SS_Wizard_Staff_Red_46: 5468189181165082120
+      SS_Wizard_Staff_Red_47: -8193763829293980046
+      SS_Wizard_Staff_Red_48: -679800931390373394
+      SS_Wizard_Staff_Red_49: -5192855236417679434
+      SS_Wizard_Staff_Red_5: -3667138652440477203
+      SS_Wizard_Staff_Red_50: -8266214950974267469
+      SS_Wizard_Staff_Red_51: 3932662700861493153
+      SS_Wizard_Staff_Red_52: 4694645469131892119
+      SS_Wizard_Staff_Red_53: -4143970819591850418
+      SS_Wizard_Staff_Red_54: -1639979673057274056
+      SS_Wizard_Staff_Red_55: -4258852134397049280
+      SS_Wizard_Staff_Red_56: 6405736399627280551
+      SS_Wizard_Staff_Red_57: -5340228664825203456
+      SS_Wizard_Staff_Red_58: 5152938963371955348
+      SS_Wizard_Staff_Red_59: 825577459568062723
+      SS_Wizard_Staff_Red_6: 430539004026651556
+      SS_Wizard_Staff_Red_60: 5041335163422323516
+      SS_Wizard_Staff_Red_61: -4849699863697466646
+      SS_Wizard_Staff_Red_62: 904534469018033282
+      SS_Wizard_Staff_Red_63: -257344563773658335
+      SS_Wizard_Staff_Red_64: 2640428148901507236
+      SS_Wizard_Staff_Red_65: 8868325379393251297
+      SS_Wizard_Staff_Red_66: -3525579427080945014
+      SS_Wizard_Staff_Red_67: 257948355440127929
+      SS_Wizard_Staff_Red_68: 8713714113934531086
+      SS_Wizard_Staff_Red_69: 3713512870608259967
+      SS_Wizard_Staff_Red_7: -5011603773145028441
+      SS_Wizard_Staff_Red_70: -2977399633064717339
+      SS_Wizard_Staff_Red_71: -8255773791469791173
+      SS_Wizard_Staff_Red_72: -5192233205735304608
+      SS_Wizard_Staff_Red_73: -3902292493833259870
+      SS_Wizard_Staff_Red_74: -968142948333939155
+      SS_Wizard_Staff_Red_75: 5411836831558193086
+      SS_Wizard_Staff_Red_76: -6082464375420558010
+      SS_Wizard_Staff_Red_77: -3854354446747195322
+      SS_Wizard_Staff_Red_78: 7212391277950256674
+      SS_Wizard_Staff_Red_79: 7030563184170930283
+      SS_Wizard_Staff_Red_8: -8670675733842503345
+      SS_Wizard_Staff_Red_80: 7090150025259852345
+      SS_Wizard_Staff_Red_81: -4307239289108742229
+      SS_Wizard_Staff_Red_82: -5488963059701893791
+      SS_Wizard_Staff_Red_83: -9033744239695194815
+      SS_Wizard_Staff_Red_84: 4053222229225294573
+      SS_Wizard_Staff_Red_85: -2411471898328231706
+      SS_Wizard_Staff_Red_86: -9064333792823889175
+      SS_Wizard_Staff_Red_87: 8180966360061915907
+      SS_Wizard_Staff_Red_88: -3610954047923006633
+      SS_Wizard_Staff_Red_89: 4463475515192993051
+      SS_Wizard_Staff_Red_9: 757701322876959491
+      SS_Wizard_Staff_Red_90: 4205984290752221821
+      SS_Wizard_Staff_Red_91: -518502068054461920
+      SS_Wizard_Staff_Red_92: -4936497981417000695
+      SS_Wizard_Staff_Red_93: 8031492575230988836
+      SS_Wizard_Staff_Red_94: 3940731214549764473
+      SS_Wizard_Staff_Red_95: 6175332199690801248
+      SS_Wizard_Staff_Red_96: -8907168654558292306
+      SS_Wizard_Staff_Red_97: 3310172439673211023
+      SS_Wizard_Staff_Red_98: -6526885660559761744
+      SS_Wizard_Staff_Red_99: 3150818832006266975
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

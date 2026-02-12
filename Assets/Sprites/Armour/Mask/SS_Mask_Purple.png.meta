@@ -1,0 +1,5304 @@
+fileFormatVersion: 2
+guid: c1f97ead33b8fb34db0dfb5bc32b288d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9008518794286370598
+    second: SS_Mask_Purple_0
+  - first:
+      213: -6025226554472790153
+    second: SS_Mask_Purple_1
+  - first:
+      213: 22834078455342888
+    second: SS_Mask_Purple_2
+  - first:
+      213: -6265740100245626557
+    second: SS_Mask_Purple_3
+  - first:
+      213: 9114914076493686193
+    second: SS_Mask_Purple_4
+  - first:
+      213: -8856837722087528863
+    second: SS_Mask_Purple_5
+  - first:
+      213: -7736901200843343210
+    second: SS_Mask_Purple_6
+  - first:
+      213: 4913462404503525556
+    second: SS_Mask_Purple_7
+  - first:
+      213: -5594459356442706751
+    second: SS_Mask_Purple_8
+  - first:
+      213: 296556969333264196
+    second: SS_Mask_Purple_9
+  - first:
+      213: -5790667489154609829
+    second: SS_Mask_Purple_10
+  - first:
+      213: 1631656929900562231
+    second: SS_Mask_Purple_11
+  - first:
+      213: 6948359034015061024
+    second: SS_Mask_Purple_12
+  - first:
+      213: 7878568625748012452
+    second: SS_Mask_Purple_13
+  - first:
+      213: 7911654249519070419
+    second: SS_Mask_Purple_14
+  - first:
+      213: 191416240597615523
+    second: SS_Mask_Purple_15
+  - first:
+      213: -2806199370467640125
+    second: SS_Mask_Purple_16
+  - first:
+      213: 1325636805227608595
+    second: SS_Mask_Purple_17
+  - first:
+      213: 6284007609601723821
+    second: SS_Mask_Purple_18
+  - first:
+      213: -2528693192112514536
+    second: SS_Mask_Purple_19
+  - first:
+      213: -5116909891789663760
+    second: SS_Mask_Purple_20
+  - first:
+      213: 7558907795538927850
+    second: SS_Mask_Purple_21
+  - first:
+      213: 5808034866190287625
+    second: SS_Mask_Purple_22
+  - first:
+      213: 3665732917684446271
+    second: SS_Mask_Purple_23
+  - first:
+      213: -2430011180251355239
+    second: SS_Mask_Purple_24
+  - first:
+      213: 6947993161219184644
+    second: SS_Mask_Purple_25
+  - first:
+      213: -8391123417322750571
+    second: SS_Mask_Purple_26
+  - first:
+      213: 1744972289172551835
+    second: SS_Mask_Purple_27
+  - first:
+      213: -4743000208418981226
+    second: SS_Mask_Purple_28
+  - first:
+      213: 3119343580434425119
+    second: SS_Mask_Purple_29
+  - first:
+      213: -3338755853191354689
+    second: SS_Mask_Purple_30
+  - first:
+      213: -1371759629932822750
+    second: SS_Mask_Purple_31
+  - first:
+      213: 1986331706124521312
+    second: SS_Mask_Purple_32
+  - first:
+      213: 6574352998973273778
+    second: SS_Mask_Purple_33
+  - first:
+      213: -3952753052629897915
+    second: SS_Mask_Purple_34
+  - first:
+      213: 3553484648281312460
+    second: SS_Mask_Purple_35
+  - first:
+      213: 1584184005286159654
+    second: SS_Mask_Purple_36
+  - first:
+      213: -17229357078204062
+    second: SS_Mask_Purple_37
+  - first:
+      213: -6814838391386822476
+    second: SS_Mask_Purple_38
+  - first:
+      213: -4944958468872934179
+    second: SS_Mask_Purple_39
+  - first:
+      213: 7449864015591337785
+    second: SS_Mask_Purple_40
+  - first:
+      213: 2529048610795301571
+    second: SS_Mask_Purple_41
+  - first:
+      213: -7664887167462181522
+    second: SS_Mask_Purple_42
+  - first:
+      213: -5641959255760364424
+    second: SS_Mask_Purple_43
+  - first:
+      213: -2357802582232308325
+    second: SS_Mask_Purple_44
+  - first:
+      213: -5476445548395238418
+    second: SS_Mask_Purple_45
+  - first:
+      213: -5429548738443824389
+    second: SS_Mask_Purple_46
+  - first:
+      213: 936917140383959382
+    second: SS_Mask_Purple_47
+  - first:
+      213: -7973026537837009446
+    second: SS_Mask_Purple_48
+  - first:
+      213: -5118852033368846364
+    second: SS_Mask_Purple_49
+  - first:
+      213: -8658547376422426332
+    second: SS_Mask_Purple_50
+  - first:
+      213: 5587501623553912373
+    second: SS_Mask_Purple_51
+  - first:
+      213: 6529859452034807514
+    second: SS_Mask_Purple_52
+  - first:
+      213: 6880002524816988577
+    second: SS_Mask_Purple_53
+  - first:
+      213: 7562365044874874410
+    second: SS_Mask_Purple_54
+  - first:
+      213: -545932620329547043
+    second: SS_Mask_Purple_55
+  - first:
+      213: -2684540515242041798
+    second: SS_Mask_Purple_56
+  - first:
+      213: 1796788681244885007
+    second: SS_Mask_Purple_57
+  - first:
+      213: -9054605125459990778
+    second: SS_Mask_Purple_58
+  - first:
+      213: -2129880642640038862
+    second: SS_Mask_Purple_59
+  - first:
+      213: -5540990783284822347
+    second: SS_Mask_Purple_60
+  - first:
+      213: -7778375145194310728
+    second: SS_Mask_Purple_61
+  - first:
+      213: 8126578426427880453
+    second: SS_Mask_Purple_62
+  - first:
+      213: 6876655345051768265
+    second: SS_Mask_Purple_63
+  - first:
+      213: 1898578972263314287
+    second: SS_Mask_Purple_64
+  - first:
+      213: -2072071862833617224
+    second: SS_Mask_Purple_65
+  - first:
+      213: -1018512278245408654
+    second: SS_Mask_Purple_66
+  - first:
+      213: -5881991595302614783
+    second: SS_Mask_Purple_67
+  - first:
+      213: 3718822676109734172
+    second: SS_Mask_Purple_68
+  - first:
+      213: 8000669296737281318
+    second: SS_Mask_Purple_69
+  - first:
+      213: -1392413547079645118
+    second: SS_Mask_Purple_70
+  - first:
+      213: -4868903838620417158
+    second: SS_Mask_Purple_71
+  - first:
+      213: 466899955699581425
+    second: SS_Mask_Purple_72
+  - first:
+      213: 2413985306922431040
+    second: SS_Mask_Purple_73
+  - first:
+      213: 1127393211348612173
+    second: SS_Mask_Purple_74
+  - first:
+      213: -6455751904414972311
+    second: SS_Mask_Purple_75
+  - first:
+      213: 3081734313754080506
+    second: SS_Mask_Purple_76
+  - first:
+      213: -5037365426353767526
+    second: SS_Mask_Purple_77
+  - first:
+      213: -9207197400376778504
+    second: SS_Mask_Purple_78
+  - first:
+      213: 6265250733717871747
+    second: SS_Mask_Purple_79
+  - first:
+      213: -746753330103625498
+    second: SS_Mask_Purple_80
+  - first:
+      213: 4981086722775980489
+    second: SS_Mask_Purple_81
+  - first:
+      213: -9165932515598381243
+    second: SS_Mask_Purple_82
+  - first:
+      213: 9112639486362943231
+    second: SS_Mask_Purple_83
+  - first:
+      213: -6297127926161238893
+    second: SS_Mask_Purple_84
+  - first:
+      213: 8701405939819094300
+    second: SS_Mask_Purple_85
+  - first:
+      213: 2234436155228522066
+    second: SS_Mask_Purple_86
+  - first:
+      213: 3444562692269059657
+    second: SS_Mask_Purple_87
+  - first:
+      213: 97377669441638461
+    second: SS_Mask_Purple_88
+  - first:
+      213: -5095333417609267756
+    second: SS_Mask_Purple_89
+  - first:
+      213: -6413764331092475207
+    second: SS_Mask_Purple_90
+  - first:
+      213: -1723630000139608641
+    second: SS_Mask_Purple_91
+  - first:
+      213: 725127343360428814
+    second: SS_Mask_Purple_92
+  - first:
+      213: -2660756807967270701
+    second: SS_Mask_Purple_93
+  - first:
+      213: -5618015058273654744
+    second: SS_Mask_Purple_94
+  - first:
+      213: 7722870619697821198
+    second: SS_Mask_Purple_95
+  - first:
+      213: -9213268976809852088
+    second: SS_Mask_Purple_96
+  - first:
+      213: 6328376467416161448
+    second: SS_Mask_Purple_97
+  - first:
+      213: 6560442692500094630
+    second: SS_Mask_Purple_98
+  - first:
+      213: -6344847792141618101
+    second: SS_Mask_Purple_99
+  - first:
+      213: 1124358260453163476
+    second: SS_Mask_Purple_100
+  - first:
+      213: -7183363751723728710
+    second: SS_Mask_Purple_101
+  - first:
+      213: -712475623766055117
+    second: SS_Mask_Purple_102
+  - first:
+      213: -6714252103275503006
+    second: SS_Mask_Purple_103
+  - first:
+      213: -8760885793728395839
+    second: SS_Mask_Purple_104
+  - first:
+      213: -2144599636572656739
+    second: SS_Mask_Purple_105
+  - first:
+      213: 8594070358360274974
+    second: SS_Mask_Purple_106
+  - first:
+      213: 3617407078858213972
+    second: SS_Mask_Purple_107
+  - first:
+      213: 1941863987184095226
+    second: SS_Mask_Purple_108
+  - first:
+      213: 3435399911682678698
+    second: SS_Mask_Purple_109
+  - first:
+      213: -3048504632124407184
+    second: SS_Mask_Purple_110
+  - first:
+      213: 8196343388069044456
+    second: SS_Mask_Purple_111
+  - first:
+      213: 6456527329255446194
+    second: SS_Mask_Purple_112
+  - first:
+      213: -2414188815396273276
+    second: SS_Mask_Purple_113
+  - first:
+      213: 32484629702794394
+    second: SS_Mask_Purple_114
+  - first:
+      213: -2293880359241659148
+    second: SS_Mask_Purple_115
+  - first:
+      213: -7366558907919891160
+    second: SS_Mask_Purple_116
+  - first:
+      213: 350831580775102788
+    second: SS_Mask_Purple_117
+  - first:
+      213: 7917470671324580350
+    second: SS_Mask_Purple_118
+  - first:
+      213: -6999310342325902134
+    second: SS_Mask_Purple_119
+  - first:
+      213: -5029799482458853615
+    second: SS_Mask_Purple_120
+  - first:
+      213: -988245476137950235
+    second: SS_Mask_Purple_121
+  - first:
+      213: 6484336182843690274
+    second: SS_Mask_Purple_122
+  - first:
+      213: 8132016624176753337
+    second: SS_Mask_Purple_123
+  - first:
+      213: 8189303028037258304
+    second: SS_Mask_Purple_124
+  - first:
+      213: -5718677362666632534
+    second: SS_Mask_Purple_125
+  - first:
+      213: -6565029516783033954
+    second: SS_Mask_Purple_126
+  - first:
+      213: -1570468830753667738
+    second: SS_Mask_Purple_127
+  - first:
+      213: 3163089368091674004
+    second: SS_Mask_Purple_128
+  - first:
+      213: -8577754319516967380
+    second: SS_Mask_Purple_129
+  - first:
+      213: -4100006291517264753
+    second: SS_Mask_Purple_130
+  - first:
+      213: -5648161036217457449
+    second: SS_Mask_Purple_131
+  - first:
+      213: 5103276013808787121
+    second: SS_Mask_Purple_132
+  - first:
+      213: -5141624791669492492
+    second: SS_Mask_Purple_133
+  - first:
+      213: -3607372521223275331
+    second: SS_Mask_Purple_134
+  - first:
+      213: 1918034243724537490
+    second: SS_Mask_Purple_135
+  - first:
+      213: -630980231705020270
+    second: SS_Mask_Purple_136
+  - first:
+      213: -5835423756762994934
+    second: SS_Mask_Purple_137
+  - first:
+      213: 6737168879523829809
+    second: SS_Mask_Purple_138
+  - first:
+      213: 3920416787916069979
+    second: SS_Mask_Purple_139
+  - first:
+      213: 3770164312545921083
+    second: SS_Mask_Purple_140
+  - first:
+      213: 7689025363914128973
+    second: SS_Mask_Purple_141
+  - first:
+      213: 619075130839215470
+    second: SS_Mask_Purple_142
+  - first:
+      213: -8941882377082892293
+    second: SS_Mask_Purple_143
+  - first:
+      213: 3005341826040593942
+    second: SS_Mask_Purple_144
+  - first:
+      213: -4391719813944990446
+    second: SS_Mask_Purple_145
+  - first:
+      213: -648176345436401587
+    second: SS_Mask_Purple_146
+  - first:
+      213: -6198466537862465747
+    second: SS_Mask_Purple_147
+  - first:
+      213: 7627866153019564578
+    second: SS_Mask_Purple_148
+  - first:
+      213: -7242303979376137712
+    second: SS_Mask_Purple_149
+  - first:
+      213: -1269581652146765212
+    second: SS_Mask_Purple_150
+  - first:
+      213: 157564938111083773
+    second: SS_Mask_Purple_151
+  - first:
+      213: 4401927351867159787
+    second: SS_Mask_Purple_152
+  - first:
+      213: -5662628181727752662
+    second: SS_Mask_Purple_153
+  - first:
+      213: 935804358246924074
+    second: SS_Mask_Purple_154
+  - first:
+      213: 7725456304138481968
+    second: SS_Mask_Purple_155
+  - first:
+      213: 8419070248151084293
+    second: SS_Mask_Purple_156
+  - first:
+      213: 8573935332945822678
+    second: SS_Mask_Purple_157
+  - first:
+      213: -1073961343542815231
+    second: SS_Mask_Purple_158
+  - first:
+      213: 8249606130864165695
+    second: SS_Mask_Purple_159
+  - first:
+      213: 1634913112285525636
+    second: SS_Mask_Purple_160
+  - first:
+      213: 5314693183804662194
+    second: SS_Mask_Purple_161
+  - first:
+      213: -2170771805301655131
+    second: SS_Mask_Purple_162
+  - first:
+      213: 3550653345715644326
+    second: SS_Mask_Purple_163
+  - first:
+      213: -2119104878287638192
+    second: SS_Mask_Purple_164
+  - first:
+      213: -5447072789285895366
+    second: SS_Mask_Purple_165
+  - first:
+      213: -5796805249507080862
+    second: SS_Mask_Purple_166
+  - first:
+      213: -7428475105256485357
+    second: SS_Mask_Purple_167
+  - first:
+      213: 3370135439567569123
+    second: SS_Mask_Purple_168
+  - first:
+      213: -5783011740905190702
+    second: SS_Mask_Purple_169
+  - first:
+      213: -6969860618082399356
+    second: SS_Mask_Purple_170
+  - first:
+      213: -4044793160905558217
+    second: SS_Mask_Purple_171
+  - first:
+      213: 3931578053277979868
+    second: SS_Mask_Purple_172
+  - first:
+      213: 2908789113493157728
+    second: SS_Mask_Purple_173
+  - first:
+      213: 8960190520669414450
+    second: SS_Mask_Purple_174
+  - first:
+      213: -5218544043993484442
+    second: SS_Mask_Purple_175
+  - first:
+      213: 7325937957367027608
+    second: SS_Mask_Purple_176
+  - first:
+      213: 8996845202137541442
+    second: SS_Mask_Purple_177
+  - first:
+      213: -3607418292005662560
+    second: SS_Mask_Purple_178
+  - first:
+      213: -1470657794841664147
+    second: SS_Mask_Purple_179
+  - first:
+      213: -789132352147967119
+    second: SS_Mask_Purple_180
+  - first:
+      213: -8464764385931466356
+    second: SS_Mask_Purple_181
+  - first:
+      213: -1514045159078621428
+    second: SS_Mask_Purple_182
+  - first:
+      213: -6670038219625803085
+    second: SS_Mask_Purple_183
+  - first:
+      213: -3860513181188302476
+    second: SS_Mask_Purple_184
+  - first:
+      213: -8162677331573333304
+    second: SS_Mask_Purple_185
+  - first:
+      213: 5917044046429815704
+    second: SS_Mask_Purple_186
+  - first:
+      213: 6603730400156381953
+    second: SS_Mask_Purple_187
+  - first:
+      213: 7649612409289590459
+    second: SS_Mask_Purple_188
+  - first:
+      213: -9089740568565428978
+    second: SS_Mask_Purple_189
+  - first:
+      213: -3711249703524971207
+    second: SS_Mask_Purple_190
+  - first:
+      213: 5074587385362689655
+    second: SS_Mask_Purple_191
+  - first:
+      213: 2220493532773308686
+    second: SS_Mask_Purple_192
+  - first:
+      213: -3028530801681629932
+    second: SS_Mask_Purple_193
+  - first:
+      213: 472224729145864851
+    second: SS_Mask_Purple_194
+  - first:
+      213: 8357591639332687433
+    second: SS_Mask_Purple_195
+  - first:
+      213: -8098517610663838486
+    second: SS_Mask_Purple_196
+  - first:
+      213: -3283246659247102264
+    second: SS_Mask_Purple_197
+  - first:
+      213: -2490639216006750301
+    second: SS_Mask_Purple_198
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Mask_Purple_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 417
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f8edd3d10b40d70800000000000000
+      internalID: 9008518794286370598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 416
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77706692f58126ca0800000000000000
+      internalID: -6025226554472790153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 416
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827aa1f297f115000800000000000000
+      internalID: 22834078455342888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 416
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34160fd739e9b09a0800000000000000
+      internalID: -6265740100245626557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 417
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b52d974f0eae7e70800000000000000
+      internalID: 9114914076493686193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 385
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16661bd6401361580800000000000000
+      internalID: -8856837722087528863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 416
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a7075895101a490800000000000000
+      internalID: -7736901200843343210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 416
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b85ba53600203440800000000000000
+      internalID: 4913462404503525556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 416
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc3fd42bdc7c52b0800000000000000
+      internalID: -5594459356442706751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 416
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f86cc0ef49d1400800000000000000
+      internalID: 296556969333264196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 418
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d4980599a63afa0800000000000000
+      internalID: -5790667489154609829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 416
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7370706355fc4a610800000000000000
+      internalID: 1631656929900562231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 416
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024185a3ab78d6060800000000000000
+      internalID: 6948359034015061024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_13
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 415
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad6f343c6c465d60800000000000000
+      internalID: 7878568625748012452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_14
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 415
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc3b484f97dbcd60800000000000000
+      internalID: 7911654249519070419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 384
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3cf018e0c08a200800000000000000
+      internalID: 191416240597615523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccf95a5a806e09d0800000000000000
+      internalID: -2806199370467640125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 383
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a76cc96ab956210800000000000000
+      internalID: 1325636805227608595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad892870a7453750800000000000000
+      internalID: 6284007609601723821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 384
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a5f2a70f648ecd0800000000000000
+      internalID: -2528693192112514536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_20
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 352
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1d13060951df8b0800000000000000
+      internalID: -5116909891789663760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 383
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0670b5792a6e860800000000000000
+      internalID: 7558907795538927850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_22
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 384
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9030b5240f84a9050800000000000000
+      internalID: 5808034866190287625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_23
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 352
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34a900baac4fd230800000000000000
+      internalID: 3665732917684446271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_24
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 354
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997e3e0d4bdd64ed0800000000000000
+      internalID: -2430011180251355239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 384
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4081054d7fa3c6060800000000000000
+      internalID: 6947993161219184644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_26
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59df304c5bdbc8b80800000000000000
+      internalID: -8391123417322750571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 384
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98b70f3d03673810800000000000000
+      internalID: 1744972289172551835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_28
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 353
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a359f907a7d2eb0800000000000000
+      internalID: -4743000208418981226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_29
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 384
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15603c95722a4b20800000000000000
+      internalID: 3119343580434425119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_30
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6e5c2bd3b5aa1d0800000000000000
+      internalID: -3338755853191354689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_31
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 383
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ff1ac62e786fce0800000000000000
+      internalID: -1371759629932822750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_32
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 352
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fc5a5a92ed09b10800000000000000
+      internalID: 1986331706124521312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_33
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 384
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b673db583bcc3b50800000000000000
+      internalID: 6574352998973273778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_34
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 383
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d672d8a000529c0800000000000000
+      internalID: -3952753052629897915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_35
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 352
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc8c9fd573805130800000000000000
+      internalID: 3553484648281312460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_36
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 384
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625efed95f62cf510800000000000000
+      internalID: 1584184005286159654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_37
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 351
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26135a3bdf9c2cff0800000000000000
+      internalID: -17229357078204062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_38
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 384
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8a1bfe694dc61a0800000000000000
+      internalID: -6814838391386822476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_39
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 352
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddce4c9d87aff5bb0800000000000000
+      internalID: -4944958468872934179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_40
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 383
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f6942e9db336760800000000000000
+      internalID: 7449864015591337785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_41
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca2622ef4cf81320800000000000000
+      internalID: 2529048610795301571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_42
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 319
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6577f34bb9d0a590800000000000000
+      internalID: -7664887167462181522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_43
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 321
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c1d2303fbb3b1b0800000000000000
+      internalID: -5641959255760364424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_44
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 320
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b956b8b2b07674fd0800000000000000
+      internalID: -2357802582232308325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_45
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 352
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebe1280ac1cff3b0800000000000000
+      internalID: -5476445548395238418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_46
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 320
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2b26a703e56a4b0800000000000000
+      internalID: -5429548738443824389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_47
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 320
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6598f88dc29900d00800000000000000
+      internalID: 936917140383959382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_48
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 321
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad566735b9e1a5190800000000000000
+      internalID: -7973026537837009446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_49
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 352
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef834d423f26f8b0800000000000000
+      internalID: -5118852033368846364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_50
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 321
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429637d3909a6d780800000000000000
+      internalID: -8658547376422426332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_51
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 320
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e69dd6f1bca8d40800000000000000
+      internalID: 5587501623553912373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_52
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 322
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6f2cf2398be9a50800000000000000
+      internalID: 6529859452034807514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_53
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 321
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9d18138ddaa7f50800000000000000
+      internalID: 6880002524816988577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_54
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 320
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e0991f0fae2f860800000000000000
+      internalID: 7562365044874874410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_55
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 321
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda85fd9c257c68f0800000000000000
+      internalID: -545932620329547043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_56
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 321
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e9adbef989ebad0800000000000000
+      internalID: -2684540515242041798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_57
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 321
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f004b0a29c97fe810800000000000000
+      internalID: 1796788681244885007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_58
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 320
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607a68b9c94975280800000000000000
+      internalID: -9054605125459990778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_59
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 289
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234b57117d42172e0800000000000000
+      internalID: -2129880642640038862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_60
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 288
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be38927d327a13b0800000000000000
+      internalID: -5540990783284822347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_61
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 288
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b337fc5409ad0490800000000000000
+      internalID: -7778375145194310728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_62
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 288
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504369ab50867c070800000000000000
+      internalID: 8126578426427880453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_63
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 289
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c51a9c2a99ce6f50800000000000000
+      internalID: 6876655345051768265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_64
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 288
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63f7c3248b195a10800000000000000
+      internalID: 1898578972263314287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_65
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 287
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b668ba7e958e33e0800000000000000
+      internalID: -2072071862833617224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_66
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 289
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2700fcfaa748dd1f0800000000000000
+      internalID: -1018512278245408654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_67
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 290
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1098726eec7fe5ea0800000000000000
+      internalID: -5881991595302614783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_68
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 288
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1130305589eb9330800000000000000
+      internalID: 3718822676109734172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_69
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 287
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62566650656180f60800000000000000
+      internalID: 8000669296737281318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_70
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 289
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24840e991472dace0800000000000000
+      internalID: -1392413547079645118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_71
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 288
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a738e7d51cd2e6cb0800000000000000
+      internalID: -4868903838620417158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_72
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 288
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f18e153903ca7600800000000000000
+      internalID: 466899955699581425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_73
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 289
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042bf18c8d2308120800000000000000
+      internalID: 2413985306922431040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_74
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d44fe9c072e45af00800000000000000
+      internalID: 1127393211348612173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_75
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 224
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9664b43d8df8866a0800000000000000
+      internalID: -6455751904414972311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_76
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4b177d70584ca20800000000000000
+      internalID: 3081734313754080506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_77
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 224
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b795675dea71ab0800000000000000
+      internalID: -5037365426353767526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_78
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 256
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f064a50fb6793080800000000000000
+      internalID: -9207197400376778504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_79
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c520cf854a2f650800000000000000
+      internalID: 6265250733717871747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_80
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 224
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e855508dcff2a5f0800000000000000
+      internalID: -746753330103625498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_81
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 256
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c91a72cbff502540800000000000000
+      internalID: 4981086722775980489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_82
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 256
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54f4e84b0f01cc080800000000000000
+      internalID: -9165932515598381243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_83
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 224
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe7cdef459967e70800000000000000
+      internalID: 9112639486362943231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_84
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 256
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39497f7c38b1c98a0800000000000000
+      internalID: -6297127926161238893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_85
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 256
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c112469a99a91c870800000000000000
+      internalID: 8701405939819094300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_86
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 224
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2568fa938df420f10800000000000000
+      internalID: 2234436155228522066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_87
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 256
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ea24fb48b8dcf20800000000000000
+      internalID: 3444562692269059657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_88
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 224
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30df147974f95100800000000000000
+      internalID: 97377669441638461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_89
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5f83fb04db949b0800000000000000
+      internalID: -5095333417609267756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_90
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 256
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2892c825bbdf6a0800000000000000
+      internalID: -6413764331092475207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_91
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 256
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbdd875a5af6418e0800000000000000
+      internalID: -1723630000139608641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_92
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0bcbe51a7b201a00800000000000000
+      internalID: 725127343360428814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_93
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8986bc7c7131bd0800000000000000
+      internalID: -2660756807967270701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_94
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828adcce11dc802b0800000000000000
+      internalID: -5618015058273654744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_95
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 224
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06b36d39e52d2b60800000000000000
+      internalID: 7722870619697821198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_96
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 224
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8434f19fda4e32080800000000000000
+      internalID: -9213268976809852088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_97
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 224
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac18413ed8e2d750800000000000000
+      internalID: 6328376467416161448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_98
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 225
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae76cfbedf5b0b50800000000000000
+      internalID: 6560442692500094630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_99
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 225
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b443a7bac8292f7a0800000000000000
+      internalID: -6344847792141618101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_100
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 225
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1469a71e58a9f00800000000000000
+      internalID: 1124358260453163476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_101
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 225
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab007161ab09f4c90800000000000000
+      internalID: -7183363751723728710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_102
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 226
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337ac4ee137cc16f0800000000000000
+      internalID: -712475623766055117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_103
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 225
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26228d3294f22d2a0800000000000000
+      internalID: -6714252103275503006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_104
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 193
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c58d0ba9c41b6680800000000000000
+      internalID: -8760885793728395839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_105
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 194
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ba7ac3ef9dc32e0800000000000000
+      internalID: -2144599636572656739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_106
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 193
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1837c42575444770800000000000000
+      internalID: 8594070358360274974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_107
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 195
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ac357829c933230800000000000000
+      internalID: 3617407078858213972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_108
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 194
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff4b360203e2fa10800000000000000
+      internalID: 1941863987184095226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_109
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 193
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf1145a40efcaf20800000000000000
+      internalID: 3435399911682678698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_110
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 193
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0728712503981b5d0800000000000000
+      internalID: -3048504632124407184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_111
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 194
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e02af6a2e24fb170800000000000000
+      internalID: 8196343388069044456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_112
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 193
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b65fd6d5613a9950800000000000000
+      internalID: 6456527329255446194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_113
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 194
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483859530141f7ed0800000000000000
+      internalID: -2414188815396273276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_114
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 193
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c581e3998637000800000000000000
+      internalID: 32484629702794394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_115
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 193
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fcc72e77ff7a20e0800000000000000
+      internalID: -2293880359241659148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_116
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 194
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8250274f3b9b4c990800000000000000
+      internalID: -7366558907919891160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_117
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 193
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449b614c6776ed400800000000000000
+      internalID: 350831580775102788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_118
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 194
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef900e380a180ed60800000000000000
+      internalID: 7917470671324580350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_119
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 161
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac462fcd3547dde90800000000000000
+      internalID: -6999310342325902134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_120
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 161
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11fa89c0500923ab0800000000000000
+      internalID: -5029799482458853615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_121
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 162
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e329e3b9fb0942f0800000000000000
+      internalID: -988245476137950235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_122
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 162
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d4c9e176dfcf950800000000000000
+      internalID: 6484336182843690274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_123
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 162
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba60afc80abad070800000000000000
+      internalID: 8132016624176753337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_124
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 162
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c013817bf36a170800000000000000
+      internalID: 8189303028037258304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_125
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 161
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa003dcc3d23a0b0800000000000000
+      internalID: -5718677362666632534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_126
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 160
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e916130007454e4a0800000000000000
+      internalID: -6565029516783033954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_127
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 161
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665ca1c4be2943ae0800000000000000
+      internalID: -1570468830753667738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_128
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 161
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4954be1850d85eb20800000000000000
+      internalID: 3163089368091674004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_129
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 161
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e5e9ea4e1b5f880800000000000000
+      internalID: -8577754319516967380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_130
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 162
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c2f39200ad917c0800000000000000
+      internalID: -4100006291517264753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_131
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 162
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d46e0a7673bd91b0800000000000000
+      internalID: -5648161036217457449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_132
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 162
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be18d90f7a72d640800000000000000
+      internalID: 5103276013808787121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_133
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 162
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4b2345e7745a8b0800000000000000
+      internalID: -5141624791669492492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_134
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 129
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc3bfbfdc900fdc0800000000000000
+      internalID: -3607372521223275331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_135
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 129
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e6c348bf93e9a10800000000000000
+      internalID: 1918034243724537490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_136
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 128
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298bde482de4e37f0800000000000000
+      internalID: -630980231705020270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_137
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 128
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a072448b209640fa0800000000000000
+      internalID: -5835423756762994934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_138
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 129
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13895df966b3f7d50800000000000000
+      internalID: 6737168879523829809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_139
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 131
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c173f1c4e186630800000000000000
+      internalID: 3920416787916069979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_140
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 129
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3887229770525430800000000000000
+      internalID: 3770164312545921083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_141
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 129
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ef11d84d7e4ba60800000000000000
+      internalID: 7689025363914128973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_142
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 131
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d23fe2d85679800800000000000000
+      internalID: 619075130839215470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_143
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 130
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff06aaaa5d08e380800000000000000
+      internalID: -8941882377082892293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_144
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 135
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ef5c1c77e15b920800000000000000
+      internalID: 3005341826040593942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_145
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 131
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215a3c8f81a7d03c0800000000000000
+      internalID: -4391719813944990446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_146
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 131
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40d37a4c073107f0800000000000000
+      internalID: -648176345436401587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_147
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 132
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27ff82568f9af9a0800000000000000
+      internalID: -6198466537862465747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_148
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 131
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222e4fc1adf9bd960800000000000000
+      internalID: 7627866153019564578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_149
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 97
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a23e1f6ea2e7b90800000000000000
+      internalID: -7242303979376137712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_150
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 97
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4624072c63a816ee0800000000000000
+      internalID: -1269581652146765212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_151
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 97
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4ea25f978cf2200800000000000000
+      internalID: 157564938111083773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_152
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 63
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be43e17aa99c61d30800000000000000
+      internalID: 4401927351867159787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_153
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 96
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e400dabad4a61b0800000000000000
+      internalID: -5662628181727752662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_154
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 96
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ff1901b15acfc00800000000000000
+      internalID: 935804358246924074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_155
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 96
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 031f9ffc395563b60800000000000000
+      internalID: 7725456304138481968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_156
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 96
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dea18d8cb86d470800000000000000
+      internalID: 8419070248151084293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_157
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 96
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3086732ccbcf670800000000000000
+      internalID: 8573935332945822678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_158
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 95
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10611af19d58811f0800000000000000
+      internalID: -1073961343542815231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_159
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 96
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f331b07511d7c7270800000000000000
+      internalID: 8249606130864165695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_160
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 96
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 486386040d060b610800000000000000
+      internalID: 1634913112285525636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_161
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 97
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1eddeca4591c940800000000000000
+      internalID: 5314693183804662194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_162
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 96
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9bf885b8edfd1e0800000000000000
+      internalID: -2170771805301655131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_163
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 96
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7eeefd764764130800000000000000
+      internalID: 3550653345715644326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_164
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 96
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0513ed7375d6792e0800000000000000
+      internalID: -2119104878287638192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_165
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 63
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a330be0782c1864b0800000000000000
+      internalID: -5447072789285895366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_166
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 64
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265c20f965c9d8fa0800000000000000
+      internalID: -5796805249507080862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_167
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 64
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31eca50ef31c8e890800000000000000
+      internalID: -7428475105256485357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_168
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 64
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e04168935025ce20800000000000000
+      internalID: 3370135439567569123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_169
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 64
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dace6b167d9ebfa0800000000000000
+      internalID: -5783011740905190702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_170
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 64
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bc63d12b4164f90800000000000000
+      internalID: -6969860618082399356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_171
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 64
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7377b46ec020ed7c0800000000000000
+      internalID: -4044793160905558217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_172
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 63
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd41b58b865cf8630800000000000000
+      internalID: 3931578053277979868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_173
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 64
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 067784c89481e5820800000000000000
+      internalID: 2908789113493157728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_174
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 68
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234a2503ecdf85c70800000000000000
+      internalID: 8960190520669414450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_175
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 67
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663b90d47d10497b0800000000000000
+      internalID: -5218544043993484442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_176
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 68
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897996bf1c5faa560800000000000000
+      internalID: 7325937957367027608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_177
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 69
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24be5944b073bdc70800000000000000
+      internalID: 8996845202137541442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_178
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 67
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a091c42d20efedc0800000000000000
+      internalID: -3607418292005662560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_179
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 33
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65ad48078c279be0800000000000000
+      internalID: -1470657794841664147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_180
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 35
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 173b3758e407c05f0800000000000000
+      internalID: -789132352147967119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_181
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 36
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c896d25a3ad178a80800000000000000
+      internalID: -8464764385931466356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_182
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 35
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f083713f70dfae0800000000000000
+      internalID: -1514045159078621428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_183
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 35
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2dce024934f63a0800000000000000
+      internalID: -6670038219625803085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_184
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 34
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479de8037b3bc6ac0800000000000000
+      internalID: -3860513181188302476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_185
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 34
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c22073f63858be80800000000000000
+      internalID: -8162677331573333304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_186
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8930acbd5309d1250800000000000000
+      internalID: 5917044046429815704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_187
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 36
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103f4c59fc925ab50800000000000000
+      internalID: 6603730400156381953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_188
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 35
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb64025f4f1e82a60800000000000000
+      internalID: 7649612409289590459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_189
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 34
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d4336cc11cad180800000000000000
+      internalID: -9089740568565428978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_190
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 35
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93dce94ce0efe7cc0800000000000000
+      internalID: -3711249703524971207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_191
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 35
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ea836375e8c6640800000000000000
+      internalID: 5074587385362689655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_192
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 35
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0951077a17c0de10800000000000000
+      internalID: 2220493532773308686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_193
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 35
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41dff6e184f78f5d0800000000000000
+      internalID: -3028530801681629932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_194
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392f4e2a3edad8600800000000000000
+      internalID: 472224729145864851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_195
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e0338c0512cf370800000000000000
+      internalID: 8357591639332687433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_196
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecf22114294c9f80800000000000000
+      internalID: -8098517610663838486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_197
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6a69d0f809f62d0800000000000000
+      internalID: -3283246659247102264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Purple_198
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 3
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af924a34d87f6dd0800000000000000
+      internalID: -2490639216006750301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Mask_Purple_0: 9008518794286370598
+      SS_Mask_Purple_1: -6025226554472790153
+      SS_Mask_Purple_10: -5790667489154609829
+      SS_Mask_Purple_100: 1124358260453163476
+      SS_Mask_Purple_101: -7183363751723728710
+      SS_Mask_Purple_102: -712475623766055117
+      SS_Mask_Purple_103: -6714252103275503006
+      SS_Mask_Purple_104: -8760885793728395839
+      SS_Mask_Purple_105: -2144599636572656739
+      SS_Mask_Purple_106: 8594070358360274974
+      SS_Mask_Purple_107: 3617407078858213972
+      SS_Mask_Purple_108: 1941863987184095226
+      SS_Mask_Purple_109: 3435399911682678698
+      SS_Mask_Purple_11: 1631656929900562231
+      SS_Mask_Purple_110: -3048504632124407184
+      SS_Mask_Purple_111: 8196343388069044456
+      SS_Mask_Purple_112: 6456527329255446194
+      SS_Mask_Purple_113: -2414188815396273276
+      SS_Mask_Purple_114: 32484629702794394
+      SS_Mask_Purple_115: -2293880359241659148
+      SS_Mask_Purple_116: -7366558907919891160
+      SS_Mask_Purple_117: 350831580775102788
+      SS_Mask_Purple_118: 7917470671324580350
+      SS_Mask_Purple_119: -6999310342325902134
+      SS_Mask_Purple_12: 6948359034015061024
+      SS_Mask_Purple_120: -5029799482458853615
+      SS_Mask_Purple_121: -988245476137950235
+      SS_Mask_Purple_122: 6484336182843690274
+      SS_Mask_Purple_123: 8132016624176753337
+      SS_Mask_Purple_124: 8189303028037258304
+      SS_Mask_Purple_125: -5718677362666632534
+      SS_Mask_Purple_126: -6565029516783033954
+      SS_Mask_Purple_127: -1570468830753667738
+      SS_Mask_Purple_128: 3163089368091674004
+      SS_Mask_Purple_129: -8577754319516967380
+      SS_Mask_Purple_13: 7878568625748012452
+      SS_Mask_Purple_130: -4100006291517264753
+      SS_Mask_Purple_131: -5648161036217457449
+      SS_Mask_Purple_132: 5103276013808787121
+      SS_Mask_Purple_133: -5141624791669492492
+      SS_Mask_Purple_134: -3607372521223275331
+      SS_Mask_Purple_135: 1918034243724537490
+      SS_Mask_Purple_136: -630980231705020270
+      SS_Mask_Purple_137: -5835423756762994934
+      SS_Mask_Purple_138: 6737168879523829809
+      SS_Mask_Purple_139: 3920416787916069979
+      SS_Mask_Purple_14: 7911654249519070419
+      SS_Mask_Purple_140: 3770164312545921083
+      SS_Mask_Purple_141: 7689025363914128973
+      SS_Mask_Purple_142: 619075130839215470
+      SS_Mask_Purple_143: -8941882377082892293
+      SS_Mask_Purple_144: 3005341826040593942
+      SS_Mask_Purple_145: -4391719813944990446
+      SS_Mask_Purple_146: -648176345436401587
+      SS_Mask_Purple_147: -6198466537862465747
+      SS_Mask_Purple_148: 7627866153019564578
+      SS_Mask_Purple_149: -7242303979376137712
+      SS_Mask_Purple_15: 191416240597615523
+      SS_Mask_Purple_150: -1269581652146765212
+      SS_Mask_Purple_151: 157564938111083773
+      SS_Mask_Purple_152: 4401927351867159787
+      SS_Mask_Purple_153: -5662628181727752662
+      SS_Mask_Purple_154: 935804358246924074
+      SS_Mask_Purple_155: 7725456304138481968
+      SS_Mask_Purple_156: 8419070248151084293
+      SS_Mask_Purple_157: 8573935332945822678
+      SS_Mask_Purple_158: -1073961343542815231
+      SS_Mask_Purple_159: 8249606130864165695
+      SS_Mask_Purple_16: -2806199370467640125
+      SS_Mask_Purple_160: 1634913112285525636
+      SS_Mask_Purple_161: 5314693183804662194
+      SS_Mask_Purple_162: -2170771805301655131
+      SS_Mask_Purple_163: 3550653345715644326
+      SS_Mask_Purple_164: -2119104878287638192
+      SS_Mask_Purple_165: -5447072789285895366
+      SS_Mask_Purple_166: -5796805249507080862
+      SS_Mask_Purple_167: -7428475105256485357
+      SS_Mask_Purple_168: 3370135439567569123
+      SS_Mask_Purple_169: -5783011740905190702
+      SS_Mask_Purple_17: 1325636805227608595
+      SS_Mask_Purple_170: -6969860618082399356
+      SS_Mask_Purple_171: -4044793160905558217
+      SS_Mask_Purple_172: 3931578053277979868
+      SS_Mask_Purple_173: 2908789113493157728
+      SS_Mask_Purple_174: 8960190520669414450
+      SS_Mask_Purple_175: -5218544043993484442
+      SS_Mask_Purple_176: 7325937957367027608
+      SS_Mask_Purple_177: 8996845202137541442
+      SS_Mask_Purple_178: -3607418292005662560
+      SS_Mask_Purple_179: -1470657794841664147
+      SS_Mask_Purple_18: 6284007609601723821
+      SS_Mask_Purple_180: -789132352147967119
+      SS_Mask_Purple_181: -8464764385931466356
+      SS_Mask_Purple_182: -1514045159078621428
+      SS_Mask_Purple_183: -6670038219625803085
+      SS_Mask_Purple_184: -3860513181188302476
+      SS_Mask_Purple_185: -8162677331573333304
+      SS_Mask_Purple_186: 5917044046429815704
+      SS_Mask_Purple_187: 6603730400156381953
+      SS_Mask_Purple_188: 7649612409289590459
+      SS_Mask_Purple_189: -9089740568565428978
+      SS_Mask_Purple_19: -2528693192112514536
+      SS_Mask_Purple_190: -3711249703524971207
+      SS_Mask_Purple_191: 5074587385362689655
+      SS_Mask_Purple_192: 2220493532773308686
+      SS_Mask_Purple_193: -3028530801681629932
+      SS_Mask_Purple_194: 472224729145864851
+      SS_Mask_Purple_195: 8357591639332687433
+      SS_Mask_Purple_196: -8098517610663838486
+      SS_Mask_Purple_197: -3283246659247102264
+      SS_Mask_Purple_198: -2490639216006750301
+      SS_Mask_Purple_2: 22834078455342888
+      SS_Mask_Purple_20: -5116909891789663760
+      SS_Mask_Purple_21: 7558907795538927850
+      SS_Mask_Purple_22: 5808034866190287625
+      SS_Mask_Purple_23: 3665732917684446271
+      SS_Mask_Purple_24: -2430011180251355239
+      SS_Mask_Purple_25: 6947993161219184644
+      SS_Mask_Purple_26: -8391123417322750571
+      SS_Mask_Purple_27: 1744972289172551835
+      SS_Mask_Purple_28: -4743000208418981226
+      SS_Mask_Purple_29: 3119343580434425119
+      SS_Mask_Purple_3: -6265740100245626557
+      SS_Mask_Purple_30: -3338755853191354689
+      SS_Mask_Purple_31: -1371759629932822750
+      SS_Mask_Purple_32: 1986331706124521312
+      SS_Mask_Purple_33: 6574352998973273778
+      SS_Mask_Purple_34: -3952753052629897915
+      SS_Mask_Purple_35: 3553484648281312460
+      SS_Mask_Purple_36: 1584184005286159654
+      SS_Mask_Purple_37: -17229357078204062
+      SS_Mask_Purple_38: -6814838391386822476
+      SS_Mask_Purple_39: -4944958468872934179
+      SS_Mask_Purple_4: 9114914076493686193
+      SS_Mask_Purple_40: 7449864015591337785
+      SS_Mask_Purple_41: 2529048610795301571
+      SS_Mask_Purple_42: -7664887167462181522
+      SS_Mask_Purple_43: -5641959255760364424
+      SS_Mask_Purple_44: -2357802582232308325
+      SS_Mask_Purple_45: -5476445548395238418
+      SS_Mask_Purple_46: -5429548738443824389
+      SS_Mask_Purple_47: 936917140383959382
+      SS_Mask_Purple_48: -7973026537837009446
+      SS_Mask_Purple_49: -5118852033368846364
+      SS_Mask_Purple_5: -8856837722087528863
+      SS_Mask_Purple_50: -8658547376422426332
+      SS_Mask_Purple_51: 5587501623553912373
+      SS_Mask_Purple_52: 6529859452034807514
+      SS_Mask_Purple_53: 6880002524816988577
+      SS_Mask_Purple_54: 7562365044874874410
+      SS_Mask_Purple_55: -545932620329547043
+      SS_Mask_Purple_56: -2684540515242041798
+      SS_Mask_Purple_57: 1796788681244885007
+      SS_Mask_Purple_58: -9054605125459990778
+      SS_Mask_Purple_59: -2129880642640038862
+      SS_Mask_Purple_6: -7736901200843343210
+      SS_Mask_Purple_60: -5540990783284822347
+      SS_Mask_Purple_61: -7778375145194310728
+      SS_Mask_Purple_62: 8126578426427880453
+      SS_Mask_Purple_63: 6876655345051768265
+      SS_Mask_Purple_64: 1898578972263314287
+      SS_Mask_Purple_65: -2072071862833617224
+      SS_Mask_Purple_66: -1018512278245408654
+      SS_Mask_Purple_67: -5881991595302614783
+      SS_Mask_Purple_68: 3718822676109734172
+      SS_Mask_Purple_69: 8000669296737281318
+      SS_Mask_Purple_7: 4913462404503525556
+      SS_Mask_Purple_70: -1392413547079645118
+      SS_Mask_Purple_71: -4868903838620417158
+      SS_Mask_Purple_72: 466899955699581425
+      SS_Mask_Purple_73: 2413985306922431040
+      SS_Mask_Purple_74: 1127393211348612173
+      SS_Mask_Purple_75: -6455751904414972311
+      SS_Mask_Purple_76: 3081734313754080506
+      SS_Mask_Purple_77: -5037365426353767526
+      SS_Mask_Purple_78: -9207197400376778504
+      SS_Mask_Purple_79: 6265250733717871747
+      SS_Mask_Purple_8: -5594459356442706751
+      SS_Mask_Purple_80: -746753330103625498
+      SS_Mask_Purple_81: 4981086722775980489
+      SS_Mask_Purple_82: -9165932515598381243
+      SS_Mask_Purple_83: 9112639486362943231
+      SS_Mask_Purple_84: -6297127926161238893
+      SS_Mask_Purple_85: 8701405939819094300
+      SS_Mask_Purple_86: 2234436155228522066
+      SS_Mask_Purple_87: 3444562692269059657
+      SS_Mask_Purple_88: 97377669441638461
+      SS_Mask_Purple_89: -5095333417609267756
+      SS_Mask_Purple_9: 296556969333264196
+      SS_Mask_Purple_90: -6413764331092475207
+      SS_Mask_Purple_91: -1723630000139608641
+      SS_Mask_Purple_92: 725127343360428814
+      SS_Mask_Purple_93: -2660756807967270701
+      SS_Mask_Purple_94: -5618015058273654744
+      SS_Mask_Purple_95: 7722870619697821198
+      SS_Mask_Purple_96: -9213268976809852088
+      SS_Mask_Purple_97: 6328376467416161448
+      SS_Mask_Purple_98: 6560442692500094630
+      SS_Mask_Purple_99: -6344847792141618101
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

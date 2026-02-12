@@ -1,0 +1,6500 @@
+fileFormatVersion: 2
+guid: a3700f814ecf83d47a109dcb63255ce7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2552466063879704436
+    second: SS_Ring_Yellow_0
+  - first:
+      213: 4716312670594668301
+    second: SS_Ring_Yellow_1
+  - first:
+      213: -1391419691557402759
+    second: SS_Ring_Yellow_2
+  - first:
+      213: 5848218812684919257
+    second: SS_Ring_Yellow_3
+  - first:
+      213: -4967591522606607158
+    second: SS_Ring_Yellow_4
+  - first:
+      213: -2806638596357931240
+    second: SS_Ring_Yellow_5
+  - first:
+      213: -1274273191383860930
+    second: SS_Ring_Yellow_6
+  - first:
+      213: -4535220196649210917
+    second: SS_Ring_Yellow_7
+  - first:
+      213: 8277291233962182959
+    second: SS_Ring_Yellow_8
+  - first:
+      213: -4524544444714329056
+    second: SS_Ring_Yellow_9
+  - first:
+      213: -8551781289330798225
+    second: SS_Ring_Yellow_10
+  - first:
+      213: -9043975402170446438
+    second: SS_Ring_Yellow_11
+  - first:
+      213: 6149705865916718564
+    second: SS_Ring_Yellow_12
+  - first:
+      213: 5062719573183947028
+    second: SS_Ring_Yellow_13
+  - first:
+      213: 1478566587530466680
+    second: SS_Ring_Yellow_14
+  - first:
+      213: 4740928778783594285
+    second: SS_Ring_Yellow_15
+  - first:
+      213: -8127144796185181041
+    second: SS_Ring_Yellow_16
+  - first:
+      213: -8973539976788354538
+    second: SS_Ring_Yellow_17
+  - first:
+      213: -6026490257822726215
+    second: SS_Ring_Yellow_18
+  - first:
+      213: 1996034276156986649
+    second: SS_Ring_Yellow_19
+  - first:
+      213: -3843530951067974230
+    second: SS_Ring_Yellow_20
+  - first:
+      213: -5997443300703539938
+    second: SS_Ring_Yellow_21
+  - first:
+      213: -5205935251671520311
+    second: SS_Ring_Yellow_22
+  - first:
+      213: 8613421465415598357
+    second: SS_Ring_Yellow_23
+  - first:
+      213: 536516637820460667
+    second: SS_Ring_Yellow_24
+  - first:
+      213: -1840502818500399579
+    second: SS_Ring_Yellow_25
+  - first:
+      213: -2835496291621950756
+    second: SS_Ring_Yellow_26
+  - first:
+      213: 8787339714680553334
+    second: SS_Ring_Yellow_27
+  - first:
+      213: 2463746309196570174
+    second: SS_Ring_Yellow_28
+  - first:
+      213: -7529244757523172625
+    second: SS_Ring_Yellow_29
+  - first:
+      213: -8435551092492270017
+    second: SS_Ring_Yellow_30
+  - first:
+      213: -1761574036360240585
+    second: SS_Ring_Yellow_31
+  - first:
+      213: 6375599405993872070
+    second: SS_Ring_Yellow_32
+  - first:
+      213: 4776241291979894455
+    second: SS_Ring_Yellow_33
+  - first:
+      213: 1170561517209981538
+    second: SS_Ring_Yellow_34
+  - first:
+      213: 4398124637823740444
+    second: SS_Ring_Yellow_35
+  - first:
+      213: 8065757738751155019
+    second: SS_Ring_Yellow_36
+  - first:
+      213: 2782421026344637348
+    second: SS_Ring_Yellow_37
+  - first:
+      213: -2151077626477062123
+    second: SS_Ring_Yellow_38
+  - first:
+      213: 6838761189496259572
+    second: SS_Ring_Yellow_39
+  - first:
+      213: -5517463535853158769
+    second: SS_Ring_Yellow_40
+  - first:
+      213: 449377381472582093
+    second: SS_Ring_Yellow_41
+  - first:
+      213: 2503583232654376708
+    second: SS_Ring_Yellow_42
+  - first:
+      213: 8061912691419806661
+    second: SS_Ring_Yellow_43
+  - first:
+      213: -6799704744725160411
+    second: SS_Ring_Yellow_44
+  - first:
+      213: 7749618015633117994
+    second: SS_Ring_Yellow_45
+  - first:
+      213: 3494729743282321734
+    second: SS_Ring_Yellow_46
+  - first:
+      213: -3635078680983593587
+    second: SS_Ring_Yellow_47
+  - first:
+      213: 205204263843739835
+    second: SS_Ring_Yellow_48
+  - first:
+      213: 8510045173161880163
+    second: SS_Ring_Yellow_49
+  - first:
+      213: -7980993388208402594
+    second: SS_Ring_Yellow_50
+  - first:
+      213: 7133929059326972358
+    second: SS_Ring_Yellow_51
+  - first:
+      213: -8485578603205293230
+    second: SS_Ring_Yellow_52
+  - first:
+      213: -9203764198407245724
+    second: SS_Ring_Yellow_53
+  - first:
+      213: 4696923257976051228
+    second: SS_Ring_Yellow_54
+  - first:
+      213: -197267560327643074
+    second: SS_Ring_Yellow_55
+  - first:
+      213: 2376973561203820455
+    second: SS_Ring_Yellow_56
+  - first:
+      213: -4137684633026692374
+    second: SS_Ring_Yellow_57
+  - first:
+      213: 9197052651582294981
+    second: SS_Ring_Yellow_58
+  - first:
+      213: 1295703952346887068
+    second: SS_Ring_Yellow_59
+  - first:
+      213: -1040997452654758029
+    second: SS_Ring_Yellow_60
+  - first:
+      213: -1009022058736675294
+    second: SS_Ring_Yellow_61
+  - first:
+      213: -7499166981808100370
+    second: SS_Ring_Yellow_62
+  - first:
+      213: -6052133632571903357
+    second: SS_Ring_Yellow_63
+  - first:
+      213: 4867342548523069576
+    second: SS_Ring_Yellow_64
+  - first:
+      213: -2872913072438754409
+    second: SS_Ring_Yellow_65
+  - first:
+      213: 5453802484032770682
+    second: SS_Ring_Yellow_66
+  - first:
+      213: 5018949098884910540
+    second: SS_Ring_Yellow_67
+  - first:
+      213: -5462919012806236703
+    second: SS_Ring_Yellow_68
+  - first:
+      213: -6259949205019766967
+    second: SS_Ring_Yellow_69
+  - first:
+      213: 704994771233812197
+    second: SS_Ring_Yellow_70
+  - first:
+      213: 1688666543156987252
+    second: SS_Ring_Yellow_71
+  - first:
+      213: 7802465631373795687
+    second: SS_Ring_Yellow_72
+  - first:
+      213: 2265642686278406693
+    second: SS_Ring_Yellow_73
+  - first:
+      213: 4471468018766073266
+    second: SS_Ring_Yellow_74
+  - first:
+      213: 7469902031398774405
+    second: SS_Ring_Yellow_75
+  - first:
+      213: -2028307723473459755
+    second: SS_Ring_Yellow_76
+  - first:
+      213: 6593877866240291156
+    second: SS_Ring_Yellow_77
+  - first:
+      213: 2789618585965156874
+    second: SS_Ring_Yellow_78
+  - first:
+      213: 161899272650831421
+    second: SS_Ring_Yellow_79
+  - first:
+      213: 345871874074321097
+    second: SS_Ring_Yellow_80
+  - first:
+      213: 3027082368566818214
+    second: SS_Ring_Yellow_81
+  - first:
+      213: -3233353724738783708
+    second: SS_Ring_Yellow_82
+  - first:
+      213: -5625576865187581063
+    second: SS_Ring_Yellow_83
+  - first:
+      213: -8564415899355862727
+    second: SS_Ring_Yellow_84
+  - first:
+      213: 6072132348329328634
+    second: SS_Ring_Yellow_85
+  - first:
+      213: -1416079024035661115
+    second: SS_Ring_Yellow_86
+  - first:
+      213: -1824068077916553410
+    second: SS_Ring_Yellow_87
+  - first:
+      213: -3917156655490361773
+    second: SS_Ring_Yellow_88
+  - first:
+      213: 2920324139506197813
+    second: SS_Ring_Yellow_89
+  - first:
+      213: -8262808911203847207
+    second: SS_Ring_Yellow_90
+  - first:
+      213: 509264368646391309
+    second: SS_Ring_Yellow_91
+  - first:
+      213: 4496276493918747631
+    second: SS_Ring_Yellow_92
+  - first:
+      213: -1476255594962754335
+    second: SS_Ring_Yellow_93
+  - first:
+      213: 5389983705392319401
+    second: SS_Ring_Yellow_94
+  - first:
+      213: -7203744331410880943
+    second: SS_Ring_Yellow_95
+  - first:
+      213: 8670324153439086161
+    second: SS_Ring_Yellow_96
+  - first:
+      213: 1518346772506286900
+    second: SS_Ring_Yellow_97
+  - first:
+      213: -7477194382964658856
+    second: SS_Ring_Yellow_98
+  - first:
+      213: -171458430898372208
+    second: SS_Ring_Yellow_99
+  - first:
+      213: -2991052642071694756
+    second: SS_Ring_Yellow_100
+  - first:
+      213: 2993477899156304405
+    second: SS_Ring_Yellow_101
+  - first:
+      213: -147014469669585577
+    second: SS_Ring_Yellow_102
+  - first:
+      213: -2433420437220721199
+    second: SS_Ring_Yellow_103
+  - first:
+      213: -2014072214210582495
+    second: SS_Ring_Yellow_104
+  - first:
+      213: 4360975279186579496
+    second: SS_Ring_Yellow_105
+  - first:
+      213: 6026454544566464556
+    second: SS_Ring_Yellow_106
+  - first:
+      213: -8029512358915557301
+    second: SS_Ring_Yellow_107
+  - first:
+      213: -2886342010916925674
+    second: SS_Ring_Yellow_108
+  - first:
+      213: 2191160581260291581
+    second: SS_Ring_Yellow_109
+  - first:
+      213: -1253694211799414175
+    second: SS_Ring_Yellow_110
+  - first:
+      213: -3068722510451994050
+    second: SS_Ring_Yellow_111
+  - first:
+      213: 4615196931517578266
+    second: SS_Ring_Yellow_112
+  - first:
+      213: -61603719475317111
+    second: SS_Ring_Yellow_113
+  - first:
+      213: -1963218912517581232
+    second: SS_Ring_Yellow_114
+  - first:
+      213: 6777728614476827905
+    second: SS_Ring_Yellow_115
+  - first:
+      213: -3748164472238581132
+    second: SS_Ring_Yellow_116
+  - first:
+      213: 7820586477902328804
+    second: SS_Ring_Yellow_117
+  - first:
+      213: -7945668412387885647
+    second: SS_Ring_Yellow_118
+  - first:
+      213: -6682081434378051651
+    second: SS_Ring_Yellow_119
+  - first:
+      213: 4288226584855613669
+    second: SS_Ring_Yellow_120
+  - first:
+      213: -6238248885662300987
+    second: SS_Ring_Yellow_121
+  - first:
+      213: -8107733992517312707
+    second: SS_Ring_Yellow_122
+  - first:
+      213: 3700180394818201734
+    second: SS_Ring_Yellow_123
+  - first:
+      213: -525670220207837630
+    second: SS_Ring_Yellow_124
+  - first:
+      213: -7534734722628930889
+    second: SS_Ring_Yellow_125
+  - first:
+      213: 8916461970793702008
+    second: SS_Ring_Yellow_126
+  - first:
+      213: -6720800400989713633
+    second: SS_Ring_Yellow_127
+  - first:
+      213: -8207223496569846386
+    second: SS_Ring_Yellow_128
+  - first:
+      213: -5973322258795255174
+    second: SS_Ring_Yellow_129
+  - first:
+      213: 490309735811518982
+    second: SS_Ring_Yellow_130
+  - first:
+      213: 6014331390003394157
+    second: SS_Ring_Yellow_131
+  - first:
+      213: -5531352047115308159
+    second: SS_Ring_Yellow_132
+  - first:
+      213: -4730014147024666591
+    second: SS_Ring_Yellow_133
+  - first:
+      213: 2925681437150923800
+    second: SS_Ring_Yellow_134
+  - first:
+      213: 145383055418591110
+    second: SS_Ring_Yellow_135
+  - first:
+      213: -6178024241426708866
+    second: SS_Ring_Yellow_136
+  - first:
+      213: 5368562416469315996
+    second: SS_Ring_Yellow_137
+  - first:
+      213: -1671332774655528032
+    second: SS_Ring_Yellow_138
+  - first:
+      213: -6624305700157121112
+    second: SS_Ring_Yellow_139
+  - first:
+      213: -533107197932120835
+    second: SS_Ring_Yellow_140
+  - first:
+      213: -4973847471148392083
+    second: SS_Ring_Yellow_141
+  - first:
+      213: 6426372393774606046
+    second: SS_Ring_Yellow_142
+  - first:
+      213: -6358361539659343285
+    second: SS_Ring_Yellow_143
+  - first:
+      213: -3791950542880410659
+    second: SS_Ring_Yellow_144
+  - first:
+      213: 5788794300610793608
+    second: SS_Ring_Yellow_145
+  - first:
+      213: 6776906352368208738
+    second: SS_Ring_Yellow_146
+  - first:
+      213: -2556424941080948327
+    second: SS_Ring_Yellow_147
+  - first:
+      213: -4160342535366723415
+    second: SS_Ring_Yellow_148
+  - first:
+      213: -6005291170313813474
+    second: SS_Ring_Yellow_149
+  - first:
+      213: -214428766963850088
+    second: SS_Ring_Yellow_150
+  - first:
+      213: 7442804400055866896
+    second: SS_Ring_Yellow_151
+  - first:
+      213: -6293593579535986326
+    second: SS_Ring_Yellow_152
+  - first:
+      213: -2217062945649924423
+    second: SS_Ring_Yellow_153
+  - first:
+      213: -5995890819841929366
+    second: SS_Ring_Yellow_154
+  - first:
+      213: 4331445842827155190
+    second: SS_Ring_Yellow_155
+  - first:
+      213: 243883175172928358
+    second: SS_Ring_Yellow_156
+  - first:
+      213: 749144494912246294
+    second: SS_Ring_Yellow_157
+  - first:
+      213: 4312749470472603829
+    second: SS_Ring_Yellow_158
+  - first:
+      213: -9152473186067209732
+    second: SS_Ring_Yellow_159
+  - first:
+      213: 1017225579674929623
+    second: SS_Ring_Yellow_160
+  - first:
+      213: -8429399224901673017
+    second: SS_Ring_Yellow_161
+  - first:
+      213: -7031205824561704603
+    second: SS_Ring_Yellow_162
+  - first:
+      213: -3208719461746418761
+    second: SS_Ring_Yellow_163
+  - first:
+      213: 7744151913261602319
+    second: SS_Ring_Yellow_164
+  - first:
+      213: 8816844825913531675
+    second: SS_Ring_Yellow_165
+  - first:
+      213: -2713425207674672031
+    second: SS_Ring_Yellow_166
+  - first:
+      213: 1419112197194547231
+    second: SS_Ring_Yellow_167
+  - first:
+      213: -5213130115074306612
+    second: SS_Ring_Yellow_168
+  - first:
+      213: -1410153997003993344
+    second: SS_Ring_Yellow_169
+  - first:
+      213: -5738493298344261013
+    second: SS_Ring_Yellow_170
+  - first:
+      213: 2562331804625856042
+    second: SS_Ring_Yellow_171
+  - first:
+      213: -483961518014037962
+    second: SS_Ring_Yellow_172
+  - first:
+      213: -2332743988724478667
+    second: SS_Ring_Yellow_173
+  - first:
+      213: -5415252477973950811
+    second: SS_Ring_Yellow_174
+  - first:
+      213: 2480662389101038420
+    second: SS_Ring_Yellow_175
+  - first:
+      213: -5281578854789156583
+    second: SS_Ring_Yellow_176
+  - first:
+      213: 5511034407754256734
+    second: SS_Ring_Yellow_177
+  - first:
+      213: -7516934324532029934
+    second: SS_Ring_Yellow_178
+  - first:
+      213: 7677373539838047190
+    second: SS_Ring_Yellow_179
+  - first:
+      213: -6277094985045865261
+    second: SS_Ring_Yellow_180
+  - first:
+      213: 5139837582502002487
+    second: SS_Ring_Yellow_181
+  - first:
+      213: -7598618211513051897
+    second: SS_Ring_Yellow_182
+  - first:
+      213: -4572624113208677603
+    second: SS_Ring_Yellow_183
+  - first:
+      213: -4094733194517528281
+    second: SS_Ring_Yellow_184
+  - first:
+      213: 7566909253315270895
+    second: SS_Ring_Yellow_185
+  - first:
+      213: 4573259415829413246
+    second: SS_Ring_Yellow_186
+  - first:
+      213: -650733208535674906
+    second: SS_Ring_Yellow_187
+  - first:
+      213: -8798066604523923806
+    second: SS_Ring_Yellow_188
+  - first:
+      213: 2526025137496832898
+    second: SS_Ring_Yellow_189
+  - first:
+      213: 1122975432055009593
+    second: SS_Ring_Yellow_190
+  - first:
+      213: -3600123637885991922
+    second: SS_Ring_Yellow_191
+  - first:
+      213: -3533989643190407969
+    second: SS_Ring_Yellow_192
+  - first:
+      213: 4089650788613555905
+    second: SS_Ring_Yellow_193
+  - first:
+      213: -1724286826089739474
+    second: SS_Ring_Yellow_194
+  - first:
+      213: 7920093933088681623
+    second: SS_Ring_Yellow_195
+  - first:
+      213: -3449711913542268166
+    second: SS_Ring_Yellow_196
+  - first:
+      213: 7980215957034365511
+    second: SS_Ring_Yellow_197
+  - first:
+      213: 1629824608404637143
+    second: SS_Ring_Yellow_198
+  - first:
+      213: 1831379123058526869
+    second: SS_Ring_Yellow_199
+  - first:
+      213: 5434981516328133993
+    second: SS_Ring_Yellow_200
+  - first:
+      213: -7705639557475808251
+    second: SS_Ring_Yellow_201
+  - first:
+      213: -2437397766951928687
+    second: SS_Ring_Yellow_202
+  - first:
+      213: 2382292707670283485
+    second: SS_Ring_Yellow_203
+  - first:
+      213: 8019146471966214927
+    second: SS_Ring_Yellow_204
+  - first:
+      213: -7436872092875479257
+    second: SS_Ring_Yellow_205
+  - first:
+      213: 7763965138833884327
+    second: SS_Ring_Yellow_206
+  - first:
+      213: 1361046338687972481
+    second: SS_Ring_Yellow_207
+  - first:
+      213: 6126354089023194109
+    second: SS_Ring_Yellow_208
+  - first:
+      213: 5519640233836732196
+    second: SS_Ring_Yellow_209
+  - first:
+      213: -4912414428647967935
+    second: SS_Ring_Yellow_210
+  - first:
+      213: 2232172084470496752
+    second: SS_Ring_Yellow_211
+  - first:
+      213: -7885329669654157572
+    second: SS_Ring_Yellow_212
+  - first:
+      213: 6078419084757294745
+    second: SS_Ring_Yellow_213
+  - first:
+      213: 8854054812043769482
+    second: SS_Ring_Yellow_214
+  - first:
+      213: -2418398801707783781
+    second: SS_Ring_Yellow_215
+  - first:
+      213: -167293886475186352
+    second: SS_Ring_Yellow_216
+  - first:
+      213: -4070490609048873547
+    second: SS_Ring_Yellow_217
+  - first:
+      213: 8169242347068217711
+    second: SS_Ring_Yellow_218
+  - first:
+      213: 7607389657734272352
+    second: SS_Ring_Yellow_219
+  - first:
+      213: -7376948612435187854
+    second: SS_Ring_Yellow_220
+  - first:
+      213: 7763548083788342546
+    second: SS_Ring_Yellow_221
+  - first:
+      213: -2875096457195893155
+    second: SS_Ring_Yellow_222
+  - first:
+      213: 4401675484408032819
+    second: SS_Ring_Yellow_223
+  - first:
+      213: -5048970114423917906
+    second: SS_Ring_Yellow_224
+  - first:
+      213: -3648106430524489122
+    second: SS_Ring_Yellow_225
+  - first:
+      213: 6422721989699141958
+    second: SS_Ring_Yellow_226
+  - first:
+      213: -5850559397150137051
+    second: SS_Ring_Yellow_227
+  - first:
+      213: 4461460319200128358
+    second: SS_Ring_Yellow_228
+  - first:
+      213: 1866752072031946438
+    second: SS_Ring_Yellow_229
+  - first:
+      213: -6029179971523761445
+    second: SS_Ring_Yellow_230
+  - first:
+      213: -3267705726224444149
+    second: SS_Ring_Yellow_231
+  - first:
+      213: -3455624410436959170
+    second: SS_Ring_Yellow_232
+  - first:
+      213: -954468377483542428
+    second: SS_Ring_Yellow_233
+  - first:
+      213: -4750964150198590902
+    second: SS_Ring_Yellow_234
+  - first:
+      213: 2333334717819803072
+    second: SS_Ring_Yellow_235
+  - first:
+      213: 2714758575891748452
+    second: SS_Ring_Yellow_236
+  - first:
+      213: 5347741329961781537
+    second: SS_Ring_Yellow_237
+  - first:
+      213: -5489643206820299050
+    second: SS_Ring_Yellow_238
+  - first:
+      213: 7204541570097715479
+    second: SS_Ring_Yellow_239
+  - first:
+      213: -7732817203665948030
+    second: SS_Ring_Yellow_240
+  - first:
+      213: 5974629550531649992
+    second: SS_Ring_Yellow_241
+  - first:
+      213: 7085301345451802622
+    second: SS_Ring_Yellow_242
+  - first:
+      213: 5314145086091534718
+    second: SS_Ring_Yellow_243
+  - first:
+      213: -358802060883581368
+    second: SS_Ring_Yellow_244
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 483
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f0ace8c5e2c6320800000000000000
+      internalID: 2552466063879704436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 484
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d071874c265b37140800000000000000
+      internalID: 4716312670594668301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 483
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977cc3f992fa0bce0800000000000000
+      internalID: -1391419691557402759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 483
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d167d2660c092150800000000000000
+      internalID: 5848218812684919257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 484
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac49ac164d19f0bb0800000000000000
+      internalID: -4967591522606607158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 483
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f3f2b1111dc09d0800000000000000
+      internalID: -2806638596357931240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 486
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39f2c8a84fd05ee0800000000000000
+      internalID: -1274273191383860930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 484
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbeb808249af01c0800000000000000
+      internalID: -4535220196649210917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 485
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2945c6b588ded270800000000000000
+      internalID: 8277291233962182959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 484
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cd552bcc69531c0800000000000000
+      internalID: -4524544444714329056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 482
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f611b940a38f15980800000000000000
+      internalID: -8551781289330798225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 484
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9d824ce9485d7280800000000000000
+      internalID: -9043975402170446438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 486
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed1a1b07e4285550800000000000000
+      internalID: 6149705865916718564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 486
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411eb0dd0a4624640800000000000000
+      internalID: 5062719573183947028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 487
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875d3824a7ce48410800000000000000
+      internalID: 1478566587530466680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_15
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 486
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2792d41b992bc140800000000000000
+      internalID: 4740928778783594285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 452
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84c7390ed4963f80800000000000000
+      internalID: -8127144796185181041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 454
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a53c95fe4977380800000000000000
+      internalID: -8973539976788354538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 452
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7cf1c4a0b9d5ca0800000000000000
+      internalID: -6026490257822726215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 451
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91557d5499653bb10800000000000000
+      internalID: 1996034276156986649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 451
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5cf52c6f809aac0800000000000000
+      internalID: -3843530951067974230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_21
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 454
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1de405081dc4cca0800000000000000
+      internalID: -5997443300703539938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 452
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb6f68887dc0c7b0800000000000000
+      internalID: -5205935251671520311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_23
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 451
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51142dadf25098770800000000000000
+      internalID: 8613421465415598357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_24
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 453
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e106d1a07127700800000000000000
+      internalID: 536516637820460667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_25
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 453
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ead2f10783576e0800000000000000
+      internalID: -1840502818500399579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_26
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 454
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdaafe7552b46a8d0800000000000000
+      internalID: -2835496291621950756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_27
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 453
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f7736c9e6e2f970800000000000000
+      internalID: 8787339714680553334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_28
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 454
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e5758f63cf03220800000000000000
+      internalID: 2463746309196570174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_29
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 455
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2fbd0e8cfb28790800000000000000
+      internalID: -7529244757523172625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_30
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 455
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36075f89f6eeea80800000000000000
+      internalID: -8435551092492270017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_31
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 453
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73262354fb1ad87e0800000000000000
+      internalID: -1761574036360240585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 423
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cac47061edaa7850800000000000000
+      internalID: 6375599405993872070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 421
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bea302462e984240800000000000000
+      internalID: 4776241291979894455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_34
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 421
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2621b0d7f7bae3010800000000000000
+      internalID: 1170561517209981538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_35
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 421
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1aa06b4e07490d30800000000000000
+      internalID: 4398124637823740444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_36
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 424
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bde9edde35fef60800000000000000
+      internalID: 8065757738751155019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_37
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 417
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a399da7e252d9620800000000000000
+      internalID: 2782421026344637348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_38
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 419
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5185b8dab46d522e0800000000000000
+      internalID: -2151077626477062123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_39
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 424
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f307ab811928ee50800000000000000
+      internalID: 6838761189496259572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_40
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 420
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e3d4c95280e63b0800000000000000
+      internalID: -5517463535853158769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_41
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 420
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9b4c8f8528c3600800000000000000
+      internalID: 449377381472582093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_42
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 423
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ffcff7fa38eb220800000000000000
+      internalID: 2503583232654376708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_43
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 420
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb7a4601eaa1ef60800000000000000
+      internalID: 8061912691419806661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_44
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 420
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52e5e11af8892a1a0800000000000000
+      internalID: -6799704744725160411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_45
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 420
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2397c6a68c2c8b60800000000000000
+      internalID: 7749618015633117994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_46
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 423
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649b5568f26cf7030800000000000000
+      internalID: 3494729743282321734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_47
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 420
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d9069f23b9d8dc0800000000000000
+      internalID: -3635078680983593587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 385
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb83dc4d03809d200800000000000000
+      internalID: 205204263843739835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 387
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36a67d03ff0c91670800000000000000
+      internalID: 8510045173161880163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_50
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 389
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fc81d6cc0dd3190800000000000000
+      internalID: -7980993388208402594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 389
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1550aaeaec00360800000000000000
+      internalID: 7133929059326972358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_52
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 386
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b0b4a083b2d3a80800000000000000
+      internalID: -8485578603205293230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_53
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 386
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4607a75a939a54080800000000000000
+      internalID: -9203764198407245724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_54
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 385
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16dee851d2de2140800000000000000
+      internalID: 4696923257976051228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_55
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 386
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3086f4f23a234df0800000000000000
+      internalID: -197267560327643074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_56
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 388
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a78c043cd4bcf020800000000000000
+      internalID: 2376973561203820455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_57
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 387
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeaf9d7afbdf396c0800000000000000
+      internalID: -4137684633026692374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_58
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 387
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb802698ae72af70800000000000000
+      internalID: 9197052651582294981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_59
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 387
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93b4b531e34bf110800000000000000
+      internalID: 1295703952346887068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_60
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 388
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3773d6e0552ad81f0800000000000000
+      internalID: -1040997452654758029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_61
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 387
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226977a98cb3ff1f0800000000000000
+      internalID: -1009022058736675294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_62
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 387
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb6df1cc5b9de790800000000000000
+      internalID: -7499166981808100370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_63
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 390
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3827b59d680820ca0800000000000000
+      internalID: -6052133632571903357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_64
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 356
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880bcd472464c8340800000000000000
+      internalID: 4867342548523069576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_65
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 355
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79346be28cc5128d0800000000000000
+      internalID: -2872913072438754409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_66
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 358
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a729ae7b67ccfab40800000000000000
+      internalID: 5453802484032770682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_67
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 359
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd4dc82d93e6a540800000000000000
+      internalID: 5018949098884910540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_68
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 358
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5e4f40a10df24b0800000000000000
+      internalID: -5462919012806236703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_69
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 359
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fceca5d513029a0800000000000000
+      internalID: -6259949205019766967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_70
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 358
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ee26eb5205a8c900800000000000000
+      internalID: 704994771233812197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_71
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 358
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47585f826495f6710800000000000000
+      internalID: 1688666543156987252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_72
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 358
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761aa3a072de74c60800000000000000
+      internalID: 7802465631373795687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_73
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 356
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 522169fe40e217f10800000000000000
+      internalID: 2265642686278406693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_74
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 356
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd4213e878dd0e30800000000000000
+      internalID: 4471468018766073266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_75
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 356
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5862e70025c6aa760800000000000000
+      internalID: 7469902031398774405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_76
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 356
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d5ee273fd00ad3e0800000000000000
+      internalID: -2028307723473459755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_77
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 359
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4513095cbf8228b50800000000000000
+      internalID: 6593877866240291156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_78
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 359
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0ad74be257b6b620800000000000000
+      internalID: 2789618585965156874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_79
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 358
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d363fbbd78e2f3200800000000000000
+      internalID: 161899272650831421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 327
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0afff03a8ccc400800000000000000
+      internalID: 345871874074321097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_81
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 325
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5f544406b520a20800000000000000
+      internalID: 3027082368566818214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_82
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 326
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42632cb1be1d023d0800000000000000
+      internalID: -3233353724738783708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_83
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 326
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973b6dd85afede1b0800000000000000
+      internalID: -5625576865187581063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_84
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 325
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939af22ad15152980800000000000000
+      internalID: -8564415899355862727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_85
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 325
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afff353033c844450800000000000000
+      internalID: 6072132348329328634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_86
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 322
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5caf87e51a3195ce0800000000000000
+      internalID: -1416079024035661115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_87
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 323
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f77a95fbb9fa6e0800000000000000
+      internalID: -1824068077916553410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_88
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 324
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35690fb96c673a9c0800000000000000
+      internalID: -3917156655490361773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_89
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535e3441553178820800000000000000
+      internalID: 2920324139506197813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_90
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d333c0d21b945d80800000000000000
+      internalID: -8262808911203847207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_91
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 326
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d068eedbe35411700800000000000000
+      internalID: 509264368646391309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_92
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 328
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb37ff16abf56e30800000000000000
+      internalID: 4496276493918747631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_93
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 326
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4ef80ab59438be0800000000000000
+      internalID: -1476255594962754335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_94
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 326
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab8d096f911dca40800000000000000
+      internalID: 5389983705392319401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_95
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 326
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156458992b8270c90800000000000000
+      internalID: -7203744331410880943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_96
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 295
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156e93551ed235870800000000000000
+      internalID: 8670324153439086161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_97
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 294
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b19155850421510800000000000000
+      internalID: 1518346772506286900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_98
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 294
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d68d6135bab3890800000000000000
+      internalID: -7477194382964658856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_99
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 293
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0918e8c277bde9df0800000000000000
+      internalID: -171458430898372208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_100
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 295
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52b2d42875ad76d0800000000000000
+      internalID: -2991052642071694756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_101
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 291
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512b1360a48fa8920800000000000000
+      internalID: 2993477899156304405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_102
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 292
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d70866e13b5fdf0800000000000000
+      internalID: -147014469669585577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_103
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 292
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd78425101ca3ed0800000000000000
+      internalID: -2433420437220721199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_104
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 293
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1286efffdf39c04e0800000000000000
+      internalID: -2014072214210582495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_105
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 293
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8201d2639eb458c30800000000000000
+      internalID: 4360975279186579496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_106
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 296
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c203cef8a7442a350800000000000000
+      internalID: 6026454544566464556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_107
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 294
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48ba3f3d01719090800000000000000
+      internalID: -8029512358915557301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_108
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 294
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f820bcb37a1f7d0800000000000000
+      internalID: -2886342010916925674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_109
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 295
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdabdb70f0986e10800000000000000
+      internalID: 2191160581260291581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_110
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 296
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a8bb8b1cbf99ee0800000000000000
+      internalID: -1253694211799414175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_111
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 296
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e329342b225b965d0800000000000000
+      internalID: -3068722510451994050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_112
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 261
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1cf39728297c0040800000000000000
+      internalID: 4615196931517578266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_113
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 262
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986b4d75eb3252ff0800000000000000
+      internalID: -61603719475317111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_114
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 264
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0569f07fcce31c4e0800000000000000
+      internalID: -1963218912517581232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_115
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 261
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d44e1d3445f0e50800000000000000
+      internalID: 6777728614476827905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_116
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 261
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ada786548dbfbc0800000000000000
+      internalID: -3748164472238581132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_117
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 262
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3779667fd488c60800000000000000
+      internalID: 7820586477902328804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_118
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 260
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdf3984da05bb190800000000000000
+      internalID: -7945668412387885647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_119
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 259
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfd9afa65a7443a0800000000000000
+      internalID: -6682081434378051651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_120
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 260
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e094b2eb57d28b30800000000000000
+      internalID: 4288226584855613669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_121
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 258
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c44f9da0b94d69a0800000000000000
+      internalID: -6238248885662300987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_122
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 263
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f55a2f3ea8b7f80800000000000000
+      internalID: -8107733992517312707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_123
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 263
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688e006f67ea95330800000000000000
+      internalID: 3700180394818201734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_124
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 263
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ea28748b174b8f0800000000000000
+      internalID: -525670220207837630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_125
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 262
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2b6e4c0be3f6790800000000000000
+      internalID: -7534734722628930889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_126
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 263
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8722076cbe2adbb70800000000000000
+      internalID: 8916461970793702008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_127
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 258
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b84b4c4abeab2a0800000000000000
+      internalID: -6720800400989713633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_128
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 230
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8507bea6b51a1e80800000000000000
+      internalID: -8207223496569846386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_129
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 229
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a239bbd0f7a1da0800000000000000
+      internalID: -5973322258795255174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_130
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 229
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60216f06b1eedc600800000000000000
+      internalID: 490309735811518982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_131
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 228
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6632aea882377350800000000000000
+      internalID: 6014331390003394157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_132
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 229
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 183ff089e90bc33b0800000000000000
+      internalID: -5531352047115308159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_133
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 227
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 120c508a13d9b5eb0800000000000000
+      internalID: -4730014147024666591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_134
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 229
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cc55324cb1a9820800000000000000
+      internalID: 2925681437150923800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_135
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 230
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 687069e5e11840200800000000000000
+      internalID: 145383055418591110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_136
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 228
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76420c5faf334aa0800000000000000
+      internalID: -6178024241426708866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_137
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 228
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c919a2ce217f08a40800000000000000
+      internalID: 5368562416469315996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_138
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 229
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3703152bb3ec8e0800000000000000
+      internalID: -1671332774655528032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_139
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 228
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad1a82101db114a0800000000000000
+      internalID: -6624305700157121112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_140
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 230
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df45d08f3d50a98f0800000000000000
+      internalID: -533107197932120835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_141
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 228
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61a93bd31859fab0800000000000000
+      internalID: -4973847471148392083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_142
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 231
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6ef4dc4af0f2950800000000000000
+      internalID: 6426372393774606046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_143
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 228
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a59132edf82c7a0800000000000000
+      internalID: -6358361539659343285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_144
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 196
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd373c56219406bc0800000000000000
+      internalID: -3791950542880410659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_145
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 198
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88056bdfebde55050800000000000000
+      internalID: 5788794300610793608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_146
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 197
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bcef00c686c0e50800000000000000
+      internalID: 6776906352368208738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_147
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 196
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991dbe38f01c58cd0800000000000000
+      internalID: -2556424941080948327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_148
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 193
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8b48ba18e7346c0800000000000000
+      internalID: -4160342535366723415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_149
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 197
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12c7ac7f7be8aca0800000000000000
+      internalID: -6005291170313813474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_150
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 193
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894ae7b2c22360df0800000000000000
+      internalID: -214428766963850088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_151
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 195
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0165b0e0b272a4760800000000000000
+      internalID: 7442804400055866896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_152
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 193
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61141bfbf9a8a8a0800000000000000
+      internalID: -6293593579535986326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_153
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 193
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6ead75ff86b31e0800000000000000
+      internalID: -2217062945649924423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_154
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 195
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fcb4321115acca0800000000000000
+      internalID: -5995890819841929366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_155
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 198
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f61e898b036c1c30800000000000000
+      internalID: 4331445842827155190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_156
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 195
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66370e6a472726300800000000000000
+      internalID: 243883175172928358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_157
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 195
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6121fa0f2fe756a00800000000000000
+      internalID: 749144494912246294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_158
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 195
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b806c02bc6f9db30800000000000000
+      internalID: 4312749470472603829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_159
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 196
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf12d201122ebf080800000000000000
+      internalID: -9152473186067209732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_160
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 164
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d907f47649ed1e00800000000000000
+      internalID: 1017225579674929623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_161
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 164
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf58c9d012c40b80800000000000000
+      internalID: -8429399224901673017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_162
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 164
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56197543e832c6e90800000000000000
+      internalID: -7031205824561704603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_163
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 163
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbd8ba66a65873d0800000000000000
+      internalID: -3208719461746418761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_164
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 162
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f069e948221c87b60800000000000000
+      internalID: 7744151913261602319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_165
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 163
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d1150d7a9bb5a70800000000000000
+      internalID: 8816844825913531675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_166
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 163
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ce5f3662af75ad0800000000000000
+      internalID: -2713425207674672031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_167
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 166
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10843a4603b1b310800000000000000
+      internalID: 1419112197194547231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_168
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 165
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdca1bd7cd37a7b0800000000000000
+      internalID: -5213130115074306612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_169
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 165
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fcaf939602e6ce0800000000000000
+      internalID: -1410153997003993344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_170
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 163
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a0b3ebfb6cc50b0800000000000000
+      internalID: -5738493298344261013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_171
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 167
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26e863533b3f8320800000000000000
+      internalID: 2562331804625856042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_172
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 165
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63080d1409f9849f0800000000000000
+      internalID: -483961518014037962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_173
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 165
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d4620a3bd60afd0800000000000000
+      internalID: -2332743988724478667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_174
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 167
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae0f41009829d4b0800000000000000
+      internalID: -5415252477973950811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_175
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 163
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b0a0ebc451d6220800000000000000
+      internalID: 2480662389101038420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_176
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 133
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 911f31bb30014b6b0800000000000000
+      internalID: -5281578854789156583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_177
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 132
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51d52b58902b7c40800000000000000
+      internalID: 5511034407754256734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_178
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 132
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216d35aee0c7ea790800000000000000
+      internalID: -7516934324532029934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_179
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 132
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3b70ade828b8a60800000000000000
+      internalID: 7677373539838047190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_180
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 132
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc84fa5e5743e8a0800000000000000
+      internalID: -6277094985045865261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_181
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 132
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ffb3c9c0f545740800000000000000
+      internalID: 5139837582502002487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_182
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 135
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70553feeef84c8690800000000000000
+      internalID: -7598618211513051897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_183
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 134
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bafc88896ca80c0800000000000000
+      internalID: -4572624113208677603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_184
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 133
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72148cabad59c27c0800000000000000
+      internalID: -4094733194517528281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_185
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 132
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8197befdf030960800000000000000
+      internalID: 7566909253315270895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_186
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 132
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7df832653b777f30800000000000000
+      internalID: 4573259415829413246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_187
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 133
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef4ea5389128f6f0800000000000000
+      internalID: -650733208535674906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_188
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 133
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6df1f890df6e580800000000000000
+      internalID: -8798066604523923806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_189
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 130
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bb436aa7e3e0320800000000000000
+      internalID: 2526025137496832898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_190
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 132
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9313127a43c959f00800000000000000
+      internalID: 1122975432055009593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_191
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 132
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04815820aac90ec0800000000000000
+      internalID: -3600123637885991922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_192
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 102
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdce9b5b42fb4fec0800000000000000
+      internalID: -3533989643190407969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_193
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 102
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c605be69bb51c830800000000000000
+      internalID: 4089650788613555905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_194
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 102
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b0900744a1218e0800000000000000
+      internalID: -1724286826089739474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_195
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 102
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e2a7d3873d9ed60800000000000000
+      internalID: 7920093933088681623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_196
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 99
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afa41efba492020d0800000000000000
+      internalID: -3449711913542268166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_197
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 99
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742ffe5c12c6fbe60800000000000000
+      internalID: 7980215957034365511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_198
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 100
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5062e98dc4e9610800000000000000
+      internalID: 1629824608404637143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_199
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 101
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a48fefb9d5a6910800000000000000
+      internalID: 1831379123058526869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_200
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 101
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9656d81b4eeec6b40800000000000000
+      internalID: 5434981516328133993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_201
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 101
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cc47116a1101590800000000000000
+      internalID: -7705639557475808251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_202
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 101
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19cff7415af9c2ed0800000000000000
+      internalID: -2437397766951928687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_203
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 99
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4d0bf789a9f0120800000000000000
+      internalID: 2382292707670283485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_204
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 99
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b8f5f9a3bb94f60800000000000000
+      internalID: 8019146471966214927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_205
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 101
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7272428db3ceac890800000000000000
+      internalID: -7436872092875479257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_206
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4c5b498252fbb60800000000000000
+      internalID: 7763965138833884327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_207
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 99
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184b7541f6863e210800000000000000
+      internalID: 1361046338687972481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_208
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 67
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df34d7cc59e250550800000000000000
+      internalID: 6126354089023194109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_209
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 67
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fdac16c83b99c40800000000000000
+      internalID: 5519640233836732196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_210
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 67
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1433feeaa1993dbb0800000000000000
+      internalID: -4912414428647967935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_211
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 69
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd386c2fa44afe10800000000000000
+      internalID: 2232172084470496752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_212
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 72
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf66a67917ea19290800000000000000
+      internalID: -7885329669654157572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_213
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 70
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ed9e6e3f1ea5450800000000000000
+      internalID: 6078419084757294745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_214
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 67
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86f4b5d0fbefda70800000000000000
+      internalID: 8854054812043769482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_215
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 68
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b992af26a1f107ed0800000000000000
+      internalID: -2418398801707783781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_216
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 67
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f4d8bb817adadf0800000000000000
+      internalID: -167293886475186352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_217
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 67
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b514128b56b287c0800000000000000
+      internalID: -4070490609048873547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_218
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 69
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f695415d1aafe5170800000000000000
+      internalID: 8169242347068217711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_219
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 67
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0655b398690e29960800000000000000
+      internalID: 7607389657734272352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_220
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 68
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2776d7d5250df9990800000000000000
+      internalID: -7376948612435187854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_221
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 68
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2156ed269d9adbb60800000000000000
+      internalID: 7763548083788342546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_222
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 72
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ecadd410b9918d0800000000000000
+      internalID: -2875096457195893155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_223
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 68
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33eafa03884e51d30800000000000000
+      internalID: 4401675484408032819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_224
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 36
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea2f2387e647ee9b0800000000000000
+      internalID: -5048970114423917906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_225
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 36
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5205c9a7825f5dc0800000000000000
+      internalID: -3648106430524489122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_226
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 33
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6418b1fde97122950800000000000000
+      internalID: 6422721989699141958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_227
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 34
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525ea83d933aecea0800000000000000
+      internalID: -5850559397150137051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_228
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 38
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dac61c58a4aed30800000000000000
+      internalID: 4461460319200128358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_229
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 38
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c640397e1908e910800000000000000
+      internalID: 1866752072031946438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_230
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 37
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda2d6682cc045ca0800000000000000
+      internalID: -6029179971523761445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_231
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05d1ed74f6c6a2d0800000000000000
+      internalID: -3267705726224444149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_232
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 35
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e348cba48e72b00d0800000000000000
+      internalID: -3455624410436959170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_233
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 37
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46000c2511c01c2f0800000000000000
+      internalID: -954468377483542428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_234
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 37
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a422ccee64f211eb0800000000000000
+      internalID: -4750964150198590902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_235
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 35
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c55cb5309ba16020800000000000000
+      internalID: 2333334717819803072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_236
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 36
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46619f69a82cca520800000000000000
+      internalID: 2714758575891748452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_237
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 36
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1290c03f76ef63a40800000000000000
+      internalID: 5347741329961781537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_238
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 37
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6def6d9b69ed0d3b0800000000000000
+      internalID: -5489643206820299050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_239
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 38
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719953ff26cabf360800000000000000
+      internalID: 7204541570097715479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_240
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282367639b38fa490800000000000000
+      internalID: -7732817203665948030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_241
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 7
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1adf7dbe52ae250800000000000000
+      internalID: 5974629550531649992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_242
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 5
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff704eb80c045260800000000000000
+      internalID: 7085301345451802622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_243
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 7
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71af5ddcc2afb940800000000000000
+      internalID: 5314145086091534718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Yellow_244
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 5
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8462b583d67450bf0800000000000000
+      internalID: -358802060883581368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Ring_Yellow_0: 2552466063879704436
+      SS_Ring_Yellow_1: 4716312670594668301
+      SS_Ring_Yellow_10: -8551781289330798225
+      SS_Ring_Yellow_100: -2991052642071694756
+      SS_Ring_Yellow_101: 2993477899156304405
+      SS_Ring_Yellow_102: -147014469669585577
+      SS_Ring_Yellow_103: -2433420437220721199
+      SS_Ring_Yellow_104: -2014072214210582495
+      SS_Ring_Yellow_105: 4360975279186579496
+      SS_Ring_Yellow_106: 6026454544566464556
+      SS_Ring_Yellow_107: -8029512358915557301
+      SS_Ring_Yellow_108: -2886342010916925674
+      SS_Ring_Yellow_109: 2191160581260291581
+      SS_Ring_Yellow_11: -9043975402170446438
+      SS_Ring_Yellow_110: -1253694211799414175
+      SS_Ring_Yellow_111: -3068722510451994050
+      SS_Ring_Yellow_112: 4615196931517578266
+      SS_Ring_Yellow_113: -61603719475317111
+      SS_Ring_Yellow_114: -1963218912517581232
+      SS_Ring_Yellow_115: 6777728614476827905
+      SS_Ring_Yellow_116: -3748164472238581132
+      SS_Ring_Yellow_117: 7820586477902328804
+      SS_Ring_Yellow_118: -7945668412387885647
+      SS_Ring_Yellow_119: -6682081434378051651
+      SS_Ring_Yellow_12: 6149705865916718564
+      SS_Ring_Yellow_120: 4288226584855613669
+      SS_Ring_Yellow_121: -6238248885662300987
+      SS_Ring_Yellow_122: -8107733992517312707
+      SS_Ring_Yellow_123: 3700180394818201734
+      SS_Ring_Yellow_124: -525670220207837630
+      SS_Ring_Yellow_125: -7534734722628930889
+      SS_Ring_Yellow_126: 8916461970793702008
+      SS_Ring_Yellow_127: -6720800400989713633
+      SS_Ring_Yellow_128: -8207223496569846386
+      SS_Ring_Yellow_129: -5973322258795255174
+      SS_Ring_Yellow_13: 5062719573183947028
+      SS_Ring_Yellow_130: 490309735811518982
+      SS_Ring_Yellow_131: 6014331390003394157
+      SS_Ring_Yellow_132: -5531352047115308159
+      SS_Ring_Yellow_133: -4730014147024666591
+      SS_Ring_Yellow_134: 2925681437150923800
+      SS_Ring_Yellow_135: 145383055418591110
+      SS_Ring_Yellow_136: -6178024241426708866
+      SS_Ring_Yellow_137: 5368562416469315996
+      SS_Ring_Yellow_138: -1671332774655528032
+      SS_Ring_Yellow_139: -6624305700157121112
+      SS_Ring_Yellow_14: 1478566587530466680
+      SS_Ring_Yellow_140: -533107197932120835
+      SS_Ring_Yellow_141: -4973847471148392083
+      SS_Ring_Yellow_142: 6426372393774606046
+      SS_Ring_Yellow_143: -6358361539659343285
+      SS_Ring_Yellow_144: -3791950542880410659
+      SS_Ring_Yellow_145: 5788794300610793608
+      SS_Ring_Yellow_146: 6776906352368208738
+      SS_Ring_Yellow_147: -2556424941080948327
+      SS_Ring_Yellow_148: -4160342535366723415
+      SS_Ring_Yellow_149: -6005291170313813474
+      SS_Ring_Yellow_15: 4740928778783594285
+      SS_Ring_Yellow_150: -214428766963850088
+      SS_Ring_Yellow_151: 7442804400055866896
+      SS_Ring_Yellow_152: -6293593579535986326
+      SS_Ring_Yellow_153: -2217062945649924423
+      SS_Ring_Yellow_154: -5995890819841929366
+      SS_Ring_Yellow_155: 4331445842827155190
+      SS_Ring_Yellow_156: 243883175172928358
+      SS_Ring_Yellow_157: 749144494912246294
+      SS_Ring_Yellow_158: 4312749470472603829
+      SS_Ring_Yellow_159: -9152473186067209732
+      SS_Ring_Yellow_16: -8127144796185181041
+      SS_Ring_Yellow_160: 1017225579674929623
+      SS_Ring_Yellow_161: -8429399224901673017
+      SS_Ring_Yellow_162: -7031205824561704603
+      SS_Ring_Yellow_163: -3208719461746418761
+      SS_Ring_Yellow_164: 7744151913261602319
+      SS_Ring_Yellow_165: 8816844825913531675
+      SS_Ring_Yellow_166: -2713425207674672031
+      SS_Ring_Yellow_167: 1419112197194547231
+      SS_Ring_Yellow_168: -5213130115074306612
+      SS_Ring_Yellow_169: -1410153997003993344
+      SS_Ring_Yellow_17: -8973539976788354538
+      SS_Ring_Yellow_170: -5738493298344261013
+      SS_Ring_Yellow_171: 2562331804625856042
+      SS_Ring_Yellow_172: -483961518014037962
+      SS_Ring_Yellow_173: -2332743988724478667
+      SS_Ring_Yellow_174: -5415252477973950811
+      SS_Ring_Yellow_175: 2480662389101038420
+      SS_Ring_Yellow_176: -5281578854789156583
+      SS_Ring_Yellow_177: 5511034407754256734
+      SS_Ring_Yellow_178: -7516934324532029934
+      SS_Ring_Yellow_179: 7677373539838047190
+      SS_Ring_Yellow_18: -6026490257822726215
+      SS_Ring_Yellow_180: -6277094985045865261
+      SS_Ring_Yellow_181: 5139837582502002487
+      SS_Ring_Yellow_182: -7598618211513051897
+      SS_Ring_Yellow_183: -4572624113208677603
+      SS_Ring_Yellow_184: -4094733194517528281
+      SS_Ring_Yellow_185: 7566909253315270895
+      SS_Ring_Yellow_186: 4573259415829413246
+      SS_Ring_Yellow_187: -650733208535674906
+      SS_Ring_Yellow_188: -8798066604523923806
+      SS_Ring_Yellow_189: 2526025137496832898
+      SS_Ring_Yellow_19: 1996034276156986649
+      SS_Ring_Yellow_190: 1122975432055009593
+      SS_Ring_Yellow_191: -3600123637885991922
+      SS_Ring_Yellow_192: -3533989643190407969
+      SS_Ring_Yellow_193: 4089650788613555905
+      SS_Ring_Yellow_194: -1724286826089739474
+      SS_Ring_Yellow_195: 7920093933088681623
+      SS_Ring_Yellow_196: -3449711913542268166
+      SS_Ring_Yellow_197: 7980215957034365511
+      SS_Ring_Yellow_198: 1629824608404637143
+      SS_Ring_Yellow_199: 1831379123058526869
+      SS_Ring_Yellow_2: -1391419691557402759
+      SS_Ring_Yellow_20: -3843530951067974230
+      SS_Ring_Yellow_200: 5434981516328133993
+      SS_Ring_Yellow_201: -7705639557475808251
+      SS_Ring_Yellow_202: -2437397766951928687
+      SS_Ring_Yellow_203: 2382292707670283485
+      SS_Ring_Yellow_204: 8019146471966214927
+      SS_Ring_Yellow_205: -7436872092875479257
+      SS_Ring_Yellow_206: 7763965138833884327
+      SS_Ring_Yellow_207: 1361046338687972481
+      SS_Ring_Yellow_208: 6126354089023194109
+      SS_Ring_Yellow_209: 5519640233836732196
+      SS_Ring_Yellow_21: -5997443300703539938
+      SS_Ring_Yellow_210: -4912414428647967935
+      SS_Ring_Yellow_211: 2232172084470496752
+      SS_Ring_Yellow_212: -7885329669654157572
+      SS_Ring_Yellow_213: 6078419084757294745
+      SS_Ring_Yellow_214: 8854054812043769482
+      SS_Ring_Yellow_215: -2418398801707783781
+      SS_Ring_Yellow_216: -167293886475186352
+      SS_Ring_Yellow_217: -4070490609048873547
+      SS_Ring_Yellow_218: 8169242347068217711
+      SS_Ring_Yellow_219: 7607389657734272352
+      SS_Ring_Yellow_22: -5205935251671520311
+      SS_Ring_Yellow_220: -7376948612435187854
+      SS_Ring_Yellow_221: 7763548083788342546
+      SS_Ring_Yellow_222: -2875096457195893155
+      SS_Ring_Yellow_223: 4401675484408032819
+      SS_Ring_Yellow_224: -5048970114423917906
+      SS_Ring_Yellow_225: -3648106430524489122
+      SS_Ring_Yellow_226: 6422721989699141958
+      SS_Ring_Yellow_227: -5850559397150137051
+      SS_Ring_Yellow_228: 4461460319200128358
+      SS_Ring_Yellow_229: 1866752072031946438
+      SS_Ring_Yellow_23: 8613421465415598357
+      SS_Ring_Yellow_230: -6029179971523761445
+      SS_Ring_Yellow_231: -3267705726224444149
+      SS_Ring_Yellow_232: -3455624410436959170
+      SS_Ring_Yellow_233: -954468377483542428
+      SS_Ring_Yellow_234: -4750964150198590902
+      SS_Ring_Yellow_235: 2333334717819803072
+      SS_Ring_Yellow_236: 2714758575891748452
+      SS_Ring_Yellow_237: 5347741329961781537
+      SS_Ring_Yellow_238: -5489643206820299050
+      SS_Ring_Yellow_239: 7204541570097715479
+      SS_Ring_Yellow_24: 536516637820460667
+      SS_Ring_Yellow_240: -7732817203665948030
+      SS_Ring_Yellow_241: 5974629550531649992
+      SS_Ring_Yellow_242: 7085301345451802622
+      SS_Ring_Yellow_243: 5314145086091534718
+      SS_Ring_Yellow_244: -358802060883581368
+      SS_Ring_Yellow_25: -1840502818500399579
+      SS_Ring_Yellow_26: -2835496291621950756
+      SS_Ring_Yellow_27: 8787339714680553334
+      SS_Ring_Yellow_28: 2463746309196570174
+      SS_Ring_Yellow_29: -7529244757523172625
+      SS_Ring_Yellow_3: 5848218812684919257
+      SS_Ring_Yellow_30: -8435551092492270017
+      SS_Ring_Yellow_31: -1761574036360240585
+      SS_Ring_Yellow_32: 6375599405993872070
+      SS_Ring_Yellow_33: 4776241291979894455
+      SS_Ring_Yellow_34: 1170561517209981538
+      SS_Ring_Yellow_35: 4398124637823740444
+      SS_Ring_Yellow_36: 8065757738751155019
+      SS_Ring_Yellow_37: 2782421026344637348
+      SS_Ring_Yellow_38: -2151077626477062123
+      SS_Ring_Yellow_39: 6838761189496259572
+      SS_Ring_Yellow_4: -4967591522606607158
+      SS_Ring_Yellow_40: -5517463535853158769
+      SS_Ring_Yellow_41: 449377381472582093
+      SS_Ring_Yellow_42: 2503583232654376708
+      SS_Ring_Yellow_43: 8061912691419806661
+      SS_Ring_Yellow_44: -6799704744725160411
+      SS_Ring_Yellow_45: 7749618015633117994
+      SS_Ring_Yellow_46: 3494729743282321734
+      SS_Ring_Yellow_47: -3635078680983593587
+      SS_Ring_Yellow_48: 205204263843739835
+      SS_Ring_Yellow_49: 8510045173161880163
+      SS_Ring_Yellow_5: -2806638596357931240
+      SS_Ring_Yellow_50: -7980993388208402594
+      SS_Ring_Yellow_51: 7133929059326972358
+      SS_Ring_Yellow_52: -8485578603205293230
+      SS_Ring_Yellow_53: -9203764198407245724
+      SS_Ring_Yellow_54: 4696923257976051228
+      SS_Ring_Yellow_55: -197267560327643074
+      SS_Ring_Yellow_56: 2376973561203820455
+      SS_Ring_Yellow_57: -4137684633026692374
+      SS_Ring_Yellow_58: 9197052651582294981
+      SS_Ring_Yellow_59: 1295703952346887068
+      SS_Ring_Yellow_6: -1274273191383860930
+      SS_Ring_Yellow_60: -1040997452654758029
+      SS_Ring_Yellow_61: -1009022058736675294
+      SS_Ring_Yellow_62: -7499166981808100370
+      SS_Ring_Yellow_63: -6052133632571903357
+      SS_Ring_Yellow_64: 4867342548523069576
+      SS_Ring_Yellow_65: -2872913072438754409
+      SS_Ring_Yellow_66: 5453802484032770682
+      SS_Ring_Yellow_67: 5018949098884910540
+      SS_Ring_Yellow_68: -5462919012806236703
+      SS_Ring_Yellow_69: -6259949205019766967
+      SS_Ring_Yellow_7: -4535220196649210917
+      SS_Ring_Yellow_70: 704994771233812197
+      SS_Ring_Yellow_71: 1688666543156987252
+      SS_Ring_Yellow_72: 7802465631373795687
+      SS_Ring_Yellow_73: 2265642686278406693
+      SS_Ring_Yellow_74: 4471468018766073266
+      SS_Ring_Yellow_75: 7469902031398774405
+      SS_Ring_Yellow_76: -2028307723473459755
+      SS_Ring_Yellow_77: 6593877866240291156
+      SS_Ring_Yellow_78: 2789618585965156874
+      SS_Ring_Yellow_79: 161899272650831421
+      SS_Ring_Yellow_8: 8277291233962182959
+      SS_Ring_Yellow_80: 345871874074321097
+      SS_Ring_Yellow_81: 3027082368566818214
+      SS_Ring_Yellow_82: -3233353724738783708
+      SS_Ring_Yellow_83: -5625576865187581063
+      SS_Ring_Yellow_84: -8564415899355862727
+      SS_Ring_Yellow_85: 6072132348329328634
+      SS_Ring_Yellow_86: -1416079024035661115
+      SS_Ring_Yellow_87: -1824068077916553410
+      SS_Ring_Yellow_88: -3917156655490361773
+      SS_Ring_Yellow_89: 2920324139506197813
+      SS_Ring_Yellow_9: -4524544444714329056
+      SS_Ring_Yellow_90: -8262808911203847207
+      SS_Ring_Yellow_91: 509264368646391309
+      SS_Ring_Yellow_92: 4496276493918747631
+      SS_Ring_Yellow_93: -1476255594962754335
+      SS_Ring_Yellow_94: 5389983705392319401
+      SS_Ring_Yellow_95: -7203744331410880943
+      SS_Ring_Yellow_96: 8670324153439086161
+      SS_Ring_Yellow_97: 1518346772506286900
+      SS_Ring_Yellow_98: -7477194382964658856
+      SS_Ring_Yellow_99: -171458430898372208
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

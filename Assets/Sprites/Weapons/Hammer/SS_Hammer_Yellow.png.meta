@@ -1,0 +1,3250 @@
+fileFormatVersion: 2
+guid: daf635d5c6d9c994586f1f9f1e6c801d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2785709802968194930
+    second: SS_Hammer_Yellow_0
+  - first:
+      213: -4497056171153174310
+    second: SS_Hammer_Yellow_1
+  - first:
+      213: -4984464518527380831
+    second: SS_Hammer_Yellow_2
+  - first:
+      213: -3553001770634337721
+    second: SS_Hammer_Yellow_3
+  - first:
+      213: -5480331721703908120
+    second: SS_Hammer_Yellow_4
+  - first:
+      213: 6101187799870067788
+    second: SS_Hammer_Yellow_5
+  - first:
+      213: -5165415826745737387
+    second: SS_Hammer_Yellow_6
+  - first:
+      213: 5796937133977300377
+    second: SS_Hammer_Yellow_7
+  - first:
+      213: 2686425736920452885
+    second: SS_Hammer_Yellow_8
+  - first:
+      213: -4633977721144953909
+    second: SS_Hammer_Yellow_9
+  - first:
+      213: 3357967180104419190
+    second: SS_Hammer_Yellow_10
+  - first:
+      213: 4136430622506990655
+    second: SS_Hammer_Yellow_11
+  - first:
+      213: 1444288744503021197
+    second: SS_Hammer_Yellow_12
+  - first:
+      213: 7356345699726920575
+    second: SS_Hammer_Yellow_13
+  - first:
+      213: -6381278588324886289
+    second: SS_Hammer_Yellow_14
+  - first:
+      213: 8541269871017889925
+    second: SS_Hammer_Yellow_15
+  - first:
+      213: -454146095679765172
+    second: SS_Hammer_Yellow_16
+  - first:
+      213: -4160603473621414584
+    second: SS_Hammer_Yellow_17
+  - first:
+      213: -2806072433743318693
+    second: SS_Hammer_Yellow_18
+  - first:
+      213: 7027765181088290290
+    second: SS_Hammer_Yellow_19
+  - first:
+      213: -1344406720990770425
+    second: SS_Hammer_Yellow_20
+  - first:
+      213: -1376871986945193423
+    second: SS_Hammer_Yellow_21
+  - first:
+      213: 1776864636789084563
+    second: SS_Hammer_Yellow_22
+  - first:
+      213: -7945058884873850455
+    second: SS_Hammer_Yellow_23
+  - first:
+      213: -7565403503904939905
+    second: SS_Hammer_Yellow_24
+  - first:
+      213: 7067904868851058908
+    second: SS_Hammer_Yellow_25
+  - first:
+      213: -4623587947526109600
+    second: SS_Hammer_Yellow_26
+  - first:
+      213: 7843397143496492402
+    second: SS_Hammer_Yellow_27
+  - first:
+      213: -3728892282669992218
+    second: SS_Hammer_Yellow_28
+  - first:
+      213: 2778913951540451276
+    second: SS_Hammer_Yellow_29
+  - first:
+      213: 2937284685866020636
+    second: SS_Hammer_Yellow_30
+  - first:
+      213: -5546020407875188396
+    second: SS_Hammer_Yellow_31
+  - first:
+      213: 4370003498231914546
+    second: SS_Hammer_Yellow_32
+  - first:
+      213: 2544608770703192302
+    second: SS_Hammer_Yellow_33
+  - first:
+      213: 2646022669251690729
+    second: SS_Hammer_Yellow_34
+  - first:
+      213: -2867411727562113392
+    second: SS_Hammer_Yellow_35
+  - first:
+      213: 3663428604164681019
+    second: SS_Hammer_Yellow_36
+  - first:
+      213: 7480743008565662076
+    second: SS_Hammer_Yellow_37
+  - first:
+      213: 617061202756173287
+    second: SS_Hammer_Yellow_38
+  - first:
+      213: -7437951384388200041
+    second: SS_Hammer_Yellow_39
+  - first:
+      213: -6866139737281612916
+    second: SS_Hammer_Yellow_40
+  - first:
+      213: 7630254977929340011
+    second: SS_Hammer_Yellow_41
+  - first:
+      213: -8629539303982019127
+    second: SS_Hammer_Yellow_42
+  - first:
+      213: 6635906886147323556
+    second: SS_Hammer_Yellow_43
+  - first:
+      213: -6274010919676522868
+    second: SS_Hammer_Yellow_44
+  - first:
+      213: 7486369420172042570
+    second: SS_Hammer_Yellow_45
+  - first:
+      213: -6126930522113625576
+    second: SS_Hammer_Yellow_46
+  - first:
+      213: -5857809616760734779
+    second: SS_Hammer_Yellow_47
+  - first:
+      213: -2370787811431236585
+    second: SS_Hammer_Yellow_48
+  - first:
+      213: -6145023447403756607
+    second: SS_Hammer_Yellow_49
+  - first:
+      213: 7623208642590108072
+    second: SS_Hammer_Yellow_50
+  - first:
+      213: 3944140337246612365
+    second: SS_Hammer_Yellow_51
+  - first:
+      213: -4663637279405470446
+    second: SS_Hammer_Yellow_52
+  - first:
+      213: 151092892963710846
+    second: SS_Hammer_Yellow_53
+  - first:
+      213: -5735707838431821145
+    second: SS_Hammer_Yellow_54
+  - first:
+      213: -8094984464174660030
+    second: SS_Hammer_Yellow_55
+  - first:
+      213: 3925480318421390930
+    second: SS_Hammer_Yellow_56
+  - first:
+      213: 7898012905899633131
+    second: SS_Hammer_Yellow_57
+  - first:
+      213: 1898850587611620912
+    second: SS_Hammer_Yellow_58
+  - first:
+      213: 3285815972667977460
+    second: SS_Hammer_Yellow_59
+  - first:
+      213: 3803950056712307062
+    second: SS_Hammer_Yellow_60
+  - first:
+      213: 590527338514281460
+    second: SS_Hammer_Yellow_61
+  - first:
+      213: 1210529000066357816
+    second: SS_Hammer_Yellow_62
+  - first:
+      213: -6495507476277416802
+    second: SS_Hammer_Yellow_63
+  - first:
+      213: -553365271725213510
+    second: SS_Hammer_Yellow_64
+  - first:
+      213: -6137186925164772137
+    second: SS_Hammer_Yellow_65
+  - first:
+      213: 4483177461036224475
+    second: SS_Hammer_Yellow_66
+  - first:
+      213: 4572101036115036741
+    second: SS_Hammer_Yellow_67
+  - first:
+      213: -5866327388460888820
+    second: SS_Hammer_Yellow_68
+  - first:
+      213: 494597157647415634
+    second: SS_Hammer_Yellow_69
+  - first:
+      213: 7458535357157575467
+    second: SS_Hammer_Yellow_70
+  - first:
+      213: 4046210492321087510
+    second: SS_Hammer_Yellow_71
+  - first:
+      213: -9122468955046312845
+    second: SS_Hammer_Yellow_72
+  - first:
+      213: -3032756307901860379
+    second: SS_Hammer_Yellow_73
+  - first:
+      213: -3071514496903413697
+    second: SS_Hammer_Yellow_74
+  - first:
+      213: 2180188448745056214
+    second: SS_Hammer_Yellow_75
+  - first:
+      213: 667624704184452023
+    second: SS_Hammer_Yellow_76
+  - first:
+      213: 6539160704309030113
+    second: SS_Hammer_Yellow_77
+  - first:
+      213: 1247773007433296201
+    second: SS_Hammer_Yellow_78
+  - first:
+      213: -7539934207371179595
+    second: SS_Hammer_Yellow_79
+  - first:
+      213: 6766418200367431344
+    second: SS_Hammer_Yellow_80
+  - first:
+      213: 1190657964442349764
+    second: SS_Hammer_Yellow_81
+  - first:
+      213: 7305729725989082801
+    second: SS_Hammer_Yellow_82
+  - first:
+      213: -5409721942410784432
+    second: SS_Hammer_Yellow_83
+  - first:
+      213: -551353557963125852
+    second: SS_Hammer_Yellow_84
+  - first:
+      213: -4145155277227544533
+    second: SS_Hammer_Yellow_85
+  - first:
+      213: -5245104164574236802
+    second: SS_Hammer_Yellow_86
+  - first:
+      213: 5805218039905629370
+    second: SS_Hammer_Yellow_87
+  - first:
+      213: 2764495658944639792
+    second: SS_Hammer_Yellow_88
+  - first:
+      213: 2550050351668266979
+    second: SS_Hammer_Yellow_89
+  - first:
+      213: 6313984440547404032
+    second: SS_Hammer_Yellow_90
+  - first:
+      213: -1574752716769791657
+    second: SS_Hammer_Yellow_91
+  - first:
+      213: 4489994426671367608
+    second: SS_Hammer_Yellow_92
+  - first:
+      213: 7188062324288531488
+    second: SS_Hammer_Yellow_93
+  - first:
+      213: -7059430045086330484
+    second: SS_Hammer_Yellow_94
+  - first:
+      213: -5197372111283933265
+    second: SS_Hammer_Yellow_95
+  - first:
+      213: -2330086414284055813
+    second: SS_Hammer_Yellow_96
+  - first:
+      213: -4426763949903071092
+    second: SS_Hammer_Yellow_97
+  - first:
+      213: 7742313745272230633
+    second: SS_Hammer_Yellow_98
+  - first:
+      213: -1665659441060338539
+    second: SS_Hammer_Yellow_99
+  - first:
+      213: 718334304323230049
+    second: SS_Hammer_Yellow_100
+  - first:
+      213: -4267354758961430337
+    second: SS_Hammer_Yellow_101
+  - first:
+      213: -3057118153996524384
+    second: SS_Hammer_Yellow_102
+  - first:
+      213: -6661458324167308848
+    second: SS_Hammer_Yellow_103
+  - first:
+      213: 4973500724012684564
+    second: SS_Hammer_Yellow_104
+  - first:
+      213: -1985504183265271141
+    second: SS_Hammer_Yellow_105
+  - first:
+      213: 6290096809273621183
+    second: SS_Hammer_Yellow_106
+  - first:
+      213: -1631866573694073363
+    second: SS_Hammer_Yellow_107
+  - first:
+      213: -8705189045988753047
+    second: SS_Hammer_Yellow_108
+  - first:
+      213: 3086719553172566600
+    second: SS_Hammer_Yellow_109
+  - first:
+      213: -4532581051116993613
+    second: SS_Hammer_Yellow_110
+  - first:
+      213: -1431326620141103560
+    second: SS_Hammer_Yellow_111
+  - first:
+      213: -1549519065812762261
+    second: SS_Hammer_Yellow_112
+  - first:
+      213: 6194368790062012321
+    second: SS_Hammer_Yellow_113
+  - first:
+      213: -7767786140953342392
+    second: SS_Hammer_Yellow_114
+  - first:
+      213: 3520069678849809573
+    second: SS_Hammer_Yellow_115
+  - first:
+      213: 4393417676346135799
+    second: SS_Hammer_Yellow_116
+  - first:
+      213: -5582130475836318038
+    second: SS_Hammer_Yellow_117
+  - first:
+      213: -657313933371412319
+    second: SS_Hammer_Yellow_118
+  - first:
+      213: -2797152391527328566
+    second: SS_Hammer_Yellow_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 322
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f1e357e44d8a620800000000000000
+      internalID: 2785709802968194930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 322
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0df6f1d3f3791c0800000000000000
+      internalID: -4497056171153174310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 322
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a213a1edef93dab0800000000000000
+      internalID: -4984464518527380831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 322
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742a107d6b331bec0800000000000000
+      internalID: -3553001770634337721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 321
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ec988cc553f1f3b0800000000000000
+      internalID: -5480331721703908120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 321
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44d33f7af5cba450800000000000000
+      internalID: 6101187799870067788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 321
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fb3a15ca1c058b0800000000000000
+      internalID: -5165415826745737387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 321
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99decff1c9bd27050800000000000000
+      internalID: 5796937133977300377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 321
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f4c9479f9184520800000000000000
+      internalID: 2686425736920452885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 320
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3b41280ddc0bfb0800000000000000
+      internalID: -4633977721144953909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 321
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6774b89eb55e99e20800000000000000
+      internalID: 3357967180104419190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 289
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3cb3944cbd876930800000000000000
+      internalID: 4136430622506990655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 289
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e823106f42b0410800000000000000
+      internalID: 1444288744503021197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 290
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b0235307df61660800000000000000
+      internalID: 7356345699726920575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 290
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe8c612fee42177a0800000000000000
+      internalID: -6381278588324886289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 289
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58094c0b1bfa88670800000000000000
+      internalID: 8541269871017889925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 288
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4580ea388c82b9f0800000000000000
+      internalID: -454146095679765172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 289
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d0a8f3f219246c0800000000000000
+      internalID: -4160603473621414584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 289
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51b6bc1df3de09d0800000000000000
+      internalID: -2806072433743318693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_19
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 289
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f550af8233a78160800000000000000
+      internalID: 7027765181088290290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_20
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 289
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b82b1d535b75de0800000000000000
+      internalID: -1344406720990770425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_21
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 289
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a02fc093e54ece0800000000000000
+      internalID: -1376871986945193423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 258
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39154c119f0b8a810800000000000000
+      internalID: 1776864636789084563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 257
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a17887f90b7db190800000000000000
+      internalID: -7945058884873850455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 258
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70204fa899420790800000000000000
+      internalID: -7565403503904939905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 258
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd80f16e70e361260800000000000000
+      internalID: 7067904868851058908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 257
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066cdef2247b5dfb0800000000000000
+      internalID: -4623587947526109600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 257
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2750c6a552859dc60800000000000000
+      internalID: 7843397143496492402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 257
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e672c5b930504cc0800000000000000
+      internalID: -3728892282669992218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_29
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 258
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc712fef38fa09620800000000000000
+      internalID: 2778913951540451276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_30
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 257
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f2d310cd453c820800000000000000
+      internalID: 2937284685866020636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_31
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 258
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4594887b2d39803b0800000000000000
+      internalID: -5546020407875188396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_32
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 258
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230e353470f55ac30800000000000000
+      internalID: 4370003498231914546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 225
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee07b1ee134405320800000000000000
+      internalID: 2544608770703192302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_34
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 225
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e0c064399f88b420800000000000000
+      internalID: 2646022669251690729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_35
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 225
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09efed9d938e438d0800000000000000
+      internalID: -2867411727562113392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_36
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 225
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3dad33e7ec17d230800000000000000
+      internalID: 3663428604164681019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_37
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 225
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c711b81b120f0d760800000000000000
+      internalID: 7480743008565662076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_38
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 225
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7edf4f205ed309800800000000000000
+      internalID: 617061202756173287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 225
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7999ae4bf9617c890800000000000000
+      internalID: -7437951384388200041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_40
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 226
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83b22d894296b0a0800000000000000
+      internalID: -6866139737281612916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_41
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 225
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b646221c97c14e960800000000000000
+      internalID: 7630254977929340011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_42
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 225
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd41ea69b7bd3880800000000000000
+      internalID: -8629539303982019127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_43
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 226
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a63167872a771c50800000000000000
+      internalID: 6635906886147323556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 194
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8e42c74f4c3ee8a0800000000000000
+      internalID: -6274010919676522868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_45
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 194
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41a3bab25de4e760800000000000000
+      internalID: 7486369420172042570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 193
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8123be9e625c8faa0800000000000000
+      internalID: -6126930522113625576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_47
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 194
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbfb178031e4bea0800000000000000
+      internalID: -5857809616760734779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_48
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 193
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cb0d5eb05491fd0800000000000000
+      internalID: -2370787811431236585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_49
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 193
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c38d097bbd78baa0800000000000000
+      internalID: -6145023447403756607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_50
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 194
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a96546fed31bc960800000000000000
+      internalID: 7623208642590108072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_51
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 193
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bafd16db66cb630800000000000000
+      internalID: 3944140337246612365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_52
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 193
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d84c77a9e674fb0800000000000000
+      internalID: -4663637279405470446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_53
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 194
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7720358f2ac81200800000000000000
+      internalID: 151092892963710846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 193
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a209da2c1ca660b0800000000000000
+      internalID: -5735707838431821145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 162
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2464096d486d8af80800000000000000
+      internalID: -8094984464174660030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_56
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 161
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2565b403d8b1a7630800000000000000
+      internalID: 3925480318421390930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_57
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 161
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9299774e06b9d60800000000000000
+      internalID: 7898012905899633131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_58
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 161
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036e1248c821a5a10800000000000000
+      internalID: 1898850587611620912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_59
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 161
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4feed28d730999d20800000000000000
+      internalID: 3285815972667977460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_60
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 162
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6710aa12c685ac430800000000000000
+      internalID: 3803950056712307062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_61
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 163
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f3fc425c79f13800800000000000000
+      internalID: 590527338514281460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_62
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 162
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a934f36b9acc010800000000000000
+      internalID: 1210529000066357816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_63
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 164
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c27907d525bd5a0800000000000000
+      internalID: -6495507476277416802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_64
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 163
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8f7cb973d0258f0800000000000000
+      internalID: -553365271725213510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_65
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 163
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4c16df10554daa0800000000000000
+      internalID: -6137186925164772137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_66
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 132
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf0a1ed522773e30800000000000000
+      internalID: 4483177461036224475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_67
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 131
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a05d61bad537f30800000000000000
+      internalID: 4572101036115036741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_68
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 132
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dc4a2425e969ea0800000000000000
+      internalID: -5866327388460888820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_69
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 132
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259fd709e792dd600800000000000000
+      internalID: 494597157647415634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_70
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 131
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b811ce36a028760800000000000000
+      internalID: 7458535357157575467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_71
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 131
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610c1494107072830800000000000000
+      internalID: 4046210492321087510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_72
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 132
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3748feb71da766180800000000000000
+      internalID: -9122468955046312845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_73
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 131
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e53f29c43c79e5d0800000000000000
+      internalID: -3032756307901860379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_74
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 131
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f300c91b6d9cf55d0800000000000000
+      internalID: -3071514496903413697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_75
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 131
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7ebdec7d5914e10800000000000000
+      internalID: 2180188448745056214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_76
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 132
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b380389121e34900800000000000000
+      internalID: 667624704184452023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_77
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 99
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec688db304cfba50800000000000000
+      internalID: 6539160704309030113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_78
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 100
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949e16470faf05110800000000000000
+      internalID: 1247773007433296201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_79
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 99
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b903d369c5cc5790800000000000000
+      internalID: -7539934207371179595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_80
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 101
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be73a2d08527ed50800000000000000
+      internalID: 6766418200367431344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_81
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 100
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0739b3c11168010800000000000000
+      internalID: 1190657964442349764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_82
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 99
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b657967a7a236560800000000000000
+      internalID: 7305729725989082801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_83
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 99
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05118f82e8ecce4b0800000000000000
+      internalID: -5409721942410784432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_84
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 100
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abc5f73cd23958f0800000000000000
+      internalID: -551353557963125852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_85
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 99
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b203402cc337976c0800000000000000
+      internalID: -4145155277227544533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 97
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f61a45d85a537b0800000000000000
+      internalID: -5245104164574236802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_87
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 97
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4b348cc07409050800000000000000
+      internalID: 5805218039905629370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_88
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0333186a7267d5620800000000000000
+      internalID: 2764495658944639792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_89
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 67
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e70c8ab849936320800000000000000
+      internalID: 2550050351668266979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_90
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 67
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009eb205567cf9750800000000000000
+      internalID: 6313984440547404032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_91
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 67
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751fadb5fba552ae0800000000000000
+      internalID: -1574752716769791657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_92
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 66
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b50b3d542aaf4e30800000000000000
+      internalID: 4489994426671367608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_93
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 66
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c2696999021c360800000000000000
+      internalID: 7188062324288531488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_94
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 67
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81d8e5c6cdd70e90800000000000000
+      internalID: -7059430045086330484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_95
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 67
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf26650a993fd7b0800000000000000
+      internalID: -5197372111283933265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_96
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 66
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa92a460ced9afd0800000000000000
+      internalID: -2330086414284055813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_97
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 66
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88b58d34a9f092c0800000000000000
+      internalID: -4426763949903071092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_98
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 66
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2539ea459327b60800000000000000
+      internalID: 7742313745272230633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_99
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 34
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594a2da309362e8e0800000000000000
+      internalID: -1665659441060338539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 34
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169d92f6e3908f900800000000000000
+      internalID: 718334304323230049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_101
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 35
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb00885c47f47c4c0800000000000000
+      internalID: -4267354758961430337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_102
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 36
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a4a3aa7c3fe295d0800000000000000
+      internalID: -3057118153996524384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_103
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 34
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d940f5b2febd83a0800000000000000
+      internalID: -6661458324167308848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_104
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 33
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4159ce8ce8c650540800000000000000
+      internalID: 4973500724012684564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 34
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92eb6807721274e0800000000000000
+      internalID: -1985504183265271141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_106
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 33
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba729fb8b9ea4750800000000000000
+      internalID: 6290096809273621183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_107
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 34
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5812a4ff17a59e0800000000000000
+      internalID: -1631866573694073363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_108
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 33
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961083b4fa4f03780800000000000000
+      internalID: -8705189045988753047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_109
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 35
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8427a18541b36da20800000000000000
+      internalID: 3086719553172566600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_110
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b341847c890911c0800000000000000
+      internalID: -4532581051116993613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_111
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836dde0c508e22ce0800000000000000
+      internalID: -1431326620141103560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_112
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 3
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61098d8e900f7ae0800000000000000
+      internalID: -1549519065812762261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_113
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7996b6891d6f550800000000000000
+      internalID: 6194368790062012321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_114
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e064909a7433490800000000000000
+      internalID: -7767786140953342392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_115
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 3
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac577809bcc9d030800000000000000
+      internalID: 3520069678849809573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_116
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4988c691e88fc30800000000000000
+      internalID: 4393417676346135799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaed4e958e94882b0800000000000000
+      internalID: -5582130475836318038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_118
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a07b7fc570c0e6f0800000000000000
+      internalID: -657313933371412319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Yellow_119
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4116848b48e29d0800000000000000
+      internalID: -2797152391527328566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Hammer_Yellow_0: 2785709802968194930
+      SS_Hammer_Yellow_1: -4497056171153174310
+      SS_Hammer_Yellow_10: 3357967180104419190
+      SS_Hammer_Yellow_100: 718334304323230049
+      SS_Hammer_Yellow_101: -4267354758961430337
+      SS_Hammer_Yellow_102: -3057118153996524384
+      SS_Hammer_Yellow_103: -6661458324167308848
+      SS_Hammer_Yellow_104: 4973500724012684564
+      SS_Hammer_Yellow_105: -1985504183265271141
+      SS_Hammer_Yellow_106: 6290096809273621183
+      SS_Hammer_Yellow_107: -1631866573694073363
+      SS_Hammer_Yellow_108: -8705189045988753047
+      SS_Hammer_Yellow_109: 3086719553172566600
+      SS_Hammer_Yellow_11: 4136430622506990655
+      SS_Hammer_Yellow_110: -4532581051116993613
+      SS_Hammer_Yellow_111: -1431326620141103560
+      SS_Hammer_Yellow_112: -1549519065812762261
+      SS_Hammer_Yellow_113: 6194368790062012321
+      SS_Hammer_Yellow_114: -7767786140953342392
+      SS_Hammer_Yellow_115: 3520069678849809573
+      SS_Hammer_Yellow_116: 4393417676346135799
+      SS_Hammer_Yellow_117: -5582130475836318038
+      SS_Hammer_Yellow_118: -657313933371412319
+      SS_Hammer_Yellow_119: -2797152391527328566
+      SS_Hammer_Yellow_12: 1444288744503021197
+      SS_Hammer_Yellow_13: 7356345699726920575
+      SS_Hammer_Yellow_14: -6381278588324886289
+      SS_Hammer_Yellow_15: 8541269871017889925
+      SS_Hammer_Yellow_16: -454146095679765172
+      SS_Hammer_Yellow_17: -4160603473621414584
+      SS_Hammer_Yellow_18: -2806072433743318693
+      SS_Hammer_Yellow_19: 7027765181088290290
+      SS_Hammer_Yellow_2: -4984464518527380831
+      SS_Hammer_Yellow_20: -1344406720990770425
+      SS_Hammer_Yellow_21: -1376871986945193423
+      SS_Hammer_Yellow_22: 1776864636789084563
+      SS_Hammer_Yellow_23: -7945058884873850455
+      SS_Hammer_Yellow_24: -7565403503904939905
+      SS_Hammer_Yellow_25: 7067904868851058908
+      SS_Hammer_Yellow_26: -4623587947526109600
+      SS_Hammer_Yellow_27: 7843397143496492402
+      SS_Hammer_Yellow_28: -3728892282669992218
+      SS_Hammer_Yellow_29: 2778913951540451276
+      SS_Hammer_Yellow_3: -3553001770634337721
+      SS_Hammer_Yellow_30: 2937284685866020636
+      SS_Hammer_Yellow_31: -5546020407875188396
+      SS_Hammer_Yellow_32: 4370003498231914546
+      SS_Hammer_Yellow_33: 2544608770703192302
+      SS_Hammer_Yellow_34: 2646022669251690729
+      SS_Hammer_Yellow_35: -2867411727562113392
+      SS_Hammer_Yellow_36: 3663428604164681019
+      SS_Hammer_Yellow_37: 7480743008565662076
+      SS_Hammer_Yellow_38: 617061202756173287
+      SS_Hammer_Yellow_39: -7437951384388200041
+      SS_Hammer_Yellow_4: -5480331721703908120
+      SS_Hammer_Yellow_40: -6866139737281612916
+      SS_Hammer_Yellow_41: 7630254977929340011
+      SS_Hammer_Yellow_42: -8629539303982019127
+      SS_Hammer_Yellow_43: 6635906886147323556
+      SS_Hammer_Yellow_44: -6274010919676522868
+      SS_Hammer_Yellow_45: 7486369420172042570
+      SS_Hammer_Yellow_46: -6126930522113625576
+      SS_Hammer_Yellow_47: -5857809616760734779
+      SS_Hammer_Yellow_48: -2370787811431236585
+      SS_Hammer_Yellow_49: -6145023447403756607
+      SS_Hammer_Yellow_5: 6101187799870067788
+      SS_Hammer_Yellow_50: 7623208642590108072
+      SS_Hammer_Yellow_51: 3944140337246612365
+      SS_Hammer_Yellow_52: -4663637279405470446
+      SS_Hammer_Yellow_53: 151092892963710846
+      SS_Hammer_Yellow_54: -5735707838431821145
+      SS_Hammer_Yellow_55: -8094984464174660030
+      SS_Hammer_Yellow_56: 3925480318421390930
+      SS_Hammer_Yellow_57: 7898012905899633131
+      SS_Hammer_Yellow_58: 1898850587611620912
+      SS_Hammer_Yellow_59: 3285815972667977460
+      SS_Hammer_Yellow_6: -5165415826745737387
+      SS_Hammer_Yellow_60: 3803950056712307062
+      SS_Hammer_Yellow_61: 590527338514281460
+      SS_Hammer_Yellow_62: 1210529000066357816
+      SS_Hammer_Yellow_63: -6495507476277416802
+      SS_Hammer_Yellow_64: -553365271725213510
+      SS_Hammer_Yellow_65: -6137186925164772137
+      SS_Hammer_Yellow_66: 4483177461036224475
+      SS_Hammer_Yellow_67: 4572101036115036741
+      SS_Hammer_Yellow_68: -5866327388460888820
+      SS_Hammer_Yellow_69: 494597157647415634
+      SS_Hammer_Yellow_7: 5796937133977300377
+      SS_Hammer_Yellow_70: 7458535357157575467
+      SS_Hammer_Yellow_71: 4046210492321087510
+      SS_Hammer_Yellow_72: -9122468955046312845
+      SS_Hammer_Yellow_73: -3032756307901860379
+      SS_Hammer_Yellow_74: -3071514496903413697
+      SS_Hammer_Yellow_75: 2180188448745056214
+      SS_Hammer_Yellow_76: 667624704184452023
+      SS_Hammer_Yellow_77: 6539160704309030113
+      SS_Hammer_Yellow_78: 1247773007433296201
+      SS_Hammer_Yellow_79: -7539934207371179595
+      SS_Hammer_Yellow_8: 2686425736920452885
+      SS_Hammer_Yellow_80: 6766418200367431344
+      SS_Hammer_Yellow_81: 1190657964442349764
+      SS_Hammer_Yellow_82: 7305729725989082801
+      SS_Hammer_Yellow_83: -5409721942410784432
+      SS_Hammer_Yellow_84: -551353557963125852
+      SS_Hammer_Yellow_85: -4145155277227544533
+      SS_Hammer_Yellow_86: -5245104164574236802
+      SS_Hammer_Yellow_87: 5805218039905629370
+      SS_Hammer_Yellow_88: 2764495658944639792
+      SS_Hammer_Yellow_89: 2550050351668266979
+      SS_Hammer_Yellow_9: -4633977721144953909
+      SS_Hammer_Yellow_90: 6313984440547404032
+      SS_Hammer_Yellow_91: -1574752716769791657
+      SS_Hammer_Yellow_92: 4489994426671367608
+      SS_Hammer_Yellow_93: 7188062324288531488
+      SS_Hammer_Yellow_94: -7059430045086330484
+      SS_Hammer_Yellow_95: -5197372111283933265
+      SS_Hammer_Yellow_96: -2330086414284055813
+      SS_Hammer_Yellow_97: -4426763949903071092
+      SS_Hammer_Yellow_98: 7742313745272230633
+      SS_Hammer_Yellow_99: -1665659441060338539
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

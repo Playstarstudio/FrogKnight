@@ -1,0 +1,6500 @@
+fileFormatVersion: 2
+guid: bd52929bd3d90c3418dcf26a6e42d532
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2099631260410898625
+    second: SS_Ring_Blue_0
+  - first:
+      213: -8047961445555692631
+    second: SS_Ring_Blue_1
+  - first:
+      213: -1956307329022162967
+    second: SS_Ring_Blue_2
+  - first:
+      213: 2638405074825731654
+    second: SS_Ring_Blue_3
+  - first:
+      213: -4872280356090809759
+    second: SS_Ring_Blue_4
+  - first:
+      213: -3049723280937251736
+    second: SS_Ring_Blue_5
+  - first:
+      213: -9061419402080609443
+    second: SS_Ring_Blue_6
+  - first:
+      213: 1940988173180784315
+    second: SS_Ring_Blue_7
+  - first:
+      213: 8205312224710413349
+    second: SS_Ring_Blue_8
+  - first:
+      213: -8189987004197705662
+    second: SS_Ring_Blue_9
+  - first:
+      213: -3438587247951915896
+    second: SS_Ring_Blue_10
+  - first:
+      213: 8883956556839036956
+    second: SS_Ring_Blue_11
+  - first:
+      213: -4566827803475739663
+    second: SS_Ring_Blue_12
+  - first:
+      213: 4980886341016569597
+    second: SS_Ring_Blue_13
+  - first:
+      213: -7204181169686860756
+    second: SS_Ring_Blue_14
+  - first:
+      213: -4983759667762964174
+    second: SS_Ring_Blue_15
+  - first:
+      213: -7770125155977075128
+    second: SS_Ring_Blue_16
+  - first:
+      213: 1456167719344432307
+    second: SS_Ring_Blue_17
+  - first:
+      213: 9149062022062853050
+    second: SS_Ring_Blue_18
+  - first:
+      213: 5787205183040212981
+    second: SS_Ring_Blue_19
+  - first:
+      213: -8798240661143502941
+    second: SS_Ring_Blue_20
+  - first:
+      213: 2759121954239651539
+    second: SS_Ring_Blue_21
+  - first:
+      213: -4239465188032987828
+    second: SS_Ring_Blue_22
+  - first:
+      213: -823944540995277769
+    second: SS_Ring_Blue_23
+  - first:
+      213: 2920610619609263577
+    second: SS_Ring_Blue_24
+  - first:
+      213: -3901066445438180502
+    second: SS_Ring_Blue_25
+  - first:
+      213: -4990789842823405371
+    second: SS_Ring_Blue_26
+  - first:
+      213: 2691159435836979417
+    second: SS_Ring_Blue_27
+  - first:
+      213: 934499568660661374
+    second: SS_Ring_Blue_28
+  - first:
+      213: -2213727850768691417
+    second: SS_Ring_Blue_29
+  - first:
+      213: -8914013130463653901
+    second: SS_Ring_Blue_30
+  - first:
+      213: 5936702061327321894
+    second: SS_Ring_Blue_31
+  - first:
+      213: 3154870107819160101
+    second: SS_Ring_Blue_32
+  - first:
+      213: -9078573511399885798
+    second: SS_Ring_Blue_33
+  - first:
+      213: -3322736139933915910
+    second: SS_Ring_Blue_34
+  - first:
+      213: -4524031862145371145
+    second: SS_Ring_Blue_35
+  - first:
+      213: -4602416537505483203
+    second: SS_Ring_Blue_36
+  - first:
+      213: -4556432486474982021
+    second: SS_Ring_Blue_37
+  - first:
+      213: 6016750623639485255
+    second: SS_Ring_Blue_38
+  - first:
+      213: 8075641875738590024
+    second: SS_Ring_Blue_39
+  - first:
+      213: -8801836821972595359
+    second: SS_Ring_Blue_40
+  - first:
+      213: 7187110517698597314
+    second: SS_Ring_Blue_41
+  - first:
+      213: -6874107346524650732
+    second: SS_Ring_Blue_42
+  - first:
+      213: 6251073531654093372
+    second: SS_Ring_Blue_43
+  - first:
+      213: 2478708917328726183
+    second: SS_Ring_Blue_44
+  - first:
+      213: -1391110429398618817
+    second: SS_Ring_Blue_45
+  - first:
+      213: 5289191416917126899
+    second: SS_Ring_Blue_46
+  - first:
+      213: -3676638850922438514
+    second: SS_Ring_Blue_47
+  - first:
+      213: 4150476445827366987
+    second: SS_Ring_Blue_48
+  - first:
+      213: 4543689756197217600
+    second: SS_Ring_Blue_49
+  - first:
+      213: 860310971820492965
+    second: SS_Ring_Blue_50
+  - first:
+      213: -9022618264079064438
+    second: SS_Ring_Blue_51
+  - first:
+      213: 593919632248358440
+    second: SS_Ring_Blue_52
+  - first:
+      213: 6313437910450755476
+    second: SS_Ring_Blue_53
+  - first:
+      213: 3314508496850935905
+    second: SS_Ring_Blue_54
+  - first:
+      213: -8269276740169128587
+    second: SS_Ring_Blue_55
+  - first:
+      213: 7542941723156561039
+    second: SS_Ring_Blue_56
+  - first:
+      213: -7249769260214167810
+    second: SS_Ring_Blue_57
+  - first:
+      213: 2439504524703556516
+    second: SS_Ring_Blue_58
+  - first:
+      213: -6888080073006478082
+    second: SS_Ring_Blue_59
+  - first:
+      213: -6524326234346755619
+    second: SS_Ring_Blue_60
+  - first:
+      213: -7365698829083396373
+    second: SS_Ring_Blue_61
+  - first:
+      213: 8490344687403786293
+    second: SS_Ring_Blue_62
+  - first:
+      213: 4936434741591216188
+    second: SS_Ring_Blue_63
+  - first:
+      213: 2890493177213738686
+    second: SS_Ring_Blue_64
+  - first:
+      213: 4850330566726387944
+    second: SS_Ring_Blue_65
+  - first:
+      213: 7364868221057351271
+    second: SS_Ring_Blue_66
+  - first:
+      213: 3407816364498575554
+    second: SS_Ring_Blue_67
+  - first:
+      213: 6961063469185624101
+    second: SS_Ring_Blue_68
+  - first:
+      213: 9067624392438335314
+    second: SS_Ring_Blue_69
+  - first:
+      213: -4940428067655725998
+    second: SS_Ring_Blue_70
+  - first:
+      213: -5672093223534448165
+    second: SS_Ring_Blue_71
+  - first:
+      213: -1919442107213428604
+    second: SS_Ring_Blue_72
+  - first:
+      213: -2673160040586079327
+    second: SS_Ring_Blue_73
+  - first:
+      213: -2881702747332450475
+    second: SS_Ring_Blue_74
+  - first:
+      213: -6224697710432929249
+    second: SS_Ring_Blue_75
+  - first:
+      213: -8924570034583315438
+    second: SS_Ring_Blue_76
+  - first:
+      213: -7554874286233092148
+    second: SS_Ring_Blue_77
+  - first:
+      213: -1682823910480800355
+    second: SS_Ring_Blue_78
+  - first:
+      213: 4941788313715916998
+    second: SS_Ring_Blue_79
+  - first:
+      213: 6134533222467490352
+    second: SS_Ring_Blue_80
+  - first:
+      213: -6864606130104881824
+    second: SS_Ring_Blue_81
+  - first:
+      213: -5820928998802837148
+    second: SS_Ring_Blue_82
+  - first:
+      213: 4076028510762592096
+    second: SS_Ring_Blue_83
+  - first:
+      213: -3404577958997904354
+    second: SS_Ring_Blue_84
+  - first:
+      213: -6080015044456746393
+    second: SS_Ring_Blue_85
+  - first:
+      213: -7655945088370728182
+    second: SS_Ring_Blue_86
+  - first:
+      213: 229526681415843726
+    second: SS_Ring_Blue_87
+  - first:
+      213: -7221972614468963325
+    second: SS_Ring_Blue_88
+  - first:
+      213: 1010672647670808381
+    second: SS_Ring_Blue_89
+  - first:
+      213: 8863774579384801591
+    second: SS_Ring_Blue_90
+  - first:
+      213: 913831414899607788
+    second: SS_Ring_Blue_91
+  - first:
+      213: 2635020478483041848
+    second: SS_Ring_Blue_92
+  - first:
+      213: 8317060136424848678
+    second: SS_Ring_Blue_93
+  - first:
+      213: 424667118483672710
+    second: SS_Ring_Blue_94
+  - first:
+      213: 889563974500624382
+    second: SS_Ring_Blue_95
+  - first:
+      213: -1253065580052831906
+    second: SS_Ring_Blue_96
+  - first:
+      213: 6698337384344360423
+    second: SS_Ring_Blue_97
+  - first:
+      213: -6680442243101038631
+    second: SS_Ring_Blue_98
+  - first:
+      213: -5433946364427902492
+    second: SS_Ring_Blue_99
+  - first:
+      213: -1510857470437545219
+    second: SS_Ring_Blue_100
+  - first:
+      213: 2521942384119757529
+    second: SS_Ring_Blue_101
+  - first:
+      213: -5114763004382906012
+    second: SS_Ring_Blue_102
+  - first:
+      213: -5465391942777331204
+    second: SS_Ring_Blue_103
+  - first:
+      213: -4435068411835477115
+    second: SS_Ring_Blue_104
+  - first:
+      213: -5428737613179627776
+    second: SS_Ring_Blue_105
+  - first:
+      213: 5758647469060128001
+    second: SS_Ring_Blue_106
+  - first:
+      213: -514814444338291642
+    second: SS_Ring_Blue_107
+  - first:
+      213: 6285242853375672930
+    second: SS_Ring_Blue_108
+  - first:
+      213: -3134245480430628850
+    second: SS_Ring_Blue_109
+  - first:
+      213: 7074635188352793362
+    second: SS_Ring_Blue_110
+  - first:
+      213: -7742140488842708149
+    second: SS_Ring_Blue_111
+  - first:
+      213: -7034371990508459404
+    second: SS_Ring_Blue_112
+  - first:
+      213: 6835207397886316604
+    second: SS_Ring_Blue_113
+  - first:
+      213: 7202597260732539962
+    second: SS_Ring_Blue_114
+  - first:
+      213: -4584160530366080410
+    second: SS_Ring_Blue_115
+  - first:
+      213: -2230648409190592986
+    second: SS_Ring_Blue_116
+  - first:
+      213: -580009539263216619
+    second: SS_Ring_Blue_117
+  - first:
+      213: 4175472035367811757
+    second: SS_Ring_Blue_118
+  - first:
+      213: 1426834928321109283
+    second: SS_Ring_Blue_119
+  - first:
+      213: 3151761416092152970
+    second: SS_Ring_Blue_120
+  - first:
+      213: 271836194959132874
+    second: SS_Ring_Blue_121
+  - first:
+      213: -6075371737757564115
+    second: SS_Ring_Blue_122
+  - first:
+      213: 7107662631939467012
+    second: SS_Ring_Blue_123
+  - first:
+      213: 3104152270653603884
+    second: SS_Ring_Blue_124
+  - first:
+      213: -54621555354142971
+    second: SS_Ring_Blue_125
+  - first:
+      213: 2128144703439490642
+    second: SS_Ring_Blue_126
+  - first:
+      213: 1182290400325994172
+    second: SS_Ring_Blue_127
+  - first:
+      213: -4180194220928288787
+    second: SS_Ring_Blue_128
+  - first:
+      213: -6082883459272331836
+    second: SS_Ring_Blue_129
+  - first:
+      213: 5118274319746094146
+    second: SS_Ring_Blue_130
+  - first:
+      213: 37485514379081598
+    second: SS_Ring_Blue_131
+  - first:
+      213: 8315195573487215688
+    second: SS_Ring_Blue_132
+  - first:
+      213: -1279265381365356805
+    second: SS_Ring_Blue_133
+  - first:
+      213: 4462976901367694208
+    second: SS_Ring_Blue_134
+  - first:
+      213: -6368068062633499501
+    second: SS_Ring_Blue_135
+  - first:
+      213: 7730882953440995115
+    second: SS_Ring_Blue_136
+  - first:
+      213: 7534187016205485668
+    second: SS_Ring_Blue_137
+  - first:
+      213: 8635303632023567814
+    second: SS_Ring_Blue_138
+  - first:
+      213: 6839865358357819839
+    second: SS_Ring_Blue_139
+  - first:
+      213: -3268304799398086348
+    second: SS_Ring_Blue_140
+  - first:
+      213: -2377885615069317064
+    second: SS_Ring_Blue_141
+  - first:
+      213: 1695795575152117554
+    second: SS_Ring_Blue_142
+  - first:
+      213: 1578374700789026876
+    second: SS_Ring_Blue_143
+  - first:
+      213: -4811948992719392837
+    second: SS_Ring_Blue_144
+  - first:
+      213: 75694494844641681
+    second: SS_Ring_Blue_145
+  - first:
+      213: -2786039355841547028
+    second: SS_Ring_Blue_146
+  - first:
+      213: -8799983858817320040
+    second: SS_Ring_Blue_147
+  - first:
+      213: 4658440509943395281
+    second: SS_Ring_Blue_148
+  - first:
+      213: -8191717925642354039
+    second: SS_Ring_Blue_149
+  - first:
+      213: 3382699873677521565
+    second: SS_Ring_Blue_150
+  - first:
+      213: 1001968683396485530
+    second: SS_Ring_Blue_151
+  - first:
+      213: -7071187297491054797
+    second: SS_Ring_Blue_152
+  - first:
+      213: -3794672979143037553
+    second: SS_Ring_Blue_153
+  - first:
+      213: -4459752729020207343
+    second: SS_Ring_Blue_154
+  - first:
+      213: 2186435138281476663
+    second: SS_Ring_Blue_155
+  - first:
+      213: 9052862085466089617
+    second: SS_Ring_Blue_156
+  - first:
+      213: -3626351181345132848
+    second: SS_Ring_Blue_157
+  - first:
+      213: 7290278834244205826
+    second: SS_Ring_Blue_158
+  - first:
+      213: 4361842409355394806
+    second: SS_Ring_Blue_159
+  - first:
+      213: -3585639020109665445
+    second: SS_Ring_Blue_160
+  - first:
+      213: -1249625197195386886
+    second: SS_Ring_Blue_161
+  - first:
+      213: -1826392386885961300
+    second: SS_Ring_Blue_162
+  - first:
+      213: 4405983201521993281
+    second: SS_Ring_Blue_163
+  - first:
+      213: -4878313048786302397
+    second: SS_Ring_Blue_164
+  - first:
+      213: -3265715938282631656
+    second: SS_Ring_Blue_165
+  - first:
+      213: 4148527813755922134
+    second: SS_Ring_Blue_166
+  - first:
+      213: 2834197877490575416
+    second: SS_Ring_Blue_167
+  - first:
+      213: 7644547327499890264
+    second: SS_Ring_Blue_168
+  - first:
+      213: -8724350060613100944
+    second: SS_Ring_Blue_169
+  - first:
+      213: -759820620442965227
+    second: SS_Ring_Blue_170
+  - first:
+      213: -8736797403106511801
+    second: SS_Ring_Blue_171
+  - first:
+      213: -2037870664628340289
+    second: SS_Ring_Blue_172
+  - first:
+      213: 3873978388985153707
+    second: SS_Ring_Blue_173
+  - first:
+      213: -9073053422137595152
+    second: SS_Ring_Blue_174
+  - first:
+      213: -353311207256265630
+    second: SS_Ring_Blue_175
+  - first:
+      213: -4658001770015683743
+    second: SS_Ring_Blue_176
+  - first:
+      213: 3435093760655203809
+    second: SS_Ring_Blue_177
+  - first:
+      213: -7024480024312440173
+    second: SS_Ring_Blue_178
+  - first:
+      213: 8106864952940475335
+    second: SS_Ring_Blue_179
+  - first:
+      213: -1440180292712229426
+    second: SS_Ring_Blue_180
+  - first:
+      213: 8175992378249622873
+    second: SS_Ring_Blue_181
+  - first:
+      213: 3174716262974807659
+    second: SS_Ring_Blue_182
+  - first:
+      213: -5072276619752322734
+    second: SS_Ring_Blue_183
+  - first:
+      213: 4739153601807324409
+    second: SS_Ring_Blue_184
+  - first:
+      213: -7970796633225986987
+    second: SS_Ring_Blue_185
+  - first:
+      213: 7894116890905846172
+    second: SS_Ring_Blue_186
+  - first:
+      213: 6059150100610536145
+    second: SS_Ring_Blue_187
+  - first:
+      213: 5887354967580612501
+    second: SS_Ring_Blue_188
+  - first:
+      213: -1631398641827146473
+    second: SS_Ring_Blue_189
+  - first:
+      213: 4728389842576027830
+    second: SS_Ring_Blue_190
+  - first:
+      213: -3550862161219374698
+    second: SS_Ring_Blue_191
+  - first:
+      213: 7609702273373428356
+    second: SS_Ring_Blue_192
+  - first:
+      213: -1802317882515674864
+    second: SS_Ring_Blue_193
+  - first:
+      213: -1337342549155066090
+    second: SS_Ring_Blue_194
+  - first:
+      213: -7494965457931043322
+    second: SS_Ring_Blue_195
+  - first:
+      213: 4287408025107653872
+    second: SS_Ring_Blue_196
+  - first:
+      213: -1282885111300840621
+    second: SS_Ring_Blue_197
+  - first:
+      213: -4577719418541930915
+    second: SS_Ring_Blue_198
+  - first:
+      213: 837288155230539332
+    second: SS_Ring_Blue_199
+  - first:
+      213: 9031425818166540470
+    second: SS_Ring_Blue_200
+  - first:
+      213: 4176530910933710486
+    second: SS_Ring_Blue_201
+  - first:
+      213: -2756141570202726811
+    second: SS_Ring_Blue_202
+  - first:
+      213: 4129294086970215609
+    second: SS_Ring_Blue_203
+  - first:
+      213: 1261705457959549232
+    second: SS_Ring_Blue_204
+  - first:
+      213: 6671292621142802578
+    second: SS_Ring_Blue_205
+  - first:
+      213: 3579413248542404584
+    second: SS_Ring_Blue_206
+  - first:
+      213: 9015207772275137497
+    second: SS_Ring_Blue_207
+  - first:
+      213: 2858544877779009377
+    second: SS_Ring_Blue_208
+  - first:
+      213: 302415183112427526
+    second: SS_Ring_Blue_209
+  - first:
+      213: 7536630025673877536
+    second: SS_Ring_Blue_210
+  - first:
+      213: 918487731206503211
+    second: SS_Ring_Blue_211
+  - first:
+      213: 8725503565924302912
+    second: SS_Ring_Blue_212
+  - first:
+      213: -5069494291515963039
+    second: SS_Ring_Blue_213
+  - first:
+      213: -245091557531417465
+    second: SS_Ring_Blue_214
+  - first:
+      213: 5519867304384203337
+    second: SS_Ring_Blue_215
+  - first:
+      213: 2984802219578508773
+    second: SS_Ring_Blue_216
+  - first:
+      213: -6845695474035303101
+    second: SS_Ring_Blue_217
+  - first:
+      213: -6035676174023745450
+    second: SS_Ring_Blue_218
+  - first:
+      213: 3467169438443490943
+    second: SS_Ring_Blue_219
+  - first:
+      213: -4252852304308216303
+    second: SS_Ring_Blue_220
+  - first:
+      213: 8953759250813211675
+    second: SS_Ring_Blue_221
+  - first:
+      213: -1534683397827988075
+    second: SS_Ring_Blue_222
+  - first:
+      213: 5690374178207742941
+    second: SS_Ring_Blue_223
+  - first:
+      213: -1265036141242696051
+    second: SS_Ring_Blue_224
+  - first:
+      213: -5622849465695399419
+    second: SS_Ring_Blue_225
+  - first:
+      213: -7103687646222317503
+    second: SS_Ring_Blue_226
+  - first:
+      213: 7416038691260951935
+    second: SS_Ring_Blue_227
+  - first:
+      213: -7956348752949008785
+    second: SS_Ring_Blue_228
+  - first:
+      213: -806388811273351202
+    second: SS_Ring_Blue_229
+  - first:
+      213: -2280340395329693528
+    second: SS_Ring_Blue_230
+  - first:
+      213: 464362533808943073
+    second: SS_Ring_Blue_231
+  - first:
+      213: 1739608542107545064
+    second: SS_Ring_Blue_232
+  - first:
+      213: 3428102980103848586
+    second: SS_Ring_Blue_233
+  - first:
+      213: -8317356434275005428
+    second: SS_Ring_Blue_234
+  - first:
+      213: -6426310332025713307
+    second: SS_Ring_Blue_235
+  - first:
+      213: -6346053794747586776
+    second: SS_Ring_Blue_236
+  - first:
+      213: -2099348187155519763
+    second: SS_Ring_Blue_237
+  - first:
+      213: 7570843267055863385
+    second: SS_Ring_Blue_238
+  - first:
+      213: -7873792511018703393
+    second: SS_Ring_Blue_239
+  - first:
+      213: -5560418705147079071
+    second: SS_Ring_Blue_240
+  - first:
+      213: 3179125769468629136
+    second: SS_Ring_Blue_241
+  - first:
+      213: -4148335056312613578
+    second: SS_Ring_Blue_242
+  - first:
+      213: 2469023300915075004
+    second: SS_Ring_Blue_243
+  - first:
+      213: 7571983834552081442
+    second: SS_Ring_Blue_244
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Ring_Blue_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 483
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3717e33e7c9cd2e0800000000000000
+      internalID: -2099631260410898625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 484
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab1d9784b5ef4090800000000000000
+      internalID: -8047961445555692631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 483
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7042669dcc9d4e0800000000000000
+      internalID: -1956307329022162967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 483
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e539acf6f7d9420800000000000000
+      internalID: 2638405074825731654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 484
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162f711a4de226cb0800000000000000
+      internalID: -4872280356090809759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 483
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86c0f7885d43da5d0800000000000000
+      internalID: -3049723280937251736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 486
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b1722301f5f3280800000000000000
+      internalID: -9061419402080609443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 484
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbeccafa576cfea10800000000000000
+      internalID: 1940988173180784315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 485
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52cc809aeff1fd170800000000000000
+      internalID: 8205312224710413349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 484
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 248eabb4632575e80800000000000000
+      internalID: -8189987004197705662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 482
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88453accd1fa740d0800000000000000
+      internalID: -3438587247951915896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 484
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c18a4625b672a4b70800000000000000
+      internalID: 8883956556839036956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 486
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb737f0f4e5f90c0800000000000000
+      internalID: -4566827803475739663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 486
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df643eebcb9af1540800000000000000
+      internalID: 4980886341016569597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 487
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ca143456b950c90800000000000000
+      internalID: -7204181169686860756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_15
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 486
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239d11dbcf026dab0800000000000000
+      internalID: -4983759667762964174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 452
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846e8a9a658fa2490800000000000000
+      internalID: -7770125155977075128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 454
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b46aec53d8553410800000000000000
+      internalID: 1456167719344432307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 452
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbc21d6f6ff7fe70800000000000000
+      internalID: 9149062022062853050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 451
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff4969b378405050800000000000000
+      internalID: 5787205183040212981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 451
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afb428dbbe56e580800000000000000
+      internalID: -8798240661143502941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_21
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 454
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de9f668cce5a4620800000000000000
+      internalID: 2759121954239651539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 452
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4db8a58fd46a25c0800000000000000
+      internalID: -4239465188032987828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_23
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 451
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73caa5f2ec2c094f0800000000000000
+      internalID: -823944540995277769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_24
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 453
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd2b0d62e7188820800000000000000
+      internalID: 2920610619609263577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_25
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 453
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6326729cb0acd9c0800000000000000
+      internalID: -3901066445438180502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_26
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 454
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c022ed84172dbab0800000000000000
+      internalID: -4990789842823405371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_27
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 453
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8f00f9f3be85520800000000000000
+      internalID: 2691159435836979417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_28
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 454
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7446c0186208fc00800000000000000
+      internalID: 934499568660661374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_29
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 455
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f0b81af324741e0800000000000000
+      internalID: -2213727850768691417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_30
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 455
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffcb8b49401b4480800000000000000
+      internalID: -8914013130463653901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_31
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 453
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b8ebe1217636250800000000000000
+      internalID: 5936702061327321894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 423
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5223f09d5a958cb20800000000000000
+      internalID: 3154870107819160101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 421
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a143db1ed7d620280800000000000000
+      internalID: -9078573511399885798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_34
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 421
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4e2e8d51543e1d0800000000000000
+      internalID: -3322736139933915910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_35
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 421
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3b640adf86731c0800000000000000
+      internalID: -4524031862145371145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_36
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 424
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d363a953b8ee020c0800000000000000
+      internalID: -4602416537505483203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_37
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 417
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ddb986bcc44c0c0800000000000000
+      internalID: -4556432486474982021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_38
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 419
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b342860dacf7350800000000000000
+      internalID: 6016750623639485255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_39
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 424
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bfaa8df71721070800000000000000
+      internalID: 8075641875738590024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_40
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 420
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16dce576b0899d580800000000000000
+      internalID: -8801836821972595359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_41
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 420
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c116e8dfeebdb360800000000000000
+      internalID: 7187110517698597314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_42
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 423
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413ce76f9c34a90a0800000000000000
+      internalID: -6874107346524650732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_43
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 420
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ab617e14640c650800000000000000
+      internalID: 6251073531654093372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_44
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 420
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8c8f6a0a4266220800000000000000
+      internalID: 2478708917328726183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_45
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 420
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3daa545f68c1bce0800000000000000
+      internalID: -1391110429398618817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_46
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 423
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fee362029bf66940800000000000000
+      internalID: 5289191416917126899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_47
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 420
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e802e5bd174f9fcc0800000000000000
+      internalID: -3676638850922438514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 385
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b408a2a5654799930800000000000000
+      internalID: 4150476445827366987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 387
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04567bf72cd6e0f30800000000000000
+      internalID: 4543689756197217600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_50
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 389
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a84bbf454070fb00800000000000000
+      internalID: 860310971820492965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 389
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82ad912e7839c280800000000000000
+      internalID: -9022618264079064438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_52
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 386
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8264b4142c60e3800800000000000000
+      internalID: 593919632248358440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_53
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 386
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497d6eb5456dd9750800000000000000
+      internalID: 6313437910450755476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_54
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 385
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16060d7baef7ffd20800000000000000
+      internalID: 3314508496850935905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_55
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 386
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575a1d80e90ad3d80800000000000000
+      internalID: -8269276740169128587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_56
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 388
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c38327889eda860800000000000000
+      internalID: 7542941723156561039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_57
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 387
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6536dc445a36b90800000000000000
+      internalID: -7249769260214167810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_58
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 387
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3e9eea07cdad120800000000000000
+      internalID: 2439504524703556516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_59
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 387
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc80001baf9860a0800000000000000
+      internalID: -6888080073006478082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_60
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 388
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9eff27bdfe475a0800000000000000
+      internalID: -6524326234346755619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_61
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 387
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be639f9a0f7c7c990800000000000000
+      internalID: -7365698829083396373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_62
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 387
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530e3596283c3d570800000000000000
+      internalID: 8490344687403786293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_63
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 390
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30117d3e3db18440800000000000000
+      internalID: 4936434741591216188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_64
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 356
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebed38dea381d1820800000000000000
+      internalID: 2890493177213738686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_65
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 355
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e802f8c3f5df4340800000000000000
+      internalID: 4850330566726387944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_66
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 358
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76ebfa550a4453660800000000000000
+      internalID: 7364868221057351271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_67
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 359
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c063b99deefa4f20800000000000000
+      internalID: 3407816364498575554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_68
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 358
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528e1cb085aaa9060800000000000000
+      internalID: 6961063469185624101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_69
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 359
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25744f3b75ca6dd70800000000000000
+      internalID: 9067624392438335314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_70
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 358
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cc20519d2107bb0800000000000000
+      internalID: -4940428067655725998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_71
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 358
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd13456e34da841b0800000000000000
+      internalID: -5672093223534448165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_72
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 358
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488cd98b295cc55e0800000000000000
+      internalID: -1919442107213428604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_73
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 356
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a319192b1707ead0800000000000000
+      internalID: -2673160040586079327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_74
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 356
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5576bf48e922208d0800000000000000
+      internalID: -2881702747332450475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_75
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 356
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a3577896e6d99a0800000000000000
+      internalID: -6224697710432929249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_76
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 356
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cd09386de852480800000000000000
+      internalID: -8924570034583315438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_77
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 359
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccff7563dd1b72790800000000000000
+      internalID: -7554874286233092148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_78
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 359
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d951244c19865a8e0800000000000000
+      internalID: -1682823910480800355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_79
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 358
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0c632e942c49440800000000000000
+      internalID: 4941788313715916998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 327
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032d104b67d322550800000000000000
+      internalID: 6134533222467490352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_81
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 325
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d212c48150cb0a0800000000000000
+      internalID: -6864606130104881824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_82
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 326
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 461369b8ae7e73fa0800000000000000
+      internalID: -5820928998802837148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_83
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 326
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0676e56b556f09830800000000000000
+      internalID: 4076028510762592096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_84
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 325
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e143ecf626280c0d0800000000000000
+      internalID: -3404577958997904354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_85
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 325
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762ff16c7827f9ba0800000000000000
+      internalID: -6080015044456746393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_86
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 322
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0324cb418e90c590800000000000000
+      internalID: -7655945088370728182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_87
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 323
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ff348fc417f2300800000000000000
+      internalID: 229526681415843726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_88
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 324
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3047af8bb2666cb90800000000000000
+      internalID: -7221972614468963325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_89
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f3f941b61a60e00800000000000000
+      internalID: 1010672647670808381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_90
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7395e558404720b70800000000000000
+      internalID: 8863774579384801591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_91
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 326
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce80fa584d49eac00800000000000000
+      internalID: 913831414899607788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_92
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 328
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e8cdb0a29719420800000000000000
+      internalID: 2635020478483041848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_93
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 326
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d3a2fd0222c6370800000000000000
+      internalID: 8317060136424848678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_94
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 326
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e02098e78b4e500800000000000000
+      internalID: 424667118483672710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_95
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 326
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef72811c8bd585c00800000000000000
+      internalID: 889563974500624382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_96
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 295
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51aea47e773c9ee0800000000000000
+      internalID: -1253065580052831906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_97
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 294
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5909b9c5645fc50800000000000000
+      internalID: 6698337384344360423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_98
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 294
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7e275ac2d4a43a0800000000000000
+      internalID: -6680442243101038631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_99
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 293
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1efb3629eb694b0800000000000000
+      internalID: -5433946364427902492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_100
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 295
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa2350b22b580be0800000000000000
+      internalID: -1510857470437545219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_101
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 291
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dab57d8c3dbff220800000000000000
+      internalID: 2521942384119757529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_102
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 292
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469727d8526b409b0800000000000000
+      internalID: -5114763004382906012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_103
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 292
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1a9742cf60724b0800000000000000
+      internalID: -5465391942777331204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_104
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 293
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5839df507c87372c0800000000000000
+      internalID: -4435068411835477115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_105
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 293
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00750ab47ef39a4b0800000000000000
+      internalID: -5428737613179627776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_106
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 296
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10df70ccc53daef40800000000000000
+      internalID: 5758647469060128001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_107
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 294
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cd9ff8df20bd8f0800000000000000
+      internalID: -514814444338291642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_108
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 294
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2620582131ba93750800000000000000
+      internalID: 6285242853375672930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_109
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 295
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e001f0c675ce084d0800000000000000
+      internalID: -3134245480430628850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_110
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 296
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21b3f3588372e2260800000000000000
+      internalID: 7074635188352793362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_111
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 296
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b7c59be346e8490800000000000000
+      internalID: -7742140488842708149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_112
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 261
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a29cfb1f3e06e90800000000000000
+      internalID: -7034371990508459404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_113
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 262
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30d225f9e88bde50800000000000000
+      internalID: 6835207397886316604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_114
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 264
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a342a223c04c4f360800000000000000
+      internalID: 7202597260732539962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_115
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 261
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ad92a194ac160c0800000000000000
+      internalID: -4584160530366080410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_116
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 261
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e876f17152b01e0800000000000000
+      internalID: -2230648409190592986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_117
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 262
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514c0e5a56463f7f0800000000000000
+      internalID: -580009539263216619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_118
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 260
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daafcad81b142f930800000000000000
+      internalID: 4175472035367811757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_119
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 259
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d13bfbec22dc310800000000000000
+      internalID: 1426834928321109283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_120
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 260
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8474f62f4e4dbb20800000000000000
+      internalID: 3151761416092152970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_121
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 258
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac802ad3491c5c300800000000000000
+      internalID: 271836194959132874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_122
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 263
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23438cd791ffaba0800000000000000
+      internalID: -6075371737757564115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_123
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 263
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407e118718d73a260800000000000000
+      internalID: 7107662631939467012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_124
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 263
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20c70d2b0a241b20800000000000000
+      internalID: 3104152270653603884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_125
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 262
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507790c1cf1fd3ff0800000000000000
+      internalID: -54621555354142971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_126
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 263
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ec3271550b88d10800000000000000
+      internalID: 2128144703439490642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_127
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 258
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb609c4ead6586010800000000000000
+      internalID: 1182290400325994172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_128
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 230
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7bd61f087fcf5c0800000000000000
+      internalID: -4180194220928288787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_129
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 229
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cd29f7e8b1459ba0800000000000000
+      internalID: -6082883459272331836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_130
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 229
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24458734063c70740800000000000000
+      internalID: 5118274319746094146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_131
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 228
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77b9c070ec258000800000000000000
+      internalID: 37485514379081598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_132
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 229
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8442b9b7152856370800000000000000
+      internalID: 8315195573487215688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_133
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 227
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6634ad9e22f3ee0800000000000000
+      internalID: -1279265381365356805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_134
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 229
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0838bce88ddafed30800000000000000
+      internalID: 4462976901367694208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_135
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 230
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 394683526d310a7a0800000000000000
+      internalID: -6368068062633499501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_136
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 228
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2729ff061d994b60800000000000000
+      internalID: 7730882953440995115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_137
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 228
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 466c9446c2fce8860800000000000000
+      internalID: 7534187016205485668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_138
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 229
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdb76ac6e2c6d770800000000000000
+      internalID: 8635303632023567814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_139
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 228
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1fa64ed451cee50800000000000000
+      internalID: 6839865358357819839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_140
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 230
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4393c26e916a4a2d0800000000000000
+      internalID: -3268304799398086348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_141
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 228
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8383845b1ad000fd0800000000000000
+      internalID: -2377885615069317064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_142
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 231
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2370f94471da88710800000000000000
+      internalID: 1695795575152117554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_143
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 228
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c305ef28d6387e510800000000000000
+      internalID: 1578374700789026876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_144
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 196
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf69abc2e5883db0800000000000000
+      internalID: -4811948992719392837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_145
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 198
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191eaa4fdbbec0100800000000000000
+      internalID: 75694494844641681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_146
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 197
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce47ec887fff559d0800000000000000
+      internalID: -2786039355841547028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_147
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 196
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89bb5020e4d20e580800000000000000
+      internalID: -8799983858817320040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_148
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 193
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d3377a56fa16a040800000000000000
+      internalID: 4658440509943395281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_149
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 197
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98243edb2fb215e80800000000000000
+      internalID: -8191717925642354039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_150
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 193
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92be40ec93c1fe20800000000000000
+      internalID: 3382699873677521565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_151
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 195
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91d9e97535b7ed00800000000000000
+      internalID: 1001968683396485530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_152
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 193
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33f8ac02e981edd90800000000000000
+      internalID: -7071187297491054797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_153
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 193
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8de76fc70d965bc0800000000000000
+      internalID: -3794672979143037553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_154
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 195
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11feba09586cb12c0800000000000000
+      internalID: -4459752729020207343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_155
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 198
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73213bd8c27c75e10800000000000000
+      internalID: 2186435138281476663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_156
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 195
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198eec44a1a32ad70800000000000000
+      internalID: 9052862085466089617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_157
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 195
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0deea1550dc9cadc0800000000000000
+      internalID: -3626351181345132848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_158
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 195
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20dbca469f54c2560800000000000000
+      internalID: 7290278834244205826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_159
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 196
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6febcdfaf80688c30800000000000000
+      internalID: 4361842409355394806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_160
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 164
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b65990f404d3ec0800000000000000
+      internalID: -3585639020109665445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_161
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 164
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff9ac2018078aee0800000000000000
+      internalID: -1249625197195386886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_162
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 164
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca93f2ffcc957a6e0800000000000000
+      internalID: -1826392386885961300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_163
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 163
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1468e0db062352d30800000000000000
+      internalID: 4405983201521993281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_164
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 162
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a80f7e020cc4cb0800000000000000
+      internalID: -4878313048786302397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_165
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 163
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e055918a8dda2d0800000000000000
+      internalID: -3265715938282631656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_166
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 163
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6efb71118829930800000000000000
+      internalID: 4148527813755922134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_167
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 166
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838edfe04f7155720800000000000000
+      internalID: 2834197877490575416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_168
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 165
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85eea44ba43e61a60800000000000000
+      internalID: 7644547327499890264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_169
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 165
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a9ffce7d1ece680800000000000000
+      internalID: -8724350060613100944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_170
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 163
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bea71eb239475f0800000000000000
+      internalID: -759820620442965227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_171
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 167
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744f7492d09a0c680800000000000000
+      internalID: -8736797403106511801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_172
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 165
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb973a87d6708b3e0800000000000000
+      internalID: -2037870664628340289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_173
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 165
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8000fc1d223c530800000000000000
+      internalID: 3873978388985153707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_174
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 167
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0faa851dbf9061280800000000000000
+      internalID: -9073053422137595152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_175
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 163
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c63543459c81bf0800000000000000
+      internalID: -353311207256265630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_176
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 133
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b031fb1147b5fb0800000000000000
+      internalID: -4658001770015683743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_177
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 132
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed930e4397ebaf20800000000000000
+      internalID: 3435093760655203809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_178
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 132
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a970b92a8048e90800000000000000
+      internalID: -7024480024312440173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_179
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 132
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3b41209be518070800000000000000
+      internalID: 8106864952940475335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_180
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 132
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec59e5877a3730ce0800000000000000
+      internalID: -1440180292712229426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_181
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 132
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955bedfefb5f67170800000000000000
+      internalID: 8175992378249622873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_182
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 135
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ed44dee9bde0c20800000000000000
+      internalID: 3174716262974807659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_183
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 134
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259c425d947ab99b0800000000000000
+      internalID: -5072276619752322734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_184
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 133
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f41dbb771bd4c140800000000000000
+      internalID: 4739153601807324409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_185
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 132
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c7fa371ba026190800000000000000
+      internalID: -7970796633225986987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_186
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 132
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91aad9cc798d8d60800000000000000
+      internalID: 7894116890905846172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_187
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 133
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2d9abe9ec661450800000000000000
+      internalID: 6059150100610536145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_188
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 133
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5971645862614b150800000000000000
+      internalID: 5887354967580612501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_189
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 130
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71596da249b1c59e0800000000000000
+      internalID: -1631398641827146473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_190
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 132
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b03f4e728d9e9140800000000000000
+      internalID: 4728389842576027830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_191
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 132
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691b42a7dadc8bec0800000000000000
+      internalID: -3550862161219374698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_192
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 102
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ad7e256e71b9960800000000000000
+      internalID: 7609702273373428356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_193
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 102
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019a1585f61ecf6e0800000000000000
+      internalID: -1802317882515674864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_194
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 102
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fc89e790ec07de0800000000000000
+      internalID: -1337342549155066090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_195
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 102
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e723440a88cf790800000000000000
+      internalID: -7494965457931043322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_196
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 99
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f463b712eeef7b30800000000000000
+      internalID: 4287408025107653872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_197
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 99
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353a64dc9c6423ee0800000000000000
+      internalID: -1282885111300840621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_198
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 100
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d568660517ca870c0800000000000000
+      internalID: -4577719418541930915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_199
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 101
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e882b1425ae9b00800000000000000
+      internalID: 837288155230539332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_200
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 101
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8bb1b5ee1165d70800000000000000
+      internalID: 9031425818166540470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_201
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 101
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69674ab3cb406f930800000000000000
+      internalID: 4176530910933710486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_202
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 101
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56e016538d730c9d0800000000000000
+      internalID: -2756141570202726811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_203
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 99
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc0bfa18133e4930800000000000000
+      internalID: 4129294086970215609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_204
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 99
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 039b9d0ed6a728110800000000000000
+      internalID: 1261705457959549232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_205
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 101
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 290c6ebfa41359c50800000000000000
+      internalID: 6671292621142802578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_206
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef62bf8261aca130800000000000000
+      internalID: 3579413248542404584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_207
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 99
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbdcca44b37c1d70800000000000000
+      internalID: 9015207772275137497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_208
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 67
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16fb78ecb679ba720800000000000000
+      internalID: 2858544877779009377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_209
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 67
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608d91cb105623400800000000000000
+      internalID: 302415183112427526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_210
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 67
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028a5dbd31d779860800000000000000
+      internalID: 7536630025673877536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_211
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 69
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2b3e15a9bf1fbc00800000000000000
+      internalID: 918487731206503211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_212
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 72
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04082557347371970800000000000000
+      internalID: 8725503565924302912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_213
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 70
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169025b1dc985a9b0800000000000000
+      internalID: -5069494291515963039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_214
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 67
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78484e7e682499cf0800000000000000
+      internalID: -245091557531417465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_215
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 68
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a0d1d51128a9c40800000000000000
+      internalID: 5519867304384203337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_216
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 67
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e546c6fdc52c6920800000000000000
+      internalID: 2984802219578508773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_217
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 67
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d50a58c343ff0a0800000000000000
+      internalID: -6845695474035303101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_218
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 69
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650a6048f78fc3ca0800000000000000
+      internalID: -6035676174023745450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_219
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 67
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ec3820c3cdd1030800000000000000
+      internalID: 3467169438443490943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_220
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 68
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ed18f9c55daf4c0800000000000000
+      internalID: -4252852304308216303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_221
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 68
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14d61d7994224c70800000000000000
+      internalID: 8953759250813211675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_222
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 72
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595f5cda495b3bae0800000000000000
+      internalID: -1534683397827988075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_223
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 68
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbb02b8a2548fe40800000000000000
+      internalID: 5690374178207742941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_224
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 36
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8eb23df450b17ee0800000000000000
+      internalID: -1265036141242696051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_225
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 36
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5021bbbb330a7f1b0800000000000000
+      internalID: -5622849465695399419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_226
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 33
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148869309b1aa6d90800000000000000
+      internalID: -7103687646222317503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_227
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 34
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d6929d5ef0be660800000000000000
+      internalID: 7416038691260951935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_228
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 38
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f662a57b6fe559190800000000000000
+      internalID: -7956348752949008785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_229
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 38
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfc33906a12fc4f0800000000000000
+      internalID: -806388811273351202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_230
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 37
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a856610e7a9a50e0800000000000000
+      internalID: -2280340395329693528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_231
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1efaea2a34fb17600800000000000000
+      internalID: 464362533808943073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_232
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 35
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed2e8090c4542810800000000000000
+      internalID: 1739608542107545064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_233
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 37
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a824c8e5f71139f20800000000000000
+      internalID: 3428102980103848586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_234
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 37
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c8ab8e360d29c80800000000000000
+      internalID: -8317356434275005428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_235
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 35
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d4f231dc821d6a0800000000000000
+      internalID: -6426310332025713307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_236
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 36
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827ec8e42b94ee7a0800000000000000
+      internalID: -6346053794747586776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_237
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 36
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de62cb452fd9dd2e0800000000000000
+      internalID: -2099348187155519763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_238
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 37
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 956c50fd6d9011960800000000000000
+      internalID: 7570843267055863385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_239
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 38
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd56999ad6baab290800000000000000
+      internalID: -7873792511018703393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_240
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1665545e5ac65d2b0800000000000000
+      internalID: -5560418705147079071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_241
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 7
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090d7792b068e1c20800000000000000
+      internalID: 3179125769468629136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_242
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 5
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635cf2fbe372e66c0800000000000000
+      internalID: -4148335056312613578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_243
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 7
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb794395c9bb34220800000000000000
+      internalID: 2469023300915075004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Blue_244
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 5
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c1a7fed27151960800000000000000
+      internalID: 7571983834552081442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Ring_Blue_0: -2099631260410898625
+      SS_Ring_Blue_1: -8047961445555692631
+      SS_Ring_Blue_10: -3438587247951915896
+      SS_Ring_Blue_100: -1510857470437545219
+      SS_Ring_Blue_101: 2521942384119757529
+      SS_Ring_Blue_102: -5114763004382906012
+      SS_Ring_Blue_103: -5465391942777331204
+      SS_Ring_Blue_104: -4435068411835477115
+      SS_Ring_Blue_105: -5428737613179627776
+      SS_Ring_Blue_106: 5758647469060128001
+      SS_Ring_Blue_107: -514814444338291642
+      SS_Ring_Blue_108: 6285242853375672930
+      SS_Ring_Blue_109: -3134245480430628850
+      SS_Ring_Blue_11: 8883956556839036956
+      SS_Ring_Blue_110: 7074635188352793362
+      SS_Ring_Blue_111: -7742140488842708149
+      SS_Ring_Blue_112: -7034371990508459404
+      SS_Ring_Blue_113: 6835207397886316604
+      SS_Ring_Blue_114: 7202597260732539962
+      SS_Ring_Blue_115: -4584160530366080410
+      SS_Ring_Blue_116: -2230648409190592986
+      SS_Ring_Blue_117: -580009539263216619
+      SS_Ring_Blue_118: 4175472035367811757
+      SS_Ring_Blue_119: 1426834928321109283
+      SS_Ring_Blue_12: -4566827803475739663
+      SS_Ring_Blue_120: 3151761416092152970
+      SS_Ring_Blue_121: 271836194959132874
+      SS_Ring_Blue_122: -6075371737757564115
+      SS_Ring_Blue_123: 7107662631939467012
+      SS_Ring_Blue_124: 3104152270653603884
+      SS_Ring_Blue_125: -54621555354142971
+      SS_Ring_Blue_126: 2128144703439490642
+      SS_Ring_Blue_127: 1182290400325994172
+      SS_Ring_Blue_128: -4180194220928288787
+      SS_Ring_Blue_129: -6082883459272331836
+      SS_Ring_Blue_13: 4980886341016569597
+      SS_Ring_Blue_130: 5118274319746094146
+      SS_Ring_Blue_131: 37485514379081598
+      SS_Ring_Blue_132: 8315195573487215688
+      SS_Ring_Blue_133: -1279265381365356805
+      SS_Ring_Blue_134: 4462976901367694208
+      SS_Ring_Blue_135: -6368068062633499501
+      SS_Ring_Blue_136: 7730882953440995115
+      SS_Ring_Blue_137: 7534187016205485668
+      SS_Ring_Blue_138: 8635303632023567814
+      SS_Ring_Blue_139: 6839865358357819839
+      SS_Ring_Blue_14: -7204181169686860756
+      SS_Ring_Blue_140: -3268304799398086348
+      SS_Ring_Blue_141: -2377885615069317064
+      SS_Ring_Blue_142: 1695795575152117554
+      SS_Ring_Blue_143: 1578374700789026876
+      SS_Ring_Blue_144: -4811948992719392837
+      SS_Ring_Blue_145: 75694494844641681
+      SS_Ring_Blue_146: -2786039355841547028
+      SS_Ring_Blue_147: -8799983858817320040
+      SS_Ring_Blue_148: 4658440509943395281
+      SS_Ring_Blue_149: -8191717925642354039
+      SS_Ring_Blue_15: -4983759667762964174
+      SS_Ring_Blue_150: 3382699873677521565
+      SS_Ring_Blue_151: 1001968683396485530
+      SS_Ring_Blue_152: -7071187297491054797
+      SS_Ring_Blue_153: -3794672979143037553
+      SS_Ring_Blue_154: -4459752729020207343
+      SS_Ring_Blue_155: 2186435138281476663
+      SS_Ring_Blue_156: 9052862085466089617
+      SS_Ring_Blue_157: -3626351181345132848
+      SS_Ring_Blue_158: 7290278834244205826
+      SS_Ring_Blue_159: 4361842409355394806
+      SS_Ring_Blue_16: -7770125155977075128
+      SS_Ring_Blue_160: -3585639020109665445
+      SS_Ring_Blue_161: -1249625197195386886
+      SS_Ring_Blue_162: -1826392386885961300
+      SS_Ring_Blue_163: 4405983201521993281
+      SS_Ring_Blue_164: -4878313048786302397
+      SS_Ring_Blue_165: -3265715938282631656
+      SS_Ring_Blue_166: 4148527813755922134
+      SS_Ring_Blue_167: 2834197877490575416
+      SS_Ring_Blue_168: 7644547327499890264
+      SS_Ring_Blue_169: -8724350060613100944
+      SS_Ring_Blue_17: 1456167719344432307
+      SS_Ring_Blue_170: -759820620442965227
+      SS_Ring_Blue_171: -8736797403106511801
+      SS_Ring_Blue_172: -2037870664628340289
+      SS_Ring_Blue_173: 3873978388985153707
+      SS_Ring_Blue_174: -9073053422137595152
+      SS_Ring_Blue_175: -353311207256265630
+      SS_Ring_Blue_176: -4658001770015683743
+      SS_Ring_Blue_177: 3435093760655203809
+      SS_Ring_Blue_178: -7024480024312440173
+      SS_Ring_Blue_179: 8106864952940475335
+      SS_Ring_Blue_18: 9149062022062853050
+      SS_Ring_Blue_180: -1440180292712229426
+      SS_Ring_Blue_181: 8175992378249622873
+      SS_Ring_Blue_182: 3174716262974807659
+      SS_Ring_Blue_183: -5072276619752322734
+      SS_Ring_Blue_184: 4739153601807324409
+      SS_Ring_Blue_185: -7970796633225986987
+      SS_Ring_Blue_186: 7894116890905846172
+      SS_Ring_Blue_187: 6059150100610536145
+      SS_Ring_Blue_188: 5887354967580612501
+      SS_Ring_Blue_189: -1631398641827146473
+      SS_Ring_Blue_19: 5787205183040212981
+      SS_Ring_Blue_190: 4728389842576027830
+      SS_Ring_Blue_191: -3550862161219374698
+      SS_Ring_Blue_192: 7609702273373428356
+      SS_Ring_Blue_193: -1802317882515674864
+      SS_Ring_Blue_194: -1337342549155066090
+      SS_Ring_Blue_195: -7494965457931043322
+      SS_Ring_Blue_196: 4287408025107653872
+      SS_Ring_Blue_197: -1282885111300840621
+      SS_Ring_Blue_198: -4577719418541930915
+      SS_Ring_Blue_199: 837288155230539332
+      SS_Ring_Blue_2: -1956307329022162967
+      SS_Ring_Blue_20: -8798240661143502941
+      SS_Ring_Blue_200: 9031425818166540470
+      SS_Ring_Blue_201: 4176530910933710486
+      SS_Ring_Blue_202: -2756141570202726811
+      SS_Ring_Blue_203: 4129294086970215609
+      SS_Ring_Blue_204: 1261705457959549232
+      SS_Ring_Blue_205: 6671292621142802578
+      SS_Ring_Blue_206: 3579413248542404584
+      SS_Ring_Blue_207: 9015207772275137497
+      SS_Ring_Blue_208: 2858544877779009377
+      SS_Ring_Blue_209: 302415183112427526
+      SS_Ring_Blue_21: 2759121954239651539
+      SS_Ring_Blue_210: 7536630025673877536
+      SS_Ring_Blue_211: 918487731206503211
+      SS_Ring_Blue_212: 8725503565924302912
+      SS_Ring_Blue_213: -5069494291515963039
+      SS_Ring_Blue_214: -245091557531417465
+      SS_Ring_Blue_215: 5519867304384203337
+      SS_Ring_Blue_216: 2984802219578508773
+      SS_Ring_Blue_217: -6845695474035303101
+      SS_Ring_Blue_218: -6035676174023745450
+      SS_Ring_Blue_219: 3467169438443490943
+      SS_Ring_Blue_22: -4239465188032987828
+      SS_Ring_Blue_220: -4252852304308216303
+      SS_Ring_Blue_221: 8953759250813211675
+      SS_Ring_Blue_222: -1534683397827988075
+      SS_Ring_Blue_223: 5690374178207742941
+      SS_Ring_Blue_224: -1265036141242696051
+      SS_Ring_Blue_225: -5622849465695399419
+      SS_Ring_Blue_226: -7103687646222317503
+      SS_Ring_Blue_227: 7416038691260951935
+      SS_Ring_Blue_228: -7956348752949008785
+      SS_Ring_Blue_229: -806388811273351202
+      SS_Ring_Blue_23: -823944540995277769
+      SS_Ring_Blue_230: -2280340395329693528
+      SS_Ring_Blue_231: 464362533808943073
+      SS_Ring_Blue_232: 1739608542107545064
+      SS_Ring_Blue_233: 3428102980103848586
+      SS_Ring_Blue_234: -8317356434275005428
+      SS_Ring_Blue_235: -6426310332025713307
+      SS_Ring_Blue_236: -6346053794747586776
+      SS_Ring_Blue_237: -2099348187155519763
+      SS_Ring_Blue_238: 7570843267055863385
+      SS_Ring_Blue_239: -7873792511018703393
+      SS_Ring_Blue_24: 2920610619609263577
+      SS_Ring_Blue_240: -5560418705147079071
+      SS_Ring_Blue_241: 3179125769468629136
+      SS_Ring_Blue_242: -4148335056312613578
+      SS_Ring_Blue_243: 2469023300915075004
+      SS_Ring_Blue_244: 7571983834552081442
+      SS_Ring_Blue_25: -3901066445438180502
+      SS_Ring_Blue_26: -4990789842823405371
+      SS_Ring_Blue_27: 2691159435836979417
+      SS_Ring_Blue_28: 934499568660661374
+      SS_Ring_Blue_29: -2213727850768691417
+      SS_Ring_Blue_3: 2638405074825731654
+      SS_Ring_Blue_30: -8914013130463653901
+      SS_Ring_Blue_31: 5936702061327321894
+      SS_Ring_Blue_32: 3154870107819160101
+      SS_Ring_Blue_33: -9078573511399885798
+      SS_Ring_Blue_34: -3322736139933915910
+      SS_Ring_Blue_35: -4524031862145371145
+      SS_Ring_Blue_36: -4602416537505483203
+      SS_Ring_Blue_37: -4556432486474982021
+      SS_Ring_Blue_38: 6016750623639485255
+      SS_Ring_Blue_39: 8075641875738590024
+      SS_Ring_Blue_4: -4872280356090809759
+      SS_Ring_Blue_40: -8801836821972595359
+      SS_Ring_Blue_41: 7187110517698597314
+      SS_Ring_Blue_42: -6874107346524650732
+      SS_Ring_Blue_43: 6251073531654093372
+      SS_Ring_Blue_44: 2478708917328726183
+      SS_Ring_Blue_45: -1391110429398618817
+      SS_Ring_Blue_46: 5289191416917126899
+      SS_Ring_Blue_47: -3676638850922438514
+      SS_Ring_Blue_48: 4150476445827366987
+      SS_Ring_Blue_49: 4543689756197217600
+      SS_Ring_Blue_5: -3049723280937251736
+      SS_Ring_Blue_50: 860310971820492965
+      SS_Ring_Blue_51: -9022618264079064438
+      SS_Ring_Blue_52: 593919632248358440
+      SS_Ring_Blue_53: 6313437910450755476
+      SS_Ring_Blue_54: 3314508496850935905
+      SS_Ring_Blue_55: -8269276740169128587
+      SS_Ring_Blue_56: 7542941723156561039
+      SS_Ring_Blue_57: -7249769260214167810
+      SS_Ring_Blue_58: 2439504524703556516
+      SS_Ring_Blue_59: -6888080073006478082
+      SS_Ring_Blue_6: -9061419402080609443
+      SS_Ring_Blue_60: -6524326234346755619
+      SS_Ring_Blue_61: -7365698829083396373
+      SS_Ring_Blue_62: 8490344687403786293
+      SS_Ring_Blue_63: 4936434741591216188
+      SS_Ring_Blue_64: 2890493177213738686
+      SS_Ring_Blue_65: 4850330566726387944
+      SS_Ring_Blue_66: 7364868221057351271
+      SS_Ring_Blue_67: 3407816364498575554
+      SS_Ring_Blue_68: 6961063469185624101
+      SS_Ring_Blue_69: 9067624392438335314
+      SS_Ring_Blue_7: 1940988173180784315
+      SS_Ring_Blue_70: -4940428067655725998
+      SS_Ring_Blue_71: -5672093223534448165
+      SS_Ring_Blue_72: -1919442107213428604
+      SS_Ring_Blue_73: -2673160040586079327
+      SS_Ring_Blue_74: -2881702747332450475
+      SS_Ring_Blue_75: -6224697710432929249
+      SS_Ring_Blue_76: -8924570034583315438
+      SS_Ring_Blue_77: -7554874286233092148
+      SS_Ring_Blue_78: -1682823910480800355
+      SS_Ring_Blue_79: 4941788313715916998
+      SS_Ring_Blue_8: 8205312224710413349
+      SS_Ring_Blue_80: 6134533222467490352
+      SS_Ring_Blue_81: -6864606130104881824
+      SS_Ring_Blue_82: -5820928998802837148
+      SS_Ring_Blue_83: 4076028510762592096
+      SS_Ring_Blue_84: -3404577958997904354
+      SS_Ring_Blue_85: -6080015044456746393
+      SS_Ring_Blue_86: -7655945088370728182
+      SS_Ring_Blue_87: 229526681415843726
+      SS_Ring_Blue_88: -7221972614468963325
+      SS_Ring_Blue_89: 1010672647670808381
+      SS_Ring_Blue_9: -8189987004197705662
+      SS_Ring_Blue_90: 8863774579384801591
+      SS_Ring_Blue_91: 913831414899607788
+      SS_Ring_Blue_92: 2635020478483041848
+      SS_Ring_Blue_93: 8317060136424848678
+      SS_Ring_Blue_94: 424667118483672710
+      SS_Ring_Blue_95: 889563974500624382
+      SS_Ring_Blue_96: -1253065580052831906
+      SS_Ring_Blue_97: 6698337384344360423
+      SS_Ring_Blue_98: -6680442243101038631
+      SS_Ring_Blue_99: -5433946364427902492
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3250 @@
+fileFormatVersion: 2
+guid: 0879d3a9943444844b73f7bd3b4718f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6577112093556534665
+    second: SS_Wizard_Staff_Yellow_0
+  - first:
+      213: 1027108015249684942
+    second: SS_Wizard_Staff_Yellow_1
+  - first:
+      213: -7870185704404304269
+    second: SS_Wizard_Staff_Yellow_2
+  - first:
+      213: 3186630054739013279
+    second: SS_Wizard_Staff_Yellow_3
+  - first:
+      213: -617845109420691368
+    second: SS_Wizard_Staff_Yellow_4
+  - first:
+      213: 3553221824355426781
+    second: SS_Wizard_Staff_Yellow_5
+  - first:
+      213: 897403305346825853
+    second: SS_Wizard_Staff_Yellow_6
+  - first:
+      213: -8231554667473986218
+    second: SS_Wizard_Staff_Yellow_7
+  - first:
+      213: 538710268112838307
+    second: SS_Wizard_Staff_Yellow_8
+  - first:
+      213: 6230615871451858408
+    second: SS_Wizard_Staff_Yellow_9
+  - first:
+      213: 5813655536865926947
+    second: SS_Wizard_Staff_Yellow_10
+  - first:
+      213: -5069743268123142911
+    second: SS_Wizard_Staff_Yellow_11
+  - first:
+      213: 2818008351819342620
+    second: SS_Wizard_Staff_Yellow_12
+  - first:
+      213: -2425291580450267724
+    second: SS_Wizard_Staff_Yellow_13
+  - first:
+      213: 5478139683816754721
+    second: SS_Wizard_Staff_Yellow_14
+  - first:
+      213: -680034338242182395
+    second: SS_Wizard_Staff_Yellow_15
+  - first:
+      213: -7239205117955911569
+    second: SS_Wizard_Staff_Yellow_16
+  - first:
+      213: -4247206940587487128
+    second: SS_Wizard_Staff_Yellow_17
+  - first:
+      213: -7586739567779861578
+    second: SS_Wizard_Staff_Yellow_18
+  - first:
+      213: -7535191679159881235
+    second: SS_Wizard_Staff_Yellow_19
+  - first:
+      213: 4131511115045770690
+    second: SS_Wizard_Staff_Yellow_20
+  - first:
+      213: -344513771606859464
+    second: SS_Wizard_Staff_Yellow_21
+  - first:
+      213: 2385986089003140047
+    second: SS_Wizard_Staff_Yellow_22
+  - first:
+      213: -4172114444330478455
+    second: SS_Wizard_Staff_Yellow_23
+  - first:
+      213: 3538056051531002278
+    second: SS_Wizard_Staff_Yellow_24
+  - first:
+      213: 9056468230275258331
+    second: SS_Wizard_Staff_Yellow_25
+  - first:
+      213: -8289760312049178902
+    second: SS_Wizard_Staff_Yellow_26
+  - first:
+      213: 928737880878701233
+    second: SS_Wizard_Staff_Yellow_27
+  - first:
+      213: -7234887917476386181
+    second: SS_Wizard_Staff_Yellow_28
+  - first:
+      213: 2694733535530305087
+    second: SS_Wizard_Staff_Yellow_29
+  - first:
+      213: -5948891734794618683
+    second: SS_Wizard_Staff_Yellow_30
+  - first:
+      213: 7139964221544329262
+    second: SS_Wizard_Staff_Yellow_31
+  - first:
+      213: 2605732251246281513
+    second: SS_Wizard_Staff_Yellow_32
+  - first:
+      213: -3256063842528493645
+    second: SS_Wizard_Staff_Yellow_33
+  - first:
+      213: 3573517367024917546
+    second: SS_Wizard_Staff_Yellow_34
+  - first:
+      213: 7504282391633120052
+    second: SS_Wizard_Staff_Yellow_35
+  - first:
+      213: 5148473849251069811
+    second: SS_Wizard_Staff_Yellow_36
+  - first:
+      213: -8819980294974207970
+    second: SS_Wizard_Staff_Yellow_37
+  - first:
+      213: -9128747512745232718
+    second: SS_Wizard_Staff_Yellow_38
+  - first:
+      213: 4638387759923316306
+    second: SS_Wizard_Staff_Yellow_39
+  - first:
+      213: 6184511233612933722
+    second: SS_Wizard_Staff_Yellow_40
+  - first:
+      213: -1218919397162242941
+    second: SS_Wizard_Staff_Yellow_41
+  - first:
+      213: -4986086959536197651
+    second: SS_Wizard_Staff_Yellow_42
+  - first:
+      213: 6259510891981065081
+    second: SS_Wizard_Staff_Yellow_43
+  - first:
+      213: -97471242694351656
+    second: SS_Wizard_Staff_Yellow_44
+  - first:
+      213: -8056937313202110725
+    second: SS_Wizard_Staff_Yellow_45
+  - first:
+      213: 3900897505844995181
+    second: SS_Wizard_Staff_Yellow_46
+  - first:
+      213: 2598515305121714223
+    second: SS_Wizard_Staff_Yellow_47
+  - first:
+      213: 3273861551786954970
+    second: SS_Wizard_Staff_Yellow_48
+  - first:
+      213: 8111360395901222702
+    second: SS_Wizard_Staff_Yellow_49
+  - first:
+      213: -7998619948472735089
+    second: SS_Wizard_Staff_Yellow_50
+  - first:
+      213: -5000230437149088247
+    second: SS_Wizard_Staff_Yellow_51
+  - first:
+      213: 5347780336647702806
+    second: SS_Wizard_Staff_Yellow_52
+  - first:
+      213: -3449203655181942499
+    second: SS_Wizard_Staff_Yellow_53
+  - first:
+      213: -6749855900526553722
+    second: SS_Wizard_Staff_Yellow_54
+  - first:
+      213: 7718752832242124558
+    second: SS_Wizard_Staff_Yellow_55
+  - first:
+      213: -3654817711191303058
+    second: SS_Wizard_Staff_Yellow_56
+  - first:
+      213: -88726370889315281
+    second: SS_Wizard_Staff_Yellow_57
+  - first:
+      213: 600668328457572159
+    second: SS_Wizard_Staff_Yellow_58
+  - first:
+      213: 2010767940148806749
+    second: SS_Wizard_Staff_Yellow_59
+  - first:
+      213: -7594084443275662754
+    second: SS_Wizard_Staff_Yellow_60
+  - first:
+      213: -6428356385584191821
+    second: SS_Wizard_Staff_Yellow_61
+  - first:
+      213: 5430038860138052071
+    second: SS_Wizard_Staff_Yellow_62
+  - first:
+      213: 4610990761644360925
+    second: SS_Wizard_Staff_Yellow_63
+  - first:
+      213: -6410225480780539716
+    second: SS_Wizard_Staff_Yellow_64
+  - first:
+      213: 7162655376707465732
+    second: SS_Wizard_Staff_Yellow_65
+  - first:
+      213: 947583148794765611
+    second: SS_Wizard_Staff_Yellow_66
+  - first:
+      213: -4595178858005841021
+    second: SS_Wizard_Staff_Yellow_67
+  - first:
+      213: -4264547984368593912
+    second: SS_Wizard_Staff_Yellow_68
+  - first:
+      213: -1453507745716445402
+    second: SS_Wizard_Staff_Yellow_69
+  - first:
+      213: -420072221284023636
+    second: SS_Wizard_Staff_Yellow_70
+  - first:
+      213: 6358377546381745796
+    second: SS_Wizard_Staff_Yellow_71
+  - first:
+      213: 1571596160565220856
+    second: SS_Wizard_Staff_Yellow_72
+  - first:
+      213: -8493174816921083683
+    second: SS_Wizard_Staff_Yellow_73
+  - first:
+      213: -3669970481831472367
+    second: SS_Wizard_Staff_Yellow_74
+  - first:
+      213: -558981729542074774
+    second: SS_Wizard_Staff_Yellow_75
+  - first:
+      213: -4387156531097173358
+    second: SS_Wizard_Staff_Yellow_76
+  - first:
+      213: -5478413329507567597
+    second: SS_Wizard_Staff_Yellow_77
+  - first:
+      213: -7750947905310941005
+    second: SS_Wizard_Staff_Yellow_78
+  - first:
+      213: 2780297619252411690
+    second: SS_Wizard_Staff_Yellow_79
+  - first:
+      213: -2234811932291833004
+    second: SS_Wizard_Staff_Yellow_80
+  - first:
+      213: 4525507291006400984
+    second: SS_Wizard_Staff_Yellow_81
+  - first:
+      213: -3878083362484418614
+    second: SS_Wizard_Staff_Yellow_82
+  - first:
+      213: -1965834891374253426
+    second: SS_Wizard_Staff_Yellow_83
+  - first:
+      213: 8739352361496828185
+    second: SS_Wizard_Staff_Yellow_84
+  - first:
+      213: 2491592417305292211
+    second: SS_Wizard_Staff_Yellow_85
+  - first:
+      213: 2956833531751037945
+    second: SS_Wizard_Staff_Yellow_86
+  - first:
+      213: 3971200085222740559
+    second: SS_Wizard_Staff_Yellow_87
+  - first:
+      213: 106557153279419536
+    second: SS_Wizard_Staff_Yellow_88
+  - first:
+      213: 2504040553398385409
+    second: SS_Wizard_Staff_Yellow_89
+  - first:
+      213: -7667427807501243468
+    second: SS_Wizard_Staff_Yellow_90
+  - first:
+      213: -3113780162682249235
+    second: SS_Wizard_Staff_Yellow_91
+  - first:
+      213: 5554187196017259942
+    second: SS_Wizard_Staff_Yellow_92
+  - first:
+      213: -3214877832506352450
+    second: SS_Wizard_Staff_Yellow_93
+  - first:
+      213: -1196747225707060581
+    second: SS_Wizard_Staff_Yellow_94
+  - first:
+      213: -8496285476336377525
+    second: SS_Wizard_Staff_Yellow_95
+  - first:
+      213: -1613191485922038059
+    second: SS_Wizard_Staff_Yellow_96
+  - first:
+      213: 2300018196948903624
+    second: SS_Wizard_Staff_Yellow_97
+  - first:
+      213: -8234333552580533793
+    second: SS_Wizard_Staff_Yellow_98
+  - first:
+      213: 575103028678524593
+    second: SS_Wizard_Staff_Yellow_99
+  - first:
+      213: -139160414094214126
+    second: SS_Wizard_Staff_Yellow_100
+  - first:
+      213: -2782787786364107810
+    second: SS_Wizard_Staff_Yellow_101
+  - first:
+      213: -3137827498218072762
+    second: SS_Wizard_Staff_Yellow_102
+  - first:
+      213: -7718849037293888045
+    second: SS_Wizard_Staff_Yellow_103
+  - first:
+      213: -390712671374099764
+    second: SS_Wizard_Staff_Yellow_104
+  - first:
+      213: -4217722934354414669
+    second: SS_Wizard_Staff_Yellow_105
+  - first:
+      213: -5562340552352768800
+    second: SS_Wizard_Staff_Yellow_106
+  - first:
+      213: -8320685504264725090
+    second: SS_Wizard_Staff_Yellow_107
+  - first:
+      213: -3371584681723486745
+    second: SS_Wizard_Staff_Yellow_108
+  - first:
+      213: 2773781531149363422
+    second: SS_Wizard_Staff_Yellow_109
+  - first:
+      213: 3729290604816626845
+    second: SS_Wizard_Staff_Yellow_110
+  - first:
+      213: 4483665422907617312
+    second: SS_Wizard_Staff_Yellow_111
+  - first:
+      213: -3025630783601106566
+    second: SS_Wizard_Staff_Yellow_112
+  - first:
+      213: -211607082321793753
+    second: SS_Wizard_Staff_Yellow_113
+  - first:
+      213: -5305145853515226791
+    second: SS_Wizard_Staff_Yellow_114
+  - first:
+      213: -8951783910460762306
+    second: SS_Wizard_Staff_Yellow_115
+  - first:
+      213: -1662982300662765216
+    second: SS_Wizard_Staff_Yellow_116
+  - first:
+      213: 564231651106528261
+    second: SS_Wizard_Staff_Yellow_117
+  - first:
+      213: 5783311608587377045
+    second: SS_Wizard_Staff_Yellow_118
+  - first:
+      213: 573913417744696437
+    second: SS_Wizard_Staff_Yellow_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 321
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dec502a98964b50800000000000000
+      internalID: 6577112093556534665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 321
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9f9ea4c45014e00800000000000000
+      internalID: 1027108015249684942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 322
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ebf94cccb77c290800000000000000
+      internalID: -7870185704404304269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e6d4bb62f293c20800000000000000
+      internalID: 3186630054739013279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 322
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85074ce7529fc67f0800000000000000
+      internalID: -617845109420691368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 322
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1eed86c649f4130800000000000000
+      internalID: 3553221824355426781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 321
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e75733d87347c00800000000000000
+      internalID: 897403305346825853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 321
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d110084a4a3cd80800000000000000
+      internalID: -8231554667473986218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 322
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae98b77222e97700800000000000000
+      internalID: 538710268112838307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 321
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e58cc5bf18977650800000000000000
+      internalID: 6230615871451858408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_10
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 321
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f5061a8e04ea050800000000000000
+      internalID: 5813655536865926947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 288
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1059719bb57a4a9b0800000000000000
+      internalID: -5069743268123142911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 290
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13a6406aa39b1720800000000000000
+      internalID: 2818008351819342620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 289
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd14864822a75ed0800000000000000
+      internalID: -2425291580450267724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 290
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e4edb9403460c40800000000000000
+      internalID: 5478139683816754721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 289
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503c1025f580096f0800000000000000
+      internalID: -680034338242182395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_16
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 289
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f605c08dc4d298b90800000000000000
+      internalID: -7239205117955911569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 289
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86095ba4ac3ee05c0800000000000000
+      internalID: -4247206940587487128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 291
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bba4133f8c76b690800000000000000
+      internalID: -7586739567779861578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_19
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 289
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de13239471f9d6790800000000000000
+      internalID: -7535191679159881235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_20
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 289
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c591ed2873165930800000000000000
+      internalID: 4131511115045770690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831a42fcc8a083bf0800000000000000
+      internalID: -344513771606859464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc34e0ad4b9bc1120800000000000000
+      internalID: 2385986089003140047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_23
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 258
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984d767840ca916c0800000000000000
+      internalID: -4172114444330478455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 257
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a13de2cb33b91130800000000000000
+      internalID: 3538056051531002278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 257
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7da294fd90fad70800000000000000
+      internalID: 9056468230275258331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_26
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae66d2fcaead4fc80800000000000000
+      internalID: -8289760312049178902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_27
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 257
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba59379e2a83ec00800000000000000
+      internalID: 928737880878701233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_28
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 256
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7aed0965c3889b90800000000000000
+      internalID: -7234887917476386181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_29
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 257
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36cd9d8fdd956520800000000000000
+      internalID: 2694733535530305087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_30
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c83f4c5c7a417da0800000000000000
+      internalID: -5948891734794618683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_31
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 257
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20f52e51af361360800000000000000
+      internalID: 7139964221544329262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_32
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 256
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923405f3dab692420800000000000000
+      internalID: 2605732251246281513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 225
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf7814cf2320d2d0800000000000000
+      internalID: -3256063842528493645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_34
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 225
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c953cac1fa79130800000000000000
+      internalID: 3573517367024917546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_35
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 225
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bc2876311942860800000000000000
+      internalID: 7504282391633120052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 226
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f7ff720bd037740800000000000000
+      internalID: 5148473849251069811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 224
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e180e18e6a2299580800000000000000
+      internalID: -8819980294974207970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_38
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 224
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6f69ad08c205180800000000000000
+      internalID: -9128747512745232718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_39
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 225
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256cfb8a71dde5040800000000000000
+      internalID: 4638387759923316306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_40
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 225
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a69e4333cc3d550800000000000000
+      internalID: 6184511233612933722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_41
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 225
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38caf423447851fe0800000000000000
+      internalID: -1218919397162242941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_42
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 225
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def23a5e35cddcab0800000000000000
+      internalID: -4986086959536197651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_43
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 226
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b4830fdff3ed650800000000000000
+      internalID: 6259510891981065081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 193
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d42363db66b5aef0800000000000000
+      internalID: -97471242694351656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_45
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 193
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe7ffc7332003090800000000000000
+      internalID: -8056937313202110725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_46
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 193
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64291d1d95c22630800000000000000
+      internalID: 3900897505844995181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_47
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 193
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20123907e7cf0420800000000000000
+      internalID: 2598515305121714223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_48
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 192
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad012165cb71f6d20800000000000000
+      internalID: 3273861551786954970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_49
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 193
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f3dd2ed47519070800000000000000
+      internalID: 8111360395901222702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_50
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 192
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8aeded09813ff090800000000000000
+      internalID: -7998619948472735089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_51
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 194
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906e1a6e8ec9b9ab0800000000000000
+      internalID: -5000230437149088247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_52
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 194
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61984b6e1e1273a40800000000000000
+      internalID: 5347780336647702806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_53
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 195
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d11c6eedc87f120d0800000000000000
+      internalID: -3449203655181942499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_54
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 193
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6855a0c12d1b352a0800000000000000
+      internalID: -6749855900526553722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_55
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 162
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0705d22ec48e1b60800000000000000
+      internalID: 7718752832242124558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_56
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 162
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6cd2add7aa774dc0800000000000000
+      internalID: -3654817711191303058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_57
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 163
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ccee4f5d7c4cef0800000000000000
+      internalID: -88726370889315281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_58
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 161
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f8a8989a0065800800000000000000
+      internalID: 600668328457572159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_59
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 162
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54405eb9cea7eb10800000000000000
+      internalID: 2010767940148806749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_60
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 162
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5aeb3c1f646c9690800000000000000
+      internalID: -7594084443275662754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_61
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 161
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b6e3ab1de3e9c6a0800000000000000
+      internalID: -6428356385584191821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_62
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 161
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9781fd29f5b5b40800000000000000
+      internalID: 5430038860138052071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_63
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 162
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd48b6aeaa78dff30800000000000000
+      internalID: 4610990761644360925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_64
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 162
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb81be753ed4a07a0800000000000000
+      internalID: -6410225480780539716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_65
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 161
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402b031ad1dd66360800000000000000
+      internalID: 7162655376707465732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_66
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 129
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21ee037add762d00800000000000000
+      internalID: 947583148794765611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_67
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 130
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38b3d29cc25aa30c0800000000000000
+      internalID: -4595178858005841021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 129
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8041a18e33841d4c0800000000000000
+      internalID: -4264547984368593912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_69
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 129
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fda42086a14dbe0800000000000000
+      internalID: -1453507745716445402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_70
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 130
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca24b565a8a9b2af0800000000000000
+      internalID: -420072221284023636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_71
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 130
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e57e7b0be7d3850800000000000000
+      internalID: 6358377546381745796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_72
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 130
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f59bd0a16e6fc510800000000000000
+      internalID: 1571596160565220856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_73
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 129
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd02026b08e222a80800000000000000
+      internalID: -8493174816921083683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_74
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 130
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11314468a45a11dc0800000000000000
+      internalID: -3669970481831472367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_75
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 129
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e06be14191e38f0800000000000000
+      internalID: -558981729542074774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_76
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 130
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2920bed0160bd13c0800000000000000
+      internalID: -4387156531097173358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318bfe94a14c8f3b0800000000000000
+      internalID: -5478413329507567597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_78
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 96
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0226742f91f6490800000000000000
+      internalID: -7750947905310941005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 97
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d776d34f9959620800000000000000
+      internalID: 2780297619252411690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 453e0fb536a5cf0e0800000000000000
+      internalID: -2234811932291833004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_81
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 97
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d970ec67e4ddce30800000000000000
+      internalID: 4525507291006400984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac783c19ab74e2ac0800000000000000
+      internalID: -3878083362484418614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8aa19ce493f7b4e0800000000000000
+      internalID: -1965834891374253426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_84
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9195df17baa684970800000000000000
+      internalID: 8739352361496828185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_85
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bde98e3a1ae39220800000000000000
+      internalID: 2491592417305292211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 97
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fbfbff5e68c80920800000000000000
+      internalID: 2956833531751037945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_87
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 96
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42d3bbef698c1730800000000000000
+      internalID: 3971200085222740559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0942f759a219a7100800000000000000
+      internalID: 106557153279419536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10bbb78cd9320c220800000000000000
+      internalID: 2504040553398385409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_90
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbafe86803d79590800000000000000
+      internalID: -7667427807501243468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_91
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def9aa68071a9c4d0800000000000000
+      internalID: -3113780162682249235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5b1a2d3df641d40800000000000000
+      internalID: 5554187196017259942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc5e2df4a57263d0800000000000000
+      internalID: -3214877832506352450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92ebc52dbc446fe0800000000000000
+      internalID: -1196747225707060581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_95
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41e8a0ef51271a80800000000000000
+      internalID: -8496285476336377525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_96
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5deaeeef3eacc99e0800000000000000
+      internalID: -1613191485922038059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_97
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6e2163d5e4bef10800000000000000
+      internalID: 2300018196948903624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_98
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 66
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd16b54e245c9bd80800000000000000
+      internalID: -8234333552580533793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be72a5582d2bf700800000000000000
+      internalID: 575103028678524593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c3e17375a911ef0800000000000000
+      internalID: -139160414094214126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_101
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 34
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed3c87c804d8169d0800000000000000
+      internalID: -2782787786364107810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645524ae3823474d0800000000000000
+      internalID: -3137827498218072762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd5b3162b321e490800000000000000
+      internalID: -7718849037293888045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_104
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccab08d35e8e39af0800000000000000
+      internalID: -390712671374099764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b379c07653a775c0800000000000000
+      internalID: -4217722934354414669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_106
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ec5349fcb89ec2b0800000000000000
+      internalID: -5562340552352768800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_107
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 33
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d1f866e9cf68c80800000000000000
+      internalID: -8320685504264725090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed19bb6899b531d0800000000000000
+      internalID: -3371584681723486745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_109
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 33
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed862b04b937e7620800000000000000
+      internalID: 2773781531149363422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d94fb44eb0a11c330800000000000000
+      internalID: 3729290604816626845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0203c1852fd293e30800000000000000
+      internalID: 4483665422907617312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7128f135dcc206d0800000000000000
+      internalID: -3025630783601106566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_113
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72da042da78301df0800000000000000
+      internalID: -211607082321793753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_114
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951a69f34f55066b0800000000000000
+      internalID: -5305145853515226791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_115
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e37dde646ffd4c380800000000000000
+      internalID: -8951783910460762306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069eb3d8866ebe8e0800000000000000
+      internalID: -1662982300662765216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_117
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c9c3f72bd84d700800000000000000
+      internalID: 564231651106528261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_118
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 3
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5995e374443724050800000000000000
+      internalID: 5783311608587377045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Wizard_Staff_Yellow_119
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574c0847633f6f700800000000000000
+      internalID: 573913417744696437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Wizard_Staff_Yellow_0: 6577112093556534665
+      SS_Wizard_Staff_Yellow_1: 1027108015249684942
+      SS_Wizard_Staff_Yellow_10: 5813655536865926947
+      SS_Wizard_Staff_Yellow_100: -139160414094214126
+      SS_Wizard_Staff_Yellow_101: -2782787786364107810
+      SS_Wizard_Staff_Yellow_102: -3137827498218072762
+      SS_Wizard_Staff_Yellow_103: -7718849037293888045
+      SS_Wizard_Staff_Yellow_104: -390712671374099764
+      SS_Wizard_Staff_Yellow_105: -4217722934354414669
+      SS_Wizard_Staff_Yellow_106: -5562340552352768800
+      SS_Wizard_Staff_Yellow_107: -8320685504264725090
+      SS_Wizard_Staff_Yellow_108: -3371584681723486745
+      SS_Wizard_Staff_Yellow_109: 2773781531149363422
+      SS_Wizard_Staff_Yellow_11: -5069743268123142911
+      SS_Wizard_Staff_Yellow_110: 3729290604816626845
+      SS_Wizard_Staff_Yellow_111: 4483665422907617312
+      SS_Wizard_Staff_Yellow_112: -3025630783601106566
+      SS_Wizard_Staff_Yellow_113: -211607082321793753
+      SS_Wizard_Staff_Yellow_114: -5305145853515226791
+      SS_Wizard_Staff_Yellow_115: -8951783910460762306
+      SS_Wizard_Staff_Yellow_116: -1662982300662765216
+      SS_Wizard_Staff_Yellow_117: 564231651106528261
+      SS_Wizard_Staff_Yellow_118: 5783311608587377045
+      SS_Wizard_Staff_Yellow_119: 573913417744696437
+      SS_Wizard_Staff_Yellow_12: 2818008351819342620
+      SS_Wizard_Staff_Yellow_13: -2425291580450267724
+      SS_Wizard_Staff_Yellow_14: 5478139683816754721
+      SS_Wizard_Staff_Yellow_15: -680034338242182395
+      SS_Wizard_Staff_Yellow_16: -7239205117955911569
+      SS_Wizard_Staff_Yellow_17: -4247206940587487128
+      SS_Wizard_Staff_Yellow_18: -7586739567779861578
+      SS_Wizard_Staff_Yellow_19: -7535191679159881235
+      SS_Wizard_Staff_Yellow_2: -7870185704404304269
+      SS_Wizard_Staff_Yellow_20: 4131511115045770690
+      SS_Wizard_Staff_Yellow_21: -344513771606859464
+      SS_Wizard_Staff_Yellow_22: 2385986089003140047
+      SS_Wizard_Staff_Yellow_23: -4172114444330478455
+      SS_Wizard_Staff_Yellow_24: 3538056051531002278
+      SS_Wizard_Staff_Yellow_25: 9056468230275258331
+      SS_Wizard_Staff_Yellow_26: -8289760312049178902
+      SS_Wizard_Staff_Yellow_27: 928737880878701233
+      SS_Wizard_Staff_Yellow_28: -7234887917476386181
+      SS_Wizard_Staff_Yellow_29: 2694733535530305087
+      SS_Wizard_Staff_Yellow_3: 3186630054739013279
+      SS_Wizard_Staff_Yellow_30: -5948891734794618683
+      SS_Wizard_Staff_Yellow_31: 7139964221544329262
+      SS_Wizard_Staff_Yellow_32: 2605732251246281513
+      SS_Wizard_Staff_Yellow_33: -3256063842528493645
+      SS_Wizard_Staff_Yellow_34: 3573517367024917546
+      SS_Wizard_Staff_Yellow_35: 7504282391633120052
+      SS_Wizard_Staff_Yellow_36: 5148473849251069811
+      SS_Wizard_Staff_Yellow_37: -8819980294974207970
+      SS_Wizard_Staff_Yellow_38: -9128747512745232718
+      SS_Wizard_Staff_Yellow_39: 4638387759923316306
+      SS_Wizard_Staff_Yellow_4: -617845109420691368
+      SS_Wizard_Staff_Yellow_40: 6184511233612933722
+      SS_Wizard_Staff_Yellow_41: -1218919397162242941
+      SS_Wizard_Staff_Yellow_42: -4986086959536197651
+      SS_Wizard_Staff_Yellow_43: 6259510891981065081
+      SS_Wizard_Staff_Yellow_44: -97471242694351656
+      SS_Wizard_Staff_Yellow_45: -8056937313202110725
+      SS_Wizard_Staff_Yellow_46: 3900897505844995181
+      SS_Wizard_Staff_Yellow_47: 2598515305121714223
+      SS_Wizard_Staff_Yellow_48: 3273861551786954970
+      SS_Wizard_Staff_Yellow_49: 8111360395901222702
+      SS_Wizard_Staff_Yellow_5: 3553221824355426781
+      SS_Wizard_Staff_Yellow_50: -7998619948472735089
+      SS_Wizard_Staff_Yellow_51: -5000230437149088247
+      SS_Wizard_Staff_Yellow_52: 5347780336647702806
+      SS_Wizard_Staff_Yellow_53: -3449203655181942499
+      SS_Wizard_Staff_Yellow_54: -6749855900526553722
+      SS_Wizard_Staff_Yellow_55: 7718752832242124558
+      SS_Wizard_Staff_Yellow_56: -3654817711191303058
+      SS_Wizard_Staff_Yellow_57: -88726370889315281
+      SS_Wizard_Staff_Yellow_58: 600668328457572159
+      SS_Wizard_Staff_Yellow_59: 2010767940148806749
+      SS_Wizard_Staff_Yellow_6: 897403305346825853
+      SS_Wizard_Staff_Yellow_60: -7594084443275662754
+      SS_Wizard_Staff_Yellow_61: -6428356385584191821
+      SS_Wizard_Staff_Yellow_62: 5430038860138052071
+      SS_Wizard_Staff_Yellow_63: 4610990761644360925
+      SS_Wizard_Staff_Yellow_64: -6410225480780539716
+      SS_Wizard_Staff_Yellow_65: 7162655376707465732
+      SS_Wizard_Staff_Yellow_66: 947583148794765611
+      SS_Wizard_Staff_Yellow_67: -4595178858005841021
+      SS_Wizard_Staff_Yellow_68: -4264547984368593912
+      SS_Wizard_Staff_Yellow_69: -1453507745716445402
+      SS_Wizard_Staff_Yellow_7: -8231554667473986218
+      SS_Wizard_Staff_Yellow_70: -420072221284023636
+      SS_Wizard_Staff_Yellow_71: 6358377546381745796
+      SS_Wizard_Staff_Yellow_72: 1571596160565220856
+      SS_Wizard_Staff_Yellow_73: -8493174816921083683
+      SS_Wizard_Staff_Yellow_74: -3669970481831472367
+      SS_Wizard_Staff_Yellow_75: -558981729542074774
+      SS_Wizard_Staff_Yellow_76: -4387156531097173358
+      SS_Wizard_Staff_Yellow_77: -5478413329507567597
+      SS_Wizard_Staff_Yellow_78: -7750947905310941005
+      SS_Wizard_Staff_Yellow_79: 2780297619252411690
+      SS_Wizard_Staff_Yellow_8: 538710268112838307
+      SS_Wizard_Staff_Yellow_80: -2234811932291833004
+      SS_Wizard_Staff_Yellow_81: 4525507291006400984
+      SS_Wizard_Staff_Yellow_82: -3878083362484418614
+      SS_Wizard_Staff_Yellow_83: -1965834891374253426
+      SS_Wizard_Staff_Yellow_84: 8739352361496828185
+      SS_Wizard_Staff_Yellow_85: 2491592417305292211
+      SS_Wizard_Staff_Yellow_86: 2956833531751037945
+      SS_Wizard_Staff_Yellow_87: 3971200085222740559
+      SS_Wizard_Staff_Yellow_88: 106557153279419536
+      SS_Wizard_Staff_Yellow_89: 2504040553398385409
+      SS_Wizard_Staff_Yellow_9: 6230615871451858408
+      SS_Wizard_Staff_Yellow_90: -7667427807501243468
+      SS_Wizard_Staff_Yellow_91: -3113780162682249235
+      SS_Wizard_Staff_Yellow_92: 5554187196017259942
+      SS_Wizard_Staff_Yellow_93: -3214877832506352450
+      SS_Wizard_Staff_Yellow_94: -1196747225707060581
+      SS_Wizard_Staff_Yellow_95: -8496285476336377525
+      SS_Wizard_Staff_Yellow_96: -1613191485922038059
+      SS_Wizard_Staff_Yellow_97: 2300018196948903624
+      SS_Wizard_Staff_Yellow_98: -8234333552580533793
+      SS_Wizard_Staff_Yellow_99: 575103028678524593
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

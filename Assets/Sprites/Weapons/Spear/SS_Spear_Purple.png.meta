@@ -1,0 +1,3250 @@
+fileFormatVersion: 2
+guid: 6e43b473888f1644a9f457d66a023f24
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5095782752966974626
+    second: SS_Spear_Purple_0
+  - first:
+      213: -2607713613141674462
+    second: SS_Spear_Purple_1
+  - first:
+      213: 3042802291887548602
+    second: SS_Spear_Purple_2
+  - first:
+      213: 1870452244974096912
+    second: SS_Spear_Purple_3
+  - first:
+      213: 4656579144317212244
+    second: SS_Spear_Purple_4
+  - first:
+      213: -3986346558124922442
+    second: SS_Spear_Purple_5
+  - first:
+      213: 4627917726596244059
+    second: SS_Spear_Purple_6
+  - first:
+      213: 6989672742175824365
+    second: SS_Spear_Purple_7
+  - first:
+      213: -544227302410856874
+    second: SS_Spear_Purple_8
+  - first:
+      213: -2958059178920463557
+    second: SS_Spear_Purple_9
+  - first:
+      213: 6323160826699243605
+    second: SS_Spear_Purple_10
+  - first:
+      213: -8458003556354942569
+    second: SS_Spear_Purple_11
+  - first:
+      213: 7909541549980043354
+    second: SS_Spear_Purple_12
+  - first:
+      213: -1198442077984341725
+    second: SS_Spear_Purple_13
+  - first:
+      213: 6245340608352474150
+    second: SS_Spear_Purple_14
+  - first:
+      213: -5664301978829306550
+    second: SS_Spear_Purple_15
+  - first:
+      213: -5070965463120595949
+    second: SS_Spear_Purple_16
+  - first:
+      213: 4282150128389613329
+    second: SS_Spear_Purple_17
+  - first:
+      213: 8269928215412869136
+    second: SS_Spear_Purple_18
+  - first:
+      213: 2741328885265741004
+    second: SS_Spear_Purple_19
+  - first:
+      213: -4206166265606278926
+    second: SS_Spear_Purple_20
+  - first:
+      213: -6641707075952618073
+    second: SS_Spear_Purple_21
+  - first:
+      213: 8968988813357834420
+    second: SS_Spear_Purple_22
+  - first:
+      213: 2199648389534395292
+    second: SS_Spear_Purple_23
+  - first:
+      213: 5154469070099397866
+    second: SS_Spear_Purple_24
+  - first:
+      213: -3582885275876309022
+    second: SS_Spear_Purple_25
+  - first:
+      213: 9114470164760814913
+    second: SS_Spear_Purple_26
+  - first:
+      213: -7835608707696390581
+    second: SS_Spear_Purple_27
+  - first:
+      213: -3916771770594415568
+    second: SS_Spear_Purple_28
+  - first:
+      213: -716037270111522518
+    second: SS_Spear_Purple_29
+  - first:
+      213: 1867826689072704081
+    second: SS_Spear_Purple_30
+  - first:
+      213: -1361159500181756268
+    second: SS_Spear_Purple_31
+  - first:
+      213: -1132056871339238262
+    second: SS_Spear_Purple_32
+  - first:
+      213: -4077223531624460719
+    second: SS_Spear_Purple_33
+  - first:
+      213: -2321471392586986913
+    second: SS_Spear_Purple_34
+  - first:
+      213: 7896615922456046178
+    second: SS_Spear_Purple_35
+  - first:
+      213: 3132104707326495742
+    second: SS_Spear_Purple_36
+  - first:
+      213: 3651362485323711208
+    second: SS_Spear_Purple_37
+  - first:
+      213: 6249451844652752815
+    second: SS_Spear_Purple_38
+  - first:
+      213: -3034463796956205846
+    second: SS_Spear_Purple_39
+  - first:
+      213: -2284927432943535154
+    second: SS_Spear_Purple_40
+  - first:
+      213: -8393399123269740877
+    second: SS_Spear_Purple_41
+  - first:
+      213: -2168955001797820011
+    second: SS_Spear_Purple_42
+  - first:
+      213: -7019743286156677847
+    second: SS_Spear_Purple_43
+  - first:
+      213: -3056249385968813320
+    second: SS_Spear_Purple_44
+  - first:
+      213: -7274226994765902741
+    second: SS_Spear_Purple_45
+  - first:
+      213: -4621567220455143779
+    second: SS_Spear_Purple_46
+  - first:
+      213: 584799017505286832
+    second: SS_Spear_Purple_47
+  - first:
+      213: -7095871135609413866
+    second: SS_Spear_Purple_48
+  - first:
+      213: 5220649448989467502
+    second: SS_Spear_Purple_49
+  - first:
+      213: -6811614264107324055
+    second: SS_Spear_Purple_50
+  - first:
+      213: 1168915249252432000
+    second: SS_Spear_Purple_51
+  - first:
+      213: 241713881656149968
+    second: SS_Spear_Purple_52
+  - first:
+      213: -7740359566321537366
+    second: SS_Spear_Purple_53
+  - first:
+      213: 3301919372923859171
+    second: SS_Spear_Purple_54
+  - first:
+      213: -1020692297166529630
+    second: SS_Spear_Purple_55
+  - first:
+      213: -3942422335009607369
+    second: SS_Spear_Purple_56
+  - first:
+      213: -1929040302919962264
+    second: SS_Spear_Purple_57
+  - first:
+      213: -3244807075732857539
+    second: SS_Spear_Purple_58
+  - first:
+      213: -1924048252788696777
+    second: SS_Spear_Purple_59
+  - first:
+      213: 8306543252587692854
+    second: SS_Spear_Purple_60
+  - first:
+      213: 3183004047521721697
+    second: SS_Spear_Purple_61
+  - first:
+      213: 1016173193757068079
+    second: SS_Spear_Purple_62
+  - first:
+      213: 2998237283030613328
+    second: SS_Spear_Purple_63
+  - first:
+      213: 8811247115423418243
+    second: SS_Spear_Purple_64
+  - first:
+      213: -3778585294048314513
+    second: SS_Spear_Purple_65
+  - first:
+      213: -2127064573052592709
+    second: SS_Spear_Purple_66
+  - first:
+      213: -3180336796198993292
+    second: SS_Spear_Purple_67
+  - first:
+      213: 932754102232291238
+    second: SS_Spear_Purple_68
+  - first:
+      213: -8912593340810056509
+    second: SS_Spear_Purple_69
+  - first:
+      213: 6239865501693934946
+    second: SS_Spear_Purple_70
+  - first:
+      213: 1364015886062563116
+    second: SS_Spear_Purple_71
+  - first:
+      213: 2781883225692422235
+    second: SS_Spear_Purple_72
+  - first:
+      213: 6307766749635690363
+    second: SS_Spear_Purple_73
+  - first:
+      213: 7772500286356823530
+    second: SS_Spear_Purple_74
+  - first:
+      213: -1139916659730978126
+    second: SS_Spear_Purple_75
+  - first:
+      213: 2677648921403718603
+    second: SS_Spear_Purple_76
+  - first:
+      213: -6577883662519063228
+    second: SS_Spear_Purple_77
+  - first:
+      213: -629583098769339060
+    second: SS_Spear_Purple_78
+  - first:
+      213: -2542509764168517283
+    second: SS_Spear_Purple_79
+  - first:
+      213: -7255145009339098355
+    second: SS_Spear_Purple_80
+  - first:
+      213: 1259562229249381259
+    second: SS_Spear_Purple_81
+  - first:
+      213: -2906130397184406675
+    second: SS_Spear_Purple_82
+  - first:
+      213: 702502772049770486
+    second: SS_Spear_Purple_83
+  - first:
+      213: 6263468947691026561
+    second: SS_Spear_Purple_84
+  - first:
+      213: 7383046374627611734
+    second: SS_Spear_Purple_85
+  - first:
+      213: -474468549055573615
+    second: SS_Spear_Purple_86
+  - first:
+      213: -7983326490148518245
+    second: SS_Spear_Purple_87
+  - first:
+      213: -7699019032584590304
+    second: SS_Spear_Purple_88
+  - first:
+      213: 5321917951155439393
+    second: SS_Spear_Purple_89
+  - first:
+      213: -8522634730019113560
+    second: SS_Spear_Purple_90
+  - first:
+      213: -6248076407932099152
+    second: SS_Spear_Purple_91
+  - first:
+      213: -3678798071931330110
+    second: SS_Spear_Purple_92
+  - first:
+      213: 3959000448960881003
+    second: SS_Spear_Purple_93
+  - first:
+      213: 4131429177000123485
+    second: SS_Spear_Purple_94
+  - first:
+      213: 8717338857902045125
+    second: SS_Spear_Purple_95
+  - first:
+      213: 2550935224798205334
+    second: SS_Spear_Purple_96
+  - first:
+      213: 1946961744514167473
+    second: SS_Spear_Purple_97
+  - first:
+      213: 5492738029938547342
+    second: SS_Spear_Purple_98
+  - first:
+      213: 1953860546014047926
+    second: SS_Spear_Purple_99
+  - first:
+      213: -7862255981992036827
+    second: SS_Spear_Purple_100
+  - first:
+      213: 433226345303082191
+    second: SS_Spear_Purple_101
+  - first:
+      213: 5517094046598653861
+    second: SS_Spear_Purple_102
+  - first:
+      213: -1872194749567495706
+    second: SS_Spear_Purple_103
+  - first:
+      213: -5867961721759578390
+    second: SS_Spear_Purple_104
+  - first:
+      213: 1497306642013663383
+    second: SS_Spear_Purple_105
+  - first:
+      213: 4309213794968919934
+    second: SS_Spear_Purple_106
+  - first:
+      213: 5035984687718181408
+    second: SS_Spear_Purple_107
+  - first:
+      213: 6414898607264856955
+    second: SS_Spear_Purple_108
+  - first:
+      213: -8282308333095807859
+    second: SS_Spear_Purple_109
+  - first:
+      213: 6738574364141075993
+    second: SS_Spear_Purple_110
+  - first:
+      213: 4071905879803592036
+    second: SS_Spear_Purple_111
+  - first:
+      213: -1500280569975018556
+    second: SS_Spear_Purple_112
+  - first:
+      213: 8613656069594923063
+    second: SS_Spear_Purple_113
+  - first:
+      213: -4012007494835204614
+    second: SS_Spear_Purple_114
+  - first:
+      213: 4941463310518251704
+    second: SS_Spear_Purple_115
+  - first:
+      213: 264827484655073277
+    second: SS_Spear_Purple_116
+  - first:
+      213: -851038859406161663
+    second: SS_Spear_Purple_117
+  - first:
+      213: 4975870041150288296
+    second: SS_Spear_Purple_118
+  - first:
+      213: -4508083085331897445
+    second: SS_Spear_Purple_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Spear_Purple_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 322
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac982b4a6bd7b640800000000000000
+      internalID: 5095782752966974626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 323
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2267dbcf84a8fcbd0800000000000000
+      internalID: -2607713613141674462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 323
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8a3b120943a3a20800000000000000
+      internalID: 3042802291887548602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 322
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012530f186e25f910800000000000000
+      internalID: 1870452244974096912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 322
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45615856f0e7f9040800000000000000
+      internalID: 4656579144317212244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 321
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9ec5b0de6ada8c0800000000000000
+      internalID: -3986346558124922442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 321
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b52a08f07aaa93040800000000000000
+      internalID: 4627917726596244059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 322
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9de9d735e400160800000000000000
+      internalID: 6989672742175824365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 320
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6565bb2e6248278f0800000000000000
+      internalID: -544227302410856874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 321
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33bcd769dcd2f6d0800000000000000
+      internalID: -2958059178920463557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 323
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550e215354160c750800000000000000
+      internalID: 6323160826699243605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 291
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7991972f3922f9a80800000000000000
+      internalID: -8458003556354942569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 290
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58c0c6122654cd60800000000000000
+      internalID: 7909541549980043354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 290
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321ccd997474e5fe0800000000000000
+      internalID: -1198442077984341725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 290
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624db2ea138eba650800000000000000
+      internalID: 6245340608352474150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 290
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45465b6c5b5461b0800000000000000
+      internalID: -5664301978829306550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 289
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3143c6647cf40a9b0800000000000000
+      internalID: -5070965463120595949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 289
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1176e8d9ad04d6b30800000000000000
+      internalID: 4282150128389613329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_18
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 290
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0180aad55efa4c270800000000000000
+      internalID: 8269928215412869136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 289
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc438c2d8182b0620800000000000000
+      internalID: 2741328885265741004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_20
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 289
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f07e401112b0a5c0800000000000000
+      internalID: -4206166265606278926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 289
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a555ab8a9ae3d3a0800000000000000
+      internalID: -6641707075952618073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b065a65ecf387c70800000000000000
+      internalID: 8968988813357834420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 258
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b25f85e88b68e10800000000000000
+      internalID: 2199648389534395292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 258
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec33094f4a588740800000000000000
+      internalID: 5154469070099397866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 258
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e74a6413d8074ec0800000000000000
+      internalID: -3582885275876309022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 257
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 145e676035a1d7e70800000000000000
+      internalID: 9114470164760814913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e8cca2563524390800000000000000
+      internalID: -7835608707696390581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c217b93d4d4a9c0800000000000000
+      internalID: -3916771770594415568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_29
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 256
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21ff0585ef1016f0800000000000000
+      internalID: -716037270111522518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a2c204a7adbe910800000000000000
+      internalID: 1867826689072704081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 496a40575a03c1de0800000000000000
+      internalID: -1361159500181756268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cd84ef5402a40f0800000000000000
+      internalID: -1132056871339238262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e09afcccaca67c0800000000000000
+      internalID: -4077223531624460719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a0f90711a78cfd0800000000000000
+      internalID: -2321471392586986913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_35
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 227
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26aafa9e75a669d60800000000000000
+      internalID: 7896615922456046178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 225
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efb468ff2a8777b20800000000000000
+      internalID: 3132104707326495742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 225
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e248eba5de3ca230800000000000000
+      internalID: 3651362485323711208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_38
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 225
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafdf6977538ab650800000000000000
+      internalID: 6249451844652752815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec64a2014b63e5d0800000000000000
+      internalID: -3034463796956205846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_40
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 225
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbfad51b9e4a40e0800000000000000
+      internalID: -2284927432943535154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_41
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 226
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b69e6fa7f7a48b80800000000000000
+      internalID: -8393399123269740877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_42
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 224
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591c800eae256e1e0800000000000000
+      internalID: -2168955001797820011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_43
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92da2366cacd49e90800000000000000
+      internalID: -7019743286156677847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fab25c40650695d0800000000000000
+      internalID: -3056249385968813320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_45
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 192
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ccb69b611cc0b90800000000000000
+      internalID: -7274226994765902741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 193
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d968e2f5915ecdfb0800000000000000
+      internalID: -4621567220455143779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_47
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 192
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba6667ab9f9d1800800000000000000
+      internalID: 584799017505286832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f9d063cc6668d90800000000000000
+      internalID: -7095871135609413866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_49
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 193
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e632bdf7309737840800000000000000
+      internalID: 5220649448989467502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 193
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d26e09ae84871a0800000000000000
+      internalID: -6811614264107324055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 193
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0887a3cd932d83010800000000000000
+      internalID: 1168915249252432000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d74565ae7dba5300800000000000000
+      internalID: 241713881656149968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_53
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaeab9f0cf7b49490800000000000000
+      internalID: -7740359566321537366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_54
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 192
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e07b14ec26c2dd20800000000000000
+      internalID: 3301919372923859171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab596a73c5c5d1f0800000000000000
+      internalID: -1020692297166529630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 731bf2f26c3b949c0800000000000000
+      internalID: -3942422335009607369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8613b03a01caa35e0800000000000000
+      internalID: -1929040302919962264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3dd446082128f2d0800000000000000
+      internalID: -3244807075732857539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_59
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 160
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73991d1ee486c45e0800000000000000
+      internalID: -1924048252788696777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63348e90415c64370800000000000000
+      internalID: 8306543252587692854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16da923215d4c2c20800000000000000
+      internalID: 3183004047521721697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_62
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 160
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b0a24c22c2a1e00800000000000000
+      internalID: 1016173193757068079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_63
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 160
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d3f5f6ce0eb9920800000000000000
+      internalID: 2998237283030613328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_64
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 160
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3878ff64196d74a70800000000000000
+      internalID: 8811247115423418243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_65
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 160
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b3cb2e1b4cf8bc0800000000000000
+      internalID: -3778585294048314513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbdd1ec5a062b72e0800000000000000
+      internalID: -2127064573052592709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_67
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 129
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4728474b88c2dd3d0800000000000000
+      internalID: -3180336796198993292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_68
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 128
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7185ef9eec1fc00800000000000000
+      internalID: 932754102232291238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_69
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 130
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc2185d39b105480800000000000000
+      internalID: -8912593340810056509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_70
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 128
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d7ea21d94789650800000000000000
+      internalID: 6239865501693934946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 129
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fafb4b835fde210800000000000000
+      internalID: 1364015886062563116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50c3020e0c3b9620800000000000000
+      internalID: 2781883225692422235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_73
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 131
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f3e065070b98750800000000000000
+      internalID: 6307766749635690363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_74
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 129
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed9be874d77ddb60800000000000000
+      internalID: 7772500286356823530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_75
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 129
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba6f2766d33e20f0800000000000000
+      internalID: -1139916659730978126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_76
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcbf979d18be82520800000000000000
+      internalID: 2677648921403718603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44da4b9f8a9a6b4a0800000000000000
+      internalID: -6577883662519063228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_78
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 97
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d8341e1854347f0800000000000000
+      internalID: -629583098769339060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59f5cc17d037bcd0800000000000000
+      internalID: -2542509764168517283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_80
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 96
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b156cad0c805b90800000000000000
+      internalID: -7255145009339098355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8398ee8c2dda7110800000000000000
+      internalID: 1259562229249381259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6bcbd41dc95ba7d0800000000000000
+      internalID: -2906130397184406675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7f0c59c8acfb900800000000000000
+      internalID: 702502772049770486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_84
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18830d892df4ce650800000000000000
+      internalID: 6263468947691026561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_85
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6541ae78f89d57660800000000000000
+      internalID: 7383046374627611734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_86
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 64
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19192745e595a69f0800000000000000
+      internalID: -474468549055573615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_87
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b964bbccad6853190800000000000000
+      internalID: -7983326490148518245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_88
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ce2d32bf6972590800000000000000
+      internalID: -7699019032584590304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127056a0e204bd940800000000000000
+      internalID: 5321917951155439393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5bdce2ed489b980800000000000000
+      internalID: -8522634730019113560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_91
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 64
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b565b75c9f5a49a0800000000000000
+      internalID: -6248076407932099152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c1242a05a842fcc0800000000000000
+      internalID: -3678798071931330110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_93
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 65
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61ece1cee131f630800000000000000
+      internalID: 3959000448960881003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_94
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5cd6cd72f8c55930800000000000000
+      internalID: 4131429177000123485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_95
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 64
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7f5fb31853af870800000000000000
+      internalID: 8717338857902045125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_96
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695d02f421eb66320800000000000000
+      internalID: 2550935224798205334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_97
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2ba05246ff40b10800000000000000
+      internalID: 1946961744514167473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_98
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 64
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a14cee2202a3c40800000000000000
+      internalID: 5492738029938547342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be61d980d18d1b10800000000000000
+      internalID: 1953860546014047926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_100
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526bc2427d7a3e290800000000000000
+      internalID: -7862255981992036827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc48123d011230600800000000000000
+      internalID: 433226345303082191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_102
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 32
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a76fe7fdc7a09c40800000000000000
+      internalID: 5517094046598653861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e19da96bc0a406e0800000000000000
+      internalID: -1872194749567495706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_104
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae64ee267efc09ea0800000000000000
+      internalID: -5867961721759578390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 33
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 790be05357087c410800000000000000
+      internalID: 1497306642013663383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_106
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 32
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fd5568d176dcb30800000000000000
+      internalID: 4309213794968919934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_107
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02aafb5446963e540800000000000000
+      internalID: 5035984687718181408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b7b24bb4c460950800000000000000
+      internalID: 6414898607264856955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_109
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 32
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84119dd3745f0d80800000000000000
+      internalID: -8282308333095807859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ebe238ea9348d50800000000000000
+      internalID: 6738574364141075993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d7484e2d0528830800000000000000
+      internalID: 4071905879803592036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbe73b35ceed2be0800000000000000
+      internalID: -1500280569975018556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_113
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730c795ee8ad98770800000000000000
+      internalID: 8613656069594923063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd8422a07c7258c0800000000000000
+      internalID: -4012007494835204614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_115
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0f01e23ba939440800000000000000
+      internalID: 4941463310518251704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df730a5b13bdca300800000000000000
+      internalID: 264827484655073277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_117
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109ca079aa08034f0800000000000000
+      internalID: -851038859406161663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1754b6077dd0540800000000000000
+      internalID: 4975870041150288296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Purple_119
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9368d891521071c0800000000000000
+      internalID: -4508083085331897445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Spear_Purple_0: 5095782752966974626
+      SS_Spear_Purple_1: -2607713613141674462
+      SS_Spear_Purple_10: 6323160826699243605
+      SS_Spear_Purple_100: -7862255981992036827
+      SS_Spear_Purple_101: 433226345303082191
+      SS_Spear_Purple_102: 5517094046598653861
+      SS_Spear_Purple_103: -1872194749567495706
+      SS_Spear_Purple_104: -5867961721759578390
+      SS_Spear_Purple_105: 1497306642013663383
+      SS_Spear_Purple_106: 4309213794968919934
+      SS_Spear_Purple_107: 5035984687718181408
+      SS_Spear_Purple_108: 6414898607264856955
+      SS_Spear_Purple_109: -8282308333095807859
+      SS_Spear_Purple_11: -8458003556354942569
+      SS_Spear_Purple_110: 6738574364141075993
+      SS_Spear_Purple_111: 4071905879803592036
+      SS_Spear_Purple_112: -1500280569975018556
+      SS_Spear_Purple_113: 8613656069594923063
+      SS_Spear_Purple_114: -4012007494835204614
+      SS_Spear_Purple_115: 4941463310518251704
+      SS_Spear_Purple_116: 264827484655073277
+      SS_Spear_Purple_117: -851038859406161663
+      SS_Spear_Purple_118: 4975870041150288296
+      SS_Spear_Purple_119: -4508083085331897445
+      SS_Spear_Purple_12: 7909541549980043354
+      SS_Spear_Purple_13: -1198442077984341725
+      SS_Spear_Purple_14: 6245340608352474150
+      SS_Spear_Purple_15: -5664301978829306550
+      SS_Spear_Purple_16: -5070965463120595949
+      SS_Spear_Purple_17: 4282150128389613329
+      SS_Spear_Purple_18: 8269928215412869136
+      SS_Spear_Purple_19: 2741328885265741004
+      SS_Spear_Purple_2: 3042802291887548602
+      SS_Spear_Purple_20: -4206166265606278926
+      SS_Spear_Purple_21: -6641707075952618073
+      SS_Spear_Purple_22: 8968988813357834420
+      SS_Spear_Purple_23: 2199648389534395292
+      SS_Spear_Purple_24: 5154469070099397866
+      SS_Spear_Purple_25: -3582885275876309022
+      SS_Spear_Purple_26: 9114470164760814913
+      SS_Spear_Purple_27: -7835608707696390581
+      SS_Spear_Purple_28: -3916771770594415568
+      SS_Spear_Purple_29: -716037270111522518
+      SS_Spear_Purple_3: 1870452244974096912
+      SS_Spear_Purple_30: 1867826689072704081
+      SS_Spear_Purple_31: -1361159500181756268
+      SS_Spear_Purple_32: -1132056871339238262
+      SS_Spear_Purple_33: -4077223531624460719
+      SS_Spear_Purple_34: -2321471392586986913
+      SS_Spear_Purple_35: 7896615922456046178
+      SS_Spear_Purple_36: 3132104707326495742
+      SS_Spear_Purple_37: 3651362485323711208
+      SS_Spear_Purple_38: 6249451844652752815
+      SS_Spear_Purple_39: -3034463796956205846
+      SS_Spear_Purple_4: 4656579144317212244
+      SS_Spear_Purple_40: -2284927432943535154
+      SS_Spear_Purple_41: -8393399123269740877
+      SS_Spear_Purple_42: -2168955001797820011
+      SS_Spear_Purple_43: -7019743286156677847
+      SS_Spear_Purple_44: -3056249385968813320
+      SS_Spear_Purple_45: -7274226994765902741
+      SS_Spear_Purple_46: -4621567220455143779
+      SS_Spear_Purple_47: 584799017505286832
+      SS_Spear_Purple_48: -7095871135609413866
+      SS_Spear_Purple_49: 5220649448989467502
+      SS_Spear_Purple_5: -3986346558124922442
+      SS_Spear_Purple_50: -6811614264107324055
+      SS_Spear_Purple_51: 1168915249252432000
+      SS_Spear_Purple_52: 241713881656149968
+      SS_Spear_Purple_53: -7740359566321537366
+      SS_Spear_Purple_54: 3301919372923859171
+      SS_Spear_Purple_55: -1020692297166529630
+      SS_Spear_Purple_56: -3942422335009607369
+      SS_Spear_Purple_57: -1929040302919962264
+      SS_Spear_Purple_58: -3244807075732857539
+      SS_Spear_Purple_59: -1924048252788696777
+      SS_Spear_Purple_6: 4627917726596244059
+      SS_Spear_Purple_60: 8306543252587692854
+      SS_Spear_Purple_61: 3183004047521721697
+      SS_Spear_Purple_62: 1016173193757068079
+      SS_Spear_Purple_63: 2998237283030613328
+      SS_Spear_Purple_64: 8811247115423418243
+      SS_Spear_Purple_65: -3778585294048314513
+      SS_Spear_Purple_66: -2127064573052592709
+      SS_Spear_Purple_67: -3180336796198993292
+      SS_Spear_Purple_68: 932754102232291238
+      SS_Spear_Purple_69: -8912593340810056509
+      SS_Spear_Purple_7: 6989672742175824365
+      SS_Spear_Purple_70: 6239865501693934946
+      SS_Spear_Purple_71: 1364015886062563116
+      SS_Spear_Purple_72: 2781883225692422235
+      SS_Spear_Purple_73: 6307766749635690363
+      SS_Spear_Purple_74: 7772500286356823530
+      SS_Spear_Purple_75: -1139916659730978126
+      SS_Spear_Purple_76: 2677648921403718603
+      SS_Spear_Purple_77: -6577883662519063228
+      SS_Spear_Purple_78: -629583098769339060
+      SS_Spear_Purple_79: -2542509764168517283
+      SS_Spear_Purple_8: -544227302410856874
+      SS_Spear_Purple_80: -7255145009339098355
+      SS_Spear_Purple_81: 1259562229249381259
+      SS_Spear_Purple_82: -2906130397184406675
+      SS_Spear_Purple_83: 702502772049770486
+      SS_Spear_Purple_84: 6263468947691026561
+      SS_Spear_Purple_85: 7383046374627611734
+      SS_Spear_Purple_86: -474468549055573615
+      SS_Spear_Purple_87: -7983326490148518245
+      SS_Spear_Purple_88: -7699019032584590304
+      SS_Spear_Purple_89: 5321917951155439393
+      SS_Spear_Purple_9: -2958059178920463557
+      SS_Spear_Purple_90: -8522634730019113560
+      SS_Spear_Purple_91: -6248076407932099152
+      SS_Spear_Purple_92: -3678798071931330110
+      SS_Spear_Purple_93: 3959000448960881003
+      SS_Spear_Purple_94: 4131429177000123485
+      SS_Spear_Purple_95: 8717338857902045125
+      SS_Spear_Purple_96: 2550935224798205334
+      SS_Spear_Purple_97: 1946961744514167473
+      SS_Spear_Purple_98: 5492738029938547342
+      SS_Spear_Purple_99: 1953860546014047926
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

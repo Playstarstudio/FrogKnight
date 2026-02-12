@@ -1,0 +1,5304 @@
+fileFormatVersion: 2
+guid: 390b85e9200fa2743a70ea4ccee4e831
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6425171702101717554
+    second: SS_Mask_Blue_0
+  - first:
+      213: -1404469358071335902
+    second: SS_Mask_Blue_1
+  - first:
+      213: 4504061039186141850
+    second: SS_Mask_Blue_2
+  - first:
+      213: -7849230191377130153
+    second: SS_Mask_Blue_3
+  - first:
+      213: -571857119691548962
+    second: SS_Mask_Blue_4
+  - first:
+      213: -1389524313826635016
+    second: SS_Mask_Blue_5
+  - first:
+      213: -4684357536772231238
+    second: SS_Mask_Blue_6
+  - first:
+      213: 3048092043559888400
+    second: SS_Mask_Blue_7
+  - first:
+      213: -5483617991905121206
+    second: SS_Mask_Blue_8
+  - first:
+      213: 6216892289112111076
+    second: SS_Mask_Blue_9
+  - first:
+      213: 9079459771863175445
+    second: SS_Mask_Blue_10
+  - first:
+      213: -4589983067503589314
+    second: SS_Mask_Blue_11
+  - first:
+      213: 8281255416195651329
+    second: SS_Mask_Blue_12
+  - first:
+      213: -3130443085749653121
+    second: SS_Mask_Blue_13
+  - first:
+      213: -7773639671907271168
+    second: SS_Mask_Blue_14
+  - first:
+      213: -6467865745861691553
+    second: SS_Mask_Blue_15
+  - first:
+      213: 473505080214381294
+    second: SS_Mask_Blue_16
+  - first:
+      213: 5816273941793470115
+    second: SS_Mask_Blue_17
+  - first:
+      213: 6357951876920151542
+    second: SS_Mask_Blue_18
+  - first:
+      213: 8268091629087607949
+    second: SS_Mask_Blue_19
+  - first:
+      213: -1231727362339344961
+    second: SS_Mask_Blue_20
+  - first:
+      213: -3140909660515968984
+    second: SS_Mask_Blue_21
+  - first:
+      213: -4792702176143562496
+    second: SS_Mask_Blue_22
+  - first:
+      213: -6569999941293822385
+    second: SS_Mask_Blue_23
+  - first:
+      213: -8887577652089020408
+    second: SS_Mask_Blue_24
+  - first:
+      213: -8655918100027877054
+    second: SS_Mask_Blue_25
+  - first:
+      213: -1715067895789016247
+    second: SS_Mask_Blue_26
+  - first:
+      213: 1165772989203250827
+    second: SS_Mask_Blue_27
+  - first:
+      213: -671946470806116978
+    second: SS_Mask_Blue_28
+  - first:
+      213: 5492066547793199633
+    second: SS_Mask_Blue_29
+  - first:
+      213: 5384518734346746097
+    second: SS_Mask_Blue_30
+  - first:
+      213: 883224474217513206
+    second: SS_Mask_Blue_31
+  - first:
+      213: -5152548716253137505
+    second: SS_Mask_Blue_32
+  - first:
+      213: -4178215298101594702
+    second: SS_Mask_Blue_33
+  - first:
+      213: 2622407758693828813
+    second: SS_Mask_Blue_34
+  - first:
+      213: -3068062789745210804
+    second: SS_Mask_Blue_35
+  - first:
+      213: 5311501403794903621
+    second: SS_Mask_Blue_36
+  - first:
+      213: -2117804334251371288
+    second: SS_Mask_Blue_37
+  - first:
+      213: 5617420415467168607
+    second: SS_Mask_Blue_38
+  - first:
+      213: 3886396693713738353
+    second: SS_Mask_Blue_39
+  - first:
+      213: 1869315169546186168
+    second: SS_Mask_Blue_40
+  - first:
+      213: 2187664889406339493
+    second: SS_Mask_Blue_41
+  - first:
+      213: 5025674156547573381
+    second: SS_Mask_Blue_42
+  - first:
+      213: -5532968391588438505
+    second: SS_Mask_Blue_43
+  - first:
+      213: 8557412617964127224
+    second: SS_Mask_Blue_44
+  - first:
+      213: -5982226362016972208
+    second: SS_Mask_Blue_45
+  - first:
+      213: 8725803937200578687
+    second: SS_Mask_Blue_46
+  - first:
+      213: 605325569096733115
+    second: SS_Mask_Blue_47
+  - first:
+      213: -1424403969327105858
+    second: SS_Mask_Blue_48
+  - first:
+      213: 8271990570692732113
+    second: SS_Mask_Blue_49
+  - first:
+      213: -5692489780516524038
+    second: SS_Mask_Blue_50
+  - first:
+      213: -7065383770548668765
+    second: SS_Mask_Blue_51
+  - first:
+      213: -4807460200153881882
+    second: SS_Mask_Blue_52
+  - first:
+      213: -5239346240506646539
+    second: SS_Mask_Blue_53
+  - first:
+      213: 7223095578281975388
+    second: SS_Mask_Blue_54
+  - first:
+      213: 7161353534395459137
+    second: SS_Mask_Blue_55
+  - first:
+      213: 1084797325826987437
+    second: SS_Mask_Blue_56
+  - first:
+      213: 2539320654323369476
+    second: SS_Mask_Blue_57
+  - first:
+      213: -4964215027345813735
+    second: SS_Mask_Blue_58
+  - first:
+      213: -4656325417430069150
+    second: SS_Mask_Blue_59
+  - first:
+      213: -1221135040589055715
+    second: SS_Mask_Blue_60
+  - first:
+      213: -5511278677988118037
+    second: SS_Mask_Blue_61
+  - first:
+      213: -5263121197883354696
+    second: SS_Mask_Blue_62
+  - first:
+      213: 4661007476649356922
+    second: SS_Mask_Blue_63
+  - first:
+      213: -6686268277023961423
+    second: SS_Mask_Blue_64
+  - first:
+      213: 4015407614522141805
+    second: SS_Mask_Blue_65
+  - first:
+      213: 4939922164607145737
+    second: SS_Mask_Blue_66
+  - first:
+      213: -2620500470478756007
+    second: SS_Mask_Blue_67
+  - first:
+      213: -2842021081313402323
+    second: SS_Mask_Blue_68
+  - first:
+      213: -6165403026475204248
+    second: SS_Mask_Blue_69
+  - first:
+      213: -5193738616854996710
+    second: SS_Mask_Blue_70
+  - first:
+      213: 2426100113207784677
+    second: SS_Mask_Blue_71
+  - first:
+      213: -4844674094983932450
+    second: SS_Mask_Blue_72
+  - first:
+      213: -241521852547630635
+    second: SS_Mask_Blue_73
+  - first:
+      213: 809996918503437262
+    second: SS_Mask_Blue_74
+  - first:
+      213: 3030563850294890267
+    second: SS_Mask_Blue_75
+  - first:
+      213: 8781876013349708568
+    second: SS_Mask_Blue_76
+  - first:
+      213: 316074411468871488
+    second: SS_Mask_Blue_77
+  - first:
+      213: 6667260916521722122
+    second: SS_Mask_Blue_78
+  - first:
+      213: -8902001860473432685
+    second: SS_Mask_Blue_79
+  - first:
+      213: 7286501714708975557
+    second: SS_Mask_Blue_80
+  - first:
+      213: -2131296975993747061
+    second: SS_Mask_Blue_81
+  - first:
+      213: -1163771150534988313
+    second: SS_Mask_Blue_82
+  - first:
+      213: 3997443366535851003
+    second: SS_Mask_Blue_83
+  - first:
+      213: 6236143081404992233
+    second: SS_Mask_Blue_84
+  - first:
+      213: -7345428912038122200
+    second: SS_Mask_Blue_85
+  - first:
+      213: -6866625593038674321
+    second: SS_Mask_Blue_86
+  - first:
+      213: -7379775499489065674
+    second: SS_Mask_Blue_87
+  - first:
+      213: 6982836650589139924
+    second: SS_Mask_Blue_88
+  - first:
+      213: 3229218236827634106
+    second: SS_Mask_Blue_89
+  - first:
+      213: -6958909282628522762
+    second: SS_Mask_Blue_90
+  - first:
+      213: -695743193090651117
+    second: SS_Mask_Blue_91
+  - first:
+      213: -864927682650800585
+    second: SS_Mask_Blue_92
+  - first:
+      213: 7773097479390499090
+    second: SS_Mask_Blue_93
+  - first:
+      213: -2970557442168081907
+    second: SS_Mask_Blue_94
+  - first:
+      213: -2379207802926181195
+    second: SS_Mask_Blue_95
+  - first:
+      213: 8165331372059764800
+    second: SS_Mask_Blue_96
+  - first:
+      213: 4979068211019311169
+    second: SS_Mask_Blue_97
+  - first:
+      213: 339941243145669554
+    second: SS_Mask_Blue_98
+  - first:
+      213: 6248988505402824609
+    second: SS_Mask_Blue_99
+  - first:
+      213: 6040051129179815831
+    second: SS_Mask_Blue_100
+  - first:
+      213: -823014727335210638
+    second: SS_Mask_Blue_101
+  - first:
+      213: 4499172812162585743
+    second: SS_Mask_Blue_102
+  - first:
+      213: 4784327444038025609
+    second: SS_Mask_Blue_103
+  - first:
+      213: -2208897187621318060
+    second: SS_Mask_Blue_104
+  - first:
+      213: -1320809619113417918
+    second: SS_Mask_Blue_105
+  - first:
+      213: 5331917418733751061
+    second: SS_Mask_Blue_106
+  - first:
+      213: -8876586748671014290
+    second: SS_Mask_Blue_107
+  - first:
+      213: 3068827999337194732
+    second: SS_Mask_Blue_108
+  - first:
+      213: -1773786997509037592
+    second: SS_Mask_Blue_109
+  - first:
+      213: -3579305459803329191
+    second: SS_Mask_Blue_110
+  - first:
+      213: 8517974198557950399
+    second: SS_Mask_Blue_111
+  - first:
+      213: -212919659596979361
+    second: SS_Mask_Blue_112
+  - first:
+      213: -3221850472151318621
+    second: SS_Mask_Blue_113
+  - first:
+      213: -5043005254848020770
+    second: SS_Mask_Blue_114
+  - first:
+      213: -8923535906471181328
+    second: SS_Mask_Blue_115
+  - first:
+      213: 5858284502586606843
+    second: SS_Mask_Blue_116
+  - first:
+      213: -104358708388125184
+    second: SS_Mask_Blue_117
+  - first:
+      213: 9023263084691762046
+    second: SS_Mask_Blue_118
+  - first:
+      213: 3391321284182973685
+    second: SS_Mask_Blue_119
+  - first:
+      213: 7183159926706681226
+    second: SS_Mask_Blue_120
+  - first:
+      213: -2509240806836836502
+    second: SS_Mask_Blue_121
+  - first:
+      213: 1978011431307732529
+    second: SS_Mask_Blue_122
+  - first:
+      213: -1541375887836076118
+    second: SS_Mask_Blue_123
+  - first:
+      213: -8232297429139916686
+    second: SS_Mask_Blue_124
+  - first:
+      213: -4520275386604537024
+    second: SS_Mask_Blue_125
+  - first:
+      213: 2025277509546577085
+    second: SS_Mask_Blue_126
+  - first:
+      213: -7374190764204421572
+    second: SS_Mask_Blue_127
+  - first:
+      213: -6172019480883539655
+    second: SS_Mask_Blue_128
+  - first:
+      213: 4874705327836472187
+    second: SS_Mask_Blue_129
+  - first:
+      213: -5021471262320247740
+    second: SS_Mask_Blue_130
+  - first:
+      213: -3485301056974776241
+    second: SS_Mask_Blue_131
+  - first:
+      213: -4562313647407378796
+    second: SS_Mask_Blue_132
+  - first:
+      213: 2329864052149642586
+    second: SS_Mask_Blue_133
+  - first:
+      213: -2797809978313600609
+    second: SS_Mask_Blue_134
+  - first:
+      213: 8599126736108101460
+    second: SS_Mask_Blue_135
+  - first:
+      213: -2720025569786168100
+    second: SS_Mask_Blue_136
+  - first:
+      213: 9194316980989075381
+    second: SS_Mask_Blue_137
+  - first:
+      213: 919931771267088186
+    second: SS_Mask_Blue_138
+  - first:
+      213: -2936258049843754753
+    second: SS_Mask_Blue_139
+  - first:
+      213: -2327379420484785748
+    second: SS_Mask_Blue_140
+  - first:
+      213: 840743923109023483
+    second: SS_Mask_Blue_141
+  - first:
+      213: 4060896353355272570
+    second: SS_Mask_Blue_142
+  - first:
+      213: 3511799081630126804
+    second: SS_Mask_Blue_143
+  - first:
+      213: -820904532985132837
+    second: SS_Mask_Blue_144
+  - first:
+      213: -5385556260733690863
+    second: SS_Mask_Blue_145
+  - first:
+      213: -6985707981145590456
+    second: SS_Mask_Blue_146
+  - first:
+      213: 5721943997848139696
+    second: SS_Mask_Blue_147
+  - first:
+      213: 7590140701191541896
+    second: SS_Mask_Blue_148
+  - first:
+      213: -2380333917898803865
+    second: SS_Mask_Blue_149
+  - first:
+      213: 1101842148115094648
+    second: SS_Mask_Blue_150
+  - first:
+      213: -3382919817686070182
+    second: SS_Mask_Blue_151
+  - first:
+      213: 3545563502412728779
+    second: SS_Mask_Blue_152
+  - first:
+      213: -1068565569317442955
+    second: SS_Mask_Blue_153
+  - first:
+      213: -5927891273195626731
+    second: SS_Mask_Blue_154
+  - first:
+      213: 7189346111511997363
+    second: SS_Mask_Blue_155
+  - first:
+      213: 3787666801743775901
+    second: SS_Mask_Blue_156
+  - first:
+      213: -321312057042014039
+    second: SS_Mask_Blue_157
+  - first:
+      213: 2644655135773150489
+    second: SS_Mask_Blue_158
+  - first:
+      213: 2389619088504773770
+    second: SS_Mask_Blue_159
+  - first:
+      213: 8952837629716230221
+    second: SS_Mask_Blue_160
+  - first:
+      213: -6675160015754174715
+    second: SS_Mask_Blue_161
+  - first:
+      213: 1009736927448584970
+    second: SS_Mask_Blue_162
+  - first:
+      213: 3962734740146284404
+    second: SS_Mask_Blue_163
+  - first:
+      213: 920973395490749264
+    second: SS_Mask_Blue_164
+  - first:
+      213: -6850799215127818038
+    second: SS_Mask_Blue_165
+  - first:
+      213: -4247974207518606270
+    second: SS_Mask_Blue_166
+  - first:
+      213: -6445039377603415004
+    second: SS_Mask_Blue_167
+  - first:
+      213: 1397231850392500353
+    second: SS_Mask_Blue_168
+  - first:
+      213: -8409159660052925090
+    second: SS_Mask_Blue_169
+  - first:
+      213: -1527520053287070715
+    second: SS_Mask_Blue_170
+  - first:
+      213: 5881209330132280218
+    second: SS_Mask_Blue_171
+  - first:
+      213: 7534183807923448106
+    second: SS_Mask_Blue_172
+  - first:
+      213: -738938534565397122
+    second: SS_Mask_Blue_173
+  - first:
+      213: -4791589383635087099
+    second: SS_Mask_Blue_174
+  - first:
+      213: 932138806182922751
+    second: SS_Mask_Blue_175
+  - first:
+      213: 7725146698027563907
+    second: SS_Mask_Blue_176
+  - first:
+      213: 2026537953518224289
+    second: SS_Mask_Blue_177
+  - first:
+      213: -1284659698617989084
+    second: SS_Mask_Blue_178
+  - first:
+      213: 5061248315738439799
+    second: SS_Mask_Blue_179
+  - first:
+      213: 3331648868270773064
+    second: SS_Mask_Blue_180
+  - first:
+      213: -7209789153151816177
+    second: SS_Mask_Blue_181
+  - first:
+      213: 1939766261817783647
+    second: SS_Mask_Blue_182
+  - first:
+      213: -2258324723388124255
+    second: SS_Mask_Blue_183
+  - first:
+      213: 2757867666573873638
+    second: SS_Mask_Blue_184
+  - first:
+      213: 4523871633152817897
+    second: SS_Mask_Blue_185
+  - first:
+      213: 1931481152016280476
+    second: SS_Mask_Blue_186
+  - first:
+      213: -7849217243991142617
+    second: SS_Mask_Blue_187
+  - first:
+      213: -1611765467279410330
+    second: SS_Mask_Blue_188
+  - first:
+      213: 7403666320262062571
+    second: SS_Mask_Blue_189
+  - first:
+      213: -5013036177448405648
+    second: SS_Mask_Blue_190
+  - first:
+      213: -5596016650207101740
+    second: SS_Mask_Blue_191
+  - first:
+      213: -8792027276343213489
+    second: SS_Mask_Blue_192
+  - first:
+      213: -8509114650280973972
+    second: SS_Mask_Blue_193
+  - first:
+      213: -7605913155344053302
+    second: SS_Mask_Blue_194
+  - first:
+      213: -2225711821547584549
+    second: SS_Mask_Blue_195
+  - first:
+      213: -1810763112487970895
+    second: SS_Mask_Blue_196
+  - first:
+      213: -4784622960155787604
+    second: SS_Mask_Blue_197
+  - first:
+      213: 4154373292276425647
+    second: SS_Mask_Blue_198
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Mask_Blue_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 417
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdc553016435d6a0800000000000000
+      internalID: -6425171702101717554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 416
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224bc3e5f82528ce0800000000000000
+      internalID: -1404469358071335902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 416
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92ed5fc6a3a18e30800000000000000
+      internalID: 4504061039186141850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 416
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dd1ba5abee11390800000000000000
+      internalID: -7849230191377130153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 417
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6d18ebafa5018f0800000000000000
+      internalID: -571857119691548962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 385
+        width: 24
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f25893affa67bce0800000000000000
+      internalID: -1389524313826635016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 416
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf64cb93a1ddfeb0800000000000000
+      internalID: -4684357536772231238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 416
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016e41b609ffc4a20800000000000000
+      internalID: 3048092043559888400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 416
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ced846d7646e3b0800000000000000
+      internalID: -5483617991905121206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 416
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e774633996d64650800000000000000
+      internalID: 6216892289112111076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_10
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 418
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5119a56be88b00e70800000000000000
+      internalID: 9079459771863175445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_11
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 416
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38046808ba1d40c0800000000000000
+      internalID: -4589983067503589314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_12
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 416
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1071f90dcedece270800000000000000
+      internalID: 8281255416195651329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_13
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 415
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71705c699e6e84d0800000000000000
+      internalID: -3130443085749653121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_14
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 415
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e3518a7eb7e1490800000000000000
+      internalID: -7773639671907271168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 384
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f573ff25f568d36a0800000000000000
+      internalID: -6467865745861691553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee265899c5a329600800000000000000
+      internalID: 473505080214381294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 383
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6f5f8855e87b050800000000000000
+      internalID: 5816273941793470115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd8ad2db8bfb3850800000000000000
+      internalID: 6357951876920151542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_19
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 384
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cc52ac7892eb270800000000000000
+      internalID: 8268091629087607949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_20
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 352
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd62ab6d7608eee0800000000000000
+      internalID: -1231727362339344961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_21
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 383
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8285a551e4f3964d0800000000000000
+      internalID: -3140909660515968984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_22
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 384
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009a8bc73c6ec7db0800000000000000
+      internalID: -4792702176143562496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_23
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 352
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e28dcdcdba2d4a0800000000000000
+      internalID: -6569999941293822385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_24
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 354
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800a88db63bf8a480800000000000000
+      internalID: -8887577652089020408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 384
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 249d6fa595000e780800000000000000
+      internalID: -8655918100027877054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_26
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ba1d9e5dad238e0800000000000000
+      internalID: -1715067895789016247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 384
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e743e6b58ad2010800000000000000
+      internalID: 1165772989203250827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_28
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 353
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e852683be34cca6f0800000000000000
+      internalID: -671946470806116978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_29
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 384
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11205005d6db73c40800000000000000
+      internalID: 5492066547793199633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_30
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f87c2fa247a9ba40800000000000000
+      internalID: 5384518734346746097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_31
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 383
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f08aa2daf7d14c00800000000000000
+      internalID: 883224474217513206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_32
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 352
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9536dfed387e78b0800000000000000
+      internalID: -5152548716253137505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_33
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 384
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b53d81d25ff306c0800000000000000
+      internalID: -4178215298101594702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_34
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 383
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc88c2166f9a46420800000000000000
+      internalID: 2622407758693828813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_35
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 352
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a84a4e52d0c65d0800000000000000
+      internalID: -3068062789745210804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_36
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 384
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5421f2d926e36b940800000000000000
+      internalID: 5311501403794903621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_37
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 351
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e41a29bd2c0c92e0800000000000000
+      internalID: -2117804334251371288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_38
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 384
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53a2f10b1615fd40800000000000000
+      internalID: 5617420415467168607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_39
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 352
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a5f01b3314fe530800000000000000
+      internalID: 3886396693713738353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_40
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 383
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdac0e1e3421f910800000000000000
+      internalID: 1869315169546186168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_41
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9b8ac40a52c5e10800000000000000
+      internalID: 2187664889406339493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_42
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 319
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58601e9a408ceb540800000000000000
+      internalID: 5025674156547573381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_43
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 321
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e18e11092f633b0800000000000000
+      internalID: -5532968391588438505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_44
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 320
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3823adf6902c670800000000000000
+      internalID: 8557412617964127224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_45
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 352
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0524006a1dcdafca0800000000000000
+      internalID: -5982226362016972208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_46
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 320
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70ab881378481970800000000000000
+      internalID: 8725803937200578687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_47
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 320
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1d87fd56c866800800000000000000
+      internalID: 605325569096733115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_48
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 321
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8f99ff2208b3ce0800000000000000
+      internalID: -1424403969327105858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_49
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 352
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4658fd8930cc270800000000000000
+      internalID: 8271990570692732113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_50
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 321
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aff65c864b63001b0800000000000000
+      internalID: -5692489780516524038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_51
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 320
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6f2aa05e6b2fd90800000000000000
+      internalID: -7065383770548668765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_52
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 322
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e2eff14b68784db0800000000000000
+      internalID: -4807460200153881882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_53
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 321
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffa25f7a5a1a47b0800000000000000
+      internalID: -5239346240506646539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_54
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 320
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5e113aa8279d3460800000000000000
+      internalID: 7223095578281975388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_55
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 321
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14621a8d81d326360800000000000000
+      internalID: 7161353534395459137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_56
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 321
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5163b9b69fd0f00800000000000000
+      internalID: 1084797325826987437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_57
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 321
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406c1c36eaa7d3320800000000000000
+      internalID: 2539320654323369476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_58
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 320
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f8562fbb09b1bb0800000000000000
+      internalID: -4964215027345813735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_59
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 289
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260557ff3b8616fb0800000000000000
+      internalID: -4656325417430069150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_60
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 288
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1938e28628ad0fe0800000000000000
+      internalID: -1221135040589055715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_61
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 288
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1755c0e310483b0800000000000000
+      internalID: -5511278677988118037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_62
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 288
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1955ed723a5f6b0800000000000000
+      internalID: -5263121197883354696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_63
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 289
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7eef1dda993fa040800000000000000
+      internalID: 4661007476649356922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_64
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 288
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be060b6d6a9533a0800000000000000
+      internalID: -6686268277023961423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_65
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 287
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6cadfb63f799b730800000000000000
+      internalID: 4015407614522141805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_66
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 289
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907dc7f29012e8440800000000000000
+      internalID: 4939922164607145737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_67
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 290
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957ae53c4bc12abd0800000000000000
+      internalID: -2620500470478756007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_68
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 288
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22a42c52ec1f88d0800000000000000
+      internalID: -2842021081313402323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_69
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 287
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861c3d5fc96107aa0800000000000000
+      internalID: -6165403026475204248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_70
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 289
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19112ede322ce7b0800000000000000
+      internalID: -5193738616854996710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_71
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 288
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4f84de23d3ba120800000000000000
+      internalID: 2426100113207784677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_72
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 288
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed512fb249244ccb0800000000000000
+      internalID: -4844674094983932450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_73
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 289
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9776d9721f5acf0800000000000000
+      internalID: -241521852547630635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_74
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3fe84e7efad3b00800000000000000
+      internalID: 809996918503437262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_75
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 224
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f87f5e3c9be0a20800000000000000
+      internalID: 3030563850294890267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_76
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813ab3da4bd7fd970800000000000000
+      internalID: 8781876013349708568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_77
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 224
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047513aa00ce26400800000000000000
+      internalID: 316074411468871488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_78
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 256
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a016f1a9a7ed68c50800000000000000
+      internalID: 6667260916521722122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_79
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3955d94097cb57480800000000000000
+      internalID: -8902001860473432685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_80
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 224
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cfc08834bade1560800000000000000
+      internalID: 7286501714708975557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_81
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 256
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89470341bc1c62e0800000000000000
+      internalID: -2131296975993747061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_82
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 256
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eda384fd4479dfe0800000000000000
+      internalID: -1163771150534988313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_83
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 224
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb6c100095c97730800000000000000
+      internalID: 3997443366535851003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_84
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 256
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea87af871b3b8650800000000000000
+      internalID: 6236143081404992233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_85
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 256
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82d651f725bcf0a90800000000000000
+      internalID: -7345428912038122200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_86
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 224
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66e2517768d4b0a0800000000000000
+      internalID: -6866625593038674321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_87
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 256
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635c2de6845c59990800000000000000
+      internalID: -7379775499489065674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_88
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 224
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3b1f2efe408e060800000000000000
+      internalID: 6982836650589139924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_89
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9035490ec70dc20800000000000000
+      internalID: 3229218236827634106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_90
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 256
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc22c890ecfc6f90800000000000000
+      internalID: -6958909282628522762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_91
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 256
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c8fe880493856f0800000000000000
+      internalID: -695743193090651117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_92
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e723fead82ff3f0800000000000000
+      internalID: -864927682650800585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_93
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2111e8f49f69fdb60800000000000000
+      internalID: 7773097479390499090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_94
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 256
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02bdaabeb576c6d0800000000000000
+      internalID: -2970557442168081907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_95
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 224
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b45fbbdb1b5bfed0800000000000000
+      internalID: -2379207802926181195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_96
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 224
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 048a9f00f95115170800000000000000
+      internalID: 8165331372059764800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_97
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 224
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148ee3e5824391540800000000000000
+      internalID: 4979068211019311169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_98
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 225
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbc33272c6b7b400800000000000000
+      internalID: 339941243145669554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_99
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 225
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7d806efedd8b650800000000000000
+      internalID: 6248988505402824609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_100
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 225
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fb5fb108292d350800000000000000
+      internalID: 6040051129179815831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_101
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 225
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271154c47701494f0800000000000000
+      internalID: -823014727335210638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_102
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 226
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84db04c5d5407e30800000000000000
+      internalID: 4499172812162585743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_103
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 225
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9810a0f3678556240800000000000000
+      internalID: 4784327444038025609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_104
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 193
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452d87a06bb6851e0800000000000000
+      internalID: -2208897187621318060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_105
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 194
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24363dc36aa8bade0800000000000000
+      internalID: -1320809619113417918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_106
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 193
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bc75384a6cef940800000000000000
+      internalID: 5331917418733751061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_107
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 195
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a468bd16700d480800000000000000
+      internalID: -8876586748671014290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_108
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 194
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce424495ecaa69a20800000000000000
+      internalID: 3068827999337194732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_109
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 193
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1644aaf1e3267e0800000000000000
+      internalID: -1773786997509037592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_110
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 193
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d6ec5f5a0c35ec0800000000000000
+      internalID: -3579305459803329191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_111
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 194
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb14df6476ce53670800000000000000
+      internalID: 8517974198557950399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_112
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 193
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53660c92be8b0df0800000000000000
+      internalID: -212919659596979361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_113
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 194
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3affeffc010b943d0800000000000000
+      internalID: -3221850472151318621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_114
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 193
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edefa509075a30ab0800000000000000
+      internalID: -5043005254848020770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_115
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 193
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3875a3f5b392480800000000000000
+      internalID: -8923535906471181328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_116
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 194
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4c9d177becc4150800000000000000
+      internalID: 5858284502586606843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_117
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 193
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006ae41ce4e3d8ef0800000000000000
+      internalID: -104358708388125184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_118
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 194
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ba2fdd7f1193d70800000000000000
+      internalID: 9023263084691762046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_119
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 161
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc92fe6db4601f20800000000000000
+      internalID: 3391321284182973685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_120
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 161
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a853c2435e5bfa360800000000000000
+      internalID: 7183159926706681226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_121
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 162
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67639cd7c26d2dd0800000000000000
+      internalID: -2509240806836836502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_122
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 162
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13662c4baee437b10800000000000000
+      internalID: 1978011431307732529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_123
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 162
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7ad2cebceeb9ae0800000000000000
+      internalID: -1541375887836076118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_124
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 162
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278f0c2da1101cd80800000000000000
+      internalID: -8232297429139916686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_125
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 161
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bbe7e3c71c441c0800000000000000
+      internalID: -4520275386604537024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_126
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 160
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc8c102a2b3b1c10800000000000000
+      internalID: 2025277509546577085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_127
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 161
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3e01a1f19c99a990800000000000000
+      internalID: -7374190764204421572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_128
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 161
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931552f9bf4985aa0800000000000000
+      internalID: -6172019480883539655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_129
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 161
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73a56a1bae66a340800000000000000
+      internalID: 4874705327836472187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_130
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 162
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cb197ed76205ab0800000000000000
+      internalID: -5021471262320247740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_131
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 162
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4899b39729b1afc0800000000000000
+      internalID: -3485301056974776241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_132
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 162
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ecd5ce8e76fa0c0800000000000000
+      internalID: -4562313647407378796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_133
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 162
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55e453e207555020800000000000000
+      internalID: 2329864052149642586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_134
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 129
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91139de5ae2c29d0800000000000000
+      internalID: -2797809978313600609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_135
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 129
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f9944d43c365770800000000000000
+      internalID: 8599126736108101460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_136
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 128
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc7ae4d727804ad0800000000000000
+      internalID: -2720025569786168100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_137
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 128
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf1234a496c89f70800000000000000
+      internalID: 9194316980989075381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_138
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 129
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f78fb621144cc00800000000000000
+      internalID: 919931771267088186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_139
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 131
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff88e225cd05047d0800000000000000
+      internalID: -2936258049843754753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_140
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 129
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca923708fbc73bfd0800000000000000
+      internalID: -2327379420484785748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_141
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 129
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe4bf3c42ceaab00800000000000000
+      internalID: 840743923109023483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_142
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 131
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a719b63c7b33b5830800000000000000
+      internalID: 4060896353355272570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_143
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 130
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d25b1f88aa6cb030800000000000000
+      internalID: 3511799081630126804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_144
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 135
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd8c9e43daf8b94f0800000000000000
+      internalID: -820904532985132837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_145
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 131
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c56116d19a245b0800000000000000
+      internalID: -5385556260733690863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_146
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 131
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845b43f5a97cd0f90800000000000000
+      internalID: -6985707981145590456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_147
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 132
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b7ba68ffbd686f40800000000000000
+      internalID: 5721943997848139696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_148
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 131
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88491c1e0c8955960800000000000000
+      internalID: 7590140701191541896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_149
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 97
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765f3d8c9ea57fed0800000000000000
+      internalID: -2380333917898803865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_150
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 97
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c14fc88978a4f00800000000000000
+      internalID: 1101842148115094648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_151
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 97
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c413b69547d01d0800000000000000
+      internalID: -3382919817686070182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_152
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 63
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc986e1683f543130800000000000000
+      internalID: 3545563502412728779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_153
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 96
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57aee95b641bb21f0800000000000000
+      internalID: -1068565569317442955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_154
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 96
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51f590a5b46ebbda0800000000000000
+      internalID: -5927891273195626731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_155
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 96
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb22089230b5c360800000000000000
+      internalID: 7189346111511997363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_156
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 96
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d984a7563ee709430800000000000000
+      internalID: 3787666801743775901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_157
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 96
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0f5f1f2687a8bf0800000000000000
+      internalID: -321312057042014039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_158
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 95
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dcb2185d3b3b420800000000000000
+      internalID: 2644655135773150489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_159
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 96
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8cd1d676e1a92120800000000000000
+      internalID: 2389619088504773770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_160
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 96
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d407cfad36ede3c70800000000000000
+      internalID: 8952837629716230221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_161
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 97
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fd41a05511d53a0800000000000000
+      internalID: -6675160015754174715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_162
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 96
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03da2db26e430e00800000000000000
+      internalID: 1009736927448584970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_163
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 96
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477e48d20467ef630800000000000000
+      internalID: 3962734740146284404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_164
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 96
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bbfc57c64f7cc00800000000000000
+      internalID: 920973395490749264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_165
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 63
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac018c239621de0a0800000000000000
+      internalID: -6850799215127818038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_166
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 64
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cf4d907f92c05c0800000000000000
+      internalID: -4247974207518606270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_167
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 64
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4243b8655de9e86a0800000000000000
+      internalID: -6445039377603415004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_168
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 64
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188b18f07f6f36310800000000000000
+      internalID: 1397231850392500353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_169
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 64
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e553003c7d9ac4b80800000000000000
+      internalID: -8409159660052925090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_170
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 64
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504d98cca982dcae0800000000000000
+      internalID: -1527520053287070715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_171
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 64
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a936f3cc9b04e9150800000000000000
+      internalID: 5881209330132280218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_172
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 63
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29e6c7614cce8860800000000000000
+      internalID: 7534183807923448106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_173
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 64
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7db1606153ceb5f0800000000000000
+      internalID: -738938534565397122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_174
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 68
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501d5eea7dad08db0800000000000000
+      internalID: -4791589383635087099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_175
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 67
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9c3e73e4f9fec00800000000000000
+      internalID: 932138806182922751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_176
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 68
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bf6b50efb353b60800000000000000
+      internalID: 7725146698027563907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_177
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 69
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a30d4b1885bf1c10800000000000000
+      internalID: 2026537953518224289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_178
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 67
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4284d9e7fc8fb2ee0800000000000000
+      internalID: -1284659698617989084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_179
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 33
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77042ab078a2d3640800000000000000
+      internalID: 5061248315738439799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_180
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 35
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8439c9d6ef46c3e20800000000000000
+      internalID: 3331648868270773064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_181
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 36
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0eebecd6fea1fb90800000000000000
+      internalID: -7209789153151816177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_182
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 35
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55bfe6432f6bea10800000000000000
+      internalID: 1939766261817783647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_183
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 35
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3f7f211a1d8a0e0800000000000000
+      internalID: -2258324723388124255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_184
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 34
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e1dbabe70ae54620800000000000000
+      internalID: 2757867666573873638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_185
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 34
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea3a87284508ce30800000000000000
+      internalID: 4523871633152817897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_186
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 34
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9bea44dfdffdca10800000000000000
+      internalID: 1931481152016280476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_187
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 36
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72f8907e08af11390800000000000000
+      internalID: -7849217243991142617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_188
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 35
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bb195d8dbd1a9e0800000000000000
+      internalID: -1611765467279410330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_189
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 34
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be16ebeba4b1fb660800000000000000
+      internalID: 7403666320262062571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_190
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 35
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0757105282e1e6ab0800000000000000
+      internalID: -5013036177448405648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_191
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 35
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dcfb3f6184f652b0800000000000000
+      internalID: -5596016650207101740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_192
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 35
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f42840a36c17cf580800000000000000
+      internalID: -8792027276343213489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_193
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 35
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c692eec0f4d89e980800000000000000
+      internalID: -8509114650280973972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_194
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 3
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb4f37784e527690800000000000000
+      internalID: -7605913155344053302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_195
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3c44004eeac11e0800000000000000
+      internalID: -2225711821547584549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_196
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b716c30b80eed6e0800000000000000
+      internalID: -1810763112487970895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_197
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae7cbb84ca999db0800000000000000
+      internalID: -4784622960155787604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Mask_Blue_198
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 3
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa3a18e9f7c47a930800000000000000
+      internalID: 4154373292276425647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Mask_Blue_0: -6425171702101717554
+      SS_Mask_Blue_1: -1404469358071335902
+      SS_Mask_Blue_10: 9079459771863175445
+      SS_Mask_Blue_100: 6040051129179815831
+      SS_Mask_Blue_101: -823014727335210638
+      SS_Mask_Blue_102: 4499172812162585743
+      SS_Mask_Blue_103: 4784327444038025609
+      SS_Mask_Blue_104: -2208897187621318060
+      SS_Mask_Blue_105: -1320809619113417918
+      SS_Mask_Blue_106: 5331917418733751061
+      SS_Mask_Blue_107: -8876586748671014290
+      SS_Mask_Blue_108: 3068827999337194732
+      SS_Mask_Blue_109: -1773786997509037592
+      SS_Mask_Blue_11: -4589983067503589314
+      SS_Mask_Blue_110: -3579305459803329191
+      SS_Mask_Blue_111: 8517974198557950399
+      SS_Mask_Blue_112: -212919659596979361
+      SS_Mask_Blue_113: -3221850472151318621
+      SS_Mask_Blue_114: -5043005254848020770
+      SS_Mask_Blue_115: -8923535906471181328
+      SS_Mask_Blue_116: 5858284502586606843
+      SS_Mask_Blue_117: -104358708388125184
+      SS_Mask_Blue_118: 9023263084691762046
+      SS_Mask_Blue_119: 3391321284182973685
+      SS_Mask_Blue_12: 8281255416195651329
+      SS_Mask_Blue_120: 7183159926706681226
+      SS_Mask_Blue_121: -2509240806836836502
+      SS_Mask_Blue_122: 1978011431307732529
+      SS_Mask_Blue_123: -1541375887836076118
+      SS_Mask_Blue_124: -8232297429139916686
+      SS_Mask_Blue_125: -4520275386604537024
+      SS_Mask_Blue_126: 2025277509546577085
+      SS_Mask_Blue_127: -7374190764204421572
+      SS_Mask_Blue_128: -6172019480883539655
+      SS_Mask_Blue_129: 4874705327836472187
+      SS_Mask_Blue_13: -3130443085749653121
+      SS_Mask_Blue_130: -5021471262320247740
+      SS_Mask_Blue_131: -3485301056974776241
+      SS_Mask_Blue_132: -4562313647407378796
+      SS_Mask_Blue_133: 2329864052149642586
+      SS_Mask_Blue_134: -2797809978313600609
+      SS_Mask_Blue_135: 8599126736108101460
+      SS_Mask_Blue_136: -2720025569786168100
+      SS_Mask_Blue_137: 9194316980989075381
+      SS_Mask_Blue_138: 919931771267088186
+      SS_Mask_Blue_139: -2936258049843754753
+      SS_Mask_Blue_14: -7773639671907271168
+      SS_Mask_Blue_140: -2327379420484785748
+      SS_Mask_Blue_141: 840743923109023483
+      SS_Mask_Blue_142: 4060896353355272570
+      SS_Mask_Blue_143: 3511799081630126804
+      SS_Mask_Blue_144: -820904532985132837
+      SS_Mask_Blue_145: -5385556260733690863
+      SS_Mask_Blue_146: -6985707981145590456
+      SS_Mask_Blue_147: 5721943997848139696
+      SS_Mask_Blue_148: 7590140701191541896
+      SS_Mask_Blue_149: -2380333917898803865
+      SS_Mask_Blue_15: -6467865745861691553
+      SS_Mask_Blue_150: 1101842148115094648
+      SS_Mask_Blue_151: -3382919817686070182
+      SS_Mask_Blue_152: 3545563502412728779
+      SS_Mask_Blue_153: -1068565569317442955
+      SS_Mask_Blue_154: -5927891273195626731
+      SS_Mask_Blue_155: 7189346111511997363
+      SS_Mask_Blue_156: 3787666801743775901
+      SS_Mask_Blue_157: -321312057042014039
+      SS_Mask_Blue_158: 2644655135773150489
+      SS_Mask_Blue_159: 2389619088504773770
+      SS_Mask_Blue_16: 473505080214381294
+      SS_Mask_Blue_160: 8952837629716230221
+      SS_Mask_Blue_161: -6675160015754174715
+      SS_Mask_Blue_162: 1009736927448584970
+      SS_Mask_Blue_163: 3962734740146284404
+      SS_Mask_Blue_164: 920973395490749264
+      SS_Mask_Blue_165: -6850799215127818038
+      SS_Mask_Blue_166: -4247974207518606270
+      SS_Mask_Blue_167: -6445039377603415004
+      SS_Mask_Blue_168: 1397231850392500353
+      SS_Mask_Blue_169: -8409159660052925090
+      SS_Mask_Blue_17: 5816273941793470115
+      SS_Mask_Blue_170: -1527520053287070715
+      SS_Mask_Blue_171: 5881209330132280218
+      SS_Mask_Blue_172: 7534183807923448106
+      SS_Mask_Blue_173: -738938534565397122
+      SS_Mask_Blue_174: -4791589383635087099
+      SS_Mask_Blue_175: 932138806182922751
+      SS_Mask_Blue_176: 7725146698027563907
+      SS_Mask_Blue_177: 2026537953518224289
+      SS_Mask_Blue_178: -1284659698617989084
+      SS_Mask_Blue_179: 5061248315738439799
+      SS_Mask_Blue_18: 6357951876920151542
+      SS_Mask_Blue_180: 3331648868270773064
+      SS_Mask_Blue_181: -7209789153151816177
+      SS_Mask_Blue_182: 1939766261817783647
+      SS_Mask_Blue_183: -2258324723388124255
+      SS_Mask_Blue_184: 2757867666573873638
+      SS_Mask_Blue_185: 4523871633152817897
+      SS_Mask_Blue_186: 1931481152016280476
+      SS_Mask_Blue_187: -7849217243991142617
+      SS_Mask_Blue_188: -1611765467279410330
+      SS_Mask_Blue_189: 7403666320262062571
+      SS_Mask_Blue_19: 8268091629087607949
+      SS_Mask_Blue_190: -5013036177448405648
+      SS_Mask_Blue_191: -5596016650207101740
+      SS_Mask_Blue_192: -8792027276343213489
+      SS_Mask_Blue_193: -8509114650280973972
+      SS_Mask_Blue_194: -7605913155344053302
+      SS_Mask_Blue_195: -2225711821547584549
+      SS_Mask_Blue_196: -1810763112487970895
+      SS_Mask_Blue_197: -4784622960155787604
+      SS_Mask_Blue_198: 4154373292276425647
+      SS_Mask_Blue_2: 4504061039186141850
+      SS_Mask_Blue_20: -1231727362339344961
+      SS_Mask_Blue_21: -3140909660515968984
+      SS_Mask_Blue_22: -4792702176143562496
+      SS_Mask_Blue_23: -6569999941293822385
+      SS_Mask_Blue_24: -8887577652089020408
+      SS_Mask_Blue_25: -8655918100027877054
+      SS_Mask_Blue_26: -1715067895789016247
+      SS_Mask_Blue_27: 1165772989203250827
+      SS_Mask_Blue_28: -671946470806116978
+      SS_Mask_Blue_29: 5492066547793199633
+      SS_Mask_Blue_3: -7849230191377130153
+      SS_Mask_Blue_30: 5384518734346746097
+      SS_Mask_Blue_31: 883224474217513206
+      SS_Mask_Blue_32: -5152548716253137505
+      SS_Mask_Blue_33: -4178215298101594702
+      SS_Mask_Blue_34: 2622407758693828813
+      SS_Mask_Blue_35: -3068062789745210804
+      SS_Mask_Blue_36: 5311501403794903621
+      SS_Mask_Blue_37: -2117804334251371288
+      SS_Mask_Blue_38: 5617420415467168607
+      SS_Mask_Blue_39: 3886396693713738353
+      SS_Mask_Blue_4: -571857119691548962
+      SS_Mask_Blue_40: 1869315169546186168
+      SS_Mask_Blue_41: 2187664889406339493
+      SS_Mask_Blue_42: 5025674156547573381
+      SS_Mask_Blue_43: -5532968391588438505
+      SS_Mask_Blue_44: 8557412617964127224
+      SS_Mask_Blue_45: -5982226362016972208
+      SS_Mask_Blue_46: 8725803937200578687
+      SS_Mask_Blue_47: 605325569096733115
+      SS_Mask_Blue_48: -1424403969327105858
+      SS_Mask_Blue_49: 8271990570692732113
+      SS_Mask_Blue_5: -1389524313826635016
+      SS_Mask_Blue_50: -5692489780516524038
+      SS_Mask_Blue_51: -7065383770548668765
+      SS_Mask_Blue_52: -4807460200153881882
+      SS_Mask_Blue_53: -5239346240506646539
+      SS_Mask_Blue_54: 7223095578281975388
+      SS_Mask_Blue_55: 7161353534395459137
+      SS_Mask_Blue_56: 1084797325826987437
+      SS_Mask_Blue_57: 2539320654323369476
+      SS_Mask_Blue_58: -4964215027345813735
+      SS_Mask_Blue_59: -4656325417430069150
+      SS_Mask_Blue_6: -4684357536772231238
+      SS_Mask_Blue_60: -1221135040589055715
+      SS_Mask_Blue_61: -5511278677988118037
+      SS_Mask_Blue_62: -5263121197883354696
+      SS_Mask_Blue_63: 4661007476649356922
+      SS_Mask_Blue_64: -6686268277023961423
+      SS_Mask_Blue_65: 4015407614522141805
+      SS_Mask_Blue_66: 4939922164607145737
+      SS_Mask_Blue_67: -2620500470478756007
+      SS_Mask_Blue_68: -2842021081313402323
+      SS_Mask_Blue_69: -6165403026475204248
+      SS_Mask_Blue_7: 3048092043559888400
+      SS_Mask_Blue_70: -5193738616854996710
+      SS_Mask_Blue_71: 2426100113207784677
+      SS_Mask_Blue_72: -4844674094983932450
+      SS_Mask_Blue_73: -241521852547630635
+      SS_Mask_Blue_74: 809996918503437262
+      SS_Mask_Blue_75: 3030563850294890267
+      SS_Mask_Blue_76: 8781876013349708568
+      SS_Mask_Blue_77: 316074411468871488
+      SS_Mask_Blue_78: 6667260916521722122
+      SS_Mask_Blue_79: -8902001860473432685
+      SS_Mask_Blue_8: -5483617991905121206
+      SS_Mask_Blue_80: 7286501714708975557
+      SS_Mask_Blue_81: -2131296975993747061
+      SS_Mask_Blue_82: -1163771150534988313
+      SS_Mask_Blue_83: 3997443366535851003
+      SS_Mask_Blue_84: 6236143081404992233
+      SS_Mask_Blue_85: -7345428912038122200
+      SS_Mask_Blue_86: -6866625593038674321
+      SS_Mask_Blue_87: -7379775499489065674
+      SS_Mask_Blue_88: 6982836650589139924
+      SS_Mask_Blue_89: 3229218236827634106
+      SS_Mask_Blue_9: 6216892289112111076
+      SS_Mask_Blue_90: -6958909282628522762
+      SS_Mask_Blue_91: -695743193090651117
+      SS_Mask_Blue_92: -864927682650800585
+      SS_Mask_Blue_93: 7773097479390499090
+      SS_Mask_Blue_94: -2970557442168081907
+      SS_Mask_Blue_95: -2379207802926181195
+      SS_Mask_Blue_96: 8165331372059764800
+      SS_Mask_Blue_97: 4979068211019311169
+      SS_Mask_Blue_98: 339941243145669554
+      SS_Mask_Blue_99: 6248988505402824609
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3250 @@
+fileFormatVersion: 2
+guid: f08ac69b22cdc404b82f56e6f1b8e8d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4332072410419001185
+    second: SS_Sword_Yellow_0
+  - first:
+      213: 62182640759838176
+    second: SS_Sword_Yellow_1
+  - first:
+      213: -1942170127485993809
+    second: SS_Sword_Yellow_2
+  - first:
+      213: 6677018882102384508
+    second: SS_Sword_Yellow_3
+  - first:
+      213: -1224882156967609476
+    second: SS_Sword_Yellow_4
+  - first:
+      213: -2904654672529902153
+    second: SS_Sword_Yellow_5
+  - first:
+      213: -2282208560240798158
+    second: SS_Sword_Yellow_6
+  - first:
+      213: -8603430191237099654
+    second: SS_Sword_Yellow_7
+  - first:
+      213: -5077901881377432048
+    second: SS_Sword_Yellow_8
+  - first:
+      213: 598531749353257163
+    second: SS_Sword_Yellow_9
+  - first:
+      213: 7702059004789409880
+    second: SS_Sword_Yellow_10
+  - first:
+      213: -2105611395045997598
+    second: SS_Sword_Yellow_11
+  - first:
+      213: -465010793825541089
+    second: SS_Sword_Yellow_12
+  - first:
+      213: -2850137649939239318
+    second: SS_Sword_Yellow_13
+  - first:
+      213: 428840935808017033
+    second: SS_Sword_Yellow_14
+  - first:
+      213: 4864964149263793549
+    second: SS_Sword_Yellow_15
+  - first:
+      213: -4976325983761420188
+    second: SS_Sword_Yellow_16
+  - first:
+      213: 7384974662039403641
+    second: SS_Sword_Yellow_17
+  - first:
+      213: -4185464271449459188
+    second: SS_Sword_Yellow_18
+  - first:
+      213: 4749564973232362402
+    second: SS_Sword_Yellow_19
+  - first:
+      213: 2307632497253195002
+    second: SS_Sword_Yellow_20
+  - first:
+      213: -2650566783012039102
+    second: SS_Sword_Yellow_21
+  - first:
+      213: 8910450180580030870
+    second: SS_Sword_Yellow_22
+  - first:
+      213: 6088349246616267684
+    second: SS_Sword_Yellow_23
+  - first:
+      213: -7390067546970574963
+    second: SS_Sword_Yellow_24
+  - first:
+      213: -6909236983262273635
+    second: SS_Sword_Yellow_25
+  - first:
+      213: -54449118763589678
+    second: SS_Sword_Yellow_26
+  - first:
+      213: -7630440591371585172
+    second: SS_Sword_Yellow_27
+  - first:
+      213: -5302218844696004650
+    second: SS_Sword_Yellow_28
+  - first:
+      213: -7299471537376228535
+    second: SS_Sword_Yellow_29
+  - first:
+      213: 1840810410546366553
+    second: SS_Sword_Yellow_30
+  - first:
+      213: -7392139294500762674
+    second: SS_Sword_Yellow_31
+  - first:
+      213: -1543775686028000495
+    second: SS_Sword_Yellow_32
+  - first:
+      213: 4013264757466088438
+    second: SS_Sword_Yellow_33
+  - first:
+      213: -2556628415752546537
+    second: SS_Sword_Yellow_34
+  - first:
+      213: 6524444874842132450
+    second: SS_Sword_Yellow_35
+  - first:
+      213: 8221825472431348956
+    second: SS_Sword_Yellow_36
+  - first:
+      213: 8891177237472976278
+    second: SS_Sword_Yellow_37
+  - first:
+      213: 7251983731221983078
+    second: SS_Sword_Yellow_38
+  - first:
+      213: 1489365764579061730
+    second: SS_Sword_Yellow_39
+  - first:
+      213: 367516520530256888
+    second: SS_Sword_Yellow_40
+  - first:
+      213: 7252552175388675795
+    second: SS_Sword_Yellow_41
+  - first:
+      213: 1209401746796353195
+    second: SS_Sword_Yellow_42
+  - first:
+      213: -1633820964516121757
+    second: SS_Sword_Yellow_43
+  - first:
+      213: 3687426225910016177
+    second: SS_Sword_Yellow_44
+  - first:
+      213: 6582997315314052305
+    second: SS_Sword_Yellow_45
+  - first:
+      213: 2372981408821026061
+    second: SS_Sword_Yellow_46
+  - first:
+      213: 2368262590685499105
+    second: SS_Sword_Yellow_47
+  - first:
+      213: -5089152343405108628
+    second: SS_Sword_Yellow_48
+  - first:
+      213: -2824706787570923804
+    second: SS_Sword_Yellow_49
+  - first:
+      213: 8307794609133947018
+    second: SS_Sword_Yellow_50
+  - first:
+      213: -1795448865669526879
+    second: SS_Sword_Yellow_51
+  - first:
+      213: 7994808391060971121
+    second: SS_Sword_Yellow_52
+  - first:
+      213: -6525464973170775637
+    second: SS_Sword_Yellow_53
+  - first:
+      213: -8376522526424800933
+    second: SS_Sword_Yellow_54
+  - first:
+      213: -4287479718759393141
+    second: SS_Sword_Yellow_55
+  - first:
+      213: -3117377527021955507
+    second: SS_Sword_Yellow_56
+  - first:
+      213: -4433570195896186870
+    second: SS_Sword_Yellow_57
+  - first:
+      213: -1229237965867665583
+    second: SS_Sword_Yellow_58
+  - first:
+      213: -1515680496427411473
+    second: SS_Sword_Yellow_59
+  - first:
+      213: 1622270776190589243
+    second: SS_Sword_Yellow_60
+  - first:
+      213: 3649411622491837880
+    second: SS_Sword_Yellow_61
+  - first:
+      213: 2635323631286236207
+    second: SS_Sword_Yellow_62
+  - first:
+      213: 8370033460653975894
+    second: SS_Sword_Yellow_63
+  - first:
+      213: 719074523819291360
+    second: SS_Sword_Yellow_64
+  - first:
+      213: -6908115590794167132
+    second: SS_Sword_Yellow_65
+  - first:
+      213: 6136265231720569669
+    second: SS_Sword_Yellow_66
+  - first:
+      213: 5059770096838483067
+    second: SS_Sword_Yellow_67
+  - first:
+      213: -5542652975032486213
+    second: SS_Sword_Yellow_68
+  - first:
+      213: -3241015494895918111
+    second: SS_Sword_Yellow_69
+  - first:
+      213: 3031112755325846869
+    second: SS_Sword_Yellow_70
+  - first:
+      213: 1915156593692222225
+    second: SS_Sword_Yellow_71
+  - first:
+      213: 765450285111192268
+    second: SS_Sword_Yellow_72
+  - first:
+      213: 6502891842495916178
+    second: SS_Sword_Yellow_73
+  - first:
+      213: 1718928049497353161
+    second: SS_Sword_Yellow_74
+  - first:
+      213: -5220288864215398156
+    second: SS_Sword_Yellow_75
+  - first:
+      213: 8673757054361500497
+    second: SS_Sword_Yellow_76
+  - first:
+      213: 1988593990472892433
+    second: SS_Sword_Yellow_77
+  - first:
+      213: -763416319350347785
+    second: SS_Sword_Yellow_78
+  - first:
+      213: 3890087015354386866
+    second: SS_Sword_Yellow_79
+  - first:
+      213: 2811056909047843671
+    second: SS_Sword_Yellow_80
+  - first:
+      213: 9053676582306297668
+    second: SS_Sword_Yellow_81
+  - first:
+      213: -1781744702333566864
+    second: SS_Sword_Yellow_82
+  - first:
+      213: -6751368263507599520
+    second: SS_Sword_Yellow_83
+  - first:
+      213: -6579391289639067411
+    second: SS_Sword_Yellow_84
+  - first:
+      213: 9028272424477723561
+    second: SS_Sword_Yellow_85
+  - first:
+      213: -1038428127330463617
+    second: SS_Sword_Yellow_86
+  - first:
+      213: 7403358980934060769
+    second: SS_Sword_Yellow_87
+  - first:
+      213: 3220199934308848382
+    second: SS_Sword_Yellow_88
+  - first:
+      213: 428246423566851601
+    second: SS_Sword_Yellow_89
+  - first:
+      213: -8846583857005832512
+    second: SS_Sword_Yellow_90
+  - first:
+      213: 5325292136543241758
+    second: SS_Sword_Yellow_91
+  - first:
+      213: -4968024464654115225
+    second: SS_Sword_Yellow_92
+  - first:
+      213: 6995586076854339879
+    second: SS_Sword_Yellow_93
+  - first:
+      213: -4178690758374524842
+    second: SS_Sword_Yellow_94
+  - first:
+      213: -4583079199245977027
+    second: SS_Sword_Yellow_95
+  - first:
+      213: -1506565086559143603
+    second: SS_Sword_Yellow_96
+  - first:
+      213: 5885165575397666999
+    second: SS_Sword_Yellow_97
+  - first:
+      213: -7314451641522275641
+    second: SS_Sword_Yellow_98
+  - first:
+      213: 1597887086295283511
+    second: SS_Sword_Yellow_99
+  - first:
+      213: 847602475108786385
+    second: SS_Sword_Yellow_100
+  - first:
+      213: -161289319129855797
+    second: SS_Sword_Yellow_101
+  - first:
+      213: -7443921576515057565
+    second: SS_Sword_Yellow_102
+  - first:
+      213: 2942316863396998816
+    second: SS_Sword_Yellow_103
+  - first:
+      213: 5434211180045627249
+    second: SS_Sword_Yellow_104
+  - first:
+      213: 8164897326778232798
+    second: SS_Sword_Yellow_105
+  - first:
+      213: 5127015666068046269
+    second: SS_Sword_Yellow_106
+  - first:
+      213: -5026926768128360243
+    second: SS_Sword_Yellow_107
+  - first:
+      213: -8093251643322876008
+    second: SS_Sword_Yellow_108
+  - first:
+      213: -8677717717951776133
+    second: SS_Sword_Yellow_109
+  - first:
+      213: -3076415581303066947
+    second: SS_Sword_Yellow_110
+  - first:
+      213: -8988681436591742386
+    second: SS_Sword_Yellow_111
+  - first:
+      213: 3763540193667534419
+    second: SS_Sword_Yellow_112
+  - first:
+      213: 7992731028347303511
+    second: SS_Sword_Yellow_113
+  - first:
+      213: 7364696093253266639
+    second: SS_Sword_Yellow_114
+  - first:
+      213: 1867820847206843015
+    second: SS_Sword_Yellow_115
+  - first:
+      213: 1278364051676685908
+    second: SS_Sword_Yellow_116
+  - first:
+      213: 4769396118532296031
+    second: SS_Sword_Yellow_117
+  - first:
+      213: 4603871553884455039
+    second: SS_Sword_Yellow_118
+  - first:
+      213: 1814173025493349765
+    second: SS_Sword_Yellow_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1677b4ca7ec9e1c30800000000000000
+      internalID: 4332072410419001185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 322
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e59fa548caecd000800000000000000
+      internalID: 62182640759838176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 321
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac72d12f860c05e0800000000000000
+      internalID: -1942170127485993809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 321
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77d9420c4989ac50800000000000000
+      internalID: 6677018882102384508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b3b3efa28500fe0800000000000000
+      internalID: -1224882156967609476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 321
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b53da007f790b7d0800000000000000
+      internalID: -2904654672529902153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 322
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236dd77f767f350e0800000000000000
+      internalID: -2282208560240798158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 321
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f0171f2d97a9880800000000000000
+      internalID: -8603430191237099654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 322
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ed53c842ba789b0800000000000000
+      internalID: -5077901881377432048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 322
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc87ef274796e4800800000000000000
+      internalID: 598531749353257163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 322
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858429b8bd533ea60800000000000000
+      internalID: 7702059004789409880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3c44b979d57c2e0800000000000000
+      internalID: -2105611395045997598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 290
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f146e419523fb89f0800000000000000
+      internalID: -465010793825541089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6ea76678e64278d0800000000000000
+      internalID: -2850137649939239318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 289
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982abfb1f8c83f500800000000000000
+      internalID: 428840935808017033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 289
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8df0e93e13d38340800000000000000
+      internalID: 4864964149263793549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 289
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460ba5b22e980fab0800000000000000
+      internalID: -4976325983761420188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 289
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c7e1ee353bc7660800000000000000
+      internalID: 7384974662039403641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 289
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c067a20bb6e3ae5c0800000000000000
+      internalID: -4185464271449459188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3172bcd28d9e140800000000000000
+      internalID: 4749564973232362402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc9ce6a78b560020800000000000000
+      internalID: 2307632497253195002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2461e1ddd8b473bd0800000000000000
+      internalID: -2650566783012039102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 256
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699b94aca3748ab70800000000000000
+      internalID: 8910450180580030870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ab6411e1692e7450800000000000000
+      internalID: 6088349246616267684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 257
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f2da468b4317990800000000000000
+      internalID: -7390067546970574963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 224
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f19a702957d10a0800000000000000
+      internalID: -6909236983262273635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df53c1a0de8e3ff0800000000000000
+      internalID: -54449118763589678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 257
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69339fb5ba3b1690800000000000000
+      internalID: -7630440591371585172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 257
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d733889d0cba66b0800000000000000
+      internalID: -5302218844696004650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_29
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 224
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b8d9e9f4113ba90800000000000000
+      internalID: -7299471537376228535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958057bb05fdb8910800000000000000
+      internalID: 1840810410546366553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_31
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 224
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb43151a78d96990800000000000000
+      internalID: -7392139294500762674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1138a6d5138639ae0800000000000000
+      internalID: -1543775686028000495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 256
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f34c52a80bf1b730800000000000000
+      internalID: 4013264757466088438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_34
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 256
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71756606008058cd0800000000000000
+      internalID: -2556628415752546537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef4591bb0c7b8a50800000000000000
+      internalID: 6524444874842132450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdc5781c4bac91270800000000000000
+      internalID: 8221825472431348956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 194
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d9d9a079ec36b70800000000000000
+      internalID: 8891177237472976278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_38
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fe568e7c834a460800000000000000
+      internalID: 7251983731221983078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_39
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 192
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efec5a954a4ba410800000000000000
+      internalID: 1489365764579061730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_40
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 224
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f32b47045ea91500800000000000000
+      internalID: 367516520530256888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 224
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de470127cd36a460800000000000000
+      internalID: 7252552175388675795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba698842b78a8c010800000000000000
+      internalID: 1209401746796353195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_43
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 224
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3633e673d708359e0800000000000000
+      internalID: -1633820964516121757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b863da9d9e5c2330800000000000000
+      internalID: 3687426225910016177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dce4a81e218b5b50800000000000000
+      internalID: 6582997315314052305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d126bc4068ee020800000000000000
+      internalID: 2372981408821026061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eec7a45742cdd020800000000000000
+      internalID: 2368262590685499105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c62ed7b38e2bf59b0800000000000000
+      internalID: -5089152343405108628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e643348420acc8d0800000000000000
+      internalID: -2824706787570923804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 193
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8885503e273b4370800000000000000
+      internalID: 8307794609133947018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 160
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aac365f4c84517e0800000000000000
+      internalID: -1795448865669526879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e50849fd343fe60800000000000000
+      internalID: 7994808391060971121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba9e6e72e24e075a0800000000000000
+      internalID: -6525464973170775637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b516467942d90cb80800000000000000
+      internalID: -8376522526424800933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8897ad69efcf74c0800000000000000
+      internalID: -4287479718759393141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_56
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46121fd7a9dcb4d0800000000000000
+      internalID: -3117377527021955507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0849da956bc872c0800000000000000
+      internalID: -4433570195896186870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157b804359ed0fee0800000000000000
+      internalID: -1229237965867665583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7d4717e9837fae0800000000000000
+      internalID: -1515680496427411473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3956500da6738610800000000000000
+      internalID: 1622270776190589243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_61
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 164
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5dec5098055a230800000000000000
+      internalID: 3649411622491837880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_62
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 164
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24320f41ec829420800000000000000
+      internalID: 2635323631286236207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_63
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 161
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659e96c0615582470800000000000000
+      internalID: 8370033460653975894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_64
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 162
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e23847387aaaf900800000000000000
+      internalID: 719074523819291360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_65
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 162
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac306f88717120a0800000000000000
+      internalID: -6908115590794167132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bd84887b4682550800000000000000
+      internalID: 6136265231720569669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 129
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c9333681ae73640800000000000000
+      internalID: 5059770096838483067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_68
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 130
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb63de54c7a8413b0800000000000000
+      internalID: -5542652975032486213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_69
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 130
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3213b34999503d0800000000000000
+      internalID: -3241015494895918111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_70
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5554a5fcdfca01a20800000000000000
+      internalID: 3031112755325846869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_71
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 132
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113a54866c0049a10800000000000000
+      internalID: 1915156593692222225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_72
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 130
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca26419afc6f9a00800000000000000
+      internalID: 765450285111192268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_73
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 130
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29821cc4da9ee3a50800000000000000
+      internalID: 6502891842495916178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_74
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 131
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbaeb824fbdad710800000000000000
+      internalID: 1718928049497353161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_75
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 130
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8838fafeecd87b0800000000000000
+      internalID: -5220288864215398156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_76
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 130
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b714dd5106f5870800000000000000
+      internalID: 8673757054361500497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_77
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 99
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1100d94c2b7e89b10800000000000000
+      internalID: 1988593990472892433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 97
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7e26df6ecc765f0800000000000000
+      internalID: -763416319350347785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_79
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 100
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b9ce87a78d5cf530800000000000000
+      internalID: 3890087015354386866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b443b7d51e20720800000000000000
+      internalID: 2811056909047843671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_81
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 97
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447b3a712ee15ad70800000000000000
+      internalID: 9053676582306297668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_82
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 98
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07049f022a8f547e0800000000000000
+      internalID: -1781744702333566864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_83
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 98
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06f98c9a5525e42a0800000000000000
+      internalID: -6751368263507599520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_84
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 100
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0a3ce2b7e41b4a0800000000000000
+      internalID: -6579391289639067411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_85
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 98
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab037cafedda4d70800000000000000
+      internalID: 9028272424477723561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_86
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 98
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7091b9be13c691f0800000000000000
+      internalID: -1038428127330463617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_87
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 97
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eac54bb4c30eb660800000000000000
+      internalID: 7403358980934060769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_88
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 67
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2173667c270bc20800000000000000
+      internalID: 3220199934308848382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_89
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 65
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e98017adf61f500800000000000000
+      internalID: 428246423566851601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_90
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c6567f6ade9a3580800000000000000
+      internalID: -8846583857005832512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_91
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 65
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1647dbcbfc37e940800000000000000
+      internalID: 5325292136543241758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_92
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 66
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e57d432180e0bb0800000000000000
+      internalID: -4968024464654115225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_93
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 65
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72942920970551160800000000000000
+      internalID: 6995586076854339879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_94
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 66
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658f0e815ee4206c0800000000000000
+      internalID: -4178690758374524842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_95
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 65
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a367f10c1a560c0800000000000000
+      internalID: -4583079199245977027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_96
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d49f2a0390b971be0800000000000000
+      internalID: -1506565086559143603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_97
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 65
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b07fede8ee4ca150800000000000000
+      internalID: 5885165575397666999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_98
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 65
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7caba445cf8dd7a90800000000000000
+      internalID: -7314451641522275641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73770d9c6d5dc2610800000000000000
+      internalID: 1597887086295283511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d0e997d5f943cb00800000000000000
+      internalID: 847602475108786385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc84333083cf2cdf0800000000000000
+      internalID: -161289319129855797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36844f704c0e1b890800000000000000
+      internalID: -7443921576515057565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae6b63299535d820800000000000000
+      internalID: 2942316863396998816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_104
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 32
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f631dc6423a6b40800000000000000
+      internalID: 5434211180045627249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_105
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 34
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf2726fbda8f4170800000000000000
+      internalID: 8164897326778232798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_106
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 33
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db149dd8591d62740800000000000000
+      internalID: 5127015666068046269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_107
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 35
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc08ec9fcb4cc3ab0800000000000000
+      internalID: -5026926768128360243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fb4e1a28efeaf80800000000000000
+      internalID: -8093251643322876008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_109
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7afe5846bd829780800000000000000
+      internalID: -8677717717951776133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe24fe04506e45d0800000000000000
+      internalID: -3076415581303066947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e422dc48bd9c14380800000000000000
+      internalID: -8988681436591742386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e4575bdd7ca3430800000000000000
+      internalID: 3763540193667534419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_113
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75632e1e582ebee60800000000000000
+      internalID: 7992731028347303511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_114
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc6115b318a43660800000000000000
+      internalID: 7364696093253266639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_115
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78245d51a25dbe910800000000000000
+      internalID: 1867820847206843015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_116
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45661d9f459adb110800000000000000
+      internalID: 1278364051676685908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d8e3e108c403240800000000000000
+      internalID: 4769396118532296031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f700fc039cc34ef30800000000000000
+      internalID: 4603871553884455039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Yellow_119
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58570a931cc3d2910800000000000000
+      internalID: 1814173025493349765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Sword_Yellow_0: 4332072410419001185
+      SS_Sword_Yellow_1: 62182640759838176
+      SS_Sword_Yellow_10: 7702059004789409880
+      SS_Sword_Yellow_100: 847602475108786385
+      SS_Sword_Yellow_101: -161289319129855797
+      SS_Sword_Yellow_102: -7443921576515057565
+      SS_Sword_Yellow_103: 2942316863396998816
+      SS_Sword_Yellow_104: 5434211180045627249
+      SS_Sword_Yellow_105: 8164897326778232798
+      SS_Sword_Yellow_106: 5127015666068046269
+      SS_Sword_Yellow_107: -5026926768128360243
+      SS_Sword_Yellow_108: -8093251643322876008
+      SS_Sword_Yellow_109: -8677717717951776133
+      SS_Sword_Yellow_11: -2105611395045997598
+      SS_Sword_Yellow_110: -3076415581303066947
+      SS_Sword_Yellow_111: -8988681436591742386
+      SS_Sword_Yellow_112: 3763540193667534419
+      SS_Sword_Yellow_113: 7992731028347303511
+      SS_Sword_Yellow_114: 7364696093253266639
+      SS_Sword_Yellow_115: 1867820847206843015
+      SS_Sword_Yellow_116: 1278364051676685908
+      SS_Sword_Yellow_117: 4769396118532296031
+      SS_Sword_Yellow_118: 4603871553884455039
+      SS_Sword_Yellow_119: 1814173025493349765
+      SS_Sword_Yellow_12: -465010793825541089
+      SS_Sword_Yellow_13: -2850137649939239318
+      SS_Sword_Yellow_14: 428840935808017033
+      SS_Sword_Yellow_15: 4864964149263793549
+      SS_Sword_Yellow_16: -4976325983761420188
+      SS_Sword_Yellow_17: 7384974662039403641
+      SS_Sword_Yellow_18: -4185464271449459188
+      SS_Sword_Yellow_19: 4749564973232362402
+      SS_Sword_Yellow_2: -1942170127485993809
+      SS_Sword_Yellow_20: 2307632497253195002
+      SS_Sword_Yellow_21: -2650566783012039102
+      SS_Sword_Yellow_22: 8910450180580030870
+      SS_Sword_Yellow_23: 6088349246616267684
+      SS_Sword_Yellow_24: -7390067546970574963
+      SS_Sword_Yellow_25: -6909236983262273635
+      SS_Sword_Yellow_26: -54449118763589678
+      SS_Sword_Yellow_27: -7630440591371585172
+      SS_Sword_Yellow_28: -5302218844696004650
+      SS_Sword_Yellow_29: -7299471537376228535
+      SS_Sword_Yellow_3: 6677018882102384508
+      SS_Sword_Yellow_30: 1840810410546366553
+      SS_Sword_Yellow_31: -7392139294500762674
+      SS_Sword_Yellow_32: -1543775686028000495
+      SS_Sword_Yellow_33: 4013264757466088438
+      SS_Sword_Yellow_34: -2556628415752546537
+      SS_Sword_Yellow_35: 6524444874842132450
+      SS_Sword_Yellow_36: 8221825472431348956
+      SS_Sword_Yellow_37: 8891177237472976278
+      SS_Sword_Yellow_38: 7251983731221983078
+      SS_Sword_Yellow_39: 1489365764579061730
+      SS_Sword_Yellow_4: -1224882156967609476
+      SS_Sword_Yellow_40: 367516520530256888
+      SS_Sword_Yellow_41: 7252552175388675795
+      SS_Sword_Yellow_42: 1209401746796353195
+      SS_Sword_Yellow_43: -1633820964516121757
+      SS_Sword_Yellow_44: 3687426225910016177
+      SS_Sword_Yellow_45: 6582997315314052305
+      SS_Sword_Yellow_46: 2372981408821026061
+      SS_Sword_Yellow_47: 2368262590685499105
+      SS_Sword_Yellow_48: -5089152343405108628
+      SS_Sword_Yellow_49: -2824706787570923804
+      SS_Sword_Yellow_5: -2904654672529902153
+      SS_Sword_Yellow_50: 8307794609133947018
+      SS_Sword_Yellow_51: -1795448865669526879
+      SS_Sword_Yellow_52: 7994808391060971121
+      SS_Sword_Yellow_53: -6525464973170775637
+      SS_Sword_Yellow_54: -8376522526424800933
+      SS_Sword_Yellow_55: -4287479718759393141
+      SS_Sword_Yellow_56: -3117377527021955507
+      SS_Sword_Yellow_57: -4433570195896186870
+      SS_Sword_Yellow_58: -1229237965867665583
+      SS_Sword_Yellow_59: -1515680496427411473
+      SS_Sword_Yellow_6: -2282208560240798158
+      SS_Sword_Yellow_60: 1622270776190589243
+      SS_Sword_Yellow_61: 3649411622491837880
+      SS_Sword_Yellow_62: 2635323631286236207
+      SS_Sword_Yellow_63: 8370033460653975894
+      SS_Sword_Yellow_64: 719074523819291360
+      SS_Sword_Yellow_65: -6908115590794167132
+      SS_Sword_Yellow_66: 6136265231720569669
+      SS_Sword_Yellow_67: 5059770096838483067
+      SS_Sword_Yellow_68: -5542652975032486213
+      SS_Sword_Yellow_69: -3241015494895918111
+      SS_Sword_Yellow_7: -8603430191237099654
+      SS_Sword_Yellow_70: 3031112755325846869
+      SS_Sword_Yellow_71: 1915156593692222225
+      SS_Sword_Yellow_72: 765450285111192268
+      SS_Sword_Yellow_73: 6502891842495916178
+      SS_Sword_Yellow_74: 1718928049497353161
+      SS_Sword_Yellow_75: -5220288864215398156
+      SS_Sword_Yellow_76: 8673757054361500497
+      SS_Sword_Yellow_77: 1988593990472892433
+      SS_Sword_Yellow_78: -763416319350347785
+      SS_Sword_Yellow_79: 3890087015354386866
+      SS_Sword_Yellow_8: -5077901881377432048
+      SS_Sword_Yellow_80: 2811056909047843671
+      SS_Sword_Yellow_81: 9053676582306297668
+      SS_Sword_Yellow_82: -1781744702333566864
+      SS_Sword_Yellow_83: -6751368263507599520
+      SS_Sword_Yellow_84: -6579391289639067411
+      SS_Sword_Yellow_85: 9028272424477723561
+      SS_Sword_Yellow_86: -1038428127330463617
+      SS_Sword_Yellow_87: 7403358980934060769
+      SS_Sword_Yellow_88: 3220199934308848382
+      SS_Sword_Yellow_89: 428246423566851601
+      SS_Sword_Yellow_9: 598531749353257163
+      SS_Sword_Yellow_90: -8846583857005832512
+      SS_Sword_Yellow_91: 5325292136543241758
+      SS_Sword_Yellow_92: -4968024464654115225
+      SS_Sword_Yellow_93: 6995586076854339879
+      SS_Sword_Yellow_94: -4178690758374524842
+      SS_Sword_Yellow_95: -4583079199245977027
+      SS_Sword_Yellow_96: -1506565086559143603
+      SS_Sword_Yellow_97: 5885165575397666999
+      SS_Sword_Yellow_98: -7314451641522275641
+      SS_Sword_Yellow_99: 1597887086295283511
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

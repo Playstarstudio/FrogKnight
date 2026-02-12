@@ -1,0 +1,3250 @@
+fileFormatVersion: 2
+guid: 9b05c7b5cd91d3b49a764cdc7b7db5ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2849600244435568915
+    second: SS_Hammer_Blue_0
+  - first:
+      213: 7222894710386883243
+    second: SS_Hammer_Blue_1
+  - first:
+      213: -2732691329734957544
+    second: SS_Hammer_Blue_2
+  - first:
+      213: -6016764169129843436
+    second: SS_Hammer_Blue_3
+  - first:
+      213: 7317880131717551044
+    second: SS_Hammer_Blue_4
+  - first:
+      213: 6278340129743308907
+    second: SS_Hammer_Blue_5
+  - first:
+      213: 4267640896355698820
+    second: SS_Hammer_Blue_6
+  - first:
+      213: 3504288113001472973
+    second: SS_Hammer_Blue_7
+  - first:
+      213: 3073960356640526805
+    second: SS_Hammer_Blue_8
+  - first:
+      213: 8894025998156186790
+    second: SS_Hammer_Blue_9
+  - first:
+      213: 585641561297296188
+    second: SS_Hammer_Blue_10
+  - first:
+      213: 1433817369460665205
+    second: SS_Hammer_Blue_11
+  - first:
+      213: 355463029191966322
+    second: SS_Hammer_Blue_12
+  - first:
+      213: 6506348773871910002
+    second: SS_Hammer_Blue_13
+  - first:
+      213: 8595679441761189083
+    second: SS_Hammer_Blue_14
+  - first:
+      213: -5655239406787393582
+    second: SS_Hammer_Blue_15
+  - first:
+      213: -2724102209598520514
+    second: SS_Hammer_Blue_16
+  - first:
+      213: 4862341469805633547
+    second: SS_Hammer_Blue_17
+  - first:
+      213: 5583545073585788696
+    second: SS_Hammer_Blue_18
+  - first:
+      213: -3180187766071272253
+    second: SS_Hammer_Blue_19
+  - first:
+      213: 5051581740367786165
+    second: SS_Hammer_Blue_20
+  - first:
+      213: -2878008517567930033
+    second: SS_Hammer_Blue_21
+  - first:
+      213: 495122617925240115
+    second: SS_Hammer_Blue_22
+  - first:
+      213: 7912803165042781680
+    second: SS_Hammer_Blue_23
+  - first:
+      213: -5806578014163091313
+    second: SS_Hammer_Blue_24
+  - first:
+      213: -4830207603766408356
+    second: SS_Hammer_Blue_25
+  - first:
+      213: 3520888125099542284
+    second: SS_Hammer_Blue_26
+  - first:
+      213: -4227720806974228890
+    second: SS_Hammer_Blue_27
+  - first:
+      213: 2501904522678369331
+    second: SS_Hammer_Blue_28
+  - first:
+      213: -5255817028501043536
+    second: SS_Hammer_Blue_29
+  - first:
+      213: -5146056686195194365
+    second: SS_Hammer_Blue_30
+  - first:
+      213: -6184818760596077555
+    second: SS_Hammer_Blue_31
+  - first:
+      213: -4607894294173965647
+    second: SS_Hammer_Blue_32
+  - first:
+      213: -7343986788734450557
+    second: SS_Hammer_Blue_33
+  - first:
+      213: -968294354004483008
+    second: SS_Hammer_Blue_34
+  - first:
+      213: 2416041103908839253
+    second: SS_Hammer_Blue_35
+  - first:
+      213: -6384115808577356200
+    second: SS_Hammer_Blue_36
+  - first:
+      213: 2770963854909719747
+    second: SS_Hammer_Blue_37
+  - first:
+      213: -5285420574650421625
+    second: SS_Hammer_Blue_38
+  - first:
+      213: 2820989554020843684
+    second: SS_Hammer_Blue_39
+  - first:
+      213: -2545994839925085360
+    second: SS_Hammer_Blue_40
+  - first:
+      213: -2761345711514829312
+    second: SS_Hammer_Blue_41
+  - first:
+      213: 7081516189484693856
+    second: SS_Hammer_Blue_42
+  - first:
+      213: -6907441836304537205
+    second: SS_Hammer_Blue_43
+  - first:
+      213: -1420455330656791522
+    second: SS_Hammer_Blue_44
+  - first:
+      213: 6002136946952323969
+    second: SS_Hammer_Blue_45
+  - first:
+      213: -2753329248981468035
+    second: SS_Hammer_Blue_46
+  - first:
+      213: -3723786955411345670
+    second: SS_Hammer_Blue_47
+  - first:
+      213: -2963036918362316537
+    second: SS_Hammer_Blue_48
+  - first:
+      213: 4955870705734427189
+    second: SS_Hammer_Blue_49
+  - first:
+      213: -480958348308388966
+    second: SS_Hammer_Blue_50
+  - first:
+      213: -1117013318675745950
+    second: SS_Hammer_Blue_51
+  - first:
+      213: -969401739359341443
+    second: SS_Hammer_Blue_52
+  - first:
+      213: 8724178718857294064
+    second: SS_Hammer_Blue_53
+  - first:
+      213: 3197457358544782035
+    second: SS_Hammer_Blue_54
+  - first:
+      213: -650394058416726509
+    second: SS_Hammer_Blue_55
+  - first:
+      213: 3794397086748695855
+    second: SS_Hammer_Blue_56
+  - first:
+      213: 938594158385507175
+    second: SS_Hammer_Blue_57
+  - first:
+      213: 5571459571638157803
+    second: SS_Hammer_Blue_58
+  - first:
+      213: 4823229081483724862
+    second: SS_Hammer_Blue_59
+  - first:
+      213: 238524819370621461
+    second: SS_Hammer_Blue_60
+  - first:
+      213: -3423520760410798093
+    second: SS_Hammer_Blue_61
+  - first:
+      213: -3528181848811498356
+    second: SS_Hammer_Blue_62
+  - first:
+      213: 103904841599238329
+    second: SS_Hammer_Blue_63
+  - first:
+      213: 7040547999649521698
+    second: SS_Hammer_Blue_64
+  - first:
+      213: -5966336996618056404
+    second: SS_Hammer_Blue_65
+  - first:
+      213: -2140923293005985171
+    second: SS_Hammer_Blue_66
+  - first:
+      213: -3224140908329477298
+    second: SS_Hammer_Blue_67
+  - first:
+      213: 126111756285522103
+    second: SS_Hammer_Blue_68
+  - first:
+      213: 8108290763664249709
+    second: SS_Hammer_Blue_69
+  - first:
+      213: -998860221293677641
+    second: SS_Hammer_Blue_70
+  - first:
+      213: 1908102047279388530
+    second: SS_Hammer_Blue_71
+  - first:
+      213: 2954570447213581695
+    second: SS_Hammer_Blue_72
+  - first:
+      213: 6598901690668914862
+    second: SS_Hammer_Blue_73
+  - first:
+      213: -178222847572613103
+    second: SS_Hammer_Blue_74
+  - first:
+      213: -1702080402347625463
+    second: SS_Hammer_Blue_75
+  - first:
+      213: -1755284561614536253
+    second: SS_Hammer_Blue_76
+  - first:
+      213: -6822510755920899379
+    second: SS_Hammer_Blue_77
+  - first:
+      213: -6453716976802137390
+    second: SS_Hammer_Blue_78
+  - first:
+      213: 1548840017476723872
+    second: SS_Hammer_Blue_79
+  - first:
+      213: -3328197354974301104
+    second: SS_Hammer_Blue_80
+  - first:
+      213: 6895845354515816382
+    second: SS_Hammer_Blue_81
+  - first:
+      213: 3998542346740285952
+    second: SS_Hammer_Blue_82
+  - first:
+      213: 3292142056752040590
+    second: SS_Hammer_Blue_83
+  - first:
+      213: -8346795436762006958
+    second: SS_Hammer_Blue_84
+  - first:
+      213: 4123490772139030743
+    second: SS_Hammer_Blue_85
+  - first:
+      213: -868386375613001353
+    second: SS_Hammer_Blue_86
+  - first:
+      213: -6741462283930847969
+    second: SS_Hammer_Blue_87
+  - first:
+      213: -8912129995835995390
+    second: SS_Hammer_Blue_88
+  - first:
+      213: -7441619640014063596
+    second: SS_Hammer_Blue_89
+  - first:
+      213: 8712793833987323401
+    second: SS_Hammer_Blue_90
+  - first:
+      213: -1256623512547133328
+    second: SS_Hammer_Blue_91
+  - first:
+      213: -1260332307319483975
+    second: SS_Hammer_Blue_92
+  - first:
+      213: -4704690447919419735
+    second: SS_Hammer_Blue_93
+  - first:
+      213: -3227786475908107505
+    second: SS_Hammer_Blue_94
+  - first:
+      213: 3541958967813266788
+    second: SS_Hammer_Blue_95
+  - first:
+      213: -6198407622792548764
+    second: SS_Hammer_Blue_96
+  - first:
+      213: -5930589075865035927
+    second: SS_Hammer_Blue_97
+  - first:
+      213: 6565936670947359087
+    second: SS_Hammer_Blue_98
+  - first:
+      213: -8477563772052750809
+    second: SS_Hammer_Blue_99
+  - first:
+      213: -2511360646499979353
+    second: SS_Hammer_Blue_100
+  - first:
+      213: 5407111800156219800
+    second: SS_Hammer_Blue_101
+  - first:
+      213: 2589568465781598283
+    second: SS_Hammer_Blue_102
+  - first:
+      213: -6915388124978503491
+    second: SS_Hammer_Blue_103
+  - first:
+      213: 6911217823233961411
+    second: SS_Hammer_Blue_104
+  - first:
+      213: 7448780212425131822
+    second: SS_Hammer_Blue_105
+  - first:
+      213: -6886594048224006661
+    second: SS_Hammer_Blue_106
+  - first:
+      213: -1187832602732181009
+    second: SS_Hammer_Blue_107
+  - first:
+      213: 8580616892300955566
+    second: SS_Hammer_Blue_108
+  - first:
+      213: 4922742393181812877
+    second: SS_Hammer_Blue_109
+  - first:
+      213: -637537992113369655
+    second: SS_Hammer_Blue_110
+  - first:
+      213: -3391519585387382445
+    second: SS_Hammer_Blue_111
+  - first:
+      213: -3648777707258260338
+    second: SS_Hammer_Blue_112
+  - first:
+      213: -1905439581573682849
+    second: SS_Hammer_Blue_113
+  - first:
+      213: 6070696556589860125
+    second: SS_Hammer_Blue_114
+  - first:
+      213: 7730065272829890171
+    second: SS_Hammer_Blue_115
+  - first:
+      213: 3525351367084405210
+    second: SS_Hammer_Blue_116
+  - first:
+      213: -752460415371267100
+    second: SS_Hammer_Blue_117
+  - first:
+      213: 5345088402687685997
+    second: SS_Hammer_Blue_118
+  - first:
+      213: -7810875050263672127
+    second: SS_Hammer_Blue_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 322
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319c2711350db8720800000000000000
+      internalID: 2849600244435568915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 322
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa78a67870ec3460800000000000000
+      internalID: 7222894710386883243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 322
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816ab5ac6b7831ad0800000000000000
+      internalID: -2732691329734957544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 322
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415a7b9cdd8208ca0800000000000000
+      internalID: -6016764169129843436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 321
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3d9ef35355e8560800000000000000
+      internalID: 7317880131717551044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 321
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b680e6c7515212750800000000000000
+      internalID: 6278340129743308907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 321
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4880638c8c4b93b30800000000000000
+      internalID: 4267640896355698820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 321
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3a316e87bb1a030800000000000000
+      internalID: 3504288113001472973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 321
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1113768a6e8aa20800000000000000
+      internalID: 3073960356640526805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 320
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a44033d58ded6b70800000000000000
+      internalID: 8894025998156186790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 321
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b94daa5ed902800800000000000000
+      internalID: 585641561297296188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 289
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bec730d41f5e310800000000000000
+      internalID: 1433817369460665205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 289
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e75c1edbbdee400800000000000000
+      internalID: 355463029191966322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 290
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cfe6bdcb13b4a50800000000000000
+      internalID: 6506348773871910002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 290
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcbd4119ecf94770800000000000000
+      internalID: 8595679441761189083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 289
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d785a6e8bd8481b0800000000000000
+      internalID: -5655239406787393582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 288
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e330609297b023ad0800000000000000
+      internalID: -2724102209598520514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 289
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b006a641ec18a7340800000000000000
+      internalID: 4862341469805633547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 289
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817967a59acbc7d40800000000000000
+      internalID: 5583545073585788696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_19
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 289
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc574c7314bdd3d0800000000000000
+      internalID: -3180187766071272253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_20
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 289
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0b87414d2da1640800000000000000
+      internalID: 5051581740367786165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_21
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 289
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41a0d960824f08d0800000000000000
+      internalID: -2878008517567930033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 258
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33502b1d5670fd600800000000000000
+      internalID: 495122617925240115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 257
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd26f50e8cefcd60800000000000000
+      internalID: 7912803165042781680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 258
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8047398f04ea6fa0800000000000000
+      internalID: -5806578014163091313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 258
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5bcc12a6c7a7fcb0800000000000000
+      internalID: -4830207603766408356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 257
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0703766815bcd030800000000000000
+      internalID: 3520888125099542284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 257
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666f5c2535e1455c0800000000000000
+      internalID: -4227720806974228890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 257
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33cff2068ec88b220800000000000000
+      internalID: 2501904522678369331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_29
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 258
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b60fb352469f07b0800000000000000
+      internalID: -5255817028501043536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_30
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 257
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306cf4975b88598b0800000000000000
+      internalID: -5146056686195194365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_31
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 258
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04cf761b1c1b2aa0800000000000000
+      internalID: -6184818760596077555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_32
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 258
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b226399d887d00c0800000000000000
+      internalID: -4607894294173965647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 225
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384425efceae41a90800000000000000
+      internalID: -7343986788734450557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_34
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 225
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044eb8f4a6def82f0800000000000000
+      internalID: -968294354004483008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_35
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 225
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f9a315590878120800000000000000
+      internalID: 2416041103908839253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_36
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 225
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e7ac02f701767a0800000000000000
+      internalID: -6384115808577356200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_37
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 225
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c44751e1f0747620800000000000000
+      internalID: 2770963854909719747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_38
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 225
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78eab6f9df966a6b0800000000000000
+      internalID: -5285420574650421625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 225
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0008a9d0b262720800000000000000
+      internalID: 2820989554020843684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_40
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 226
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ba94eae2fcaacd0800000000000000
+      internalID: -2545994839925085360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_41
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 225
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e3c13a4babda9d0800000000000000
+      internalID: -2761345711514829312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_42
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 225
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069b9617479964260800000000000000
+      internalID: 7081516189484693856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_43
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 226
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8965604f36d320a0800000000000000
+      internalID: -6907441836304537205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 194
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1454e41767894ce0800000000000000
+      internalID: -1420455330656791522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_45
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 194
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1834758a0cfdb4350800000000000000
+      internalID: 6002136946952323969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 193
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c34c4c2a53ac9d0800000000000000
+      internalID: -2753329248981468035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_47
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 194
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe29775e73725cc0800000000000000
+      internalID: -3723786955411345670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_48
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 193
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70165a02f9d21e6d0800000000000000
+      internalID: -2963036918362316537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_49
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 193
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532a018462ac6c440800000000000000
+      internalID: 4955870705734427189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_50
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 194
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93e1513eea4359f0800000000000000
+      internalID: -480958348308388966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_51
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 193
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263b3fa0e429f70f0800000000000000
+      internalID: -1117013318675745950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_52
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 193
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7437d0114efb82f0800000000000000
+      internalID: -969401739359341443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_53
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 194
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0f2867252821970800000000000000
+      internalID: 8724178718857294064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 193
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d24588d686af5c20800000000000000
+      internalID: 3197457358544782035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 162
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31edb00cc0659f6f0800000000000000
+      internalID: -650394058416726509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_56
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 161
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dde6cfb0868a430800000000000000
+      internalID: 3794397086748695855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_57
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 161
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b23d60a6e860d00800000000000000
+      internalID: 938594158385507175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_58
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 161
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be141f726fcc15d40800000000000000
+      internalID: 5571459571638157803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_59
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 161
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38cb288b4d8fe240800000000000000
+      internalID: 4823229081483724862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_60
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 162
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a33b83f096f4300800000000000000
+      internalID: 238524819370621461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_61
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 163
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f70a8ac1063d70d0800000000000000
+      internalID: -3423520760410798093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_62
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 162
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c841c963d41690fc0800000000000000
+      internalID: -3528181848811498356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_63
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 164
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b047f527e4217100800000000000000
+      internalID: 103904841599238329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_64
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 163
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220623f6a1d05b160800000000000000
+      internalID: 7040547999649521698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_65
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 163
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d4f42dc10533da0800000000000000
+      internalID: -5966336996618056404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_66
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 132
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ac40dab99e942e0800000000000000
+      internalID: -2140923293005985171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_67
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 131
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b57351dec8143d0800000000000000
+      internalID: -3224140908329477298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_68
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 132
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0366369f900c100800000000000000
+      internalID: 126111756285522103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_69
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 132
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63d9cf6d7f668070800000000000000
+      internalID: 8108290763664249709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_70
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 131
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3b581cbe55322f0800000000000000
+      internalID: -998860221293677641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_71
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 131
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2779843d3b0fa7a10800000000000000
+      internalID: 1908102047279388530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_72
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 132
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f755802fa2eb00920800000000000000
+      internalID: 2954570447213581695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_73
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 131
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea89b0c0022049b50800000000000000
+      internalID: 6598901690668914862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_74
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 131
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118639fa343d68df0800000000000000
+      internalID: -178222847572613103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_75
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 131
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9047aee54eef068e0800000000000000
+      internalID: -1702080402347625463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_76
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 132
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c10d39bdf9f3a7e0800000000000000
+      internalID: -1755284561614536253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_77
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 99
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc29d0d5d929151a0800000000000000
+      internalID: -6822510755920899379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_78
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 100
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dafcc45a9acf66a0800000000000000
+      internalID: -6453716976802137390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_79
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 99
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a42c9f2ac59e7510800000000000000
+      internalID: 1548840017476723872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_80
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 101
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054bc52a32edfc1d0800000000000000
+      internalID: -3328197354974301104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_81
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 100
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf51fd60d6f2bf50800000000000000
+      internalID: 6895845354515816382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_82
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 99
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002cfc4441dad7730800000000000000
+      internalID: 3998542346740285952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_83
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 99
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a44d212c900bd20800000000000000
+      internalID: 3292142056752040590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_84
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 100
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25af2f206c93a2c80800000000000000
+      internalID: -8346795436762006958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_85
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 99
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8b2f39205993930800000000000000
+      internalID: 4123490772139030743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 97
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7715cc9313fd2f3f0800000000000000
+      internalID: -868386375613001353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_87
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 97
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15bb9345c38172a0800000000000000
+      internalID: -6741462283930847969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_88
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b871ebcf0c15480800000000000000
+      internalID: -8912129995835995390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_89
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 67
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41834636d5e0ab890800000000000000
+      internalID: -7441619640014063596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_90
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 67
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906370464df0ae870800000000000000
+      internalID: 8712793833987323401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_91
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 67
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078793eb2939f8ee0800000000000000
+      internalID: -1256623512547133328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_92
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 66
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1164ba176628ee0800000000000000
+      internalID: -1260332307319483975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_93
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 66
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aee691d6f495beb0800000000000000
+      internalID: -4704690447919419735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_94
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 67
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03ffac3d499433d0800000000000000
+      internalID: -3227786475908107505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_95
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 67
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46dd4854ae0972130800000000000000
+      internalID: 3541958967813266788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_96
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 66
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e606e8b15daf9a0800000000000000
+      internalID: -6198407622792548764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_97
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 66
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b904838a052bda0800000000000000
+      internalID: -5930589075865035927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_98
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 66
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6937894d94ee1b50800000000000000
+      internalID: 6565936670947359087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_99
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 34
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e33165aa4a95a80800000000000000
+      internalID: -8477563772052750809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 34
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af297a3ccad52dd0800000000000000
+      internalID: -2511360646499979353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_101
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 35
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899622db88be90b40800000000000000
+      internalID: 5407111800156219800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_102
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 36
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48277cacceffe320800000000000000
+      internalID: 2589568465781598283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_103
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 34
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0a3beb32b9700a0800000000000000
+      internalID: -6915388124978503491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_104
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 33
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd65373ef399ef50800000000000000
+      internalID: 6911217823233961411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 34
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e270f8b43226f5760800000000000000
+      internalID: 7448780212425131822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_106
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 33
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfde94b2337ed60a0800000000000000
+      internalID: -6886594048224006661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_107
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 34
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe9458d8a88f38fe0800000000000000
+      internalID: -1187832602732181009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_108
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 33
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf805bf999741770800000000000000
+      internalID: 8580616892300955566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_109
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 35
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88bb52ff18115440800000000000000
+      internalID: 4922742393181812877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_110
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd4441f2920727f0800000000000000
+      internalID: -637537992113369655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_111
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3597438f7e6eee0d0800000000000000
+      internalID: -3391519585387382445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_112
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 3
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e84d18ed100fc5dc0800000000000000
+      internalID: -3648777707258260338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_113
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59e457cbc48e85e0800000000000000
+      internalID: -1905439581573682849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_114
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15c9b2ba527f3450800000000000000
+      internalID: 6070696556589860125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_115
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 3
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ecb95f865b64b60800000000000000
+      internalID: 7730065272829890171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_116
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1f087e3609ce030800000000000000
+      internalID: 3525351367084405210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3b04a2d39be85f0800000000000000
+      internalID: -752460415371267100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_118
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65724f25919d2a40800000000000000
+      internalID: 5345088402687685997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Blue_119
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca821c86823a9390800000000000000
+      internalID: -7810875050263672127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Hammer_Blue_0: 2849600244435568915
+      SS_Hammer_Blue_1: 7222894710386883243
+      SS_Hammer_Blue_10: 585641561297296188
+      SS_Hammer_Blue_100: -2511360646499979353
+      SS_Hammer_Blue_101: 5407111800156219800
+      SS_Hammer_Blue_102: 2589568465781598283
+      SS_Hammer_Blue_103: -6915388124978503491
+      SS_Hammer_Blue_104: 6911217823233961411
+      SS_Hammer_Blue_105: 7448780212425131822
+      SS_Hammer_Blue_106: -6886594048224006661
+      SS_Hammer_Blue_107: -1187832602732181009
+      SS_Hammer_Blue_108: 8580616892300955566
+      SS_Hammer_Blue_109: 4922742393181812877
+      SS_Hammer_Blue_11: 1433817369460665205
+      SS_Hammer_Blue_110: -637537992113369655
+      SS_Hammer_Blue_111: -3391519585387382445
+      SS_Hammer_Blue_112: -3648777707258260338
+      SS_Hammer_Blue_113: -1905439581573682849
+      SS_Hammer_Blue_114: 6070696556589860125
+      SS_Hammer_Blue_115: 7730065272829890171
+      SS_Hammer_Blue_116: 3525351367084405210
+      SS_Hammer_Blue_117: -752460415371267100
+      SS_Hammer_Blue_118: 5345088402687685997
+      SS_Hammer_Blue_119: -7810875050263672127
+      SS_Hammer_Blue_12: 355463029191966322
+      SS_Hammer_Blue_13: 6506348773871910002
+      SS_Hammer_Blue_14: 8595679441761189083
+      SS_Hammer_Blue_15: -5655239406787393582
+      SS_Hammer_Blue_16: -2724102209598520514
+      SS_Hammer_Blue_17: 4862341469805633547
+      SS_Hammer_Blue_18: 5583545073585788696
+      SS_Hammer_Blue_19: -3180187766071272253
+      SS_Hammer_Blue_2: -2732691329734957544
+      SS_Hammer_Blue_20: 5051581740367786165
+      SS_Hammer_Blue_21: -2878008517567930033
+      SS_Hammer_Blue_22: 495122617925240115
+      SS_Hammer_Blue_23: 7912803165042781680
+      SS_Hammer_Blue_24: -5806578014163091313
+      SS_Hammer_Blue_25: -4830207603766408356
+      SS_Hammer_Blue_26: 3520888125099542284
+      SS_Hammer_Blue_27: -4227720806974228890
+      SS_Hammer_Blue_28: 2501904522678369331
+      SS_Hammer_Blue_29: -5255817028501043536
+      SS_Hammer_Blue_3: -6016764169129843436
+      SS_Hammer_Blue_30: -5146056686195194365
+      SS_Hammer_Blue_31: -6184818760596077555
+      SS_Hammer_Blue_32: -4607894294173965647
+      SS_Hammer_Blue_33: -7343986788734450557
+      SS_Hammer_Blue_34: -968294354004483008
+      SS_Hammer_Blue_35: 2416041103908839253
+      SS_Hammer_Blue_36: -6384115808577356200
+      SS_Hammer_Blue_37: 2770963854909719747
+      SS_Hammer_Blue_38: -5285420574650421625
+      SS_Hammer_Blue_39: 2820989554020843684
+      SS_Hammer_Blue_4: 7317880131717551044
+      SS_Hammer_Blue_40: -2545994839925085360
+      SS_Hammer_Blue_41: -2761345711514829312
+      SS_Hammer_Blue_42: 7081516189484693856
+      SS_Hammer_Blue_43: -6907441836304537205
+      SS_Hammer_Blue_44: -1420455330656791522
+      SS_Hammer_Blue_45: 6002136946952323969
+      SS_Hammer_Blue_46: -2753329248981468035
+      SS_Hammer_Blue_47: -3723786955411345670
+      SS_Hammer_Blue_48: -2963036918362316537
+      SS_Hammer_Blue_49: 4955870705734427189
+      SS_Hammer_Blue_5: 6278340129743308907
+      SS_Hammer_Blue_50: -480958348308388966
+      SS_Hammer_Blue_51: -1117013318675745950
+      SS_Hammer_Blue_52: -969401739359341443
+      SS_Hammer_Blue_53: 8724178718857294064
+      SS_Hammer_Blue_54: 3197457358544782035
+      SS_Hammer_Blue_55: -650394058416726509
+      SS_Hammer_Blue_56: 3794397086748695855
+      SS_Hammer_Blue_57: 938594158385507175
+      SS_Hammer_Blue_58: 5571459571638157803
+      SS_Hammer_Blue_59: 4823229081483724862
+      SS_Hammer_Blue_6: 4267640896355698820
+      SS_Hammer_Blue_60: 238524819370621461
+      SS_Hammer_Blue_61: -3423520760410798093
+      SS_Hammer_Blue_62: -3528181848811498356
+      SS_Hammer_Blue_63: 103904841599238329
+      SS_Hammer_Blue_64: 7040547999649521698
+      SS_Hammer_Blue_65: -5966336996618056404
+      SS_Hammer_Blue_66: -2140923293005985171
+      SS_Hammer_Blue_67: -3224140908329477298
+      SS_Hammer_Blue_68: 126111756285522103
+      SS_Hammer_Blue_69: 8108290763664249709
+      SS_Hammer_Blue_7: 3504288113001472973
+      SS_Hammer_Blue_70: -998860221293677641
+      SS_Hammer_Blue_71: 1908102047279388530
+      SS_Hammer_Blue_72: 2954570447213581695
+      SS_Hammer_Blue_73: 6598901690668914862
+      SS_Hammer_Blue_74: -178222847572613103
+      SS_Hammer_Blue_75: -1702080402347625463
+      SS_Hammer_Blue_76: -1755284561614536253
+      SS_Hammer_Blue_77: -6822510755920899379
+      SS_Hammer_Blue_78: -6453716976802137390
+      SS_Hammer_Blue_79: 1548840017476723872
+      SS_Hammer_Blue_8: 3073960356640526805
+      SS_Hammer_Blue_80: -3328197354974301104
+      SS_Hammer_Blue_81: 6895845354515816382
+      SS_Hammer_Blue_82: 3998542346740285952
+      SS_Hammer_Blue_83: 3292142056752040590
+      SS_Hammer_Blue_84: -8346795436762006958
+      SS_Hammer_Blue_85: 4123490772139030743
+      SS_Hammer_Blue_86: -868386375613001353
+      SS_Hammer_Blue_87: -6741462283930847969
+      SS_Hammer_Blue_88: -8912129995835995390
+      SS_Hammer_Blue_89: -7441619640014063596
+      SS_Hammer_Blue_9: 8894025998156186790
+      SS_Hammer_Blue_90: 8712793833987323401
+      SS_Hammer_Blue_91: -1256623512547133328
+      SS_Hammer_Blue_92: -1260332307319483975
+      SS_Hammer_Blue_93: -4704690447919419735
+      SS_Hammer_Blue_94: -3227786475908107505
+      SS_Hammer_Blue_95: 3541958967813266788
+      SS_Hammer_Blue_96: -6198407622792548764
+      SS_Hammer_Blue_97: -5930589075865035927
+      SS_Hammer_Blue_98: 6565936670947359087
+      SS_Hammer_Blue_99: -8477563772052750809
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

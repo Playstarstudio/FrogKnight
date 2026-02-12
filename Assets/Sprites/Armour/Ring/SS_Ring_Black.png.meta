@@ -1,0 +1,6500 @@
+fileFormatVersion: 2
+guid: 3f74f472e03a069448c28dbe51bbbbeb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1701491047075261557
+    second: SS_Ring_Black_0
+  - first:
+      213: 5129983245733955235
+    second: SS_Ring_Black_1
+  - first:
+      213: -4972744886024564313
+    second: SS_Ring_Black_2
+  - first:
+      213: -933751670513800975
+    second: SS_Ring_Black_3
+  - first:
+      213: -7510404868304433430
+    second: SS_Ring_Black_4
+  - first:
+      213: -2560739404599146596
+    second: SS_Ring_Black_5
+  - first:
+      213: 196672609951341656
+    second: SS_Ring_Black_6
+  - first:
+      213: 1312269716161033597
+    second: SS_Ring_Black_7
+  - first:
+      213: -8475019802730430453
+    second: SS_Ring_Black_8
+  - first:
+      213: 6314995799980615939
+    second: SS_Ring_Black_9
+  - first:
+      213: -3133053655061114865
+    second: SS_Ring_Black_10
+  - first:
+      213: 2664222833954190151
+    second: SS_Ring_Black_11
+  - first:
+      213: 2502275507532580245
+    second: SS_Ring_Black_12
+  - first:
+      213: 5096108166690912147
+    second: SS_Ring_Black_13
+  - first:
+      213: -2314524298829757294
+    second: SS_Ring_Black_14
+  - first:
+      213: -8347552750117473685
+    second: SS_Ring_Black_15
+  - first:
+      213: 1241244800473139449
+    second: SS_Ring_Black_16
+  - first:
+      213: 4735219185194927094
+    second: SS_Ring_Black_17
+  - first:
+      213: -3936051514003293409
+    second: SS_Ring_Black_18
+  - first:
+      213: -1762560800756484841
+    second: SS_Ring_Black_19
+  - first:
+      213: -3472975022023690217
+    second: SS_Ring_Black_20
+  - first:
+      213: 6553085189600080917
+    second: SS_Ring_Black_21
+  - first:
+      213: -4341019751935084141
+    second: SS_Ring_Black_22
+  - first:
+      213: -2831867996171677586
+    second: SS_Ring_Black_23
+  - first:
+      213: 6137428547458212831
+    second: SS_Ring_Black_24
+  - first:
+      213: -7496069148972511074
+    second: SS_Ring_Black_25
+  - first:
+      213: 4557552421863934787
+    second: SS_Ring_Black_26
+  - first:
+      213: -8899186604556495129
+    second: SS_Ring_Black_27
+  - first:
+      213: 1779350690795765175
+    second: SS_Ring_Black_28
+  - first:
+      213: 4392392745332977597
+    second: SS_Ring_Black_29
+  - first:
+      213: 6673200524398625803
+    second: SS_Ring_Black_30
+  - first:
+      213: 1600314399867545254
+    second: SS_Ring_Black_31
+  - first:
+      213: -2863491606458024124
+    second: SS_Ring_Black_32
+  - first:
+      213: -3728518229298567655
+    second: SS_Ring_Black_33
+  - first:
+      213: -4127979639033401512
+    second: SS_Ring_Black_34
+  - first:
+      213: -6149053272016761999
+    second: SS_Ring_Black_35
+  - first:
+      213: -7264952362222003534
+    second: SS_Ring_Black_36
+  - first:
+      213: 502535842130741288
+    second: SS_Ring_Black_37
+  - first:
+      213: -2367283519618636552
+    second: SS_Ring_Black_38
+  - first:
+      213: 4591316202763511113
+    second: SS_Ring_Black_39
+  - first:
+      213: 1590596378604352497
+    second: SS_Ring_Black_40
+  - first:
+      213: 141688346016818763
+    second: SS_Ring_Black_41
+  - first:
+      213: -4767078368613494353
+    second: SS_Ring_Black_42
+  - first:
+      213: -5770143925264294819
+    second: SS_Ring_Black_43
+  - first:
+      213: -1156930480157343854
+    second: SS_Ring_Black_44
+  - first:
+      213: 1992098820526627780
+    second: SS_Ring_Black_45
+  - first:
+      213: 8886764250438460326
+    second: SS_Ring_Black_46
+  - first:
+      213: 8898431339763362258
+    second: SS_Ring_Black_47
+  - first:
+      213: -6419422063102997709
+    second: SS_Ring_Black_48
+  - first:
+      213: 8857127697612434108
+    second: SS_Ring_Black_49
+  - first:
+      213: -2979951460372935332
+    second: SS_Ring_Black_50
+  - first:
+      213: -1055097295838434060
+    second: SS_Ring_Black_51
+  - first:
+      213: -6746937491822497277
+    second: SS_Ring_Black_52
+  - first:
+      213: -7780872544638716286
+    second: SS_Ring_Black_53
+  - first:
+      213: 482842087296643149
+    second: SS_Ring_Black_54
+  - first:
+      213: -5871893893146285088
+    second: SS_Ring_Black_55
+  - first:
+      213: 377016302335963469
+    second: SS_Ring_Black_56
+  - first:
+      213: -3614178809144911545
+    second: SS_Ring_Black_57
+  - first:
+      213: 5774223580769517722
+    second: SS_Ring_Black_58
+  - first:
+      213: -7699607504585497778
+    second: SS_Ring_Black_59
+  - first:
+      213: -6545762445476791446
+    second: SS_Ring_Black_60
+  - first:
+      213: -9068927533481648261
+    second: SS_Ring_Black_61
+  - first:
+      213: 5613057365514397851
+    second: SS_Ring_Black_62
+  - first:
+      213: -5003771769017751700
+    second: SS_Ring_Black_63
+  - first:
+      213: -6642541686986264498
+    second: SS_Ring_Black_64
+  - first:
+      213: -8903243360642037953
+    second: SS_Ring_Black_65
+  - first:
+      213: 7024220606400507004
+    second: SS_Ring_Black_66
+  - first:
+      213: 6301631543646025241
+    second: SS_Ring_Black_67
+  - first:
+      213: 4185347009843391434
+    second: SS_Ring_Black_68
+  - first:
+      213: 246794400462420721
+    second: SS_Ring_Black_69
+  - first:
+      213: -146184528278523119
+    second: SS_Ring_Black_70
+  - first:
+      213: -1939024334485955702
+    second: SS_Ring_Black_71
+  - first:
+      213: -2594530910623965880
+    second: SS_Ring_Black_72
+  - first:
+      213: -8704257482075500142
+    second: SS_Ring_Black_73
+  - first:
+      213: -7789023362060380167
+    second: SS_Ring_Black_74
+  - first:
+      213: 1067428195787230883
+    second: SS_Ring_Black_75
+  - first:
+      213: -499468927199401337
+    second: SS_Ring_Black_76
+  - first:
+      213: 2187399384458219423
+    second: SS_Ring_Black_77
+  - first:
+      213: 2313265592419969182
+    second: SS_Ring_Black_78
+  - first:
+      213: -6942582035648701365
+    second: SS_Ring_Black_79
+  - first:
+      213: 1357882889097504753
+    second: SS_Ring_Black_80
+  - first:
+      213: -8221872150997441091
+    second: SS_Ring_Black_81
+  - first:
+      213: -1415219605395949842
+    second: SS_Ring_Black_82
+  - first:
+      213: 5668933587978574303
+    second: SS_Ring_Black_83
+  - first:
+      213: -9167142671330010027
+    second: SS_Ring_Black_84
+  - first:
+      213: 4266677512796515010
+    second: SS_Ring_Black_85
+  - first:
+      213: 7058454420934786965
+    second: SS_Ring_Black_86
+  - first:
+      213: -6797605557792104427
+    second: SS_Ring_Black_87
+  - first:
+      213: -2264592753719735363
+    second: SS_Ring_Black_88
+  - first:
+      213: -7509171540840601559
+    second: SS_Ring_Black_89
+  - first:
+      213: -7162172879350729222
+    second: SS_Ring_Black_90
+  - first:
+      213: -499481609277405263
+    second: SS_Ring_Black_91
+  - first:
+      213: 2901056306844031313
+    second: SS_Ring_Black_92
+  - first:
+      213: 1796901386828403942
+    second: SS_Ring_Black_93
+  - first:
+      213: 1214392321008515603
+    second: SS_Ring_Black_94
+  - first:
+      213: 8841429883841218368
+    second: SS_Ring_Black_95
+  - first:
+      213: -7594103341718159298
+    second: SS_Ring_Black_96
+  - first:
+      213: -3124865249107617271
+    second: SS_Ring_Black_97
+  - first:
+      213: -8671604659090461648
+    second: SS_Ring_Black_98
+  - first:
+      213: -746639854419352524
+    second: SS_Ring_Black_99
+  - first:
+      213: -7874675336026904902
+    second: SS_Ring_Black_100
+  - first:
+      213: -4447772016884450102
+    second: SS_Ring_Black_101
+  - first:
+      213: -4696461363992550379
+    second: SS_Ring_Black_102
+  - first:
+      213: 4540071646679848449
+    second: SS_Ring_Black_103
+  - first:
+      213: -3128307012857309503
+    second: SS_Ring_Black_104
+  - first:
+      213: 8563319607228457472
+    second: SS_Ring_Black_105
+  - first:
+      213: 7632617419446737857
+    second: SS_Ring_Black_106
+  - first:
+      213: -6832022587959014443
+    second: SS_Ring_Black_107
+  - first:
+      213: -6290805258180968709
+    second: SS_Ring_Black_108
+  - first:
+      213: -843367671318560538
+    second: SS_Ring_Black_109
+  - first:
+      213: -5409292697321640373
+    second: SS_Ring_Black_110
+  - first:
+      213: -9019291318231918788
+    second: SS_Ring_Black_111
+  - first:
+      213: -3947501688982434034
+    second: SS_Ring_Black_112
+  - first:
+      213: -743160171815489136
+    second: SS_Ring_Black_113
+  - first:
+      213: 7635881722815536250
+    second: SS_Ring_Black_114
+  - first:
+      213: -7530565398524840103
+    second: SS_Ring_Black_115
+  - first:
+      213: 2547279186182817980
+    second: SS_Ring_Black_116
+  - first:
+      213: 613972347926799435
+    second: SS_Ring_Black_117
+  - first:
+      213: 5119678703649655814
+    second: SS_Ring_Black_118
+  - first:
+      213: 1170937277631423797
+    second: SS_Ring_Black_119
+  - first:
+      213: 8008057006652046160
+    second: SS_Ring_Black_120
+  - first:
+      213: 2677857419808426553
+    second: SS_Ring_Black_121
+  - first:
+      213: -8688778314889395694
+    second: SS_Ring_Black_122
+  - first:
+      213: 3329374511828983435
+    second: SS_Ring_Black_123
+  - first:
+      213: -449642388893681721
+    second: SS_Ring_Black_124
+  - first:
+      213: 6558226110815170848
+    second: SS_Ring_Black_125
+  - first:
+      213: 1787140739088475051
+    second: SS_Ring_Black_126
+  - first:
+      213: 221113012920147688
+    second: SS_Ring_Black_127
+  - first:
+      213: 1595144661841571453
+    second: SS_Ring_Black_128
+  - first:
+      213: 630997130584341506
+    second: SS_Ring_Black_129
+  - first:
+      213: -8279660383146868142
+    second: SS_Ring_Black_130
+  - first:
+      213: 1173497843516558769
+    second: SS_Ring_Black_131
+  - first:
+      213: -9214120011414490423
+    second: SS_Ring_Black_132
+  - first:
+      213: -9210241358205025743
+    second: SS_Ring_Black_133
+  - first:
+      213: -1869584154454488543
+    second: SS_Ring_Black_134
+  - first:
+      213: -456728588052767545
+    second: SS_Ring_Black_135
+  - first:
+      213: -5709400172090902134
+    second: SS_Ring_Black_136
+  - first:
+      213: 540651831020664248
+    second: SS_Ring_Black_137
+  - first:
+      213: -3638158668238186019
+    second: SS_Ring_Black_138
+  - first:
+      213: 6486872134136126791
+    second: SS_Ring_Black_139
+  - first:
+      213: -6497106128163664602
+    second: SS_Ring_Black_140
+  - first:
+      213: -3049828378344710098
+    second: SS_Ring_Black_141
+  - first:
+      213: -3935396037147808499
+    second: SS_Ring_Black_142
+  - first:
+      213: 5986914446169185986
+    second: SS_Ring_Black_143
+  - first:
+      213: -7531513030561692076
+    second: SS_Ring_Black_144
+  - first:
+      213: -6775545072516899861
+    second: SS_Ring_Black_145
+  - first:
+      213: -7797017100906202592
+    second: SS_Ring_Black_146
+  - first:
+      213: 6053432855704742028
+    second: SS_Ring_Black_147
+  - first:
+      213: -1307400738797550396
+    second: SS_Ring_Black_148
+  - first:
+      213: -5933615849378772072
+    second: SS_Ring_Black_149
+  - first:
+      213: 7494405315911451266
+    second: SS_Ring_Black_150
+  - first:
+      213: -1488747782978231493
+    second: SS_Ring_Black_151
+  - first:
+      213: -8784446620968702087
+    second: SS_Ring_Black_152
+  - first:
+      213: 5498192334376667964
+    second: SS_Ring_Black_153
+  - first:
+      213: -5187224880150324117
+    second: SS_Ring_Black_154
+  - first:
+      213: -1585582880422981281
+    second: SS_Ring_Black_155
+  - first:
+      213: -438116473408081924
+    second: SS_Ring_Black_156
+  - first:
+      213: -8693242475870770240
+    second: SS_Ring_Black_157
+  - first:
+      213: -71757199253904692
+    second: SS_Ring_Black_158
+  - first:
+      213: 5366159374840154299
+    second: SS_Ring_Black_159
+  - first:
+      213: 904472037504904356
+    second: SS_Ring_Black_160
+  - first:
+      213: -4713588047720244222
+    second: SS_Ring_Black_161
+  - first:
+      213: 1203830148892563449
+    second: SS_Ring_Black_162
+  - first:
+      213: 4398451494274925957
+    second: SS_Ring_Black_163
+  - first:
+      213: -6132944987373230549
+    second: SS_Ring_Black_164
+  - first:
+      213: 5248548713047500676
+    second: SS_Ring_Black_165
+  - first:
+      213: 103880528963700101
+    second: SS_Ring_Black_166
+  - first:
+      213: 5435955040689540531
+    second: SS_Ring_Black_167
+  - first:
+      213: -3588173606015187114
+    second: SS_Ring_Black_168
+  - first:
+      213: 8160105620173237408
+    second: SS_Ring_Black_169
+  - first:
+      213: -4308127758032776060
+    second: SS_Ring_Black_170
+  - first:
+      213: -6845016083339697133
+    second: SS_Ring_Black_171
+  - first:
+      213: -956485466922570488
+    second: SS_Ring_Black_172
+  - first:
+      213: 6462396868088961763
+    second: SS_Ring_Black_173
+  - first:
+      213: -8680514750205410054
+    second: SS_Ring_Black_174
+  - first:
+      213: -1589623864844126540
+    second: SS_Ring_Black_175
+  - first:
+      213: -6023858610180592111
+    second: SS_Ring_Black_176
+  - first:
+      213: -9119750560093856940
+    second: SS_Ring_Black_177
+  - first:
+      213: -1009773807148468584
+    second: SS_Ring_Black_178
+  - first:
+      213: -6190853869303845350
+    second: SS_Ring_Black_179
+  - first:
+      213: -8924796841626437403
+    second: SS_Ring_Black_180
+  - first:
+      213: -3462959103887832590
+    second: SS_Ring_Black_181
+  - first:
+      213: -6701397477488171245
+    second: SS_Ring_Black_182
+  - first:
+      213: -2232209906223113556
+    second: SS_Ring_Black_183
+  - first:
+      213: -241277513144654664
+    second: SS_Ring_Black_184
+  - first:
+      213: 442137408552600957
+    second: SS_Ring_Black_185
+  - first:
+      213: 1100854103483202994
+    second: SS_Ring_Black_186
+  - first:
+      213: 1863799446934390331
+    second: SS_Ring_Black_187
+  - first:
+      213: -2838966213364115933
+    second: SS_Ring_Black_188
+  - first:
+      213: -113779658963018417
+    second: SS_Ring_Black_189
+  - first:
+      213: -2253689975811133751
+    second: SS_Ring_Black_190
+  - first:
+      213: 4331572890375750424
+    second: SS_Ring_Black_191
+  - first:
+      213: -8684907891230191240
+    second: SS_Ring_Black_192
+  - first:
+      213: 3862221061833394289
+    second: SS_Ring_Black_193
+  - first:
+      213: -6791339880143326570
+    second: SS_Ring_Black_194
+  - first:
+      213: -3232895068687388079
+    second: SS_Ring_Black_195
+  - first:
+      213: 3830016341859513628
+    second: SS_Ring_Black_196
+  - first:
+      213: -292133412686366034
+    second: SS_Ring_Black_197
+  - first:
+      213: 7828457408844499151
+    second: SS_Ring_Black_198
+  - first:
+      213: 1284637485893134850
+    second: SS_Ring_Black_199
+  - first:
+      213: 2646467691202761209
+    second: SS_Ring_Black_200
+  - first:
+      213: -6662655288164551591
+    second: SS_Ring_Black_201
+  - first:
+      213: 7587348837841151113
+    second: SS_Ring_Black_202
+  - first:
+      213: -580250982512612069
+    second: SS_Ring_Black_203
+  - first:
+      213: -6367715997259469685
+    second: SS_Ring_Black_204
+  - first:
+      213: 6545778127287503566
+    second: SS_Ring_Black_205
+  - first:
+      213: -7552417666126477711
+    second: SS_Ring_Black_206
+  - first:
+      213: 4297498505559498830
+    second: SS_Ring_Black_207
+  - first:
+      213: 6851517594207789343
+    second: SS_Ring_Black_208
+  - first:
+      213: 4711143268609107790
+    second: SS_Ring_Black_209
+  - first:
+      213: -8768296363998375273
+    second: SS_Ring_Black_210
+  - first:
+      213: 3189339811542879108
+    second: SS_Ring_Black_211
+  - first:
+      213: 3155074052881543496
+    second: SS_Ring_Black_212
+  - first:
+      213: -4907727477426242735
+    second: SS_Ring_Black_213
+  - first:
+      213: 6306725264491497107
+    second: SS_Ring_Black_214
+  - first:
+      213: -871875347537893706
+    second: SS_Ring_Black_215
+  - first:
+      213: 8956675508986675475
+    second: SS_Ring_Black_216
+  - first:
+      213: 2561191467852739536
+    second: SS_Ring_Black_217
+  - first:
+      213: -3136877663697433209
+    second: SS_Ring_Black_218
+  - first:
+      213: -7066632953876509720
+    second: SS_Ring_Black_219
+  - first:
+      213: -1955941571813222815
+    second: SS_Ring_Black_220
+  - first:
+      213: -5179032940735851601
+    second: SS_Ring_Black_221
+  - first:
+      213: 4729030453199241794
+    second: SS_Ring_Black_222
+  - first:
+      213: -6217323487141229065
+    second: SS_Ring_Black_223
+  - first:
+      213: -6315651850849654957
+    second: SS_Ring_Black_224
+  - first:
+      213: -1599459527905359582
+    second: SS_Ring_Black_225
+  - first:
+      213: 6815200587141051406
+    second: SS_Ring_Black_226
+  - first:
+      213: 3046373189460826002
+    second: SS_Ring_Black_227
+  - first:
+      213: -8708923198311718407
+    second: SS_Ring_Black_228
+  - first:
+      213: -4232961818059513157
+    second: SS_Ring_Black_229
+  - first:
+      213: 4871534498144417633
+    second: SS_Ring_Black_230
+  - first:
+      213: 4445132719501502642
+    second: SS_Ring_Black_231
+  - first:
+      213: -7620173353072317551
+    second: SS_Ring_Black_232
+  - first:
+      213: 8233252747795372165
+    second: SS_Ring_Black_233
+  - first:
+      213: 5531589258617829764
+    second: SS_Ring_Black_234
+  - first:
+      213: -1154140899956522214
+    second: SS_Ring_Black_235
+  - first:
+      213: -4715003005606592061
+    second: SS_Ring_Black_236
+  - first:
+      213: 719894769960278211
+    second: SS_Ring_Black_237
+  - first:
+      213: 162337989453600570
+    second: SS_Ring_Black_238
+  - first:
+      213: 6370380742514761409
+    second: SS_Ring_Black_239
+  - first:
+      213: -586143273978669093
+    second: SS_Ring_Black_240
+  - first:
+      213: -8965041946815794982
+    second: SS_Ring_Black_241
+  - first:
+      213: -5919507012714927046
+    second: SS_Ring_Black_242
+  - first:
+      213: -6670972201235303054
+    second: SS_Ring_Black_243
+  - first:
+      213: 845570960049418340
+    second: SS_Ring_Black_244
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Ring_Black_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 483
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83529658e61368e0800000000000000
+      internalID: -1701491047075261557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 484
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a68da9059c513740800000000000000
+      internalID: 5129983245733955235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 483
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a19dd57fd24dfab0800000000000000
+      internalID: -4972744886024564313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 483
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8e89a8dc5aa03f0800000000000000
+      internalID: -933751670513800975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 484
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee8959609ea5c790800000000000000
+      internalID: -7510404868304433430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 483
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97c582341d667cd0800000000000000
+      internalID: -2560739404599146596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_6
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 486
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85cd23d52b8bab200800000000000000
+      internalID: 196672609951341656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 484
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75f749aa5e163210800000000000000
+      internalID: 1312269716161033597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_8
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 485
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b000ad9546ea26a80800000000000000
+      internalID: -8475019802730430453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 484
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309ade7c83f53a750800000000000000
+      internalID: 6314995799980615939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 482
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00d7d3ec482584d0800000000000000
+      internalID: -3133053655061114865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 484
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743f2544d8839f420800000000000000
+      internalID: 2664222833954190151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 486
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595c3a4015ed9b220800000000000000
+      internalID: 2502275507532580245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_13
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 486
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3973494906309b640800000000000000
+      internalID: 5096108166690912147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_14
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 487
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2940e30c96821efd0800000000000000
+      internalID: -2314524298829757294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_15
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 486
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b62b9614009872c80800000000000000
+      internalID: -8347552750117473685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_16
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 452
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f88083d199c93110800000000000000
+      internalID: 1241244800473139449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_17
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 454
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3882bb2c0e6b140800000000000000
+      internalID: 4735219185194927094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 452
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bf13a80065069c0800000000000000
+      internalID: -3936051514003293409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 451
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715b1e74a402a87e0800000000000000
+      internalID: -1762560800756484841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_20
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 451
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718397a3e938dcfc0800000000000000
+      internalID: -3472975022023690217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_21
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 454
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5147cfc924c31fa50800000000000000
+      internalID: 6553085189600080917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 452
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39974fa098991c3c0800000000000000
+      internalID: -4341019751935084141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_23
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 451
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60d365bf0f23b8d0800000000000000
+      internalID: -2831867996171677586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_24
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 453
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd3a6951fb68c2550800000000000000
+      internalID: 6137428547458212831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_25
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 453
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e909abb23dc98f790800000000000000
+      internalID: -7496069148972511074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_26
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 454
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bcb6ed7cdaf3f30800000000000000
+      internalID: 4557552421863934787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_27
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 453
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6de7ddeecbf7480800000000000000
+      internalID: -8899186604556495129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_28
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 454
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd3abf960681b810800000000000000
+      internalID: 1779350690795765175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_29
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 455
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf23931ee9e4fc30800000000000000
+      internalID: 4392392745332977597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_30
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 455
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b040bb35588fb9c50800000000000000
+      internalID: 6673200524398625803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_31
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 453
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a62c05c775753610800000000000000
+      internalID: 1600314399867545254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 423
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fb1cb2e85d248d0800000000000000
+      internalID: -2863491606458024124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 421
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916271ccc64a14cc0800000000000000
+      internalID: -3728518229298567655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_34
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 421
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f6e57a36876b6c0800000000000000
+      internalID: -4127979639033401512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_35
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 421
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bcc70d0ac2aaaa0800000000000000
+      internalID: -6149053272016761999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_36
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 424
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba5f936154bd2b90800000000000000
+      internalID: -7264952362222003534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_37
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 417
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828ca159fad59f600800000000000000
+      internalID: 502535842130741288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_38
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 419
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4ae7a6e28b52fd0800000000000000
+      internalID: -2367283519618636552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_39
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 424
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945e635b2c1a7bf30800000000000000
+      internalID: 4591316202763511113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_40
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 420
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f33cbf9afee21610800000000000000
+      internalID: 1590596378604352497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_41
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 420
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46252dccc067f100800000000000000
+      internalID: 141688346016818763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_42
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 423
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa118561b7fe7ddb0800000000000000
+      internalID: -4767078368613494353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_43
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 420
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c5eb7eba45cefa0800000000000000
+      internalID: -5770143925264294819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_44
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 420
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f3664abd1c1ffe0800000000000000
+      internalID: -1156930480157343854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_45
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 420
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbd6fa925b55ab10800000000000000
+      internalID: 1992098820526627780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_46
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 423
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3660e6001245b70800000000000000
+      internalID: 8886764250438460326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_47
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 420
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d96cc858249d7b70800000000000000
+      internalID: 8898431339763362258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 385
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33bc07925a1a9e6a0800000000000000
+      internalID: -6419422063102997709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_49
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 387
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba6672c6b6daea70800000000000000
+      internalID: 8857127697612434108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_50
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 389
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d809c6fe515a6d0800000000000000
+      internalID: -2979951460372935332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_51
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 389
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc231e799a8b51f0800000000000000
+      internalID: -1055097295838434060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_52
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 386
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302b72619101e52a0800000000000000
+      internalID: -6746937491822497277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_53
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 386
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286383e35a9c40490800000000000000
+      internalID: -7780872544638716286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_54
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 385
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40bce7f15663b600800000000000000
+      internalID: 482842087296643149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_55
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 386
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ebea346d97d28ea0800000000000000
+      internalID: -5871893893146285088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_56
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 388
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d413447545e6b3500800000000000000
+      internalID: 377016302335963469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_57
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 387
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7495c26958bd7ddc0800000000000000
+      internalID: -3614178809144911545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_58
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 387
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a908379e0c9222050800000000000000
+      internalID: 5774223580769517722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_59
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 387
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43ef33d4cf752590800000000000000
+      internalID: -7699607504585497778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_60
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 388
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b734d9cb7c825a0800000000000000
+      internalID: -6545762445476791446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_61
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 387
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f11112572b42280800000000000000
+      internalID: -9068927533481648261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_62
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 387
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9820674fe595ed40800000000000000
+      internalID: 5613057365514397851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_63
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 390
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67a19256180f8ab0800000000000000
+      internalID: -5003771769017751700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_64
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 356
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40b5758783f0d3a0800000000000000
+      internalID: -6642541686986264498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_65
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 355
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37831cb553517480800000000000000
+      internalID: -8903243360642037953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_66
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 358
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c2b74fc6b0b7160800000000000000
+      internalID: 7024220606400507004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_67
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 359
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916fa606084e37750800000000000000
+      internalID: 6301631543646025241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_68
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 358
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb65773ee6551a30800000000000000
+      internalID: 4185347009843391434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_69
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 359
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa3e1c133acc6300800000000000000
+      internalID: 246794400462420721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_70
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 358
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113fc4032f5a8fdf0800000000000000
+      internalID: -146184528278523119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_71
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 358
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b502424a33715e0800000000000000
+      internalID: -1939024334485955702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_72
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 358
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ddc7912ef5efbd0800000000000000
+      internalID: -2594530910623965880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_73
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 356
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2919a5befe3443780800000000000000
+      internalID: -8704257482075500142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_74
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 356
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f71c2d2584d7e390800000000000000
+      internalID: -7789023362060380167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_75
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 356
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae4221e94440de00800000000000000
+      internalID: 1067428195787230883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_76
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 356
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a2fe138a78119f0800000000000000
+      internalID: -499468927199401337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_77
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 359
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f4a8c96243b5e10800000000000000
+      internalID: 2187399384458219423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_78
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 359
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e986353dcce5a1020800000000000000
+      internalID: 2313265592419969182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_79
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 358
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c96250c6ef6af90800000000000000
+      internalID: -6942582035648701365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_80
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 327
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7ec331b4b28d210800000000000000
+      internalID: 1357882889097504753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_81
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 325
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5ee1b07da06ed80800000000000000
+      internalID: -8221872150997441091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_82
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 326
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee6b43d54412c5ce0800000000000000
+      internalID: -1415219605395949842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_83
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 326
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd95ebe10191cae40800000000000000
+      internalID: 5668933587978574303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_84
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 325
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c9c0e5f44c7c080800000000000000
+      internalID: -9167142671330010027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_85
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 325
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca22619798463b30800000000000000
+      internalID: 4266677512796515010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_86
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 322
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f7a1706eaa4f160800000000000000
+      internalID: 7058454420934786965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_87
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 323
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510a49ca2cd0aa1a0800000000000000
+      internalID: -6797605557792104427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_88
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 324
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb8c9983ec8290e0800000000000000
+      internalID: -2264592753719735363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_89
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92829b6d4401ac790800000000000000
+      internalID: -7509171540840601559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_90
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 328
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5fc5a86b9da9c90800000000000000
+      internalID: -7162172879350729222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_91
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 326
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b70e2b6f1c7119f0800000000000000
+      internalID: -499481609277405263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_92
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 328
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15958d2375f924820800000000000000
+      internalID: 2901056306844031313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_93
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 326
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4505a7a40efe810800000000000000
+      internalID: 1796901386828403942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_94
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 326
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31abcafb1636ad010800000000000000
+      internalID: 1214392321008515603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_95
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 326
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04701eca2a113ba70800000000000000
+      internalID: 8841429883841218368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_96
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 295
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e304849fe335c9690800000000000000
+      internalID: -7594103341718159298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_97
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 294
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a5af7bc9f32a4d0800000000000000
+      internalID: -3124865249107617271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_98
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 294
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c6a46b18548a780800000000000000
+      internalID: -8671604659090461648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_99
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 293
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4346f2e120763a5f0800000000000000
+      internalID: -746639854419352524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_100
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 295
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab62692f08887b290800000000000000
+      internalID: -7874675336026904902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_101
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 291
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accfdab7ae65642c0800000000000000
+      internalID: -4447772016884450102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_102
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 292
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514a0e9b541d2deb0800000000000000
+      internalID: -4696461363992550379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_103
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 292
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106dc2bbb13910f30800000000000000
+      internalID: 4540071646679848449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_104
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 293
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6d646a8550694d0800000000000000
+      internalID: -3128307012857309503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_105
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 293
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0026df6ffc507d670800000000000000
+      internalID: 8563319607228457472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_106
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 296
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbd4988a118ce960800000000000000
+      internalID: 7632617419446737857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_107
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 294
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db024367a7cf21a0800000000000000
+      internalID: -6832022587959014443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_108
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 294
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfeb6f2a2f192b8a0800000000000000
+      internalID: -6290805258180968709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_109
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 295
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e042004291cb44f0800000000000000
+      internalID: -843367671318560538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_110
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 296
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e670293f45ee4b0800000000000000
+      internalID: -5409292697321640373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_111
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 296
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c379503155a05d280800000000000000
+      internalID: -9019291318231918788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_112
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 261
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0f82fde028a739c0800000000000000
+      internalID: -3947501688982434034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_113
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 262
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09138bbd2c3cfa5f0800000000000000
+      internalID: -743160171815489136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_114
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 264
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c515368f918f960800000000000000
+      internalID: 7635881722815536250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_115
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 261
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957341f2bae0e7790800000000000000
+      internalID: -7530565398524840103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_116
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 261
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb84c2c7ce0c95320800000000000000
+      internalID: 2547279186182817980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_117
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 262
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44e614f894458800800000000000000
+      internalID: 613972347926799435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_118
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 260
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c8b2fd7a0cc0740800000000000000
+      internalID: 5119678703649655814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_119
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 259
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535eb770041004010800000000000000
+      internalID: 1170937277631423797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_120
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 260
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bb2964b65522f60800000000000000
+      internalID: 8008057006652046160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_121
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 258
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a43daa229a92520800000000000000
+      internalID: 2677857419808426553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_122
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 263
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21286e068224b6780800000000000000
+      internalID: -8688778314889395694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_123
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 263
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e5ecd8a70543e20800000000000000
+      internalID: 3329374511828983435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_124
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 263
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7b80e21ac82c9f0800000000000000
+      internalID: -449642388893681721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_125
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 262
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02174db96ef730b50800000000000000
+      internalID: 6558226110815170848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_126
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 263
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba36ff498033dc810800000000000000
+      internalID: 1787140739088475051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_127
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 258
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee525e1d1d811300800000000000000
+      internalID: 221113012920147688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_128
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 230
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7e6d665e97132610800000000000000
+      internalID: 1595144661841571453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_129
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 229
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c35ce0c80c1c800800000000000000
+      internalID: 630997130584341506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_130
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 229
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25208a1cfbcb81d80800000000000000
+      internalID: -8279660383146868142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_131
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 228
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdcd7b321a194010800000000000000
+      internalID: 1173497843516558769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_132
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 229
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c232d90baed02080800000000000000
+      internalID: -9214120011414490423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_133
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 227
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132049c5846ae2080800000000000000
+      internalID: -9210241358205025743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_134
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 229
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a8a04fd17ed06e0800000000000000
+      internalID: -1869584154454488543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_135
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 230
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc595ed4cf59a9f0800000000000000
+      internalID: -456728588052767545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_136
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 228
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89b7fd0bc224c0b0800000000000000
+      internalID: -5709400172090902134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_137
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 228
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5b62fc9f7c08700800000000000000
+      internalID: 540651831020664248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_138
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 229
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9972f87f9a28dc0800000000000000
+      internalID: -3638158668238186019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_139
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 228
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d509a46dff50a50800000000000000
+      internalID: 6486872134136126791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_140
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 230
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d8aca4664a5d5a0800000000000000
+      internalID: -6497106128163664602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_141
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 228
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20abd2af35dca5d0800000000000000
+      internalID: -3049828378344710098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_142
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 231
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d2353a72aa269c0800000000000000
+      internalID: -3935396037147808499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_143
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 228
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce919008fac51350800000000000000
+      internalID: 5986914446169185986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_144
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 196
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45605286dc0ba7790800000000000000
+      internalID: -7531513030561692076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_145
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 198
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb5bf8a7ad68f1a0800000000000000
+      internalID: -6775545072516899861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_146
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 197
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02af6d0d14e6bc390800000000000000
+      internalID: -7797017100906202592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_147
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 196
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88a5fb1c1d120450800000000000000
+      internalID: 6053432855704742028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_148
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 193
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c483e874fd2bdde0800000000000000
+      internalID: -1307400738797550396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_149
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 197
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b862892df87ada0800000000000000
+      internalID: -5933615849378772072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_150
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 193
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28283b18de9710860800000000000000
+      internalID: 7494405315911451266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_151
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 195
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33ae6377c7e65be0800000000000000
+      internalID: -1488747782978231493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_152
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 193
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97fa7c81750671680800000000000000
+      internalID: -8784446620968702087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_153
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 193
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b0c452cc08d4c40800000000000000
+      internalID: 5498192334376667964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_154
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 195
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c529064764308b0800000000000000
+      internalID: -5187224880150324117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_155
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 198
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51927265c0eef9e0800000000000000
+      internalID: -1585582880422981281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_156
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 195
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffa340836f7be9f0800000000000000
+      internalID: -438116473408081924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_157
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 195
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cba267e6066b5780800000000000000
+      internalID: -8693242475870770240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_158
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 195
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc2e46c1531110ff0800000000000000
+      internalID: -71757199253904692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_159
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 196
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8ca71358d687a40800000000000000
+      internalID: 5366159374840154299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_160
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 164
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ace0c8a6845d8c00800000000000000
+      internalID: 904472037504904356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_161
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 164
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c9b1ee4a8f59eb0800000000000000
+      internalID: -4713588047720244222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_162
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 164
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f795aa642dd4b010800000000000000
+      internalID: 1203830148892563449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_163
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 163
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5850b0e74507a0d30800000000000000
+      internalID: 4398451494274925957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_164
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 162
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b262b98170763eaa0800000000000000
+      internalID: -6132944987373230549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_165
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 163
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487a78b1f3796d840800000000000000
+      internalID: 5248548713047500676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_166
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 163
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58506fb6ace017100800000000000000
+      internalID: 103880528963700101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_167
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 166
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd4b4ffe44607b40800000000000000
+      internalID: 5435955040689540531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_168
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 165
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6574805cd1f343ec0800000000000000
+      internalID: -3588173606015187114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_169
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 165
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac2814d3d48e3170800000000000000
+      internalID: 8160105620173237408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_170
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 163
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484d47721a47634c0800000000000000
+      internalID: -4308127758032776060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_171
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 167
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 314a3be732e9101a0800000000000000
+      internalID: -6845016083339697133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_172
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 165
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80da1471981e9b2f0800000000000000
+      internalID: -956485466922570488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_173
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 165
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea1a0856bb0fa950800000000000000
+      internalID: 6462396868088961763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_174
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 167
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4c77673dd988780800000000000000
+      internalID: -8680514750205410054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_175
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 163
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b67b71648580f9e0800000000000000
+      internalID: -1589623864844126540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_176
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 133
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ee1038284f66ca0800000000000000
+      internalID: -6023858610180592111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_177
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 132
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b9f612f23207180800000000000000
+      internalID: -9119750560093856940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_178
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 132
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896fb6982109cf1f0800000000000000
+      internalID: -1009773807148468584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_179
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 132
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1eaac7d43ba51aa0800000000000000
+      internalID: -6190853869303845350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_180
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 132
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8f352ee80c42480800000000000000
+      internalID: -8924796841626437403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_181
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 132
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f98f05ea0911ffc0800000000000000
+      internalID: -3462959103887832590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_182
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 135
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3176e9fef7adff2a0800000000000000
+      internalID: -6701397477488171245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_183
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 134
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa9673cae89501e0800000000000000
+      internalID: -2232209906223113556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_184
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 133
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b429b0516fc6acf0800000000000000
+      internalID: -241277513144654664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_185
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 132
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7580ba61a9c22600800000000000000
+      internalID: 442137408552600957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_186
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 132
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdb5ab79f4074f00800000000000000
+      internalID: 1100854103483202994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_187
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 133
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b36081fd8bb8dd910800000000000000
+      internalID: 1863799446934390331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_188
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 133
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326981b3547f998d0800000000000000
+      internalID: -2838966213364115933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_189
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 130
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4d18d4c006cb6ef0800000000000000
+      internalID: -113779658963018417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_190
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 132
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce2be558e849b0e0800000000000000
+      internalID: -2253689975811133751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_191
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 132
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8130f891896dc1c30800000000000000
+      internalID: 4331572890375750424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_192
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 102
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871dc3c9942097780800000000000000
+      internalID: -8684907891230191240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_193
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 102
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1788c92c79d599530800000000000000
+      internalID: 3862221061833394289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_194
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 102
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 692fc1f6c5050c1a0800000000000000
+      internalID: -6791339880143326570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_195
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 102
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152b6ca40137223d0800000000000000
+      internalID: -3232895068687388079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_196
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 99
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c153a741293f62530800000000000000
+      internalID: 3830016341859513628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_197
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 99
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa7ecd753222fbf0800000000000000
+      internalID: -292133412686366034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_198
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 100
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc88371598444ac60800000000000000
+      internalID: 7828457408844499151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_199
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 101
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20aafc3bcf2f3d110800000000000000
+      internalID: 1284637485893134850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_200
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 101
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f150b3f7542ab420800000000000000
+      internalID: 2646467691202761209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_201
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 101
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954f210d05e7983a0800000000000000
+      internalID: -6662655288164551591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_202
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 101
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 984ae7a819dab4960800000000000000
+      internalID: 7587348837841151113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_203
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 99
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1da3c24ec882f7f0800000000000000
+      internalID: -580250982512612069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_204
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 99
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ce6c0c90451a7a0800000000000000
+      internalID: -6367715997259469685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_205
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 101
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca4e77968647da50800000000000000
+      internalID: 6545778127287503566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_206
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 101
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1768527a52c603790800000000000000
+      internalID: -7552417666126477711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_207
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 99
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4065a62f18c3ab30800000000000000
+      internalID: 4297498505559498830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_208
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 67
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11281773fa751f50800000000000000
+      internalID: 6851517594207789343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_209
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 67
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e472b6397d7516140800000000000000
+      internalID: 4711143268609107790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_210
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 67
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7921782d9e0c05680800000000000000
+      internalID: -8768296363998375273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_211
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 69
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b460729afc24c20800000000000000
+      internalID: 3189339811542879108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_212
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 72
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8417e02822319cb20800000000000000
+      internalID: 3155074052881543496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_213
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 70
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15bb59d8cdf34ebb0800000000000000
+      internalID: -4907727477426242735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_214
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 67
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3964ffda63df58750800000000000000
+      internalID: 6306725264491497107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_215
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 68
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b66595adf976e3f0800000000000000
+      internalID: -871875347537893706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_216
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 67
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3118791cbe08c4c70800000000000000
+      internalID: 8956675508986675475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_217
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 67
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3bf1bf11e2b8320800000000000000
+      internalID: 2561191467852739536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_218
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 69
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d057f72629774d0800000000000000
+      internalID: -3136877663697433209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_219
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 67
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb0f12e4c64eed90800000000000000
+      internalID: -7066632953876509720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_220
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 68
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16657a2e0891bd4e0800000000000000
+      internalID: -1955941571813222815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_221
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 68
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa39467eaf06028b0800000000000000
+      internalID: -5179032940735851601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_222
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 72
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24202f64424e0a140800000000000000
+      internalID: 4729030453199241794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_223
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 68
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd014faa31a7b9a0800000000000000
+      internalID: -6217323487141229065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_224
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 36
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35761197a1c4a58a0800000000000000
+      internalID: -6315651850849654957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_225
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 36
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 229469e98049dc9e0800000000000000
+      internalID: -1599459527905359582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_226
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 33
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04739553d4749e50800000000000000
+      internalID: 6815200587141051406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_227
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 34
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29716138644e64a20800000000000000
+      internalID: 3046373189460826002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_228
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 38
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1a8743e70b32780800000000000000
+      internalID: -8708923198311718407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_229
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 38
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb265c657af7145c0800000000000000
+      internalID: -4232961818059513157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_230
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 37
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16775f8c0da2b9340800000000000000
+      internalID: 4871534498144417633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_231
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 37
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b86a5538a840bd30800000000000000
+      internalID: 4445132719501502642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_232
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 35
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19b2a3375b4bf3690800000000000000
+      internalID: -7620173353072317551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_233
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 37
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5881a52a0c3624270800000000000000
+      internalID: 8233252747795372165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_234
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 37
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48938438f1724cc40800000000000000
+      internalID: 5531589258617829764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_235
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 35
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13875567faabffe0800000000000000
+      internalID: -1154140899956522214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_236
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 36
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c18bef5fb1f09eb0800000000000000
+      internalID: -4715003005606592061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_237
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 36
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8d427aa749df900800000000000000
+      internalID: 719894769960278211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_238
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 37
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37dee29a8db04200800000000000000
+      internalID: 162337989453600570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_239
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 38
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ced4999883286850800000000000000
+      internalID: 6370380742514761409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_240
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7540f3cc99dd7f0800000000000000
+      internalID: -586143273978669093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_241
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 7
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0719329d5c59380800000000000000
+      internalID: -8965041946815794982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_242
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 5
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c61bd1cbfa9dda0800000000000000
+      internalID: -5919507012714927046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_243
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 7
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2753dd69022fb63a0800000000000000
+      internalID: -6670972201235303054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Ring_Black_244
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 5
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460b122ee421cbb00800000000000000
+      internalID: 845570960049418340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Ring_Black_0: -1701491047075261557
+      SS_Ring_Black_1: 5129983245733955235
+      SS_Ring_Black_10: -3133053655061114865
+      SS_Ring_Black_100: -7874675336026904902
+      SS_Ring_Black_101: -4447772016884450102
+      SS_Ring_Black_102: -4696461363992550379
+      SS_Ring_Black_103: 4540071646679848449
+      SS_Ring_Black_104: -3128307012857309503
+      SS_Ring_Black_105: 8563319607228457472
+      SS_Ring_Black_106: 7632617419446737857
+      SS_Ring_Black_107: -6832022587959014443
+      SS_Ring_Black_108: -6290805258180968709
+      SS_Ring_Black_109: -843367671318560538
+      SS_Ring_Black_11: 2664222833954190151
+      SS_Ring_Black_110: -5409292697321640373
+      SS_Ring_Black_111: -9019291318231918788
+      SS_Ring_Black_112: -3947501688982434034
+      SS_Ring_Black_113: -743160171815489136
+      SS_Ring_Black_114: 7635881722815536250
+      SS_Ring_Black_115: -7530565398524840103
+      SS_Ring_Black_116: 2547279186182817980
+      SS_Ring_Black_117: 613972347926799435
+      SS_Ring_Black_118: 5119678703649655814
+      SS_Ring_Black_119: 1170937277631423797
+      SS_Ring_Black_12: 2502275507532580245
+      SS_Ring_Black_120: 8008057006652046160
+      SS_Ring_Black_121: 2677857419808426553
+      SS_Ring_Black_122: -8688778314889395694
+      SS_Ring_Black_123: 3329374511828983435
+      SS_Ring_Black_124: -449642388893681721
+      SS_Ring_Black_125: 6558226110815170848
+      SS_Ring_Black_126: 1787140739088475051
+      SS_Ring_Black_127: 221113012920147688
+      SS_Ring_Black_128: 1595144661841571453
+      SS_Ring_Black_129: 630997130584341506
+      SS_Ring_Black_13: 5096108166690912147
+      SS_Ring_Black_130: -8279660383146868142
+      SS_Ring_Black_131: 1173497843516558769
+      SS_Ring_Black_132: -9214120011414490423
+      SS_Ring_Black_133: -9210241358205025743
+      SS_Ring_Black_134: -1869584154454488543
+      SS_Ring_Black_135: -456728588052767545
+      SS_Ring_Black_136: -5709400172090902134
+      SS_Ring_Black_137: 540651831020664248
+      SS_Ring_Black_138: -3638158668238186019
+      SS_Ring_Black_139: 6486872134136126791
+      SS_Ring_Black_14: -2314524298829757294
+      SS_Ring_Black_140: -6497106128163664602
+      SS_Ring_Black_141: -3049828378344710098
+      SS_Ring_Black_142: -3935396037147808499
+      SS_Ring_Black_143: 5986914446169185986
+      SS_Ring_Black_144: -7531513030561692076
+      SS_Ring_Black_145: -6775545072516899861
+      SS_Ring_Black_146: -7797017100906202592
+      SS_Ring_Black_147: 6053432855704742028
+      SS_Ring_Black_148: -1307400738797550396
+      SS_Ring_Black_149: -5933615849378772072
+      SS_Ring_Black_15: -8347552750117473685
+      SS_Ring_Black_150: 7494405315911451266
+      SS_Ring_Black_151: -1488747782978231493
+      SS_Ring_Black_152: -8784446620968702087
+      SS_Ring_Black_153: 5498192334376667964
+      SS_Ring_Black_154: -5187224880150324117
+      SS_Ring_Black_155: -1585582880422981281
+      SS_Ring_Black_156: -438116473408081924
+      SS_Ring_Black_157: -8693242475870770240
+      SS_Ring_Black_158: -71757199253904692
+      SS_Ring_Black_159: 5366159374840154299
+      SS_Ring_Black_16: 1241244800473139449
+      SS_Ring_Black_160: 904472037504904356
+      SS_Ring_Black_161: -4713588047720244222
+      SS_Ring_Black_162: 1203830148892563449
+      SS_Ring_Black_163: 4398451494274925957
+      SS_Ring_Black_164: -6132944987373230549
+      SS_Ring_Black_165: 5248548713047500676
+      SS_Ring_Black_166: 103880528963700101
+      SS_Ring_Black_167: 5435955040689540531
+      SS_Ring_Black_168: -3588173606015187114
+      SS_Ring_Black_169: 8160105620173237408
+      SS_Ring_Black_17: 4735219185194927094
+      SS_Ring_Black_170: -4308127758032776060
+      SS_Ring_Black_171: -6845016083339697133
+      SS_Ring_Black_172: -956485466922570488
+      SS_Ring_Black_173: 6462396868088961763
+      SS_Ring_Black_174: -8680514750205410054
+      SS_Ring_Black_175: -1589623864844126540
+      SS_Ring_Black_176: -6023858610180592111
+      SS_Ring_Black_177: -9119750560093856940
+      SS_Ring_Black_178: -1009773807148468584
+      SS_Ring_Black_179: -6190853869303845350
+      SS_Ring_Black_18: -3936051514003293409
+      SS_Ring_Black_180: -8924796841626437403
+      SS_Ring_Black_181: -3462959103887832590
+      SS_Ring_Black_182: -6701397477488171245
+      SS_Ring_Black_183: -2232209906223113556
+      SS_Ring_Black_184: -241277513144654664
+      SS_Ring_Black_185: 442137408552600957
+      SS_Ring_Black_186: 1100854103483202994
+      SS_Ring_Black_187: 1863799446934390331
+      SS_Ring_Black_188: -2838966213364115933
+      SS_Ring_Black_189: -113779658963018417
+      SS_Ring_Black_19: -1762560800756484841
+      SS_Ring_Black_190: -2253689975811133751
+      SS_Ring_Black_191: 4331572890375750424
+      SS_Ring_Black_192: -8684907891230191240
+      SS_Ring_Black_193: 3862221061833394289
+      SS_Ring_Black_194: -6791339880143326570
+      SS_Ring_Black_195: -3232895068687388079
+      SS_Ring_Black_196: 3830016341859513628
+      SS_Ring_Black_197: -292133412686366034
+      SS_Ring_Black_198: 7828457408844499151
+      SS_Ring_Black_199: 1284637485893134850
+      SS_Ring_Black_2: -4972744886024564313
+      SS_Ring_Black_20: -3472975022023690217
+      SS_Ring_Black_200: 2646467691202761209
+      SS_Ring_Black_201: -6662655288164551591
+      SS_Ring_Black_202: 7587348837841151113
+      SS_Ring_Black_203: -580250982512612069
+      SS_Ring_Black_204: -6367715997259469685
+      SS_Ring_Black_205: 6545778127287503566
+      SS_Ring_Black_206: -7552417666126477711
+      SS_Ring_Black_207: 4297498505559498830
+      SS_Ring_Black_208: 6851517594207789343
+      SS_Ring_Black_209: 4711143268609107790
+      SS_Ring_Black_21: 6553085189600080917
+      SS_Ring_Black_210: -8768296363998375273
+      SS_Ring_Black_211: 3189339811542879108
+      SS_Ring_Black_212: 3155074052881543496
+      SS_Ring_Black_213: -4907727477426242735
+      SS_Ring_Black_214: 6306725264491497107
+      SS_Ring_Black_215: -871875347537893706
+      SS_Ring_Black_216: 8956675508986675475
+      SS_Ring_Black_217: 2561191467852739536
+      SS_Ring_Black_218: -3136877663697433209
+      SS_Ring_Black_219: -7066632953876509720
+      SS_Ring_Black_22: -4341019751935084141
+      SS_Ring_Black_220: -1955941571813222815
+      SS_Ring_Black_221: -5179032940735851601
+      SS_Ring_Black_222: 4729030453199241794
+      SS_Ring_Black_223: -6217323487141229065
+      SS_Ring_Black_224: -6315651850849654957
+      SS_Ring_Black_225: -1599459527905359582
+      SS_Ring_Black_226: 6815200587141051406
+      SS_Ring_Black_227: 3046373189460826002
+      SS_Ring_Black_228: -8708923198311718407
+      SS_Ring_Black_229: -4232961818059513157
+      SS_Ring_Black_23: -2831867996171677586
+      SS_Ring_Black_230: 4871534498144417633
+      SS_Ring_Black_231: 4445132719501502642
+      SS_Ring_Black_232: -7620173353072317551
+      SS_Ring_Black_233: 8233252747795372165
+      SS_Ring_Black_234: 5531589258617829764
+      SS_Ring_Black_235: -1154140899956522214
+      SS_Ring_Black_236: -4715003005606592061
+      SS_Ring_Black_237: 719894769960278211
+      SS_Ring_Black_238: 162337989453600570
+      SS_Ring_Black_239: 6370380742514761409
+      SS_Ring_Black_24: 6137428547458212831
+      SS_Ring_Black_240: -586143273978669093
+      SS_Ring_Black_241: -8965041946815794982
+      SS_Ring_Black_242: -5919507012714927046
+      SS_Ring_Black_243: -6670972201235303054
+      SS_Ring_Black_244: 845570960049418340
+      SS_Ring_Black_25: -7496069148972511074
+      SS_Ring_Black_26: 4557552421863934787
+      SS_Ring_Black_27: -8899186604556495129
+      SS_Ring_Black_28: 1779350690795765175
+      SS_Ring_Black_29: 4392392745332977597
+      SS_Ring_Black_3: -933751670513800975
+      SS_Ring_Black_30: 6673200524398625803
+      SS_Ring_Black_31: 1600314399867545254
+      SS_Ring_Black_32: -2863491606458024124
+      SS_Ring_Black_33: -3728518229298567655
+      SS_Ring_Black_34: -4127979639033401512
+      SS_Ring_Black_35: -6149053272016761999
+      SS_Ring_Black_36: -7264952362222003534
+      SS_Ring_Black_37: 502535842130741288
+      SS_Ring_Black_38: -2367283519618636552
+      SS_Ring_Black_39: 4591316202763511113
+      SS_Ring_Black_4: -7510404868304433430
+      SS_Ring_Black_40: 1590596378604352497
+      SS_Ring_Black_41: 141688346016818763
+      SS_Ring_Black_42: -4767078368613494353
+      SS_Ring_Black_43: -5770143925264294819
+      SS_Ring_Black_44: -1156930480157343854
+      SS_Ring_Black_45: 1992098820526627780
+      SS_Ring_Black_46: 8886764250438460326
+      SS_Ring_Black_47: 8898431339763362258
+      SS_Ring_Black_48: -6419422063102997709
+      SS_Ring_Black_49: 8857127697612434108
+      SS_Ring_Black_5: -2560739404599146596
+      SS_Ring_Black_50: -2979951460372935332
+      SS_Ring_Black_51: -1055097295838434060
+      SS_Ring_Black_52: -6746937491822497277
+      SS_Ring_Black_53: -7780872544638716286
+      SS_Ring_Black_54: 482842087296643149
+      SS_Ring_Black_55: -5871893893146285088
+      SS_Ring_Black_56: 377016302335963469
+      SS_Ring_Black_57: -3614178809144911545
+      SS_Ring_Black_58: 5774223580769517722
+      SS_Ring_Black_59: -7699607504585497778
+      SS_Ring_Black_6: 196672609951341656
+      SS_Ring_Black_60: -6545762445476791446
+      SS_Ring_Black_61: -9068927533481648261
+      SS_Ring_Black_62: 5613057365514397851
+      SS_Ring_Black_63: -5003771769017751700
+      SS_Ring_Black_64: -6642541686986264498
+      SS_Ring_Black_65: -8903243360642037953
+      SS_Ring_Black_66: 7024220606400507004
+      SS_Ring_Black_67: 6301631543646025241
+      SS_Ring_Black_68: 4185347009843391434
+      SS_Ring_Black_69: 246794400462420721
+      SS_Ring_Black_7: 1312269716161033597
+      SS_Ring_Black_70: -146184528278523119
+      SS_Ring_Black_71: -1939024334485955702
+      SS_Ring_Black_72: -2594530910623965880
+      SS_Ring_Black_73: -8704257482075500142
+      SS_Ring_Black_74: -7789023362060380167
+      SS_Ring_Black_75: 1067428195787230883
+      SS_Ring_Black_76: -499468927199401337
+      SS_Ring_Black_77: 2187399384458219423
+      SS_Ring_Black_78: 2313265592419969182
+      SS_Ring_Black_79: -6942582035648701365
+      SS_Ring_Black_8: -8475019802730430453
+      SS_Ring_Black_80: 1357882889097504753
+      SS_Ring_Black_81: -8221872150997441091
+      SS_Ring_Black_82: -1415219605395949842
+      SS_Ring_Black_83: 5668933587978574303
+      SS_Ring_Black_84: -9167142671330010027
+      SS_Ring_Black_85: 4266677512796515010
+      SS_Ring_Black_86: 7058454420934786965
+      SS_Ring_Black_87: -6797605557792104427
+      SS_Ring_Black_88: -2264592753719735363
+      SS_Ring_Black_89: -7509171540840601559
+      SS_Ring_Black_9: 6314995799980615939
+      SS_Ring_Black_90: -7162172879350729222
+      SS_Ring_Black_91: -499481609277405263
+      SS_Ring_Black_92: 2901056306844031313
+      SS_Ring_Black_93: 1796901386828403942
+      SS_Ring_Black_94: 1214392321008515603
+      SS_Ring_Black_95: 8841429883841218368
+      SS_Ring_Black_96: -7594103341718159298
+      SS_Ring_Black_97: -3124865249107617271
+      SS_Ring_Black_98: -8671604659090461648
+      SS_Ring_Black_99: -746639854419352524
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

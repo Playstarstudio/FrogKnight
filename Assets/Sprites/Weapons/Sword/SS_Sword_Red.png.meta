@@ -1,0 +1,3250 @@
+fileFormatVersion: 2
+guid: f87a019549986b74e87cdd4d8b3c8753
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5860582586773418564
+    second: SS_Sword_Red_0
+  - first:
+      213: -6760309379000150334
+    second: SS_Sword_Red_1
+  - first:
+      213: -6342497237624984394
+    second: SS_Sword_Red_2
+  - first:
+      213: 1774484052167770400
+    second: SS_Sword_Red_3
+  - first:
+      213: -4643983346995763167
+    second: SS_Sword_Red_4
+  - first:
+      213: -2872780413914985531
+    second: SS_Sword_Red_5
+  - first:
+      213: -1776904118348371455
+    second: SS_Sword_Red_6
+  - first:
+      213: -3969084815991156002
+    second: SS_Sword_Red_7
+  - first:
+      213: -8556353684827988916
+    second: SS_Sword_Red_8
+  - first:
+      213: -1387444885714804216
+    second: SS_Sword_Red_9
+  - first:
+      213: -6636956791816436323
+    second: SS_Sword_Red_10
+  - first:
+      213: -1954585949316655291
+    second: SS_Sword_Red_11
+  - first:
+      213: -1996171047784269326
+    second: SS_Sword_Red_12
+  - first:
+      213: 3687710779631201940
+    second: SS_Sword_Red_13
+  - first:
+      213: 4614395603691929174
+    second: SS_Sword_Red_14
+  - first:
+      213: 8560299075316987532
+    second: SS_Sword_Red_15
+  - first:
+      213: -2883679247625157113
+    second: SS_Sword_Red_16
+  - first:
+      213: -3843519011334435623
+    second: SS_Sword_Red_17
+  - first:
+      213: 2372977643617810182
+    second: SS_Sword_Red_18
+  - first:
+      213: 1875538173795929168
+    second: SS_Sword_Red_19
+  - first:
+      213: 6659036152614635602
+    second: SS_Sword_Red_20
+  - first:
+      213: 1721019761724295785
+    second: SS_Sword_Red_21
+  - first:
+      213: 8707022929703191222
+    second: SS_Sword_Red_22
+  - first:
+      213: -757464298667425252
+    second: SS_Sword_Red_23
+  - first:
+      213: -8203857275093948326
+    second: SS_Sword_Red_24
+  - first:
+      213: -297300841535270595
+    second: SS_Sword_Red_25
+  - first:
+      213: 2423357512101647303
+    second: SS_Sword_Red_26
+  - first:
+      213: -8487592214510847390
+    second: SS_Sword_Red_27
+  - first:
+      213: -4369295750500583517
+    second: SS_Sword_Red_28
+  - first:
+      213: -5364939051091609395
+    second: SS_Sword_Red_29
+  - first:
+      213: -4256620096847132918
+    second: SS_Sword_Red_30
+  - first:
+      213: 8055759541926112459
+    second: SS_Sword_Red_31
+  - first:
+      213: -9008640437393068796
+    second: SS_Sword_Red_32
+  - first:
+      213: -3922937093377312113
+    second: SS_Sword_Red_33
+  - first:
+      213: 6332198495198943171
+    second: SS_Sword_Red_34
+  - first:
+      213: 6422459679034885739
+    second: SS_Sword_Red_35
+  - first:
+      213: -3469390200601323854
+    second: SS_Sword_Red_36
+  - first:
+      213: 3078207507015824292
+    second: SS_Sword_Red_37
+  - first:
+      213: 2670902218507850123
+    second: SS_Sword_Red_38
+  - first:
+      213: -4283232718291700373
+    second: SS_Sword_Red_39
+  - first:
+      213: 2583814771051995742
+    second: SS_Sword_Red_40
+  - first:
+      213: -3647267780118156972
+    second: SS_Sword_Red_41
+  - first:
+      213: 6547023174775300973
+    second: SS_Sword_Red_42
+  - first:
+      213: -5400413153806987232
+    second: SS_Sword_Red_43
+  - first:
+      213: 6812052168634667990
+    second: SS_Sword_Red_44
+  - first:
+      213: 6741607151755275298
+    second: SS_Sword_Red_45
+  - first:
+      213: -7763138810113809702
+    second: SS_Sword_Red_46
+  - first:
+      213: -3706358083785766540
+    second: SS_Sword_Red_47
+  - first:
+      213: -3861695913197675151
+    second: SS_Sword_Red_48
+  - first:
+      213: -4137640550016926871
+    second: SS_Sword_Red_49
+  - first:
+      213: -5932789369003634889
+    second: SS_Sword_Red_50
+  - first:
+      213: -2425204899795248519
+    second: SS_Sword_Red_51
+  - first:
+      213: -7577287044653812222
+    second: SS_Sword_Red_52
+  - first:
+      213: -4395696102994782672
+    second: SS_Sword_Red_53
+  - first:
+      213: 7718214955836648704
+    second: SS_Sword_Red_54
+  - first:
+      213: -8331518130740213190
+    second: SS_Sword_Red_55
+  - first:
+      213: -40518558771714662
+    second: SS_Sword_Red_56
+  - first:
+      213: 8087993394595313611
+    second: SS_Sword_Red_57
+  - first:
+      213: 5951750151621266345
+    second: SS_Sword_Red_58
+  - first:
+      213: 5006852923554470414
+    second: SS_Sword_Red_59
+  - first:
+      213: 8851110774485951647
+    second: SS_Sword_Red_60
+  - first:
+      213: 8941606457801685703
+    second: SS_Sword_Red_61
+  - first:
+      213: 6710191881501211286
+    second: SS_Sword_Red_62
+  - first:
+      213: -1581791195542633194
+    second: SS_Sword_Red_63
+  - first:
+      213: -6396848747969469837
+    second: SS_Sword_Red_64
+  - first:
+      213: 1236344636280427383
+    second: SS_Sword_Red_65
+  - first:
+      213: 3612252248195059385
+    second: SS_Sword_Red_66
+  - first:
+      213: 7885043542808529648
+    second: SS_Sword_Red_67
+  - first:
+      213: 8526724169233327274
+    second: SS_Sword_Red_68
+  - first:
+      213: -3498238548218859306
+    second: SS_Sword_Red_69
+  - first:
+      213: 1180764842964930857
+    second: SS_Sword_Red_70
+  - first:
+      213: -5637829752140515844
+    second: SS_Sword_Red_71
+  - first:
+      213: 7025257795314698223
+    second: SS_Sword_Red_72
+  - first:
+      213: 6069271615468987790
+    second: SS_Sword_Red_73
+  - first:
+      213: 5236044330506614889
+    second: SS_Sword_Red_74
+  - first:
+      213: -4443371777086323782
+    second: SS_Sword_Red_75
+  - first:
+      213: 7436489772490485743
+    second: SS_Sword_Red_76
+  - first:
+      213: 7700569455501302554
+    second: SS_Sword_Red_77
+  - first:
+      213: 4649180224595766299
+    second: SS_Sword_Red_78
+  - first:
+      213: -3649060604696040589
+    second: SS_Sword_Red_79
+  - first:
+      213: 2664259843198431733
+    second: SS_Sword_Red_80
+  - first:
+      213: -9148911444142317838
+    second: SS_Sword_Red_81
+  - first:
+      213: -1745876363129452961
+    second: SS_Sword_Red_82
+  - first:
+      213: -5020973349705673794
+    second: SS_Sword_Red_83
+  - first:
+      213: -9170125389678613645
+    second: SS_Sword_Red_84
+  - first:
+      213: 2060319322990017850
+    second: SS_Sword_Red_85
+  - first:
+      213: 805652531542843755
+    second: SS_Sword_Red_86
+  - first:
+      213: -25404462398804926
+    second: SS_Sword_Red_87
+  - first:
+      213: 2672940285064994922
+    second: SS_Sword_Red_88
+  - first:
+      213: -1323489260198623182
+    second: SS_Sword_Red_89
+  - first:
+      213: 6342503980955702861
+    second: SS_Sword_Red_90
+  - first:
+      213: -6000802936803521066
+    second: SS_Sword_Red_91
+  - first:
+      213: -7069099006488505794
+    second: SS_Sword_Red_92
+  - first:
+      213: 1789900918268291392
+    second: SS_Sword_Red_93
+  - first:
+      213: 7376089325978142078
+    second: SS_Sword_Red_94
+  - first:
+      213: -4057195750956620321
+    second: SS_Sword_Red_95
+  - first:
+      213: -356359714563729587
+    second: SS_Sword_Red_96
+  - first:
+      213: -1904976450658140089
+    second: SS_Sword_Red_97
+  - first:
+      213: 2882985745322595445
+    second: SS_Sword_Red_98
+  - first:
+      213: -8339433885322908126
+    second: SS_Sword_Red_99
+  - first:
+      213: -724276262938926136
+    second: SS_Sword_Red_100
+  - first:
+      213: -3635423487524729110
+    second: SS_Sword_Red_101
+  - first:
+      213: 7689742620661647759
+    second: SS_Sword_Red_102
+  - first:
+      213: 6763261448556924823
+    second: SS_Sword_Red_103
+  - first:
+      213: -5552749819566237652
+    second: SS_Sword_Red_104
+  - first:
+      213: -1582401333143482145
+    second: SS_Sword_Red_105
+  - first:
+      213: 3358956339555589855
+    second: SS_Sword_Red_106
+  - first:
+      213: 6709190489492766016
+    second: SS_Sword_Red_107
+  - first:
+      213: -3735476209048293477
+    second: SS_Sword_Red_108
+  - first:
+      213: 4806712840900942689
+    second: SS_Sword_Red_109
+  - first:
+      213: 8461004698456586107
+    second: SS_Sword_Red_110
+  - first:
+      213: 268688153389599558
+    second: SS_Sword_Red_111
+  - first:
+      213: 5246103213746158228
+    second: SS_Sword_Red_112
+  - first:
+      213: -4389007733630625633
+    second: SS_Sword_Red_113
+  - first:
+      213: 8384232945393319091
+    second: SS_Sword_Red_114
+  - first:
+      213: 5869665070321822159
+    second: SS_Sword_Red_115
+  - first:
+      213: -7834267058919747205
+    second: SS_Sword_Red_116
+  - first:
+      213: -7656252139440842996
+    second: SS_Sword_Red_117
+  - first:
+      213: -8049565179715687706
+    second: SS_Sword_Red_118
+  - first:
+      213: 6189650743691574727
+    second: SS_Sword_Red_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Sword_Red_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 321
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442387ddfc8f45150800000000000000
+      internalID: 5860582586773418564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 322
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c654fcff6e8e22a0800000000000000
+      internalID: -6760309379000150334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 321
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc677acd5ceaf7a0800000000000000
+      internalID: -6342497237624984394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 321
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0214e0508db30a810800000000000000
+      internalID: 1774484052167770400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128ec7330c14d8fb0800000000000000
+      internalID: -4643983346995763167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 321
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbc5e62f65d128d0800000000000000
+      internalID: -2872780413914985531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 322
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10aaae96e1b2757e0800000000000000
+      internalID: -1776904118348371455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 321
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed25373936afae8c0800000000000000
+      internalID: -3969084815991156002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 322
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c193b38a9b14980800000000000000
+      internalID: -8556353684827988916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 322
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80269893a3ecebce0800000000000000
+      internalID: -1387444885714804216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 322
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d954a2246fac4e3a0800000000000000
+      internalID: -6636956791816436323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547d2085f6aefd4e0800000000000000
+      internalID: -1954585949316655291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_12
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 290
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f936e9120d2c44e0800000000000000
+      internalID: -1996171047784269326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49eeb4e6a616d2330800000000000000
+      internalID: 3687710779631201940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_14
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 289
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65e7e2b7a50a90040800000000000000
+      internalID: 4614395603691929174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 289
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86bf5397aa4cc670800000000000000
+      internalID: 8560299075316987532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 289
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706032fa00d1bf7d0800000000000000
+      internalID: -2883679247625157113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 289
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc43f1b2d319aac0800000000000000
+      internalID: -3843519011334435623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 289
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60778c328928ee020800000000000000
+      internalID: 2372977643617810182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05c8ac33800470a10800000000000000
+      internalID: 1875538173795929168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25844178916a96c50800000000000000
+      internalID: 6659036152614635602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 289
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96a010dda5a42e710800000000000000
+      internalID: 1721019761724295785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 256
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2c328093f85d870800000000000000
+      internalID: 8707022929703191222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1243ebcb32fc75f0800000000000000
+      internalID: -757464298667425252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 257
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a586502364b062e80800000000000000
+      internalID: -8203857275093948326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 224
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d319dd4b576cfdbf0800000000000000
+      internalID: -297300841535270595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3d79851de71a120800000000000000
+      internalID: 2423357512101647303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 257
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ab5bf99d3063a80800000000000000
+      internalID: -8487592214510847390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 257
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7f9c81aa42d53c0800000000000000
+      internalID: -4369295750500583517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_29
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 224
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc830129b58eb85b0800000000000000
+      internalID: -5364939051091609395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 257
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0743af03927de4c0800000000000000
+      internalID: -4256620096847132918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_31
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 224
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc28744f9ecbcf60800000000000000
+      internalID: 8055759541926112459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d67f38041eaf280800000000000000
+      internalID: -9008640437393068796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_33
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 256
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8aba098f7dee89c0800000000000000
+      internalID: -3922937093377312113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_34
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 256
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c798916bfc70e750800000000000000
+      internalID: 6332198495198943171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66c429ec09212950800000000000000
+      internalID: 6422459679034885739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6dfe18eff3adfc0800000000000000
+      internalID: -3469390200601323854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 194
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a37e982b6df7ba20800000000000000
+      internalID: 3078207507015824292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_38
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8196fbaa63f01520800000000000000
+      internalID: 2670902218507850123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_39
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 192
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6574e74986ee84c0800000000000000
+      internalID: -4283232718291700373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_40
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 224
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5226f938dd8bd320800000000000000
+      internalID: 2583814771051995742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 224
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459645d274d426dc0800000000000000
+      internalID: -3647267780118156972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d636bbcc3e2bbda50800000000000000
+      internalID: 6547023174775300973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_43
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 224
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020dcf669d0ed05b0800000000000000
+      internalID: -5400413153806987232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d316e60b55498e50800000000000000
+      internalID: 6812052168634667990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c2b976cfffe8d50800000000000000
+      internalID: 6741607151755275298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_46
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad22e11126ac34490800000000000000
+      internalID: -7763138810113809702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4794d8db5fe509cc0800000000000000
+      internalID: -3706358083785766540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d564fe600886ac0800000000000000
+      internalID: -3861695913197675151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96b3df787d52496c0800000000000000
+      internalID: -4137640550016926871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 193
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f035d808f7aada0800000000000000
+      internalID: -5932789369003634889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 160
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97ada203ef0f75ed0800000000000000
+      internalID: -2425204899795248519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2067d3e349118d690800000000000000
+      internalID: -7577287044653812222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0365d680fa95ff2c0800000000000000
+      internalID: -4395696102994782672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00d20c60c9b9c1b60800000000000000
+      internalID: 7718214955836648704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3ac0810760806c80800000000000000
+      internalID: -8331518130740213190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_56
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95e991e59c007ff0800000000000000
+      internalID: -40518558771714662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc73f8ee3235e3070800000000000000
+      internalID: 8087993394595313611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab434baa3dd89250800000000000000
+      internalID: 5951750151621266345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a171fd43aeb7540800000000000000
+      internalID: 5006852923554470414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f942edcaa5675da70800000000000000
+      internalID: 8851110774485951647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_61
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 164
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cabb9ed2b7f61c70800000000000000
+      internalID: 8941606457801685703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_62
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 164
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69af69fc6f36f1d50800000000000000
+      internalID: 6710191881501211286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_63
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 161
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61547d0d9495c0ae0800000000000000
+      internalID: -1581791195542633194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_64
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 162
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372a067a4f3d937a0800000000000000
+      internalID: -6396848747969469837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_65
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 162
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773547175e0682110800000000000000
+      internalID: 1236344636280427383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_66
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 130
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bec5ccf74c412230800000000000000
+      internalID: 3612252248195059385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 129
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa079f435d4d6d60800000000000000
+      internalID: 7885043542808529648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_68
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 130
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4e3e49472055670800000000000000
+      internalID: 8526724169233327274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_69
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 130
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d036d92392c37fc0800000000000000
+      internalID: -3498238548218859306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_70
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 129
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921d1346e5be26010800000000000000
+      internalID: 1180764842964930857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_71
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 132
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5398ff5b762c1b0800000000000000
+      internalID: -5637829752140515844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_72
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 130
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7c6415ebabe7160800000000000000
+      internalID: 7025257795314698223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_73
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 130
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85e36db0626a3450800000000000000
+      internalID: 6069271615468987790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_74
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 131
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9687b0ca39a2aa840800000000000000
+      internalID: 5236044330506614889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_75
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 130
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab306c529e8f552c0800000000000000
+      internalID: -4443371777086323782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_76
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 130
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefee114c08b33760800000000000000
+      internalID: 7436489772490485743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_77
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 99
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bd063de1bedda60800000000000000
+      internalID: 7700569455501302554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_78
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 97
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c2dc728c4358040800000000000000
+      internalID: 4649180224595766299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_79
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 100
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b683da6beeb5dc0800000000000000
+      internalID: -3649060604696040589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_80
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f13e27263a59f420800000000000000
+      internalID: 2664259843198431733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_81
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 97
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe146ab389880180800000000000000
+      internalID: -9148911444142317838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_82
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 98
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f560be1a2b665c7e0800000000000000
+      internalID: -1745876363129452961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_83
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 98
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb31718375be15ab0800000000000000
+      internalID: -5020973349705673794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_84
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 100
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b6a622b8b2db080800000000000000
+      internalID: -9170125389678613645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_85
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 98
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d71ba1289b79c10800000000000000
+      internalID: 2060319322990017850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_86
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 98
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61610b75b04e2b00800000000000000
+      internalID: 805652531542843755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_87
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 97
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c620ba6ceb5aff0800000000000000
+      internalID: -25404462398804926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_88
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 67
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6061250701381520800000000000000
+      internalID: 2672940285064994922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_89
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 65
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23801dda78502ade0800000000000000
+      internalID: -1323489260198623182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_90
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 66
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d469d5344c9150850800000000000000
+      internalID: 6342503980955702861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_91
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 65
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd84b8c58dd8bca0800000000000000
+      internalID: -6000802936803521066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_92
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 66
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e329f2448e385ed90800000000000000
+      internalID: -7069099006488505794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_93
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 65
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049e680e66107d810800000000000000
+      internalID: 1789900918268291392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_94
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 66
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e754a7a69222d5660800000000000000
+      internalID: 7376089325978142078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_95
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 65
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5a100e5f1f1b7c0800000000000000
+      internalID: -4057195750956620321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_96
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d475b294ab4fd0bf0800000000000000
+      internalID: -356359714563729587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_97
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 65
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7408909d20a2095e0800000000000000
+      internalID: -1904976450658140089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_98
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 65
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 574d77ab24c620820800000000000000
+      internalID: 2882985745322595445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ee875c011644c80800000000000000
+      internalID: -8339433885322908126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 33
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c32744839ad2f5f0800000000000000
+      internalID: -724276262938926136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee0af179916c8dc0800000000000000
+      internalID: -3635423487524729110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8908b6eb2477ba60800000000000000
+      internalID: 7689742620661647759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f4454447eebdd50800000000000000
+      internalID: 6763261448556924823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_104
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 32
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28d326757ba0f2b0800000000000000
+      internalID: -5552749819566237652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_105
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 34
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0d0e51f5e2a0ae0800000000000000
+      internalID: -1582401333143482145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_106
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 33
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fded14b8ef86d9e20800000000000000
+      internalID: 3358956339555589855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_107
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 35
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d35a01435db1d50800000000000000
+      internalID: 6709190489492766016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fe0c4ed2ce82cc0800000000000000
+      internalID: -3735476209048293477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_109
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b953b9cdfd4b240800000000000000
+      internalID: 4806712840900942689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b777a66e1f68b6570800000000000000
+      internalID: 8461004698456586107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b8422b3729ab300800000000000000
+      internalID: 268688153389599558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49aff5ee317edc840800000000000000
+      internalID: 5246103213746158228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_113
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 0
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98118068bc1713c0800000000000000
+      internalID: -4389007733630625633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_114
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcbb483177ca5470800000000000000
+      internalID: 8384232945393319091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_115
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9ec0b584d357150800000000000000
+      internalID: 5869665070321822159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_116
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 0
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b715b8d1e97174390800000000000000
+      internalID: -7834267058919747205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07ddc56e378fb590800000000000000
+      internalID: -7656252139440842996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea61b21e133a4090800000000000000
+      internalID: -8049565179715687706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Sword_Red_119
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdf775ae8e06e550800000000000000
+      internalID: 6189650743691574727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Sword_Red_0: 5860582586773418564
+      SS_Sword_Red_1: -6760309379000150334
+      SS_Sword_Red_10: -6636956791816436323
+      SS_Sword_Red_100: -724276262938926136
+      SS_Sword_Red_101: -3635423487524729110
+      SS_Sword_Red_102: 7689742620661647759
+      SS_Sword_Red_103: 6763261448556924823
+      SS_Sword_Red_104: -5552749819566237652
+      SS_Sword_Red_105: -1582401333143482145
+      SS_Sword_Red_106: 3358956339555589855
+      SS_Sword_Red_107: 6709190489492766016
+      SS_Sword_Red_108: -3735476209048293477
+      SS_Sword_Red_109: 4806712840900942689
+      SS_Sword_Red_11: -1954585949316655291
+      SS_Sword_Red_110: 8461004698456586107
+      SS_Sword_Red_111: 268688153389599558
+      SS_Sword_Red_112: 5246103213746158228
+      SS_Sword_Red_113: -4389007733630625633
+      SS_Sword_Red_114: 8384232945393319091
+      SS_Sword_Red_115: 5869665070321822159
+      SS_Sword_Red_116: -7834267058919747205
+      SS_Sword_Red_117: -7656252139440842996
+      SS_Sword_Red_118: -8049565179715687706
+      SS_Sword_Red_119: 6189650743691574727
+      SS_Sword_Red_12: -1996171047784269326
+      SS_Sword_Red_13: 3687710779631201940
+      SS_Sword_Red_14: 4614395603691929174
+      SS_Sword_Red_15: 8560299075316987532
+      SS_Sword_Red_16: -2883679247625157113
+      SS_Sword_Red_17: -3843519011334435623
+      SS_Sword_Red_18: 2372977643617810182
+      SS_Sword_Red_19: 1875538173795929168
+      SS_Sword_Red_2: -6342497237624984394
+      SS_Sword_Red_20: 6659036152614635602
+      SS_Sword_Red_21: 1721019761724295785
+      SS_Sword_Red_22: 8707022929703191222
+      SS_Sword_Red_23: -757464298667425252
+      SS_Sword_Red_24: -8203857275093948326
+      SS_Sword_Red_25: -297300841535270595
+      SS_Sword_Red_26: 2423357512101647303
+      SS_Sword_Red_27: -8487592214510847390
+      SS_Sword_Red_28: -4369295750500583517
+      SS_Sword_Red_29: -5364939051091609395
+      SS_Sword_Red_3: 1774484052167770400
+      SS_Sword_Red_30: -4256620096847132918
+      SS_Sword_Red_31: 8055759541926112459
+      SS_Sword_Red_32: -9008640437393068796
+      SS_Sword_Red_33: -3922937093377312113
+      SS_Sword_Red_34: 6332198495198943171
+      SS_Sword_Red_35: 6422459679034885739
+      SS_Sword_Red_36: -3469390200601323854
+      SS_Sword_Red_37: 3078207507015824292
+      SS_Sword_Red_38: 2670902218507850123
+      SS_Sword_Red_39: -4283232718291700373
+      SS_Sword_Red_4: -4643983346995763167
+      SS_Sword_Red_40: 2583814771051995742
+      SS_Sword_Red_41: -3647267780118156972
+      SS_Sword_Red_42: 6547023174775300973
+      SS_Sword_Red_43: -5400413153806987232
+      SS_Sword_Red_44: 6812052168634667990
+      SS_Sword_Red_45: 6741607151755275298
+      SS_Sword_Red_46: -7763138810113809702
+      SS_Sword_Red_47: -3706358083785766540
+      SS_Sword_Red_48: -3861695913197675151
+      SS_Sword_Red_49: -4137640550016926871
+      SS_Sword_Red_5: -2872780413914985531
+      SS_Sword_Red_50: -5932789369003634889
+      SS_Sword_Red_51: -2425204899795248519
+      SS_Sword_Red_52: -7577287044653812222
+      SS_Sword_Red_53: -4395696102994782672
+      SS_Sword_Red_54: 7718214955836648704
+      SS_Sword_Red_55: -8331518130740213190
+      SS_Sword_Red_56: -40518558771714662
+      SS_Sword_Red_57: 8087993394595313611
+      SS_Sword_Red_58: 5951750151621266345
+      SS_Sword_Red_59: 5006852923554470414
+      SS_Sword_Red_6: -1776904118348371455
+      SS_Sword_Red_60: 8851110774485951647
+      SS_Sword_Red_61: 8941606457801685703
+      SS_Sword_Red_62: 6710191881501211286
+      SS_Sword_Red_63: -1581791195542633194
+      SS_Sword_Red_64: -6396848747969469837
+      SS_Sword_Red_65: 1236344636280427383
+      SS_Sword_Red_66: 3612252248195059385
+      SS_Sword_Red_67: 7885043542808529648
+      SS_Sword_Red_68: 8526724169233327274
+      SS_Sword_Red_69: -3498238548218859306
+      SS_Sword_Red_7: -3969084815991156002
+      SS_Sword_Red_70: 1180764842964930857
+      SS_Sword_Red_71: -5637829752140515844
+      SS_Sword_Red_72: 7025257795314698223
+      SS_Sword_Red_73: 6069271615468987790
+      SS_Sword_Red_74: 5236044330506614889
+      SS_Sword_Red_75: -4443371777086323782
+      SS_Sword_Red_76: 7436489772490485743
+      SS_Sword_Red_77: 7700569455501302554
+      SS_Sword_Red_78: 4649180224595766299
+      SS_Sword_Red_79: -3649060604696040589
+      SS_Sword_Red_8: -8556353684827988916
+      SS_Sword_Red_80: 2664259843198431733
+      SS_Sword_Red_81: -9148911444142317838
+      SS_Sword_Red_82: -1745876363129452961
+      SS_Sword_Red_83: -5020973349705673794
+      SS_Sword_Red_84: -9170125389678613645
+      SS_Sword_Red_85: 2060319322990017850
+      SS_Sword_Red_86: 805652531542843755
+      SS_Sword_Red_87: -25404462398804926
+      SS_Sword_Red_88: 2672940285064994922
+      SS_Sword_Red_89: -1323489260198623182
+      SS_Sword_Red_9: -1387444885714804216
+      SS_Sword_Red_90: 6342503980955702861
+      SS_Sword_Red_91: -6000802936803521066
+      SS_Sword_Red_92: -7069099006488505794
+      SS_Sword_Red_93: 1789900918268291392
+      SS_Sword_Red_94: 7376089325978142078
+      SS_Sword_Red_95: -4057195750956620321
+      SS_Sword_Red_96: -356359714563729587
+      SS_Sword_Red_97: -1904976450658140089
+      SS_Sword_Red_98: 2882985745322595445
+      SS_Sword_Red_99: -8339433885322908126
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

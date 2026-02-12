@@ -1,0 +1,3250 @@
+fileFormatVersion: 2
+guid: 6ee5946cc7fab7347804158f615f0e69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2132436349358936268
+    second: SS_Spear_Black_0
+  - first:
+      213: -3127665593134566189
+    second: SS_Spear_Black_1
+  - first:
+      213: -722604246457397403
+    second: SS_Spear_Black_2
+  - first:
+      213: 1741629256780333665
+    second: SS_Spear_Black_3
+  - first:
+      213: 434435699793240569
+    second: SS_Spear_Black_4
+  - first:
+      213: -143900253863938212
+    second: SS_Spear_Black_5
+  - first:
+      213: 1096357876467421476
+    second: SS_Spear_Black_6
+  - first:
+      213: -213331004222988647
+    second: SS_Spear_Black_7
+  - first:
+      213: -1183019288025824767
+    second: SS_Spear_Black_8
+  - first:
+      213: 5625852722881398342
+    second: SS_Spear_Black_9
+  - first:
+      213: -5196291152637992414
+    second: SS_Spear_Black_10
+  - first:
+      213: -5117491005611177488
+    second: SS_Spear_Black_11
+  - first:
+      213: 7049848765896184986
+    second: SS_Spear_Black_12
+  - first:
+      213: -316505033697700222
+    second: SS_Spear_Black_13
+  - first:
+      213: -8440352673781535987
+    second: SS_Spear_Black_14
+  - first:
+      213: -8007323226577505344
+    second: SS_Spear_Black_15
+  - first:
+      213: 8597029685891692693
+    second: SS_Spear_Black_16
+  - first:
+      213: -1747995914842948324
+    second: SS_Spear_Black_17
+  - first:
+      213: -7186965493085635764
+    second: SS_Spear_Black_18
+  - first:
+      213: 6766463099373835597
+    second: SS_Spear_Black_19
+  - first:
+      213: 6554361471239401418
+    second: SS_Spear_Black_20
+  - first:
+      213: -1503628229897496597
+    second: SS_Spear_Black_21
+  - first:
+      213: -792270538641748236
+    second: SS_Spear_Black_22
+  - first:
+      213: -3613891010006151134
+    second: SS_Spear_Black_23
+  - first:
+      213: 207797433821455331
+    second: SS_Spear_Black_24
+  - first:
+      213: 5525006624931863320
+    second: SS_Spear_Black_25
+  - first:
+      213: -1824848115447908635
+    second: SS_Spear_Black_26
+  - first:
+      213: -5678452205360557010
+    second: SS_Spear_Black_27
+  - first:
+      213: 9184248435588394895
+    second: SS_Spear_Black_28
+  - first:
+      213: -7905631976662170754
+    second: SS_Spear_Black_29
+  - first:
+      213: 4981327352664113356
+    second: SS_Spear_Black_30
+  - first:
+      213: -3531849135940912999
+    second: SS_Spear_Black_31
+  - first:
+      213: -7903766396757436872
+    second: SS_Spear_Black_32
+  - first:
+      213: 136986112573555498
+    second: SS_Spear_Black_33
+  - first:
+      213: -2701067032267973130
+    second: SS_Spear_Black_34
+  - first:
+      213: -7923528039347401985
+    second: SS_Spear_Black_35
+  - first:
+      213: -3122862303755250396
+    second: SS_Spear_Black_36
+  - first:
+      213: 8882587355602636715
+    second: SS_Spear_Black_37
+  - first:
+      213: 8903916156234187460
+    second: SS_Spear_Black_38
+  - first:
+      213: 8553994700319082197
+    second: SS_Spear_Black_39
+  - first:
+      213: -3059562778734598861
+    second: SS_Spear_Black_40
+  - first:
+      213: 5974159470586505725
+    second: SS_Spear_Black_41
+  - first:
+      213: -393939525224252751
+    second: SS_Spear_Black_42
+  - first:
+      213: 5591135189330894416
+    second: SS_Spear_Black_43
+  - first:
+      213: 3469955110448157900
+    second: SS_Spear_Black_44
+  - first:
+      213: 4671639361376220506
+    second: SS_Spear_Black_45
+  - first:
+      213: -372328606079142746
+    second: SS_Spear_Black_46
+  - first:
+      213: -5841321716411229226
+    second: SS_Spear_Black_47
+  - first:
+      213: 5542926622725325637
+    second: SS_Spear_Black_48
+  - first:
+      213: 7749549647598405877
+    second: SS_Spear_Black_49
+  - first:
+      213: -7782369094472224259
+    second: SS_Spear_Black_50
+  - first:
+      213: 3280908749339746149
+    second: SS_Spear_Black_51
+  - first:
+      213: 8192002599218975716
+    second: SS_Spear_Black_52
+  - first:
+      213: 4874783185152417132
+    second: SS_Spear_Black_53
+  - first:
+      213: -3088357387980872743
+    second: SS_Spear_Black_54
+  - first:
+      213: -8161007076213851645
+    second: SS_Spear_Black_55
+  - first:
+      213: -4484975528618039528
+    second: SS_Spear_Black_56
+  - first:
+      213: 7455008132423867392
+    second: SS_Spear_Black_57
+  - first:
+      213: -8980026341708061215
+    second: SS_Spear_Black_58
+  - first:
+      213: 1895303122164564613
+    second: SS_Spear_Black_59
+  - first:
+      213: -1328828309760207466
+    second: SS_Spear_Black_60
+  - first:
+      213: -6093328575708352568
+    second: SS_Spear_Black_61
+  - first:
+      213: 6904594024484588974
+    second: SS_Spear_Black_62
+  - first:
+      213: 4417501846807686198
+    second: SS_Spear_Black_63
+  - first:
+      213: -4644665625434136080
+    second: SS_Spear_Black_64
+  - first:
+      213: 3520811533421713993
+    second: SS_Spear_Black_65
+  - first:
+      213: -2495190807855271950
+    second: SS_Spear_Black_66
+  - first:
+      213: 2080850998871356660
+    second: SS_Spear_Black_67
+  - first:
+      213: -6783900231099371416
+    second: SS_Spear_Black_68
+  - first:
+      213: 3877111063585314054
+    second: SS_Spear_Black_69
+  - first:
+      213: 3573149397059225784
+    second: SS_Spear_Black_70
+  - first:
+      213: -1890842705895701856
+    second: SS_Spear_Black_71
+  - first:
+      213: -7123977298062020132
+    second: SS_Spear_Black_72
+  - first:
+      213: -8492620423486762845
+    second: SS_Spear_Black_73
+  - first:
+      213: -652989102900663002
+    second: SS_Spear_Black_74
+  - first:
+      213: 4995981605083933610
+    second: SS_Spear_Black_75
+  - first:
+      213: -7008069162871166825
+    second: SS_Spear_Black_76
+  - first:
+      213: 6167448786286960139
+    second: SS_Spear_Black_77
+  - first:
+      213: -1535318552308456722
+    second: SS_Spear_Black_78
+  - first:
+      213: 6998559245444876338
+    second: SS_Spear_Black_79
+  - first:
+      213: 2846526463688565784
+    second: SS_Spear_Black_80
+  - first:
+      213: -6200148435820894853
+    second: SS_Spear_Black_81
+  - first:
+      213: 7828323134561002891
+    second: SS_Spear_Black_82
+  - first:
+      213: 5078601318655224831
+    second: SS_Spear_Black_83
+  - first:
+      213: -4931902124797954521
+    second: SS_Spear_Black_84
+  - first:
+      213: 2019666475427494797
+    second: SS_Spear_Black_85
+  - first:
+      213: 3408581914569744376
+    second: SS_Spear_Black_86
+  - first:
+      213: 6400615425713202207
+    second: SS_Spear_Black_87
+  - first:
+      213: -7013055538263219061
+    second: SS_Spear_Black_88
+  - first:
+      213: -6532145510841372239
+    second: SS_Spear_Black_89
+  - first:
+      213: 9144406830576931808
+    second: SS_Spear_Black_90
+  - first:
+      213: 5086046234954767554
+    second: SS_Spear_Black_91
+  - first:
+      213: -2565772331286394497
+    second: SS_Spear_Black_92
+  - first:
+      213: 1619643000432535811
+    second: SS_Spear_Black_93
+  - first:
+      213: 3968515690984801393
+    second: SS_Spear_Black_94
+  - first:
+      213: -4520721399418226321
+    second: SS_Spear_Black_95
+  - first:
+      213: 6726479262364838877
+    second: SS_Spear_Black_96
+  - first:
+      213: -6193816615312453937
+    second: SS_Spear_Black_97
+  - first:
+      213: 1949600393406007788
+    second: SS_Spear_Black_98
+  - first:
+      213: -5252602781490695822
+    second: SS_Spear_Black_99
+  - first:
+      213: -6740097544788617484
+    second: SS_Spear_Black_100
+  - first:
+      213: -4188796854648364271
+    second: SS_Spear_Black_101
+  - first:
+      213: -8103367432556376793
+    second: SS_Spear_Black_102
+  - first:
+      213: -4273231847581575302
+    second: SS_Spear_Black_103
+  - first:
+      213: 5804827081735328357
+    second: SS_Spear_Black_104
+  - first:
+      213: 5522212354955703397
+    second: SS_Spear_Black_105
+  - first:
+      213: 2283081050277519013
+    second: SS_Spear_Black_106
+  - first:
+      213: 365191404034016555
+    second: SS_Spear_Black_107
+  - first:
+      213: -178934773527093153
+    second: SS_Spear_Black_108
+  - first:
+      213: -5892377927290541200
+    second: SS_Spear_Black_109
+  - first:
+      213: 4702752236025907583
+    second: SS_Spear_Black_110
+  - first:
+      213: -767817174854724931
+    second: SS_Spear_Black_111
+  - first:
+      213: 6118292921710507415
+    second: SS_Spear_Black_112
+  - first:
+      213: -1331641630568840966
+    second: SS_Spear_Black_113
+  - first:
+      213: 6184599407757964565
+    second: SS_Spear_Black_114
+  - first:
+      213: 5014384781640680566
+    second: SS_Spear_Black_115
+  - first:
+      213: -2786161216855321805
+    second: SS_Spear_Black_116
+  - first:
+      213: -3625560601671496226
+    second: SS_Spear_Black_117
+  - first:
+      213: 3918640328119150125
+    second: SS_Spear_Black_118
+  - first:
+      213: 5143956831249967782
+    second: SS_Spear_Black_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Spear_Black_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 322
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f645a30701862e0800000000000000
+      internalID: -2132436349358936268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 323
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4b001d6bc4894d0800000000000000
+      internalID: -3127665593134566189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 323
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fc7b0344bc8f5f0800000000000000
+      internalID: -722604246457397403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 322
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162c1dcd4928b2810800000000000000
+      internalID: 1741629256780333665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 322
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1aceb97fc670600800000000000000
+      internalID: 434435699793240569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 321
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57f9554b73c00ef0800000000000000
+      internalID: -143900253863938212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 321
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421da8d0eab073f00800000000000000
+      internalID: 1096357876467421476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 322
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e16b9f4981a0df0800000000000000
+      internalID: -213331004222988647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 320
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10209c6b932159fe0800000000000000
+      internalID: -1183019288025824767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 321
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64682029e3b031e40800000000000000
+      internalID: 5625852722881398342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 323
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222e1815ab013e7b0800000000000000
+      internalID: -5196291152637992414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 291
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f90a454b050bf8b0800000000000000
+      internalID: -5117491005611177488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 290
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94d773d91816d160800000000000000
+      internalID: 7049848765896184986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 290
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28653d8495c8b9bf0800000000000000
+      internalID: -316505033697700222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 290
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bab3c46f7ddda80800000000000000
+      internalID: -8440352673781535987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 290
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3fc1633f540e090800000000000000
+      internalID: -8007323226577505344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 289
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598ff0743f8ce4770800000000000000
+      internalID: 8597029685891692693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 289
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1db3fa0afeddb7e0800000000000000
+      internalID: -1747995914842948324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_18
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 290
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bf3a356f4c24c90800000000000000
+      internalID: -7186965493085635764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 289
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4557ffa65e47ed50800000000000000
+      internalID: 6766463099373835597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_20
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 289
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf2bb61805c5fa50800000000000000
+      internalID: 6554361471239401418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 289
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7d5ba671a022be0800000000000000
+      internalID: -1503628229897496597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fe404a842a4105f0800000000000000
+      internalID: -792270538641748236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 258
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2201b9b0641e8ddc0800000000000000
+      internalID: -3613891010006151134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 258
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e36a244aae32e200800000000000000
+      internalID: 207797433821455331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 258
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b5ebca044ccac40800000000000000
+      internalID: 5525006624931863320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 257
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6bfa5be46dca6e0800000000000000
+      internalID: -1824848115447908635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2453711ec51231b0800000000000000
+      internalID: -5678452205360557010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8fee2cba41057f70800000000000000
+      internalID: 9184248435588394895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_29
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 256
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7305126a9d894290800000000000000
+      internalID: -7905631976662170754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc04b75c5da312540800000000000000
+      internalID: 4981327352664113356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998b8f36ce95cfec0800000000000000
+      internalID: -3531849135940912999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8369a9d865e205290800000000000000
+      internalID: -7903766396757436872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23cb13c42ca6e100800000000000000
+      internalID: 136986112573555498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd162358d1e38ad0800000000000000
+      internalID: -2701067032267973130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_35
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 227
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffac9d69a39f90290800000000000000
+      internalID: -7923528039347401985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 225
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425d536c74d59a4d0800000000000000
+      internalID: -3122862303755250396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 225
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf4211532a454b70800000000000000
+      internalID: 8882587355602636715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_38
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 225
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c24332b190119b70800000000000000
+      internalID: 8903916156234187460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6c713ebd4e5b670800000000000000
+      internalID: 8553994700319082197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_40
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 225
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335648decdf3a85d0800000000000000
+      internalID: -3059562778734598861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_41
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 226
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df928d3d26a78e250800000000000000
+      internalID: 5974159470586505725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_42
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 224
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bab508c612788af0800000000000000
+      internalID: -393939525224252751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_43
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e1143e4d3b79d40800000000000000
+      internalID: 5591135189330894416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc450d0d9c1c72030800000000000000
+      internalID: 3469955110448157900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_45
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 192
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55ff8d6f3ff4d040800000000000000
+      internalID: 4671639361376220506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 193
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4bfeefa1935daf0800000000000000
+      internalID: -372328606079142746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_47
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 192
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6db988af8d47feea0800000000000000
+      internalID: -5841321716411229226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543499b456e6cec40800000000000000
+      internalID: 5542926622725325637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_49
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 193
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f84b5a785eeb8b60800000000000000
+      internalID: 7749549647598405877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 193
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df131059a887ff390800000000000000
+      internalID: -7782369094472224259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 193
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56fddd0ef11288d20800000000000000
+      internalID: 3280908749339746149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3168df5f6dfa170800000000000000
+      internalID: 8192002599218975716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_53
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d9e0caa75b6a340800000000000000
+      internalID: 4874783185152417132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_54
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 192
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d362f58153f325d0800000000000000
+      internalID: -3088357387980872743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30af2d49d474ebe80800000000000000
+      internalID: -8161007076213851645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817e666e48a22c1c0800000000000000
+      internalID: -4484975528618039528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cd5cae562857760800000000000000
+      internalID: 7455008132423867392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e527d4de99806380800000000000000
+      internalID: -8980026341708061215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_59
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 160
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582ce4ad5287d4a10800000000000000
+      internalID: 1895303122164564613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695924551bd0f8de0800000000000000
+      internalID: -1328828309760207466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfaa29b1f5207ba0800000000000000
+      internalID: -6093328575708352568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_62
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 160
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead40b3eeab02df50800000000000000
+      internalID: 6904594024484588974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_63
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 160
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63caa95568e1e4d30800000000000000
+      internalID: 4417501846807686198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_64
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 160
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1e78fd835da8fb0800000000000000
+      internalID: -4644665625434136080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_65
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 160
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a13b28f6f6cd030800000000000000
+      internalID: 3520811533421713993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff67fa2e2d4f5dd0800000000000000
+      internalID: -2495190807855271950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_67
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 129
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f47e3a65faa0ec10800000000000000
+      internalID: 2080850998871356660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_68
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 128
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860b1a5beaebad1a0800000000000000
+      internalID: -6783900231099371416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_69
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 130
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6055db378f34ec530800000000000000
+      internalID: 3877111063585314054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_70
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 128
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8cd1df170669130800000000000000
+      internalID: 3573149397059225784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 129
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a2c2fcb39062c5e0800000000000000
+      internalID: -1890842705895701856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1f011546c822d90800000000000000
+      internalID: -7123977298062020132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_73
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 131
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a018dd78b6242a80800000000000000
+      internalID: -8492620423486762845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_74
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 129
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62da76fdedd10f6f0800000000000000
+      internalID: -652989102900663002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_75
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 129
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabe96bccca455540800000000000000
+      internalID: 4995981605083933610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_76
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 798e1b90a365ebe90800000000000000
+      internalID: -7008069162871166825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e5c0d9efd279550800000000000000
+      internalID: 6167448786286960139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_78
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 97
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2669049e371bae0800000000000000
+      internalID: -1535318552308456722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2388444cd80ef1160800000000000000
+      internalID: 6998559245444876338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_80
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 96
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814e7e7bcb4e08720800000000000000
+      internalID: 2846526463688565784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75a330f8d5a4f9a0800000000000000
+      internalID: -6200148435820894853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b852b762a6ac3ac60800000000000000
+      internalID: 7828323134561002891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb6642edf0da7640800000000000000
+      internalID: 5078601318655224831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_84
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7267c68d52d5e8bb0800000000000000
+      internalID: -4931902124797954521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_85
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bfe9075fb470c10800000000000000
+      internalID: 2019666475427494797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_86
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 64
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff10cd1137bd4f20800000000000000
+      internalID: 3408581914569744376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_87
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14658951dd83d850800000000000000
+      internalID: 6400615425713202207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_88
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b842cbb052f9cae90800000000000000
+      internalID: -7013055538263219061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1332544482955a0800000000000000
+      internalID: -6532145510841372239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e39132309577ee70800000000000000
+      internalID: 9144406830576931808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_91
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 64
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc11b98a14459640800000000000000
+      internalID: 5086046234954767554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f790623a8ab846cd0800000000000000
+      internalID: -2565772331286394497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_93
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 65
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309aab74ab02a7610800000000000000
+      internalID: 1619643000432535811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_94
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17486beaefff21730800000000000000
+      internalID: 3968515690984801393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_95
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 64
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f697b2bc6db2341c0800000000000000
+      internalID: -4520721399418226321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_96
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddba94e2041495d50800000000000000
+      internalID: 6726479262364838877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_97
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce8368ca942b0aa0800000000000000
+      internalID: -6193816615312453937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_98
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 64
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce94de67a3f5e0b10800000000000000
+      internalID: 1949600393406007788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271b40789910b17b0800000000000000
+      internalID: -5252602781490695822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_100
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6546b5efc5672a0800000000000000
+      internalID: -6740097544788617484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 113296234776ed5c0800000000000000
+      internalID: -4188796854648364271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_102
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 32
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d020ae04e0b8f80800000000000000
+      internalID: -8103367432556376793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a779302764e62b4c0800000000000000
+      internalID: -4273231847581575302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_104
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562d66db973ee8050800000000000000
+      internalID: 5804827081735328357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 33
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564786ff0e6d2ac40800000000000000
+      internalID: 5522212354955703397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_106
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 32
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae97337e122faf10800000000000000
+      internalID: 2283081050277519013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_107
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b254978a5ab611500800000000000000
+      internalID: 365191404034016555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50e3f185cb448df0800000000000000
+      internalID: -178934773527093153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_109
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 32
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bae798e711a3ea0800000000000000
+      internalID: -5892377927290541200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f798ffe0e38834140800000000000000
+      internalID: 4702752236025907583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db21758f85a2855f0800000000000000
+      internalID: -767817174854724931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79577560ffa88e450800000000000000
+      internalID: 6118292921710507415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_113
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af082d90efe058de0800000000000000
+      internalID: -1331641630568840966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5153189d46c14d550800000000000000
+      internalID: 6184599407757964565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_115
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67441dc346ca69540800000000000000
+      internalID: 5014384781640680566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3335e5e82219559d0800000000000000
+      internalID: -2786161216855321805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_117
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd08b187db6fadc0800000000000000
+      internalID: -3625560601671496226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26ef08dd9ec16630800000000000000
+      internalID: 3918640328119150125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Black_119
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa2992fb71036740800000000000000
+      internalID: 5143956831249967782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Spear_Black_0: -2132436349358936268
+      SS_Spear_Black_1: -3127665593134566189
+      SS_Spear_Black_10: -5196291152637992414
+      SS_Spear_Black_100: -6740097544788617484
+      SS_Spear_Black_101: -4188796854648364271
+      SS_Spear_Black_102: -8103367432556376793
+      SS_Spear_Black_103: -4273231847581575302
+      SS_Spear_Black_104: 5804827081735328357
+      SS_Spear_Black_105: 5522212354955703397
+      SS_Spear_Black_106: 2283081050277519013
+      SS_Spear_Black_107: 365191404034016555
+      SS_Spear_Black_108: -178934773527093153
+      SS_Spear_Black_109: -5892377927290541200
+      SS_Spear_Black_11: -5117491005611177488
+      SS_Spear_Black_110: 4702752236025907583
+      SS_Spear_Black_111: -767817174854724931
+      SS_Spear_Black_112: 6118292921710507415
+      SS_Spear_Black_113: -1331641630568840966
+      SS_Spear_Black_114: 6184599407757964565
+      SS_Spear_Black_115: 5014384781640680566
+      SS_Spear_Black_116: -2786161216855321805
+      SS_Spear_Black_117: -3625560601671496226
+      SS_Spear_Black_118: 3918640328119150125
+      SS_Spear_Black_119: 5143956831249967782
+      SS_Spear_Black_12: 7049848765896184986
+      SS_Spear_Black_13: -316505033697700222
+      SS_Spear_Black_14: -8440352673781535987
+      SS_Spear_Black_15: -8007323226577505344
+      SS_Spear_Black_16: 8597029685891692693
+      SS_Spear_Black_17: -1747995914842948324
+      SS_Spear_Black_18: -7186965493085635764
+      SS_Spear_Black_19: 6766463099373835597
+      SS_Spear_Black_2: -722604246457397403
+      SS_Spear_Black_20: 6554361471239401418
+      SS_Spear_Black_21: -1503628229897496597
+      SS_Spear_Black_22: -792270538641748236
+      SS_Spear_Black_23: -3613891010006151134
+      SS_Spear_Black_24: 207797433821455331
+      SS_Spear_Black_25: 5525006624931863320
+      SS_Spear_Black_26: -1824848115447908635
+      SS_Spear_Black_27: -5678452205360557010
+      SS_Spear_Black_28: 9184248435588394895
+      SS_Spear_Black_29: -7905631976662170754
+      SS_Spear_Black_3: 1741629256780333665
+      SS_Spear_Black_30: 4981327352664113356
+      SS_Spear_Black_31: -3531849135940912999
+      SS_Spear_Black_32: -7903766396757436872
+      SS_Spear_Black_33: 136986112573555498
+      SS_Spear_Black_34: -2701067032267973130
+      SS_Spear_Black_35: -7923528039347401985
+      SS_Spear_Black_36: -3122862303755250396
+      SS_Spear_Black_37: 8882587355602636715
+      SS_Spear_Black_38: 8903916156234187460
+      SS_Spear_Black_39: 8553994700319082197
+      SS_Spear_Black_4: 434435699793240569
+      SS_Spear_Black_40: -3059562778734598861
+      SS_Spear_Black_41: 5974159470586505725
+      SS_Spear_Black_42: -393939525224252751
+      SS_Spear_Black_43: 5591135189330894416
+      SS_Spear_Black_44: 3469955110448157900
+      SS_Spear_Black_45: 4671639361376220506
+      SS_Spear_Black_46: -372328606079142746
+      SS_Spear_Black_47: -5841321716411229226
+      SS_Spear_Black_48: 5542926622725325637
+      SS_Spear_Black_49: 7749549647598405877
+      SS_Spear_Black_5: -143900253863938212
+      SS_Spear_Black_50: -7782369094472224259
+      SS_Spear_Black_51: 3280908749339746149
+      SS_Spear_Black_52: 8192002599218975716
+      SS_Spear_Black_53: 4874783185152417132
+      SS_Spear_Black_54: -3088357387980872743
+      SS_Spear_Black_55: -8161007076213851645
+      SS_Spear_Black_56: -4484975528618039528
+      SS_Spear_Black_57: 7455008132423867392
+      SS_Spear_Black_58: -8980026341708061215
+      SS_Spear_Black_59: 1895303122164564613
+      SS_Spear_Black_6: 1096357876467421476
+      SS_Spear_Black_60: -1328828309760207466
+      SS_Spear_Black_61: -6093328575708352568
+      SS_Spear_Black_62: 6904594024484588974
+      SS_Spear_Black_63: 4417501846807686198
+      SS_Spear_Black_64: -4644665625434136080
+      SS_Spear_Black_65: 3520811533421713993
+      SS_Spear_Black_66: -2495190807855271950
+      SS_Spear_Black_67: 2080850998871356660
+      SS_Spear_Black_68: -6783900231099371416
+      SS_Spear_Black_69: 3877111063585314054
+      SS_Spear_Black_7: -213331004222988647
+      SS_Spear_Black_70: 3573149397059225784
+      SS_Spear_Black_71: -1890842705895701856
+      SS_Spear_Black_72: -7123977298062020132
+      SS_Spear_Black_73: -8492620423486762845
+      SS_Spear_Black_74: -652989102900663002
+      SS_Spear_Black_75: 4995981605083933610
+      SS_Spear_Black_76: -7008069162871166825
+      SS_Spear_Black_77: 6167448786286960139
+      SS_Spear_Black_78: -1535318552308456722
+      SS_Spear_Black_79: 6998559245444876338
+      SS_Spear_Black_8: -1183019288025824767
+      SS_Spear_Black_80: 2846526463688565784
+      SS_Spear_Black_81: -6200148435820894853
+      SS_Spear_Black_82: 7828323134561002891
+      SS_Spear_Black_83: 5078601318655224831
+      SS_Spear_Black_84: -4931902124797954521
+      SS_Spear_Black_85: 2019666475427494797
+      SS_Spear_Black_86: 3408581914569744376
+      SS_Spear_Black_87: 6400615425713202207
+      SS_Spear_Black_88: -7013055538263219061
+      SS_Spear_Black_89: -6532145510841372239
+      SS_Spear_Black_9: 5625852722881398342
+      SS_Spear_Black_90: 9144406830576931808
+      SS_Spear_Black_91: 5086046234954767554
+      SS_Spear_Black_92: -2565772331286394497
+      SS_Spear_Black_93: 1619643000432535811
+      SS_Spear_Black_94: 3968515690984801393
+      SS_Spear_Black_95: -4520721399418226321
+      SS_Spear_Black_96: 6726479262364838877
+      SS_Spear_Black_97: -6193816615312453937
+      SS_Spear_Black_98: 1949600393406007788
+      SS_Spear_Black_99: -5252602781490695822
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

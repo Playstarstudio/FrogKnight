@@ -1,0 +1,3250 @@
+fileFormatVersion: 2
+guid: aa96d98112930444aab9181af8008c0a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9194546248301964790
+    second: SS_Spear_Green_0
+  - first:
+      213: 7712273055342701901
+    second: SS_Spear_Green_1
+  - first:
+      213: 7923049565617104714
+    second: SS_Spear_Green_2
+  - first:
+      213: -205629222531000572
+    second: SS_Spear_Green_3
+  - first:
+      213: 973432361022848514
+    second: SS_Spear_Green_4
+  - first:
+      213: -6721298420560517769
+    second: SS_Spear_Green_5
+  - first:
+      213: -3482671937698876563
+    second: SS_Spear_Green_6
+  - first:
+      213: -1284440038686898558
+    second: SS_Spear_Green_7
+  - first:
+      213: -8408255594869904401
+    second: SS_Spear_Green_8
+  - first:
+      213: 244144770776819041
+    second: SS_Spear_Green_9
+  - first:
+      213: 2467426130931515359
+    second: SS_Spear_Green_10
+  - first:
+      213: 915029894460583956
+    second: SS_Spear_Green_11
+  - first:
+      213: -8623486234925139687
+    second: SS_Spear_Green_12
+  - first:
+      213: 3575267967144744799
+    second: SS_Spear_Green_13
+  - first:
+      213: 891885835750774400
+    second: SS_Spear_Green_14
+  - first:
+      213: -709950430343129695
+    second: SS_Spear_Green_15
+  - first:
+      213: 4620177311827746340
+    second: SS_Spear_Green_16
+  - first:
+      213: 7405416787597225396
+    second: SS_Spear_Green_17
+  - first:
+      213: 316200957175253243
+    second: SS_Spear_Green_18
+  - first:
+      213: -1210343910028994103
+    second: SS_Spear_Green_19
+  - first:
+      213: 2948413269412823506
+    second: SS_Spear_Green_20
+  - first:
+      213: 7998989759440991405
+    second: SS_Spear_Green_21
+  - first:
+      213: -6172927148461649079
+    second: SS_Spear_Green_22
+  - first:
+      213: 754251132354890977
+    second: SS_Spear_Green_23
+  - first:
+      213: -2611253422578022990
+    second: SS_Spear_Green_24
+  - first:
+      213: 2940601239799518679
+    second: SS_Spear_Green_25
+  - first:
+      213: -7365292679542235510
+    second: SS_Spear_Green_26
+  - first:
+      213: 9119386817291011602
+    second: SS_Spear_Green_27
+  - first:
+      213: 5616641427866650400
+    second: SS_Spear_Green_28
+  - first:
+      213: -3620534849101892278
+    second: SS_Spear_Green_29
+  - first:
+      213: 5641327370631092076
+    second: SS_Spear_Green_30
+  - first:
+      213: -4639202235818284262
+    second: SS_Spear_Green_31
+  - first:
+      213: -5316455402833694201
+    second: SS_Spear_Green_32
+  - first:
+      213: 1568283541668299927
+    second: SS_Spear_Green_33
+  - first:
+      213: -8596968042282022450
+    second: SS_Spear_Green_34
+  - first:
+      213: 6154568649070511359
+    second: SS_Spear_Green_35
+  - first:
+      213: 8636849151547136192
+    second: SS_Spear_Green_36
+  - first:
+      213: -3378726649154271010
+    second: SS_Spear_Green_37
+  - first:
+      213: -6082886698808017709
+    second: SS_Spear_Green_38
+  - first:
+      213: 6285717953373494946
+    second: SS_Spear_Green_39
+  - first:
+      213: 4994673730124918982
+    second: SS_Spear_Green_40
+  - first:
+      213: -7708381228521642286
+    second: SS_Spear_Green_41
+  - first:
+      213: 4653857361235291704
+    second: SS_Spear_Green_42
+  - first:
+      213: -1204976388410169512
+    second: SS_Spear_Green_43
+  - first:
+      213: -4680831609701782687
+    second: SS_Spear_Green_44
+  - first:
+      213: 3501821871867502262
+    second: SS_Spear_Green_45
+  - first:
+      213: 6011796253062889381
+    second: SS_Spear_Green_46
+  - first:
+      213: -4503054573426341424
+    second: SS_Spear_Green_47
+  - first:
+      213: 8846159907161927420
+    second: SS_Spear_Green_48
+  - first:
+      213: 7772273751990636325
+    second: SS_Spear_Green_49
+  - first:
+      213: 5914803375714770968
+    second: SS_Spear_Green_50
+  - first:
+      213: 6485255082645327743
+    second: SS_Spear_Green_51
+  - first:
+      213: -1048692667796753
+    second: SS_Spear_Green_52
+  - first:
+      213: 8502286963908709654
+    second: SS_Spear_Green_53
+  - first:
+      213: -6036171677188833929
+    second: SS_Spear_Green_54
+  - first:
+      213: 46223783633783060
+    second: SS_Spear_Green_55
+  - first:
+      213: 5600590236527501076
+    second: SS_Spear_Green_56
+  - first:
+      213: -4839848038649894698
+    second: SS_Spear_Green_57
+  - first:
+      213: 3084315516237687463
+    second: SS_Spear_Green_58
+  - first:
+      213: -4678576107874914468
+    second: SS_Spear_Green_59
+  - first:
+      213: 4116101490817385440
+    second: SS_Spear_Green_60
+  - first:
+      213: -4380664624076981560
+    second: SS_Spear_Green_61
+  - first:
+      213: -7538002539502476325
+    second: SS_Spear_Green_62
+  - first:
+      213: -7299176106458152784
+    second: SS_Spear_Green_63
+  - first:
+      213: -254235709770493619
+    second: SS_Spear_Green_64
+  - first:
+      213: 8711754658478151461
+    second: SS_Spear_Green_65
+  - first:
+      213: -5334862084846713236
+    second: SS_Spear_Green_66
+  - first:
+      213: -7556769253873063572
+    second: SS_Spear_Green_67
+  - first:
+      213: 2905288398377343377
+    second: SS_Spear_Green_68
+  - first:
+      213: 3427748245522093536
+    second: SS_Spear_Green_69
+  - first:
+      213: -1219768864309701158
+    second: SS_Spear_Green_70
+  - first:
+      213: 8913122693917825957
+    second: SS_Spear_Green_71
+  - first:
+      213: 1346298231591181374
+    second: SS_Spear_Green_72
+  - first:
+      213: -4923223016855911986
+    second: SS_Spear_Green_73
+  - first:
+      213: -1529982879220757460
+    second: SS_Spear_Green_74
+  - first:
+      213: -2824970145934589637
+    second: SS_Spear_Green_75
+  - first:
+      213: -725159670518675449
+    second: SS_Spear_Green_76
+  - first:
+      213: 4157239124071218955
+    second: SS_Spear_Green_77
+  - first:
+      213: -5063899303795405146
+    second: SS_Spear_Green_78
+  - first:
+      213: -916986782966587528
+    second: SS_Spear_Green_79
+  - first:
+      213: 5354991975559522649
+    second: SS_Spear_Green_80
+  - first:
+      213: 2616289787723317518
+    second: SS_Spear_Green_81
+  - first:
+      213: 5638525930903722525
+    second: SS_Spear_Green_82
+  - first:
+      213: 3027574246491132425
+    second: SS_Spear_Green_83
+  - first:
+      213: -577776014077556049
+    second: SS_Spear_Green_84
+  - first:
+      213: -489387943831254215
+    second: SS_Spear_Green_85
+  - first:
+      213: 2680186493029586467
+    second: SS_Spear_Green_86
+  - first:
+      213: -7505306452398326172
+    second: SS_Spear_Green_87
+  - first:
+      213: 1563888345587922703
+    second: SS_Spear_Green_88
+  - first:
+      213: -7729242977687706753
+    second: SS_Spear_Green_89
+  - first:
+      213: 7368721040574339444
+    second: SS_Spear_Green_90
+  - first:
+      213: 1120118316815931064
+    second: SS_Spear_Green_91
+  - first:
+      213: -4376791085068027760
+    second: SS_Spear_Green_92
+  - first:
+      213: -1496857173740370904
+    second: SS_Spear_Green_93
+  - first:
+      213: 2128948143828873481
+    second: SS_Spear_Green_94
+  - first:
+      213: 1213963333314639313
+    second: SS_Spear_Green_95
+  - first:
+      213: -2586581644611910334
+    second: SS_Spear_Green_96
+  - first:
+      213: 7244004787434179205
+    second: SS_Spear_Green_97
+  - first:
+      213: -8221242389529205180
+    second: SS_Spear_Green_98
+  - first:
+      213: -7286881614914656015
+    second: SS_Spear_Green_99
+  - first:
+      213: 2966720112776198021
+    second: SS_Spear_Green_100
+  - first:
+      213: -4796872679925190755
+    second: SS_Spear_Green_101
+  - first:
+      213: -3331035872519251370
+    second: SS_Spear_Green_102
+  - first:
+      213: -7774111374023173520
+    second: SS_Spear_Green_103
+  - first:
+      213: -3125878582446653189
+    second: SS_Spear_Green_104
+  - first:
+      213: 6161914737449379070
+    second: SS_Spear_Green_105
+  - first:
+      213: 2971841701714511589
+    second: SS_Spear_Green_106
+  - first:
+      213: -4593449148996135278
+    second: SS_Spear_Green_107
+  - first:
+      213: -8584419121903089772
+    second: SS_Spear_Green_108
+  - first:
+      213: 8347678423886330895
+    second: SS_Spear_Green_109
+  - first:
+      213: -9049098972817422022
+    second: SS_Spear_Green_110
+  - first:
+      213: 8838029238052685994
+    second: SS_Spear_Green_111
+  - first:
+      213: -6186055629868961246
+    second: SS_Spear_Green_112
+  - first:
+      213: 5222908080612917855
+    second: SS_Spear_Green_113
+  - first:
+      213: 7924236546279530111
+    second: SS_Spear_Green_114
+  - first:
+      213: -2283643241284611125
+    second: SS_Spear_Green_115
+  - first:
+      213: -5893222584800584680
+    second: SS_Spear_Green_116
+  - first:
+      213: -682060467879100062
+    second: SS_Spear_Green_117
+  - first:
+      213: -185607008233525406
+    second: SS_Spear_Green_118
+  - first:
+      213: 8065819443925314263
+    second: SS_Spear_Green_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Spear_Green_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 322
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a029f07e6e8666080800000000000000
+      internalID: -9194546248301964790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 323
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4da4828b7f770b60800000000000000
+      internalID: 7712273055342701901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 323
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a47ab601a9354fd60800000000000000
+      internalID: 7923049565617104714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 322
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4079993cf45752df0800000000000000
+      internalID: -205629222531000572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 322
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ef2ab2393528d00800000000000000
+      internalID: 973432361022848514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 321
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775a81d82b629b2a0800000000000000
+      internalID: -6721298420560517769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 321
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63bc3c13501bafc0800000000000000
+      internalID: -3482671937698876563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 322
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28647ce0790cc2ee0800000000000000
+      internalID: -1284440038686898558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_8
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 320
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feba617d510ef4b80800000000000000
+      internalID: -8408255594869904401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_9
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 321
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165ebef1060636300800000000000000
+      internalID: 244144770776819041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 323
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf70bb3efe0e3220800000000000000
+      internalID: 2467426130931515359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_11
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 291
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410bf2a47d6d2bc00800000000000000
+      internalID: 915029894460583956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 290
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 919f0d165f8335880800000000000000
+      internalID: -8623486234925139687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_13
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 290
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f57de760647ed9130800000000000000
+      internalID: 3575267967144744799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 290
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0869024317d906c00800000000000000
+      internalID: 891885835750774400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 290
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5134758dfb526f0800000000000000
+      internalID: -709950430343129695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 289
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42edfce49ca2e1040800000000000000
+      internalID: 4620177311827746340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 289
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd627e255355c660800000000000000
+      internalID: 7405416787597225396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_18
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 290
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8c112681f536400800000000000000
+      internalID: 316200957175253243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_19
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 289
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c91aa260aef33fe0800000000000000
+      internalID: -1210343910028994103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_20
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 289
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d146664f3edae820800000000000000
+      internalID: 2948413269412823506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 289
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4b7754ece120f60800000000000000
+      internalID: 7998989759440991405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 943149bc67b555aa0800000000000000
+      internalID: -6172927148461649079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 258
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec037f9863a77a00800000000000000
+      internalID: 754251132354890977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_24
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 258
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5c6b0e8d6f2cbd0800000000000000
+      internalID: -2611253422578022990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 258
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d5d2546f3d1fc820800000000000000
+      internalID: 2940601239799518679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 257
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e9919b45939c990800000000000000
+      internalID: -7365292679542235510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216c2066ef19e8e70800000000000000
+      internalID: 9119386817291011602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0270cb2de9152fd40800000000000000
+      internalID: 5616641427866650400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_29
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 256
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45fb56bcb641cdc0800000000000000
+      internalID: -3620534849101892278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c679724ca550a4e40800000000000000
+      internalID: 5641327370631092076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b6ad4652e3e9fb0800000000000000
+      internalID: -4639202235818284262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_32
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 257
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70234e99af72836b0800000000000000
+      internalID: -5316455402833694201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7940b307299a3c510800000000000000
+      internalID: 1568283541668299927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 225
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9056e3d1f61b880800000000000000
+      internalID: -8596968042282022450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_35
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 227
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff48a99f39b696550800000000000000
+      internalID: 6154568649070511359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_36
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 225
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8d9981b804cd770800000000000000
+      internalID: 8636849151547136192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 225
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8830c830a5c11d0800000000000000
+      internalID: -3378726649154271010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_38
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 225
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dc7994a6ce359ba0800000000000000
+      internalID: -6082886698808017709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae5f19ec2b5b3750800000000000000
+      internalID: 6285717953373494946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_40
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 225
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0321d6b45a05540800000000000000
+      internalID: 4994673730124918982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_41
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 226
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6ada80d14560590800000000000000
+      internalID: -7708381228521642286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_42
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 224
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e24c3ec92d59040800000000000000
+      internalID: 4653857361235291704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_43
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8572416eb50174fe0800000000000000
+      internalID: -1204976388410169512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b2e4a73785a0fb0800000000000000
+      internalID: -4680831609701782687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_45
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 192
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be1b536078f89030800000000000000
+      internalID: 3501821871867502262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_46
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 193
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af76dd17d03e6350800000000000000
+      internalID: 6011796253062889381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_47
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 192
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d989b249bfe181c0800000000000000
+      internalID: -4503054573426341424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_48
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe60bc019fd3ca70800000000000000
+      internalID: 8846159907161927420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_49
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 193
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f8e745cc9acdb60800000000000000
+      internalID: 7772273751990636325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 193
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810a2cd055a951250800000000000000
+      internalID: 5914803375714770968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 193
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f0fd62321400a50800000000000000
+      internalID: 6485255082645327743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2be0638364cfff0800000000000000
+      internalID: -1048692667796753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_53
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d863652f03ef570800000000000000
+      internalID: 8502286963908709654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_54
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 192
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77db2e137d53b3ca0800000000000000
+      internalID: -6036171677188833929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 161
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4198aab494834a000800000000000000
+      internalID: 46223783633783060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_56
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f1ebc952b49bd40800000000000000
+      internalID: 5600590236527501076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 129
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8e669f9d765dcb0800000000000000
+      internalID: -4839848038649894698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aaa290ee90bdca20800000000000000
+      internalID: 3084315516237687463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_59
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 160
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f6c7b61db521fb0800000000000000
+      internalID: -4678576107874914468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_60
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e340a37f745f1930800000000000000
+      internalID: 4116101490817385440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_61
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca75c1fbb0c433c0800000000000000
+      internalID: -4380664624076981560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_62
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 160
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd366fcd0a2a36790800000000000000
+      internalID: -7538002539502476325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_63
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 160
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b00b8df00e14ba90800000000000000
+      internalID: -7299176106458152784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_64
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 160
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4119ed08f5c87cf0800000000000000
+      internalID: -254235709770493619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_65
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 160
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527d1fc74be56e870800000000000000
+      internalID: 8711754658478151461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66030bf233c6f5b0800000000000000
+      internalID: -5334862084846713236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_67
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 129
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c696d4da666f02790800000000000000
+      internalID: -7556769253873063572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_68
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 128
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199585bc768a15820800000000000000
+      internalID: 2905288398377343377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_69
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 130
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e510d94edec19f20800000000000000
+      internalID: 3427748245522093536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_70
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 128
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad51db63ea2821fe0800000000000000
+      internalID: -1219768864309701158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_71
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 129
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abd17acdd5c1bb70800000000000000
+      internalID: 8913122693917825957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_72
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c9abfcb130fa210800000000000000
+      internalID: 1346298231591181374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_73
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 131
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1c64220c23dabb0800000000000000
+      internalID: -4923223016855911986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_74
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 129
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c0e937da864cae0800000000000000
+      internalID: -1529982879220757460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_75
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 129
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b314c7e9e90bbc8d0800000000000000
+      internalID: -2824970145934589637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_76
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7088b492f17bfe5f0800000000000000
+      internalID: -725159670518675449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ffe9415fa71b930800000000000000
+      internalID: 4157239124071218955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_78
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 97
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae4de2b96a69b9b0800000000000000
+      internalID: -5063899303795405146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_79
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f5c8911653643f0800000000000000
+      internalID: -916986782966587528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_80
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 96
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959ea4e64d0c05a40800000000000000
+      internalID: 5354991975559522649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e010bb243bdee4420800000000000000
+      internalID: 2616289787723317518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_82
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a5850c571104e40800000000000000
+      internalID: 5638525930903722525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90299358cba140a20800000000000000
+      internalID: 3027574246491132425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_84
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa8a21c6c35bf7f0800000000000000
+      internalID: -577776014077556049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_85
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b449a02485539f0800000000000000
+      internalID: -489387943831254215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_86
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 64
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32614d84a6fe13520800000000000000
+      internalID: 2680186493029586467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_87
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46eb95edb8bc7d790800000000000000
+      internalID: -7505306452398326172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_88
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07342b1a2c04b510800000000000000
+      internalID: 1563888345587922703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73ed3c86763cb490800000000000000
+      internalID: -7729242977687706753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4795168ceb4f24660800000000000000
+      internalID: 7368721040574339444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_91
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 64
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6d83caca57b8f00800000000000000
+      internalID: 1120118316815931064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_92
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0987c6682b38243c0800000000000000
+      internalID: -4376791085068027760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_93
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 65
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824c5b7c4581a3be0800000000000000
+      internalID: -1496857173740370904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_94
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901b522ae0b8b8d10800000000000000
+      internalID: 2128948143828873481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_95
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 64
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d57194483dd8d010800000000000000
+      internalID: 1213963333314639313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_96
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2458c52d2bd9a1cd0800000000000000
+      internalID: -2586581644611910334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_97
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a4e3a49ffd78460800000000000000
+      internalID: 7244004787434179205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_98
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 64
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4466abfca9748ed80800000000000000
+      internalID: -8221242389529205180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_99
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8efae57cbcfda90800000000000000
+      internalID: -7286881614914656015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_100
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 33
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58738066938eb2920800000000000000
+      internalID: 2966720112776198021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f684866b51e6db0800000000000000
+      internalID: -4796872679925190755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_102
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 32
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a1864c588c5c1d0800000000000000
+      internalID: -3331035872519251370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 33
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a5603f4eecc1490800000000000000
+      internalID: -7774111374023173520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_104
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0044aadf5ae94d0800000000000000
+      internalID: -3125878582446653189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 33
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef42ae57ec4838550800000000000000
+      internalID: 6161914737449379070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_106
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 32
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6c26f384a1e3920800000000000000
+      internalID: 2971841701714511589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_107
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296d34c065ac040c0800000000000000
+      internalID: -4593449148996135278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49745e37a440ed880800000000000000
+      internalID: -8584419121903089772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_109
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 32
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cffe27c49e8d370800000000000000
+      internalID: 8347678423886330895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a398ddbad642b6280800000000000000
+      internalID: -9049098972817422022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa885a024ccf6aa70800000000000000
+      internalID: 8838029238052685994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222fad40e27b62aa0800000000000000
+      internalID: -6186055629868961246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_113
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5243772a3f7b7840800000000000000
+      internalID: 5222908080612917855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_114
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ed829872b88fd60800000000000000
+      internalID: 7924236546279530111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_115
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc35281429ede40e0800000000000000
+      internalID: -2283643241284611125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81cd6a26841173ea0800000000000000
+      internalID: -5893222584800584680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_117
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261cab04e95d886f0800000000000000
+      internalID: -682060467879100062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fea6ec8679c6df0800000000000000
+      internalID: -185607008233525406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Spear_Green_119
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da6b99bc0c8fef60800000000000000
+      internalID: 8065819443925314263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Spear_Green_0: -9194546248301964790
+      SS_Spear_Green_1: 7712273055342701901
+      SS_Spear_Green_10: 2467426130931515359
+      SS_Spear_Green_100: 2966720112776198021
+      SS_Spear_Green_101: -4796872679925190755
+      SS_Spear_Green_102: -3331035872519251370
+      SS_Spear_Green_103: -7774111374023173520
+      SS_Spear_Green_104: -3125878582446653189
+      SS_Spear_Green_105: 6161914737449379070
+      SS_Spear_Green_106: 2971841701714511589
+      SS_Spear_Green_107: -4593449148996135278
+      SS_Spear_Green_108: -8584419121903089772
+      SS_Spear_Green_109: 8347678423886330895
+      SS_Spear_Green_11: 915029894460583956
+      SS_Spear_Green_110: -9049098972817422022
+      SS_Spear_Green_111: 8838029238052685994
+      SS_Spear_Green_112: -6186055629868961246
+      SS_Spear_Green_113: 5222908080612917855
+      SS_Spear_Green_114: 7924236546279530111
+      SS_Spear_Green_115: -2283643241284611125
+      SS_Spear_Green_116: -5893222584800584680
+      SS_Spear_Green_117: -682060467879100062
+      SS_Spear_Green_118: -185607008233525406
+      SS_Spear_Green_119: 8065819443925314263
+      SS_Spear_Green_12: -8623486234925139687
+      SS_Spear_Green_13: 3575267967144744799
+      SS_Spear_Green_14: 891885835750774400
+      SS_Spear_Green_15: -709950430343129695
+      SS_Spear_Green_16: 4620177311827746340
+      SS_Spear_Green_17: 7405416787597225396
+      SS_Spear_Green_18: 316200957175253243
+      SS_Spear_Green_19: -1210343910028994103
+      SS_Spear_Green_2: 7923049565617104714
+      SS_Spear_Green_20: 2948413269412823506
+      SS_Spear_Green_21: 7998989759440991405
+      SS_Spear_Green_22: -6172927148461649079
+      SS_Spear_Green_23: 754251132354890977
+      SS_Spear_Green_24: -2611253422578022990
+      SS_Spear_Green_25: 2940601239799518679
+      SS_Spear_Green_26: -7365292679542235510
+      SS_Spear_Green_27: 9119386817291011602
+      SS_Spear_Green_28: 5616641427866650400
+      SS_Spear_Green_29: -3620534849101892278
+      SS_Spear_Green_3: -205629222531000572
+      SS_Spear_Green_30: 5641327370631092076
+      SS_Spear_Green_31: -4639202235818284262
+      SS_Spear_Green_32: -5316455402833694201
+      SS_Spear_Green_33: 1568283541668299927
+      SS_Spear_Green_34: -8596968042282022450
+      SS_Spear_Green_35: 6154568649070511359
+      SS_Spear_Green_36: 8636849151547136192
+      SS_Spear_Green_37: -3378726649154271010
+      SS_Spear_Green_38: -6082886698808017709
+      SS_Spear_Green_39: 6285717953373494946
+      SS_Spear_Green_4: 973432361022848514
+      SS_Spear_Green_40: 4994673730124918982
+      SS_Spear_Green_41: -7708381228521642286
+      SS_Spear_Green_42: 4653857361235291704
+      SS_Spear_Green_43: -1204976388410169512
+      SS_Spear_Green_44: -4680831609701782687
+      SS_Spear_Green_45: 3501821871867502262
+      SS_Spear_Green_46: 6011796253062889381
+      SS_Spear_Green_47: -4503054573426341424
+      SS_Spear_Green_48: 8846159907161927420
+      SS_Spear_Green_49: 7772273751990636325
+      SS_Spear_Green_5: -6721298420560517769
+      SS_Spear_Green_50: 5914803375714770968
+      SS_Spear_Green_51: 6485255082645327743
+      SS_Spear_Green_52: -1048692667796753
+      SS_Spear_Green_53: 8502286963908709654
+      SS_Spear_Green_54: -6036171677188833929
+      SS_Spear_Green_55: 46223783633783060
+      SS_Spear_Green_56: 5600590236527501076
+      SS_Spear_Green_57: -4839848038649894698
+      SS_Spear_Green_58: 3084315516237687463
+      SS_Spear_Green_59: -4678576107874914468
+      SS_Spear_Green_6: -3482671937698876563
+      SS_Spear_Green_60: 4116101490817385440
+      SS_Spear_Green_61: -4380664624076981560
+      SS_Spear_Green_62: -7538002539502476325
+      SS_Spear_Green_63: -7299176106458152784
+      SS_Spear_Green_64: -254235709770493619
+      SS_Spear_Green_65: 8711754658478151461
+      SS_Spear_Green_66: -5334862084846713236
+      SS_Spear_Green_67: -7556769253873063572
+      SS_Spear_Green_68: 2905288398377343377
+      SS_Spear_Green_69: 3427748245522093536
+      SS_Spear_Green_7: -1284440038686898558
+      SS_Spear_Green_70: -1219768864309701158
+      SS_Spear_Green_71: 8913122693917825957
+      SS_Spear_Green_72: 1346298231591181374
+      SS_Spear_Green_73: -4923223016855911986
+      SS_Spear_Green_74: -1529982879220757460
+      SS_Spear_Green_75: -2824970145934589637
+      SS_Spear_Green_76: -725159670518675449
+      SS_Spear_Green_77: 4157239124071218955
+      SS_Spear_Green_78: -5063899303795405146
+      SS_Spear_Green_79: -916986782966587528
+      SS_Spear_Green_8: -8408255594869904401
+      SS_Spear_Green_80: 5354991975559522649
+      SS_Spear_Green_81: 2616289787723317518
+      SS_Spear_Green_82: 5638525930903722525
+      SS_Spear_Green_83: 3027574246491132425
+      SS_Spear_Green_84: -577776014077556049
+      SS_Spear_Green_85: -489387943831254215
+      SS_Spear_Green_86: 2680186493029586467
+      SS_Spear_Green_87: -7505306452398326172
+      SS_Spear_Green_88: 1563888345587922703
+      SS_Spear_Green_89: -7729242977687706753
+      SS_Spear_Green_9: 244144770776819041
+      SS_Spear_Green_90: 7368721040574339444
+      SS_Spear_Green_91: 1120118316815931064
+      SS_Spear_Green_92: -4376791085068027760
+      SS_Spear_Green_93: -1496857173740370904
+      SS_Spear_Green_94: 2128948143828873481
+      SS_Spear_Green_95: 1213963333314639313
+      SS_Spear_Green_96: -2586581644611910334
+      SS_Spear_Green_97: 7244004787434179205
+      SS_Spear_Green_98: -8221242389529205180
+      SS_Spear_Green_99: -7286881614914656015
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

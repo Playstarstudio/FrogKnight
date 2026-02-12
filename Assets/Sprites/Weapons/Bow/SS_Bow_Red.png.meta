@@ -1,0 +1,3250 @@
+fileFormatVersion: 2
+guid: 7456a762829f0604cbcb42988d9f0e8e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8159639061094348570
+    second: SS_Bow_Red_0
+  - first:
+      213: -2216441796286797356
+    second: SS_Bow_Red_1
+  - first:
+      213: -1381613497968799051
+    second: SS_Bow_Red_2
+  - first:
+      213: -2128933202938860700
+    second: SS_Bow_Red_3
+  - first:
+      213: -1834939584727138177
+    second: SS_Bow_Red_4
+  - first:
+      213: 2912657164249787183
+    second: SS_Bow_Red_5
+  - first:
+      213: -8934817369663730127
+    second: SS_Bow_Red_6
+  - first:
+      213: 2011432818166178297
+    second: SS_Bow_Red_7
+  - first:
+      213: 7335689362958951078
+    second: SS_Bow_Red_8
+  - first:
+      213: 2090841648391058078
+    second: SS_Bow_Red_9
+  - first:
+      213: 1017574612797467712
+    second: SS_Bow_Red_10
+  - first:
+      213: 4679469833633900998
+    second: SS_Bow_Red_11
+  - first:
+      213: 8191092599803361864
+    second: SS_Bow_Red_12
+  - first:
+      213: 2715652906031978660
+    second: SS_Bow_Red_13
+  - first:
+      213: -2450375167660530012
+    second: SS_Bow_Red_14
+  - first:
+      213: -3879776373789623179
+    second: SS_Bow_Red_15
+  - first:
+      213: 122762174446943709
+    second: SS_Bow_Red_16
+  - first:
+      213: 6421021331292601203
+    second: SS_Bow_Red_17
+  - first:
+      213: 6313318050576301966
+    second: SS_Bow_Red_18
+  - first:
+      213: -3907206201337949486
+    second: SS_Bow_Red_19
+  - first:
+      213: -5547375487820267102
+    second: SS_Bow_Red_20
+  - first:
+      213: 3044459765137780207
+    second: SS_Bow_Red_21
+  - first:
+      213: -9012187399897002285
+    second: SS_Bow_Red_22
+  - first:
+      213: 5644147744522795805
+    second: SS_Bow_Red_23
+  - first:
+      213: -7067915240564530108
+    second: SS_Bow_Red_24
+  - first:
+      213: -1083275439022983093
+    second: SS_Bow_Red_25
+  - first:
+      213: 1725728103555591123
+    second: SS_Bow_Red_26
+  - first:
+      213: 2811881847252604368
+    second: SS_Bow_Red_27
+  - first:
+      213: 4287593924211486744
+    second: SS_Bow_Red_28
+  - first:
+      213: -8682505162997890665
+    second: SS_Bow_Red_29
+  - first:
+      213: 2756259522797880465
+    second: SS_Bow_Red_30
+  - first:
+      213: 7423789540335874925
+    second: SS_Bow_Red_31
+  - first:
+      213: 3919243314673467144
+    second: SS_Bow_Red_32
+  - first:
+      213: 7576748780594542045
+    second: SS_Bow_Red_33
+  - first:
+      213: -8728727655633303594
+    second: SS_Bow_Red_34
+  - first:
+      213: -8936812429907508863
+    second: SS_Bow_Red_35
+  - first:
+      213: -8499680775426130342
+    second: SS_Bow_Red_36
+  - first:
+      213: 2783769787926973574
+    second: SS_Bow_Red_37
+  - first:
+      213: 7750018445990374119
+    second: SS_Bow_Red_38
+  - first:
+      213: -255710402774707158
+    second: SS_Bow_Red_39
+  - first:
+      213: 8295703601484837240
+    second: SS_Bow_Red_40
+  - first:
+      213: -1145416137671497502
+    second: SS_Bow_Red_41
+  - first:
+      213: 1301872505360024021
+    second: SS_Bow_Red_42
+  - first:
+      213: -9122883708263371088
+    second: SS_Bow_Red_43
+  - first:
+      213: 4971515690730640042
+    second: SS_Bow_Red_44
+  - first:
+      213: -8022076626259749334
+    second: SS_Bow_Red_45
+  - first:
+      213: 644950405941707407
+    second: SS_Bow_Red_46
+  - first:
+      213: 8752908336195997650
+    second: SS_Bow_Red_47
+  - first:
+      213: 2922659011167449738
+    second: SS_Bow_Red_48
+  - first:
+      213: 3345754616653604415
+    second: SS_Bow_Red_49
+  - first:
+      213: 4580753553314978685
+    second: SS_Bow_Red_50
+  - first:
+      213: -6065040030416217720
+    second: SS_Bow_Red_51
+  - first:
+      213: 8549189847935868954
+    second: SS_Bow_Red_52
+  - first:
+      213: 70980136303345360
+    second: SS_Bow_Red_53
+  - first:
+      213: 2435475904723668556
+    second: SS_Bow_Red_54
+  - first:
+      213: -6976286525512394862
+    second: SS_Bow_Red_55
+  - first:
+      213: 1679604666385071759
+    second: SS_Bow_Red_56
+  - first:
+      213: -9101168070490077683
+    second: SS_Bow_Red_57
+  - first:
+      213: 7308287038749154786
+    second: SS_Bow_Red_58
+  - first:
+      213: -1326240799001451717
+    second: SS_Bow_Red_59
+  - first:
+      213: -7451744895806390568
+    second: SS_Bow_Red_60
+  - first:
+      213: 4668864487555038896
+    second: SS_Bow_Red_61
+  - first:
+      213: -1448673359158910268
+    second: SS_Bow_Red_62
+  - first:
+      213: 5742150570294846365
+    second: SS_Bow_Red_63
+  - first:
+      213: -5267624804362000476
+    second: SS_Bow_Red_64
+  - first:
+      213: 8780367394193991815
+    second: SS_Bow_Red_65
+  - first:
+      213: -3306435519379476410
+    second: SS_Bow_Red_66
+  - first:
+      213: -5379292450781179168
+    second: SS_Bow_Red_67
+  - first:
+      213: -7212238845834985891
+    second: SS_Bow_Red_68
+  - first:
+      213: -2002077327717531159
+    second: SS_Bow_Red_69
+  - first:
+      213: 5035489053183236524
+    second: SS_Bow_Red_70
+  - first:
+      213: 4110677438182248232
+    second: SS_Bow_Red_71
+  - first:
+      213: 5064559030333242454
+    second: SS_Bow_Red_72
+  - first:
+      213: -4257361326436569264
+    second: SS_Bow_Red_73
+  - first:
+      213: 726304682750231111
+    second: SS_Bow_Red_74
+  - first:
+      213: 2593184409764008294
+    second: SS_Bow_Red_75
+  - first:
+      213: -8155741109789728339
+    second: SS_Bow_Red_76
+  - first:
+      213: 8267963218014055040
+    second: SS_Bow_Red_77
+  - first:
+      213: 7126726222560923591
+    second: SS_Bow_Red_78
+  - first:
+      213: 7946017593690403321
+    second: SS_Bow_Red_79
+  - first:
+      213: -4225671154187826027
+    second: SS_Bow_Red_80
+  - first:
+      213: 1514307109418138545
+    second: SS_Bow_Red_81
+  - first:
+      213: 5186701875884088888
+    second: SS_Bow_Red_82
+  - first:
+      213: 3007988845553001977
+    second: SS_Bow_Red_83
+  - first:
+      213: 829696814547843999
+    second: SS_Bow_Red_84
+  - first:
+      213: -8004785236862281197
+    second: SS_Bow_Red_85
+  - first:
+      213: -8103214449670626815
+    second: SS_Bow_Red_86
+  - first:
+      213: -8737892911020114767
+    second: SS_Bow_Red_87
+  - first:
+      213: -7929064459631915067
+    second: SS_Bow_Red_88
+  - first:
+      213: 2768973487730278018
+    second: SS_Bow_Red_89
+  - first:
+      213: 8256270505191813720
+    second: SS_Bow_Red_90
+  - first:
+      213: -5335752030233564425
+    second: SS_Bow_Red_91
+  - first:
+      213: 1172966798043934350
+    second: SS_Bow_Red_92
+  - first:
+      213: -1312233842674129070
+    second: SS_Bow_Red_93
+  - first:
+      213: -5698135018775105128
+    second: SS_Bow_Red_94
+  - first:
+      213: 8306894979506652716
+    second: SS_Bow_Red_95
+  - first:
+      213: -188879153250116285
+    second: SS_Bow_Red_96
+  - first:
+      213: -1736812058825275104
+    second: SS_Bow_Red_97
+  - first:
+      213: 1220032894130285064
+    second: SS_Bow_Red_98
+  - first:
+      213: 8933221562550822679
+    second: SS_Bow_Red_99
+  - first:
+      213: 4760740312335216679
+    second: SS_Bow_Red_100
+  - first:
+      213: 619414609595236243
+    second: SS_Bow_Red_101
+  - first:
+      213: -8802064478721184956
+    second: SS_Bow_Red_102
+  - first:
+      213: 1977830740629289184
+    second: SS_Bow_Red_103
+  - first:
+      213: -4172905400791307776
+    second: SS_Bow_Red_104
+  - first:
+      213: 1210981684776603978
+    second: SS_Bow_Red_105
+  - first:
+      213: 2966717878599448016
+    second: SS_Bow_Red_106
+  - first:
+      213: 4731365425096882894
+    second: SS_Bow_Red_107
+  - first:
+      213: 5695652818748263454
+    second: SS_Bow_Red_108
+  - first:
+      213: 7154983827791057687
+    second: SS_Bow_Red_109
+  - first:
+      213: -2184968272030486194
+    second: SS_Bow_Red_110
+  - first:
+      213: -6153215928021365328
+    second: SS_Bow_Red_111
+  - first:
+      213: 1224790377584566845
+    second: SS_Bow_Red_112
+  - first:
+      213: 4945564997449640857
+    second: SS_Bow_Red_113
+  - first:
+      213: -7735919197552770213
+    second: SS_Bow_Red_114
+  - first:
+      213: -6299433532464743424
+    second: SS_Bow_Red_115
+  - first:
+      213: 7496904819091950583
+    second: SS_Bow_Red_116
+  - first:
+      213: 1859164237774281118
+    second: SS_Bow_Red_117
+  - first:
+      213: -770102906447423613
+    second: SS_Bow_Red_118
+  - first:
+      213: -9047438903215349817
+    second: SS_Bow_Red_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Bow_Red_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 322
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8c11c618323ce80800000000000000
+      internalID: -8159639061094348570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 322
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d92ff2fded9d31e0800000000000000
+      internalID: -2216441796286797356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_2
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 322
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b25facf7d583dce0800000000000000
+      internalID: -1381613497968799051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 322
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b6b4018828472e0800000000000000
+      internalID: -2128933202938860700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_4
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 322
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70490c6b2cf886e0800000000000000
+      internalID: -1834939584727138177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 322
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bea9b4246db6820800000000000000
+      internalID: 2912657164249787183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 321
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e0434e0f6210480800000000000000
+      internalID: -8934817369663730127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 320
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1ab58bd7b0aeb10800000000000000
+      internalID: 2011432818166178297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 322
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a2a7c50c9a9dc560800000000000000
+      internalID: 7335689362958951078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 322
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92f0f5c669240d10800000000000000
+      internalID: 2090841648391058078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_10
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 322
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04caf3018b62f1e00800000000000000
+      internalID: 1017574612797467712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 290
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c9a7e25501d0f040800000000000000
+      internalID: 4679469833633900998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 290
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a3c9d325b9ca170800000000000000
+      internalID: 8191092599803361864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_13
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 290
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a81b4d0eefefa520800000000000000
+      internalID: 2715652906031978660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 290
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6e72584c48efdd0800000000000000
+      internalID: -2450375167660530012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_15
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 289
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cf058a1f3482ac0800000000000000
+      internalID: -3879776373789623179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_16
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 290
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddb3c71c8324b100800000000000000
+      internalID: 122762174446943709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_17
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 290
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37bb6ea71ec0c1950800000000000000
+      internalID: 6421021331292601203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_18
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 290
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f79ae41596d9750800000000000000
+      internalID: 6313318050576301966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_19
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 290
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d25c0149a0d6c9c0800000000000000
+      internalID: -3907206201337949486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_20
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 290
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a183c49263c303b0800000000000000
+      internalID: -5547375487820267102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_21
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 288
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feda102b608104a20800000000000000
+      internalID: 3044459765137780207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_22
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 257
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de43e3fe474ee280800000000000000
+      internalID: -9012187399897002285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 257
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b7a1c387a045e40800000000000000
+      internalID: 5644147744522795805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 257
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444e49f3988b9ed90800000000000000
+      internalID: -7067915240564530108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_25
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 256
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4831274abe67f0f0800000000000000
+      internalID: -1083275439022983093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 257
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbe65f119403f710800000000000000
+      internalID: 1725728103555591123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_27
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 259
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d55cdf54afc50720800000000000000
+      internalID: 2811881847252604368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_28
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 260
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810bfb915f7908b30800000000000000
+      internalID: 4287593924211486744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_29
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 257
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791040f5e8b818780800000000000000
+      internalID: -8682505162997890665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_30
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 257
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194c725ce63304620800000000000000
+      internalID: 2756259522797880465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_31
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 257
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d63faf60149960760800000000000000
+      internalID: 7423789540335874925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_32
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 257
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fbf679703f36630800000000000000
+      internalID: 3919243314673467144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd536b36fd4062960800000000000000
+      internalID: 7576748780594542045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d749d8a1745dd680800000000000000
+      internalID: -8728727655633303594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_35
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 225
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181411bb1701af380800000000000000
+      internalID: -8936812429907508863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 228
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e32843e511b0a80800000000000000
+      internalID: -8499680775426130342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 228
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c0ad18fdfe1a620800000000000000
+      internalID: 2783769787926973574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_38
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 225
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea2bfb17b89d8b60800000000000000
+      internalID: 7750018445990374119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 225
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24dd355eb8837cf0800000000000000
+      internalID: -255710402774707158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_40
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 225
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 871be681972402370800000000000000
+      internalID: 8295703601484837240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_41
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 226
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8271a671aaa10f0800000000000000
+      internalID: -1145416137671497502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_42
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 226
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d105d0652e211210800000000000000
+      internalID: 1301872505360024021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_43
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 226
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be63c93a91056180800000000000000
+      internalID: -9122883708263371088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_44
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 192
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2d7453e2f5ef440800000000000000
+      internalID: 4971515690730640042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_45
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 192
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26d2daafcbdba090800000000000000
+      internalID: -8022076626259749334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_46
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 194
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8246e32af253f800800000000000000
+      internalID: 644950405941707407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_47
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 193
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df8482c1c3987970800000000000000
+      internalID: 8752908336195997650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_48
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 194
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82fa30c2ee5f8820800000000000000
+      internalID: 2922659011167449738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_49
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 194
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36e247e8128e6e20800000000000000
+      internalID: 3345754616653604415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_50
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 193
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b92fc361b129f30800000000000000
+      internalID: 4580753553314978685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_51
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 192
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889548ee936a4dba0800000000000000
+      internalID: -6065040030416217720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_52
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 194
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10e7930fd2d4a670800000000000000
+      internalID: 8549189847935868954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_53
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 194
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de3872de0c2cf000800000000000000
+      internalID: 70980136303345360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_54
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 193
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ec3108e6c8cc120800000000000000
+      internalID: 2435475904723668556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 162
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2975d73fd504f2f90800000000000000
+      internalID: -6976286525512394862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_56
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 162
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e78fe8b872f4710800000000000000
+      internalID: 1679604666385071759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_57
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 162
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06cf452cd722b180800000000000000
+      internalID: -9101168070490077683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_58
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 162
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed1c3d37504c6560800000000000000
+      internalID: 7308287038749154786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_59
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 162
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3363e0250f389de0800000000000000
+      internalID: -1326240799001451717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_60
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 161
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8de31a09f75169890800000000000000
+      internalID: -7451744895806390568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_61
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 161
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be7725c3832bc040800000000000000
+      internalID: 4668864487555038896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_62
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 161
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2e2c7514745ebe0800000000000000
+      internalID: -1448673359158910268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_63
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 162
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d932b3d358730bf40800000000000000
+      internalID: 5742150570294846365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_64
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 162
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a767f54623a5e6b0800000000000000
+      internalID: -5267624804362000476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_65
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 161
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788ea58ef912ad970800000000000000
+      internalID: 8780367394193991815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_66
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 131
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640f6a2d96e2d12d0800000000000000
+      internalID: -3306435519379476410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_67
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 132
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e25f38440ae855b0800000000000000
+      internalID: -5379292450781179168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_68
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 130
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e7bb65bfaf8eb90800000000000000
+      internalID: -7212238845834985891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_69
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 129
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1888427413734e0800000000000000
+      internalID: -2002077327717531159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_70
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 129
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9da5d5d96a1e540800000000000000
+      internalID: 5035489053183236524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_71
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 130
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fc019c95f0c0930800000000000000
+      internalID: 4110677438182248232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_72
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 129
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65c720bda9de84640800000000000000
+      internalID: 5064559030333242454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_73
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 129
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f23491e60dae4c0800000000000000
+      internalID: -4257361326436569264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_74
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 130
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742c706c24a541a00800000000000000
+      internalID: 726304682750231111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_75
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 131
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661901d3b77dcf320800000000000000
+      internalID: 2593184409764008294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_76
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 129
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1eeeeebacf0de80800000000000000
+      internalID: -8155741109789728339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_77
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 98
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a29b1cdb4bdb270800000000000000
+      internalID: 8267963218014055040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_78
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 97
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf843b8db737e260800000000000000
+      internalID: 7126726222560923591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_79
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 97
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1bbe2d6ece54e60800000000000000
+      internalID: 7946017593690403321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_80
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 98
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c050d49766b55c0800000000000000
+      internalID: -4225671154187826027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_81
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 97
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb77b9fa46e30510800000000000000
+      internalID: 1514307109418138545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_82
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 99
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83e5ce330eddaf740800000000000000
+      internalID: 5186701875884088888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_83
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 97
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f526830be58eb920800000000000000
+      internalID: 3007988845553001977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_84
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 97
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9bb56e5bdca38b00800000000000000
+      internalID: 829696814547843999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_85
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 99
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a588dfc3a49e090800000000000000
+      internalID: -8004785236862281197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_86
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 99
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102e19404699b8f80800000000000000
+      internalID: -8103214449670626815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_87
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 97
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcfd3951b4ccb680800000000000000
+      internalID: -8737892911020114767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_88
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 65
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf077a42ed46f190800000000000000
+      internalID: -7929064459631915067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_89
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 67
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e33a867be5d6620800000000000000
+      internalID: 2768973487730278018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_90
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 64
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8523e77e74a249270800000000000000
+      internalID: 8256270505191813720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_91
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 69
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7faeb5c6cc993f5b0800000000000000
+      internalID: -5335752030233564425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_92
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 67
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8e6cb29617374010800000000000000
+      internalID: 1172966798043934350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_93
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 67
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257a929c5420acde0800000000000000
+      internalID: -1312233842674129070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_94
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 67
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89132b3f3682ce0b0800000000000000
+      internalID: -5698135018775105128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_95
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 66
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2648f7d8f4084370800000000000000
+      internalID: 8306894979506652716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_96
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 67
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ddc0d2967f06df0800000000000000
+      internalID: -188879153250116285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_97
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 68
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029ca1072aa95e7e0800000000000000
+      internalID: -1736812058825275104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_98
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 65
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a6de4047d6ee010800000000000000
+      internalID: 1220032894130285064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_99
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 35
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717a3bf4ead29fb70800000000000000
+      internalID: 8933221562550822679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_100
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 34
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7207f90371c811240800000000000000
+      internalID: 4760740312335216679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_101
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 35
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39f7c9d3e4a989800800000000000000
+      internalID: 619414609595236243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_102
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 34
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b6dbfedf8c8d580800000000000000
+      internalID: -8802064478721184956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_103
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 37
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e87e01649aa27b10800000000000000
+      internalID: 1977830740629289184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_104
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 34
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a6680a5acd616c0800000000000000
+      internalID: -4172905400791307776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_105
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 32
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a411d9e1d654ec010800000000000000
+      internalID: 1210981684776603978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_106
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 34
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d578b63136eb2920800000000000000
+      internalID: 2966717878599448016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_107
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 35
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecaf67949cf29a140800000000000000
+      internalID: 4731365425096882894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_108
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 35
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c4171df060b0f40800000000000000
+      internalID: 5695652818748263454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_109
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 34
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7139625f1eb9b4360800000000000000
+      internalID: 7154983827791057687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_110
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41bf1cdeee6da1e0800000000000000
+      internalID: -2184968272030486194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_111
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdc200f6b26b9aa0800000000000000
+      internalID: -6153215928021365328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_112
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32ae34fb545ff010800000000000000
+      internalID: 1224790377584566845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_113
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 3
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b6796992d22a440800000000000000
+      internalID: 4945564997449640857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_114
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b530ebaf97e74a490800000000000000
+      internalID: -7735919197552770213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_115
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 5
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c314bf39ae398a0800000000000000
+      internalID: -6299433532464743424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_116
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fbc3e0763b5a0860800000000000000
+      internalID: 7496904819091950583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_117
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9955a326041dc910800000000000000
+      internalID: 1859164237774281118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_118
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38794bc9c7b0055f0800000000000000
+      internalID: -770102906447423613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Bow_Red_119
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf9cceb04a017280800000000000000
+      internalID: -9047438903215349817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Bow_Red_0: -8159639061094348570
+      SS_Bow_Red_1: -2216441796286797356
+      SS_Bow_Red_10: 1017574612797467712
+      SS_Bow_Red_100: 4760740312335216679
+      SS_Bow_Red_101: 619414609595236243
+      SS_Bow_Red_102: -8802064478721184956
+      SS_Bow_Red_103: 1977830740629289184
+      SS_Bow_Red_104: -4172905400791307776
+      SS_Bow_Red_105: 1210981684776603978
+      SS_Bow_Red_106: 2966717878599448016
+      SS_Bow_Red_107: 4731365425096882894
+      SS_Bow_Red_108: 5695652818748263454
+      SS_Bow_Red_109: 7154983827791057687
+      SS_Bow_Red_11: 4679469833633900998
+      SS_Bow_Red_110: -2184968272030486194
+      SS_Bow_Red_111: -6153215928021365328
+      SS_Bow_Red_112: 1224790377584566845
+      SS_Bow_Red_113: 4945564997449640857
+      SS_Bow_Red_114: -7735919197552770213
+      SS_Bow_Red_115: -6299433532464743424
+      SS_Bow_Red_116: 7496904819091950583
+      SS_Bow_Red_117: 1859164237774281118
+      SS_Bow_Red_118: -770102906447423613
+      SS_Bow_Red_119: -9047438903215349817
+      SS_Bow_Red_12: 8191092599803361864
+      SS_Bow_Red_13: 2715652906031978660
+      SS_Bow_Red_14: -2450375167660530012
+      SS_Bow_Red_15: -3879776373789623179
+      SS_Bow_Red_16: 122762174446943709
+      SS_Bow_Red_17: 6421021331292601203
+      SS_Bow_Red_18: 6313318050576301966
+      SS_Bow_Red_19: -3907206201337949486
+      SS_Bow_Red_2: -1381613497968799051
+      SS_Bow_Red_20: -5547375487820267102
+      SS_Bow_Red_21: 3044459765137780207
+      SS_Bow_Red_22: -9012187399897002285
+      SS_Bow_Red_23: 5644147744522795805
+      SS_Bow_Red_24: -7067915240564530108
+      SS_Bow_Red_25: -1083275439022983093
+      SS_Bow_Red_26: 1725728103555591123
+      SS_Bow_Red_27: 2811881847252604368
+      SS_Bow_Red_28: 4287593924211486744
+      SS_Bow_Red_29: -8682505162997890665
+      SS_Bow_Red_3: -2128933202938860700
+      SS_Bow_Red_30: 2756259522797880465
+      SS_Bow_Red_31: 7423789540335874925
+      SS_Bow_Red_32: 3919243314673467144
+      SS_Bow_Red_33: 7576748780594542045
+      SS_Bow_Red_34: -8728727655633303594
+      SS_Bow_Red_35: -8936812429907508863
+      SS_Bow_Red_36: -8499680775426130342
+      SS_Bow_Red_37: 2783769787926973574
+      SS_Bow_Red_38: 7750018445990374119
+      SS_Bow_Red_39: -255710402774707158
+      SS_Bow_Red_4: -1834939584727138177
+      SS_Bow_Red_40: 8295703601484837240
+      SS_Bow_Red_41: -1145416137671497502
+      SS_Bow_Red_42: 1301872505360024021
+      SS_Bow_Red_43: -9122883708263371088
+      SS_Bow_Red_44: 4971515690730640042
+      SS_Bow_Red_45: -8022076626259749334
+      SS_Bow_Red_46: 644950405941707407
+      SS_Bow_Red_47: 8752908336195997650
+      SS_Bow_Red_48: 2922659011167449738
+      SS_Bow_Red_49: 3345754616653604415
+      SS_Bow_Red_5: 2912657164249787183
+      SS_Bow_Red_50: 4580753553314978685
+      SS_Bow_Red_51: -6065040030416217720
+      SS_Bow_Red_52: 8549189847935868954
+      SS_Bow_Red_53: 70980136303345360
+      SS_Bow_Red_54: 2435475904723668556
+      SS_Bow_Red_55: -6976286525512394862
+      SS_Bow_Red_56: 1679604666385071759
+      SS_Bow_Red_57: -9101168070490077683
+      SS_Bow_Red_58: 7308287038749154786
+      SS_Bow_Red_59: -1326240799001451717
+      SS_Bow_Red_6: -8934817369663730127
+      SS_Bow_Red_60: -7451744895806390568
+      SS_Bow_Red_61: 4668864487555038896
+      SS_Bow_Red_62: -1448673359158910268
+      SS_Bow_Red_63: 5742150570294846365
+      SS_Bow_Red_64: -5267624804362000476
+      SS_Bow_Red_65: 8780367394193991815
+      SS_Bow_Red_66: -3306435519379476410
+      SS_Bow_Red_67: -5379292450781179168
+      SS_Bow_Red_68: -7212238845834985891
+      SS_Bow_Red_69: -2002077327717531159
+      SS_Bow_Red_7: 2011432818166178297
+      SS_Bow_Red_70: 5035489053183236524
+      SS_Bow_Red_71: 4110677438182248232
+      SS_Bow_Red_72: 5064559030333242454
+      SS_Bow_Red_73: -4257361326436569264
+      SS_Bow_Red_74: 726304682750231111
+      SS_Bow_Red_75: 2593184409764008294
+      SS_Bow_Red_76: -8155741109789728339
+      SS_Bow_Red_77: 8267963218014055040
+      SS_Bow_Red_78: 7126726222560923591
+      SS_Bow_Red_79: 7946017593690403321
+      SS_Bow_Red_8: 7335689362958951078
+      SS_Bow_Red_80: -4225671154187826027
+      SS_Bow_Red_81: 1514307109418138545
+      SS_Bow_Red_82: 5186701875884088888
+      SS_Bow_Red_83: 3007988845553001977
+      SS_Bow_Red_84: 829696814547843999
+      SS_Bow_Red_85: -8004785236862281197
+      SS_Bow_Red_86: -8103214449670626815
+      SS_Bow_Red_87: -8737892911020114767
+      SS_Bow_Red_88: -7929064459631915067
+      SS_Bow_Red_89: 2768973487730278018
+      SS_Bow_Red_9: 2090841648391058078
+      SS_Bow_Red_90: 8256270505191813720
+      SS_Bow_Red_91: -5335752030233564425
+      SS_Bow_Red_92: 1172966798043934350
+      SS_Bow_Red_93: -1312233842674129070
+      SS_Bow_Red_94: -5698135018775105128
+      SS_Bow_Red_95: 8306894979506652716
+      SS_Bow_Red_96: -188879153250116285
+      SS_Bow_Red_97: -1736812058825275104
+      SS_Bow_Red_98: 1220032894130285064
+      SS_Bow_Red_99: 8933221562550822679
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

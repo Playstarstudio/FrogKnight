@@ -1,0 +1,3250 @@
+fileFormatVersion: 2
+guid: ede67b2b12a27924e87023a5565ca017
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3247042194223094378
+    second: SS_Axe_Blue_0
+  - first:
+      213: -9070147292914983699
+    second: SS_Axe_Blue_1
+  - first:
+      213: -3049165734576592604
+    second: SS_Axe_Blue_2
+  - first:
+      213: 6387512162648546309
+    second: SS_Axe_Blue_3
+  - first:
+      213: -7413776309771071729
+    second: SS_Axe_Blue_4
+  - first:
+      213: -8650606079320805578
+    second: SS_Axe_Blue_5
+  - first:
+      213: 563749929787238532
+    second: SS_Axe_Blue_6
+  - first:
+      213: -5730056236247161631
+    second: SS_Axe_Blue_7
+  - first:
+      213: -2318469931710375546
+    second: SS_Axe_Blue_8
+  - first:
+      213: 8643296290826213398
+    second: SS_Axe_Blue_9
+  - first:
+      213: 2636144336970384247
+    second: SS_Axe_Blue_10
+  - first:
+      213: -1114744445423241204
+    second: SS_Axe_Blue_11
+  - first:
+      213: -4317582059614692260
+    second: SS_Axe_Blue_12
+  - first:
+      213: 803204096820125275
+    second: SS_Axe_Blue_13
+  - first:
+      213: -6166101351441107687
+    second: SS_Axe_Blue_14
+  - first:
+      213: 8472994778126148716
+    second: SS_Axe_Blue_15
+  - first:
+      213: -4930159380099926894
+    second: SS_Axe_Blue_16
+  - first:
+      213: 7117570963982153020
+    second: SS_Axe_Blue_17
+  - first:
+      213: 855245675051384193
+    second: SS_Axe_Blue_18
+  - first:
+      213: -8360828859794512373
+    second: SS_Axe_Blue_19
+  - first:
+      213: 1990413528383579639
+    second: SS_Axe_Blue_20
+  - first:
+      213: 8317184055958256809
+    second: SS_Axe_Blue_21
+  - first:
+      213: -1915474890974438356
+    second: SS_Axe_Blue_22
+  - first:
+      213: 2352116565119292250
+    second: SS_Axe_Blue_23
+  - first:
+      213: 315632116946002664
+    second: SS_Axe_Blue_24
+  - first:
+      213: -1507470727522109758
+    second: SS_Axe_Blue_25
+  - first:
+      213: 2238313798019897903
+    second: SS_Axe_Blue_26
+  - first:
+      213: -285891047656841935
+    second: SS_Axe_Blue_27
+  - first:
+      213: -764614686797114633
+    second: SS_Axe_Blue_28
+  - first:
+      213: 6261159960572853186
+    second: SS_Axe_Blue_29
+  - first:
+      213: 142292001973366388
+    second: SS_Axe_Blue_30
+  - first:
+      213: 5722487760648682156
+    second: SS_Axe_Blue_31
+  - first:
+      213: 887190154041179005
+    second: SS_Axe_Blue_32
+  - first:
+      213: 3013026681233104938
+    second: SS_Axe_Blue_33
+  - first:
+      213: 7261376797422702603
+    second: SS_Axe_Blue_34
+  - first:
+      213: 8667981581993281521
+    second: SS_Axe_Blue_35
+  - first:
+      213: 8084046303822477068
+    second: SS_Axe_Blue_36
+  - first:
+      213: -4375461019836273067
+    second: SS_Axe_Blue_37
+  - first:
+      213: 3924984558005945743
+    second: SS_Axe_Blue_38
+  - first:
+      213: -5395237618547459391
+    second: SS_Axe_Blue_39
+  - first:
+      213: 296376607397416216
+    second: SS_Axe_Blue_40
+  - first:
+      213: 2938179780779523329
+    second: SS_Axe_Blue_41
+  - first:
+      213: -4654502204996962653
+    second: SS_Axe_Blue_42
+  - first:
+      213: -6385751358179479424
+    second: SS_Axe_Blue_43
+  - first:
+      213: 1478327937121244228
+    second: SS_Axe_Blue_44
+  - first:
+      213: 150566413292142270
+    second: SS_Axe_Blue_45
+  - first:
+      213: -4528572797025766471
+    second: SS_Axe_Blue_46
+  - first:
+      213: -5700352918669996075
+    second: SS_Axe_Blue_47
+  - first:
+      213: -6616193793888042397
+    second: SS_Axe_Blue_48
+  - first:
+      213: -5036302881646859747
+    second: SS_Axe_Blue_49
+  - first:
+      213: 4403148812013697227
+    second: SS_Axe_Blue_50
+  - first:
+      213: 7364107480600328178
+    second: SS_Axe_Blue_51
+  - first:
+      213: -417326231144813551
+    second: SS_Axe_Blue_52
+  - first:
+      213: -4526589532168879723
+    second: SS_Axe_Blue_53
+  - first:
+      213: -6550375456507047446
+    second: SS_Axe_Blue_54
+  - first:
+      213: 7853887997870971350
+    second: SS_Axe_Blue_55
+  - first:
+      213: 2695703667443984772
+    second: SS_Axe_Blue_56
+  - first:
+      213: 2486798597581743896
+    second: SS_Axe_Blue_57
+  - first:
+      213: -1020274718488594850
+    second: SS_Axe_Blue_58
+  - first:
+      213: -5725585740428405764
+    second: SS_Axe_Blue_59
+  - first:
+      213: 6468025890596755579
+    second: SS_Axe_Blue_60
+  - first:
+      213: 8630263898255968024
+    second: SS_Axe_Blue_61
+  - first:
+      213: -4319812643622818028
+    second: SS_Axe_Blue_62
+  - first:
+      213: 3990085619804672674
+    second: SS_Axe_Blue_63
+  - first:
+      213: -286710240713302672
+    second: SS_Axe_Blue_64
+  - first:
+      213: 3581747749574819930
+    second: SS_Axe_Blue_65
+  - first:
+      213: 7949915484079061238
+    second: SS_Axe_Blue_66
+  - first:
+      213: -4255828450966855525
+    second: SS_Axe_Blue_67
+  - first:
+      213: 1488753342964849823
+    second: SS_Axe_Blue_68
+  - first:
+      213: 7943559185696111095
+    second: SS_Axe_Blue_69
+  - first:
+      213: 4754715674304514716
+    second: SS_Axe_Blue_70
+  - first:
+      213: -3506736982257290746
+    second: SS_Axe_Blue_71
+  - first:
+      213: -7476109006634344738
+    second: SS_Axe_Blue_72
+  - first:
+      213: -2145214680332597531
+    second: SS_Axe_Blue_73
+  - first:
+      213: -2889097375800557199
+    second: SS_Axe_Blue_74
+  - first:
+      213: -4938499557506833059
+    second: SS_Axe_Blue_75
+  - first:
+      213: -6165430787030236588
+    second: SS_Axe_Blue_76
+  - first:
+      213: 7867004803433871482
+    second: SS_Axe_Blue_77
+  - first:
+      213: -722356292900699316
+    second: SS_Axe_Blue_78
+  - first:
+      213: -4483617691300058747
+    second: SS_Axe_Blue_79
+  - first:
+      213: 7395406834821692129
+    second: SS_Axe_Blue_80
+  - first:
+      213: 1640802190470817662
+    second: SS_Axe_Blue_81
+  - first:
+      213: 1677737089443049695
+    second: SS_Axe_Blue_82
+  - first:
+      213: -9067789216818332145
+    second: SS_Axe_Blue_83
+  - first:
+      213: 3523418644346050021
+    second: SS_Axe_Blue_84
+  - first:
+      213: -802864883116250343
+    second: SS_Axe_Blue_85
+  - first:
+      213: -2812733487972493046
+    second: SS_Axe_Blue_86
+  - first:
+      213: -8162233299665969124
+    second: SS_Axe_Blue_87
+  - first:
+      213: 5121747773673263816
+    second: SS_Axe_Blue_88
+  - first:
+      213: 2534873877904660143
+    second: SS_Axe_Blue_89
+  - first:
+      213: -2612337685930373946
+    second: SS_Axe_Blue_90
+  - first:
+      213: -3329151625868146717
+    second: SS_Axe_Blue_91
+  - first:
+      213: -4785167488486847125
+    second: SS_Axe_Blue_92
+  - first:
+      213: -6784716433853727230
+    second: SS_Axe_Blue_93
+  - first:
+      213: 4490101140721646893
+    second: SS_Axe_Blue_94
+  - first:
+      213: 3262992717843849965
+    second: SS_Axe_Blue_95
+  - first:
+      213: 6705797442196401366
+    second: SS_Axe_Blue_96
+  - first:
+      213: -5006581522674552358
+    second: SS_Axe_Blue_97
+  - first:
+      213: -6241868746960230525
+    second: SS_Axe_Blue_98
+  - first:
+      213: 1537080315016075039
+    second: SS_Axe_Blue_99
+  - first:
+      213: -7923659936809857400
+    second: SS_Axe_Blue_100
+  - first:
+      213: -107696146896933040
+    second: SS_Axe_Blue_101
+  - first:
+      213: 1772499768294811383
+    second: SS_Axe_Blue_102
+  - first:
+      213: -3171222587686575465
+    second: SS_Axe_Blue_103
+  - first:
+      213: -3157732837306633531
+    second: SS_Axe_Blue_104
+  - first:
+      213: 1905705812063864627
+    second: SS_Axe_Blue_105
+  - first:
+      213: -8496645817841411749
+    second: SS_Axe_Blue_106
+  - first:
+      213: 8710652970562564039
+    second: SS_Axe_Blue_107
+  - first:
+      213: -8004417105565784704
+    second: SS_Axe_Blue_108
+  - first:
+      213: -5622364595011779561
+    second: SS_Axe_Blue_109
+  - first:
+      213: 1647096580047587537
+    second: SS_Axe_Blue_110
+  - first:
+      213: 4581703997710759514
+    second: SS_Axe_Blue_111
+  - first:
+      213: 2457481393395616701
+    second: SS_Axe_Blue_112
+  - first:
+      213: 2439601084000525887
+    second: SS_Axe_Blue_113
+  - first:
+      213: -3534127361463716104
+    second: SS_Axe_Blue_114
+  - first:
+      213: 1961495644209117482
+    second: SS_Axe_Blue_115
+  - first:
+      213: 1836769783034152953
+    second: SS_Axe_Blue_116
+  - first:
+      213: -5954484384139356726
+    second: SS_Axe_Blue_117
+  - first:
+      213: 2051995528815454159
+    second: SS_Axe_Blue_118
+  - first:
+      213: -3782942293526484730
+    second: SS_Axe_Blue_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Axe_Blue_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 320
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a5f5d0cafcf0d20800000000000000
+      internalID: 3247042194223094378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 321
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: decd451c71d502280800000000000000
+      internalID: -9070147292914983699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 322
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429e4496bef2fa5d0800000000000000
+      internalID: -3049165734576592604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 321
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c572d287005a850800000000000000
+      internalID: 6387512162648546309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 320
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f83e3e9b9fc1990800000000000000
+      internalID: -7413776309771071729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 321
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63faf3e8a9fd2f780800000000000000
+      internalID: -8650606079320805578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 323
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488ae130397d2d700800000000000000
+      internalID: 563749929787238532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 321
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4e9775630ca70b0800000000000000
+      internalID: -5730056236247161631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 321
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6899af181e323dfd0800000000000000
+      internalID: -2318469931710375546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_9
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 322
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618d52fae2823f770800000000000000
+      internalID: 8643296290826213398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77307cdbe47759420800000000000000
+      internalID: 2636144336970384247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 290
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08353345d1a780f0800000000000000
+      internalID: -1114744445423241204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_12
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 289
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c11180efdd414c0800000000000000
+      internalID: -4317582059614692260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 288
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e1a19dedd852b00800000000000000
+      internalID: 803204096820125275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 289
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915fb428d7b9d6aa0800000000000000
+      internalID: -6166101351441107687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_15
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 289
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64e2fddbdf169570800000000000000
+      internalID: 8472994778126148716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_16
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 289
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29475173a2e849bb0800000000000000
+      internalID: -4930159380099926894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 288
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c357acbc411b6c260800000000000000
+      internalID: 7117570963982153020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 290
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d702109617edb00800000000000000
+      internalID: 855245675051384193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_19
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 288
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b062d18137e58fb80800000000000000
+      internalID: -8360828859794512373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_20
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 289
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f56f63fe8e5f9b10800000000000000
+      internalID: 1990413528383579639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_21
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 289
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac3fe225d29c6370800000000000000
+      internalID: 8317184055958256809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 256
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2cd94b3cbdda65e0800000000000000
+      internalID: -1915474890974438356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 258
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a535f3ecd8564a020800000000000000
+      internalID: 2352116565119292250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_24
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 257
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e26542fcb9516400800000000000000
+      internalID: 315632116946002664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_25
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 256
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6beb83c53641be0800000000000000
+      internalID: -1507470727522109758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_26
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 256
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ad4da4a86101f10800000000000000
+      internalID: 2238313798019897903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_27
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 256
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d13fb5b9f480cf0800000000000000
+      internalID: -285891047656841935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_28
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 256
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f259635efa8365f0800000000000000
+      internalID: -764614686797114633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_29
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 256
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbf7d3afcb14e650800000000000000
+      internalID: 6261159960572853186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_30
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 256
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e600862d589f100800000000000000
+      internalID: 142292001973366388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_31
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 258
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa3cfc9c4c5a6f40800000000000000
+      internalID: 5722487760648682156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_32
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 257
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b39db9ebeef4c00800000000000000
+      internalID: 887190154041179005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_33
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 225
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a206ca98dcb60d920800000000000000
+      internalID: 3013026681233104938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_34
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 224
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00d4ae89b795c460800000000000000
+      internalID: 7261376797422702603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_35
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 225
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7865ae25bda4870800000000000000
+      internalID: 8667981581993281521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 225
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c07f52f384d403070800000000000000
+      internalID: 8084046303822477068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_37
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 224
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55e2718726d3743c0800000000000000
+      internalID: -4375461019836273067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_38
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 224
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8586d8f8a8587630800000000000000
+      internalID: 3924984558005945743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_39
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 226
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca77ab98f34025b0800000000000000
+      internalID: -5395237618547459391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_40
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 225
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d88a344f0fc1400800000000000000
+      internalID: 296376607397416216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_41
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 226
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10d399781f286c820800000000000000
+      internalID: 2938179780779523329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_42
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 226
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a632e8b7e2e76fb0800000000000000
+      internalID: -4654502204996962653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_43
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 225
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0807ebf09f04167a0800000000000000
+      internalID: -6385751358179479424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_44
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 193
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444d5a12d63148410800000000000000
+      internalID: 1478327937121244228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_45
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 193
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebef16bea5be61200800000000000000
+      internalID: 150566413292142270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_46
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 194
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b338c5d8074721c0800000000000000
+      internalID: -4528572797025766471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_47
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 196
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df4054e83744e0b0800000000000000
+      internalID: -5700352918669996075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_48
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 194
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362c82e6cce8e24a0800000000000000
+      internalID: -6616193793888042397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_49
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 193
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1aa92e66357b1ab0800000000000000
+      internalID: -5036302881646859747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_50
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 193
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8724104802b1d30800000000000000
+      internalID: 4403148812013697227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_51
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 194
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7baf4acb0923660800000000000000
+      internalID: 7364107480600328178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_52
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 194
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c292df00c553af0800000000000000
+      internalID: -417326231144813551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_53
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 194
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591821badc25e21c0800000000000000
+      internalID: -4526589532168879723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_54
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 194
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1d5794a346815a0800000000000000
+      internalID: -6550375456507047446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 162
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d99dcab58d9efc60800000000000000
+      internalID: 7853887997870971350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_56
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 163
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48967bdf330196520800000000000000
+      internalID: 2695703667443984772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_57
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 163
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817accc1622e28220800000000000000
+      internalID: 2486798597581743896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_58
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 161
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56fc279c8147d1f0800000000000000
+      internalID: -1020274718488594850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_59
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 163
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf319b2ca12aa80b0800000000000000
+      internalID: -5725585740428405764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_60
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 163
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b789c07474b03c950800000000000000
+      internalID: 6468025890596755579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_61
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 160
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817cc655a4bd4c770800000000000000
+      internalID: 8630263898255968024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_62
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 162
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fee98b941fc04c0800000000000000
+      internalID: -4319812643622818028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_63
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 162
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a21ad71bb1af5730800000000000000
+      internalID: 3990085619804672674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_64
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 162
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d11dc1e86650cf0800000000000000
+      internalID: -286710240713302672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_65
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 161
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a504670f99ce4b130800000000000000
+      internalID: 3581747749574819930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_66
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 131
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8f8e62306c35e60800000000000000
+      internalID: 7949915484079061238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_67
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 130
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b90ae1b729240f4c0800000000000000
+      internalID: -4255828450966855525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_68
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 129
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c5895174d19a410800000000000000
+      internalID: 1488753342964849823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_69
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 131
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f935bb1ef03d3e60800000000000000
+      internalID: 7943559185696111095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_70
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 130
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a07e6d6b42cf140800000000000000
+      internalID: 4754715674304514716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_71
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 129
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60234db4b41955fc0800000000000000
+      internalID: -3506736982257290746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_72
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 130
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ede1675f7768f3890800000000000000
+      internalID: -7476109006634344738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_73
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 130
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e682d33d9aaa32e0800000000000000
+      internalID: -2145214680332597531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_74
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 130
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17105e96e3dd7e7d0800000000000000
+      internalID: -2889097375800557199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_75
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 129
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55a16751dce67bb0800000000000000
+      internalID: -4938499557506833059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_76
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 131
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4524ec37d5dff6aa0800000000000000
+      internalID: -6165430787030236588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_77
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 98
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78b7f200373d2d60800000000000000
+      internalID: 7867004803433871482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_78
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 98
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43c26067cca9f5f0800000000000000
+      internalID: -722356292900699316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_79
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 98
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5892769077df6c1c0800000000000000
+      internalID: -4483617691300058747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_80
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 97
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eafa0f6553c1a660800000000000000
+      internalID: 7395406834821692129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_81
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 97
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7722bd16ec45c610800000000000000
+      internalID: 1640802190470817662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_82
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 97
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd030ca6ef4884710800000000000000
+      internalID: 1677737089443049695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_83
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 97
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0efc6120cdb82280800000000000000
+      internalID: -9067789216818332145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_84
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 97
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e51c33d692b5e030800000000000000
+      internalID: 3523418644346050021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_85
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 98
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b683f74a6abd4f0800000000000000
+      internalID: -802864883116250343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_86
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 97
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09dd819bc927f8d0800000000000000
+      internalID: -2812733487972493046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_87
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 97
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c10ab8f2f0ce9be80800000000000000
+      internalID: -8162233299665969124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_88
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 64
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c251f6c67a141740800000000000000
+      internalID: 5121747773673263816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_89
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 66
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa69ce29c5ead2320800000000000000
+      internalID: 2534873877904660143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_90
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 65
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc01c427bc1fbbd0800000000000000
+      internalID: -2612337685930373946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_91
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 65
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e707b02c3a7cc1d0800000000000000
+      internalID: -3329151625868146717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_92
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 65
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d4ef9a58ba79db0800000000000000
+      internalID: -4785167488486847125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_93
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 65
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20eb462b958d7d1a0800000000000000
+      internalID: -6784716433853727230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_94
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 65
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2d3a4aa23b005e30800000000000000
+      internalID: 4490101140721646893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_95
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 66
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2e4cbb69a784d20800000000000000
+      internalID: 3262992717843849965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_96
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dce6ddae37cf0d50800000000000000
+      internalID: 6705797442196401366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_97
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 65
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad1f2f191ac058ab0800000000000000
+      internalID: -5006581522674552358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_98
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 66
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387a2da027d6069a0800000000000000
+      internalID: -6241868746960230525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_99
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 33
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1757c7176ec45510800000000000000
+      internalID: 1537080315016075039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_100
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e4471d441890290800000000000000
+      internalID: -7923659936809857400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_101
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 33
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05fa78ccce2618ef0800000000000000
+      internalID: -107696146896933040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_102
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6acade52f299810800000000000000
+      internalID: 1772499768294811383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_103
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 34
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7922f3dbbdd8df3d0800000000000000
+      internalID: -3171222587686575465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_104
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 33
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c270c007ba7d24d0800000000000000
+      internalID: -3157732837306633531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_105
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 34
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337c676d65d627a10800000000000000
+      internalID: 1905705812063864627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_106
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b59114555a9d51a80800000000000000
+      internalID: -8496645817841411749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_107
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 32
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf2518c9b472e870800000000000000
+      internalID: 8710652970562564039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_108
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 33
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085e0bc3d099ae090800000000000000
+      internalID: -8004417105565784704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_109
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 33
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714079c703959f1b0800000000000000
+      internalID: -5622364595011779561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d84f74ec99abd610800000000000000
+      internalID: 1647096580047587537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_111
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a567981d28b759f30800000000000000
+      internalID: 4581703997710759514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb4a779e4aba1220800000000000000
+      internalID: 2457481393395616701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_113
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e5285a2443bd120800000000000000
+      internalID: 2439601084000525887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_114
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f677fca3e144fec0800000000000000
+      internalID: -3534127361463716104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_115
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a297f8d55e1a83b10800000000000000
+      internalID: 1961495644209117482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_116
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f70ce3d2648d7910800000000000000
+      internalID: 1836769783034152953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac553c6300c6d5da0800000000000000
+      internalID: -5954484384139356726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_118
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc72cbfbf072a7c10800000000000000
+      internalID: 2051995528815454159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Axe_Blue_119
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6096d84e60a408bc0800000000000000
+      internalID: -3782942293526484730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Axe_Blue_0: 3247042194223094378
+      SS_Axe_Blue_1: -9070147292914983699
+      SS_Axe_Blue_10: 2636144336970384247
+      SS_Axe_Blue_100: -7923659936809857400
+      SS_Axe_Blue_101: -107696146896933040
+      SS_Axe_Blue_102: 1772499768294811383
+      SS_Axe_Blue_103: -3171222587686575465
+      SS_Axe_Blue_104: -3157732837306633531
+      SS_Axe_Blue_105: 1905705812063864627
+      SS_Axe_Blue_106: -8496645817841411749
+      SS_Axe_Blue_107: 8710652970562564039
+      SS_Axe_Blue_108: -8004417105565784704
+      SS_Axe_Blue_109: -5622364595011779561
+      SS_Axe_Blue_11: -1114744445423241204
+      SS_Axe_Blue_110: 1647096580047587537
+      SS_Axe_Blue_111: 4581703997710759514
+      SS_Axe_Blue_112: 2457481393395616701
+      SS_Axe_Blue_113: 2439601084000525887
+      SS_Axe_Blue_114: -3534127361463716104
+      SS_Axe_Blue_115: 1961495644209117482
+      SS_Axe_Blue_116: 1836769783034152953
+      SS_Axe_Blue_117: -5954484384139356726
+      SS_Axe_Blue_118: 2051995528815454159
+      SS_Axe_Blue_119: -3782942293526484730
+      SS_Axe_Blue_12: -4317582059614692260
+      SS_Axe_Blue_13: 803204096820125275
+      SS_Axe_Blue_14: -6166101351441107687
+      SS_Axe_Blue_15: 8472994778126148716
+      SS_Axe_Blue_16: -4930159380099926894
+      SS_Axe_Blue_17: 7117570963982153020
+      SS_Axe_Blue_18: 855245675051384193
+      SS_Axe_Blue_19: -8360828859794512373
+      SS_Axe_Blue_2: -3049165734576592604
+      SS_Axe_Blue_20: 1990413528383579639
+      SS_Axe_Blue_21: 8317184055958256809
+      SS_Axe_Blue_22: -1915474890974438356
+      SS_Axe_Blue_23: 2352116565119292250
+      SS_Axe_Blue_24: 315632116946002664
+      SS_Axe_Blue_25: -1507470727522109758
+      SS_Axe_Blue_26: 2238313798019897903
+      SS_Axe_Blue_27: -285891047656841935
+      SS_Axe_Blue_28: -764614686797114633
+      SS_Axe_Blue_29: 6261159960572853186
+      SS_Axe_Blue_3: 6387512162648546309
+      SS_Axe_Blue_30: 142292001973366388
+      SS_Axe_Blue_31: 5722487760648682156
+      SS_Axe_Blue_32: 887190154041179005
+      SS_Axe_Blue_33: 3013026681233104938
+      SS_Axe_Blue_34: 7261376797422702603
+      SS_Axe_Blue_35: 8667981581993281521
+      SS_Axe_Blue_36: 8084046303822477068
+      SS_Axe_Blue_37: -4375461019836273067
+      SS_Axe_Blue_38: 3924984558005945743
+      SS_Axe_Blue_39: -5395237618547459391
+      SS_Axe_Blue_4: -7413776309771071729
+      SS_Axe_Blue_40: 296376607397416216
+      SS_Axe_Blue_41: 2938179780779523329
+      SS_Axe_Blue_42: -4654502204996962653
+      SS_Axe_Blue_43: -6385751358179479424
+      SS_Axe_Blue_44: 1478327937121244228
+      SS_Axe_Blue_45: 150566413292142270
+      SS_Axe_Blue_46: -4528572797025766471
+      SS_Axe_Blue_47: -5700352918669996075
+      SS_Axe_Blue_48: -6616193793888042397
+      SS_Axe_Blue_49: -5036302881646859747
+      SS_Axe_Blue_5: -8650606079320805578
+      SS_Axe_Blue_50: 4403148812013697227
+      SS_Axe_Blue_51: 7364107480600328178
+      SS_Axe_Blue_52: -417326231144813551
+      SS_Axe_Blue_53: -4526589532168879723
+      SS_Axe_Blue_54: -6550375456507047446
+      SS_Axe_Blue_55: 7853887997870971350
+      SS_Axe_Blue_56: 2695703667443984772
+      SS_Axe_Blue_57: 2486798597581743896
+      SS_Axe_Blue_58: -1020274718488594850
+      SS_Axe_Blue_59: -5725585740428405764
+      SS_Axe_Blue_6: 563749929787238532
+      SS_Axe_Blue_60: 6468025890596755579
+      SS_Axe_Blue_61: 8630263898255968024
+      SS_Axe_Blue_62: -4319812643622818028
+      SS_Axe_Blue_63: 3990085619804672674
+      SS_Axe_Blue_64: -286710240713302672
+      SS_Axe_Blue_65: 3581747749574819930
+      SS_Axe_Blue_66: 7949915484079061238
+      SS_Axe_Blue_67: -4255828450966855525
+      SS_Axe_Blue_68: 1488753342964849823
+      SS_Axe_Blue_69: 7943559185696111095
+      SS_Axe_Blue_7: -5730056236247161631
+      SS_Axe_Blue_70: 4754715674304514716
+      SS_Axe_Blue_71: -3506736982257290746
+      SS_Axe_Blue_72: -7476109006634344738
+      SS_Axe_Blue_73: -2145214680332597531
+      SS_Axe_Blue_74: -2889097375800557199
+      SS_Axe_Blue_75: -4938499557506833059
+      SS_Axe_Blue_76: -6165430787030236588
+      SS_Axe_Blue_77: 7867004803433871482
+      SS_Axe_Blue_78: -722356292900699316
+      SS_Axe_Blue_79: -4483617691300058747
+      SS_Axe_Blue_8: -2318469931710375546
+      SS_Axe_Blue_80: 7395406834821692129
+      SS_Axe_Blue_81: 1640802190470817662
+      SS_Axe_Blue_82: 1677737089443049695
+      SS_Axe_Blue_83: -9067789216818332145
+      SS_Axe_Blue_84: 3523418644346050021
+      SS_Axe_Blue_85: -802864883116250343
+      SS_Axe_Blue_86: -2812733487972493046
+      SS_Axe_Blue_87: -8162233299665969124
+      SS_Axe_Blue_88: 5121747773673263816
+      SS_Axe_Blue_89: 2534873877904660143
+      SS_Axe_Blue_9: 8643296290826213398
+      SS_Axe_Blue_90: -2612337685930373946
+      SS_Axe_Blue_91: -3329151625868146717
+      SS_Axe_Blue_92: -4785167488486847125
+      SS_Axe_Blue_93: -6784716433853727230
+      SS_Axe_Blue_94: 4490101140721646893
+      SS_Axe_Blue_95: 3262992717843849965
+      SS_Axe_Blue_96: 6705797442196401366
+      SS_Axe_Blue_97: -5006581522674552358
+      SS_Axe_Blue_98: -6241868746960230525
+      SS_Axe_Blue_99: 1537080315016075039
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

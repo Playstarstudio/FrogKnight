@@ -1,0 +1,3250 @@
+fileFormatVersion: 2
+guid: 7fd73f9b12df10c46b7a32cea45da9b9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7187804094448343136
+    second: SS_Hammer_Green_0
+  - first:
+      213: 5403754259600785415
+    second: SS_Hammer_Green_1
+  - first:
+      213: 8638503878188917977
+    second: SS_Hammer_Green_2
+  - first:
+      213: -1522851903994696876
+    second: SS_Hammer_Green_3
+  - first:
+      213: -5836720649042453231
+    second: SS_Hammer_Green_4
+  - first:
+      213: -8878233422166660804
+    second: SS_Hammer_Green_5
+  - first:
+      213: -6302268154935454162
+    second: SS_Hammer_Green_6
+  - first:
+      213: 7434495131168822989
+    second: SS_Hammer_Green_7
+  - first:
+      213: -1144060166137488822
+    second: SS_Hammer_Green_8
+  - first:
+      213: -5070700667200708879
+    second: SS_Hammer_Green_9
+  - first:
+      213: -6980575605418737519
+    second: SS_Hammer_Green_10
+  - first:
+      213: -1396044370987074615
+    second: SS_Hammer_Green_11
+  - first:
+      213: -3202751480247673499
+    second: SS_Hammer_Green_12
+  - first:
+      213: 6045287282127343626
+    second: SS_Hammer_Green_13
+  - first:
+      213: 6102505864184234003
+    second: SS_Hammer_Green_14
+  - first:
+      213: 2152475192068393695
+    second: SS_Hammer_Green_15
+  - first:
+      213: -314079741671091206
+    second: SS_Hammer_Green_16
+  - first:
+      213: -5194435793305763642
+    second: SS_Hammer_Green_17
+  - first:
+      213: -7102632189277130185
+    second: SS_Hammer_Green_18
+  - first:
+      213: 5576897379074332898
+    second: SS_Hammer_Green_19
+  - first:
+      213: -1880580501188422674
+    second: SS_Hammer_Green_20
+  - first:
+      213: 3512302874855023086
+    second: SS_Hammer_Green_21
+  - first:
+      213: 7128710497739209753
+    second: SS_Hammer_Green_22
+  - first:
+      213: -5564884711731859968
+    second: SS_Hammer_Green_23
+  - first:
+      213: 9128756165675073035
+    second: SS_Hammer_Green_24
+  - first:
+      213: 7965909563305331729
+    second: SS_Hammer_Green_25
+  - first:
+      213: -9177786796846274864
+    second: SS_Hammer_Green_26
+  - first:
+      213: -2925600939872647432
+    second: SS_Hammer_Green_27
+  - first:
+      213: 1862989457527891957
+    second: SS_Hammer_Green_28
+  - first:
+      213: -2704761347050341435
+    second: SS_Hammer_Green_29
+  - first:
+      213: -5753229352477797861
+    second: SS_Hammer_Green_30
+  - first:
+      213: -8657831541083758548
+    second: SS_Hammer_Green_31
+  - first:
+      213: 3888212800839074627
+    second: SS_Hammer_Green_32
+  - first:
+      213: 4345270237064789827
+    second: SS_Hammer_Green_33
+  - first:
+      213: 1354543581654132128
+    second: SS_Hammer_Green_34
+  - first:
+      213: -5017272163515624588
+    second: SS_Hammer_Green_35
+  - first:
+      213: 6263017098210486692
+    second: SS_Hammer_Green_36
+  - first:
+      213: 235185176300561834
+    second: SS_Hammer_Green_37
+  - first:
+      213: -5001573999711648801
+    second: SS_Hammer_Green_38
+  - first:
+      213: 179870023026782256
+    second: SS_Hammer_Green_39
+  - first:
+      213: 1553512402907510681
+    second: SS_Hammer_Green_40
+  - first:
+      213: 1787245845507416519
+    second: SS_Hammer_Green_41
+  - first:
+      213: -1787312286161232635
+    second: SS_Hammer_Green_42
+  - first:
+      213: 477463963597128357
+    second: SS_Hammer_Green_43
+  - first:
+      213: 8139975399568978543
+    second: SS_Hammer_Green_44
+  - first:
+      213: 327352372306237193
+    second: SS_Hammer_Green_45
+  - first:
+      213: -5518111589283259536
+    second: SS_Hammer_Green_46
+  - first:
+      213: 1850263917371080300
+    second: SS_Hammer_Green_47
+  - first:
+      213: 494681712039826252
+    second: SS_Hammer_Green_48
+  - first:
+      213: 4264206732294770535
+    second: SS_Hammer_Green_49
+  - first:
+      213: 3367845433946593962
+    second: SS_Hammer_Green_50
+  - first:
+      213: 6647708626429428186
+    second: SS_Hammer_Green_51
+  - first:
+      213: 4155349569043874313
+    second: SS_Hammer_Green_52
+  - first:
+      213: 5258993029256406015
+    second: SS_Hammer_Green_53
+  - first:
+      213: -8984279965829433550
+    second: SS_Hammer_Green_54
+  - first:
+      213: -5653711759501011621
+    second: SS_Hammer_Green_55
+  - first:
+      213: 2136617093921754694
+    second: SS_Hammer_Green_56
+  - first:
+      213: -5899527168424984346
+    second: SS_Hammer_Green_57
+  - first:
+      213: 4419093448976626031
+    second: SS_Hammer_Green_58
+  - first:
+      213: 1866569182452121811
+    second: SS_Hammer_Green_59
+  - first:
+      213: 1776268418459894897
+    second: SS_Hammer_Green_60
+  - first:
+      213: -1278166333763764684
+    second: SS_Hammer_Green_61
+  - first:
+      213: -1873184532666540064
+    second: SS_Hammer_Green_62
+  - first:
+      213: -6243243032337860033
+    second: SS_Hammer_Green_63
+  - first:
+      213: 6284997750697895244
+    second: SS_Hammer_Green_64
+  - first:
+      213: 4344420685588308029
+    second: SS_Hammer_Green_65
+  - first:
+      213: -5316155002484876062
+    second: SS_Hammer_Green_66
+  - first:
+      213: -8828921722627146444
+    second: SS_Hammer_Green_67
+  - first:
+      213: -2547309739846909072
+    second: SS_Hammer_Green_68
+  - first:
+      213: 3068323702851177095
+    second: SS_Hammer_Green_69
+  - first:
+      213: -6711753594083946635
+    second: SS_Hammer_Green_70
+  - first:
+      213: 5322296509997108828
+    second: SS_Hammer_Green_71
+  - first:
+      213: 6540074510734896849
+    second: SS_Hammer_Green_72
+  - first:
+      213: 4254001987417085364
+    second: SS_Hammer_Green_73
+  - first:
+      213: 7492495843853523800
+    second: SS_Hammer_Green_74
+  - first:
+      213: -8290978717044800729
+    second: SS_Hammer_Green_75
+  - first:
+      213: 8658217808021761788
+    second: SS_Hammer_Green_76
+  - first:
+      213: -5172566459062462125
+    second: SS_Hammer_Green_77
+  - first:
+      213: -1119009247424362687
+    second: SS_Hammer_Green_78
+  - first:
+      213: 5291890841255985540
+    second: SS_Hammer_Green_79
+  - first:
+      213: -2058545912901794947
+    second: SS_Hammer_Green_80
+  - first:
+      213: -6674929066038030945
+    second: SS_Hammer_Green_81
+  - first:
+      213: -8595129854596319060
+    second: SS_Hammer_Green_82
+  - first:
+      213: 5607732073988061260
+    second: SS_Hammer_Green_83
+  - first:
+      213: 1786597704851542239
+    second: SS_Hammer_Green_84
+  - first:
+      213: -5463768559547910756
+    second: SS_Hammer_Green_85
+  - first:
+      213: 8353959084390247009
+    second: SS_Hammer_Green_86
+  - first:
+      213: 307122810516950871
+    second: SS_Hammer_Green_87
+  - first:
+      213: -589491595975947027
+    second: SS_Hammer_Green_88
+  - first:
+      213: -408859846073394306
+    second: SS_Hammer_Green_89
+  - first:
+      213: 7959435579137826748
+    second: SS_Hammer_Green_90
+  - first:
+      213: 4721721853534390168
+    second: SS_Hammer_Green_91
+  - first:
+      213: 2291500763194009905
+    second: SS_Hammer_Green_92
+  - first:
+      213: -1045036041554768607
+    second: SS_Hammer_Green_93
+  - first:
+      213: -4159116445878531703
+    second: SS_Hammer_Green_94
+  - first:
+      213: -9137409948662856769
+    second: SS_Hammer_Green_95
+  - first:
+      213: 4402520006808538495
+    second: SS_Hammer_Green_96
+  - first:
+      213: 4162432037449691865
+    second: SS_Hammer_Green_97
+  - first:
+      213: 6166257587273766522
+    second: SS_Hammer_Green_98
+  - first:
+      213: 3798178412994487874
+    second: SS_Hammer_Green_99
+  - first:
+      213: 4866827039945872200
+    second: SS_Hammer_Green_100
+  - first:
+      213: 5974853318617851592
+    second: SS_Hammer_Green_101
+  - first:
+      213: 1106404194854989540
+    second: SS_Hammer_Green_102
+  - first:
+      213: 7035933523534099833
+    second: SS_Hammer_Green_103
+  - first:
+      213: 2973259481984260988
+    second: SS_Hammer_Green_104
+  - first:
+      213: -5755750414927920280
+    second: SS_Hammer_Green_105
+  - first:
+      213: 4880694445004514741
+    second: SS_Hammer_Green_106
+  - first:
+      213: 1369796492962289797
+    second: SS_Hammer_Green_107
+  - first:
+      213: -9167394962482552876
+    second: SS_Hammer_Green_108
+  - first:
+      213: 9169542689643705081
+    second: SS_Hammer_Green_109
+  - first:
+      213: 6988015981631097968
+    second: SS_Hammer_Green_110
+  - first:
+      213: -4067331922825930511
+    second: SS_Hammer_Green_111
+  - first:
+      213: -2668457032571614662
+    second: SS_Hammer_Green_112
+  - first:
+      213: 796077001100747201
+    second: SS_Hammer_Green_113
+  - first:
+      213: -8407501434769148931
+    second: SS_Hammer_Green_114
+  - first:
+      213: 4332066759365867022
+    second: SS_Hammer_Green_115
+  - first:
+      213: 2976493818165068341
+    second: SS_Hammer_Green_116
+  - first:
+      213: -4604711620699262854
+    second: SS_Hammer_Green_117
+  - first:
+      213: 5091399461741190333
+    second: SS_Hammer_Green_118
+  - first:
+      213: -6744663614952506235
+    second: SS_Hammer_Green_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_Hammer_Green_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 322
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06811b4cdb530c360800000000000000
+      internalID: 7187804094448343136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 322
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70042096eddfdfa40800000000000000
+      internalID: 5403754259600785415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 322
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4e84a228122e770800000000000000
+      internalID: 8638503878188917977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 322
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b6ed0034ebddae0800000000000000
+      internalID: -1522851903994696876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_4
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 321
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d13a47e7dcffea0800000000000000
+      internalID: -5836720649042453231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 321
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3961cecdbd2ac480800000000000000
+      internalID: -8878233422166660804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_6
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 321
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e26d0d10188d988a0800000000000000
+      internalID: -6302268154935454162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_7
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 321
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc650b1aee1ac2760800000000000000
+      internalID: 7434495131168822989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 321
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4a53b3275b7f10f0800000000000000
+      internalID: -1144060166137488822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_9
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 320
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fe5a21eb9041a9b0800000000000000
+      internalID: -5070700667200708879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 321
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1904247b873002f90800000000000000
+      internalID: -6980575605418737519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_11
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 289
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbb1a88a0140ace0800000000000000
+      internalID: -1396044370987074615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 289
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d1bf36f7a8d83d0800000000000000
+      internalID: -3202751480247673499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_13
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 290
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a001368f0cc25e350800000000000000
+      internalID: 6045287282127343626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_14
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 290
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310807240c470b450800000000000000
+      internalID: 6102505864184234003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_15
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 289
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdac31b68c02fdd10800000000000000
+      internalID: 2152475192068393695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 288
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af35c86932a24abf0800000000000000
+      internalID: -314079741671091206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_17
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 289
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c08f63da28a9e7b0800000000000000
+      internalID: -5194435793305763642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 289
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732b1ebb7a16e6d90800000000000000
+      internalID: -7102632189277130185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_19
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 289
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e8588c5e9e156d40800000000000000
+      internalID: 5576897379074332898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_20
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 289
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee353277ff5d6e5e0800000000000000
+      internalID: -1880580501188422674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_21
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 289
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1215f0bd43eb030800000000000000
+      internalID: 3512302874855023086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 258
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91cf75c9d644ee260800000000000000
+      internalID: 7128710497739209753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_23
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 257
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e6835b6de85c2b0800000000000000
+      internalID: -5564884711731859968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_24
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 258
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e3830dd5bdfae70800000000000000
+      internalID: 9128756165675073035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_25
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 258
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c83b9ea889c8e60800000000000000
+      internalID: 7965909563305331729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_26
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 257
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d625b5c883f1a080800000000000000
+      internalID: -9177786796846274864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_27
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 257
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f68758127d2667d0800000000000000
+      internalID: -2925600939872647432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_28
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 257
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f76f348a0baad910800000000000000
+      internalID: 1862989457527891957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_29
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 258
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb7bd2a2e1c67ad0800000000000000
+      internalID: -2704761347050341435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_30
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 257
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12d536c26c6820b0800000000000000
+      internalID: -5753229352477797861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_31
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 258
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20a784a51439d780800000000000000
+      internalID: -8657831541083758548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_32
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 258
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343c32511f4b5f530800000000000000
+      internalID: 3888212800839074627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 225
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ff25522408d4c30800000000000000
+      internalID: 4345270237064789827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_34
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 225
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a5a749f53e4cc210800000000000000
+      internalID: 1354543581654132128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_35
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 225
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4731238cc811f5ab0800000000000000
+      internalID: -5017272163515624588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_36
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 225
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9a8013ed4bae650800000000000000
+      internalID: 6263017098210486692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_37
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 225
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa525d9fbab834300800000000000000
+      internalID: 235185176300561834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_38
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 225
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd38b5d52f6d69ab0800000000000000
+      internalID: -5001573999711648801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_39
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 225
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030b04c35d60f7200800000000000000
+      internalID: 179870023026782256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_40
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 226
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9973771bc4f2f8510800000000000000
+      internalID: 1553512402907510681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_41
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 225
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c123c390a29dc810800000000000000
+      internalID: 1787245845507416519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_42
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 225
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d1ba002f03237e0800000000000000
+      internalID: -1787312286161232635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_43
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 226
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2c147f1fa40a600800000000000000
+      internalID: 477463963597128357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 194
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f623abb9f7007f070800000000000000
+      internalID: 8139975399568978543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_45
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 194
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907d1bb8f3dfa8400800000000000000
+      internalID: 327352372306237193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 193
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b1ec9eebabb63b0800000000000000
+      internalID: -5518111589283259536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_47
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 194
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e30afca357da910800000000000000
+      internalID: 1850263917371080300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_48
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 193
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43140b65667dd600800000000000000
+      internalID: 494681712039826252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_49
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 193
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f42472e618d2b30800000000000000
+      internalID: 4264206732294770535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_50
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 194
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaadecc149dfcbe20800000000000000
+      internalID: 3367845433946593962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_51
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 193
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad140a056c7614c50800000000000000
+      internalID: 6647708626429428186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_52
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 193
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 902ce64ca64caa930800000000000000
+      internalID: 4155349569043874313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_53
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 194
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff36519fb42bbf840800000000000000
+      internalID: 5258993029256406015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_54
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 193
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237f31ac8fc615380800000000000000
+      internalID: -8984279965829433550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 162
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b555e700c1bf981b0800000000000000
+      internalID: -5653711759501011621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_56
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 161
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ecb383de9c6ad10800000000000000
+      internalID: 2136617093921754694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_57
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 161
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e0434f1c4ba02ea0800000000000000
+      internalID: -5899527168424984346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_58
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 161
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61f1871416c35d30800000000000000
+      internalID: 4419093448976626031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_59
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 161
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d000cc28c267e910800000000000000
+      internalID: 1866569182452121811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_60
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 162
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1740c0c27b296a810800000000000000
+      internalID: 1776268418459894897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_61
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 163
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43eb520dd7a034ee0800000000000000
+      internalID: -1278166333763764684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_62
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 162
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef97a3979c1106e0800000000000000
+      internalID: -1873184532666540064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_63
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 164
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ab11b4a8b8b59a0800000000000000
+      internalID: -6243243032337860033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_64
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 163
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c452a78a72cc83750800000000000000
+      internalID: 6284997750697895244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_65
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 163
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d30a957889b7a4c30800000000000000
+      internalID: 4344420685588308029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_66
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 132
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec19f101393936b0800000000000000
+      internalID: -5316155002484876062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_67
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 131
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d341d887e597580800000000000000
+      internalID: -8828921722627146444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_68
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 132
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 073488fa94326acd0800000000000000
+      internalID: -2547309739846909072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_69
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 132
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a0b5ca620e49a20800000000000000
+      internalID: 3068323702851177095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_70
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 131
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fcca4aaaf0bd2a0800000000000000
+      internalID: -6711753594083946635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_71
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 131
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ecda32a789cd940800000000000000
+      internalID: 5322296509997108828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_72
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 132
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dea0f0ed1303ca50800000000000000
+      internalID: 6540074510734896849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_73
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 131
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b51dc5d440490b30800000000000000
+      internalID: 4254001987417085364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_74
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 131
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bdaf5e541baf760800000000000000
+      internalID: 7492495843853523800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_75
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 131
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 723883ac8c680fc80800000000000000
+      internalID: -8290978717044800729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_76
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 132
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe2913293b282870800000000000000
+      internalID: 8658217808021761788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_77
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 99
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3595b7ef53a5738b0800000000000000
+      internalID: -5172566459062462125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_78
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 100
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 147c4eaa40b7870f0800000000000000
+      internalID: -1119009247424362687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_79
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 99
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481c437bea2907940800000000000000
+      internalID: 5291890841255985540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_80
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 101
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7308ab16639e63e0800000000000000
+      internalID: -2058545912901794947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_81
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 100
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d8fd53163ed53a0800000000000000
+      internalID: -6674929066038030945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_82
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 99
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca87e6aafe6f7b880800000000000000
+      internalID: -8595129854596319060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_83
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 99
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c487f993c9aa2dd40800000000000000
+      internalID: 5607732073988061260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_84
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 100
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0543295254bc810800000000000000
+      internalID: 1786597704851542239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_85
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 99
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95f231817bcc24b0800000000000000
+      internalID: -5463768559547910756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_86
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 97
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a6a3da6893fe370800000000000000
+      internalID: 8353959084390247009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_87
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 97
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f4847a19e134400800000000000000
+      internalID: 307122810516950871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_88
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dec86c74484b1d7f0800000000000000
+      internalID: -589491595975947027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_89
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 67
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bdfdfd220735af0800000000000000
+      internalID: -408859846073394306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_90
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 67
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbf9d130d78957e60800000000000000
+      internalID: 7959435579137826748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_91
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 67
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897cd10520de68140800000000000000
+      internalID: 4721721853534390168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_92
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 66
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13927b0adcb0dcf10800000000000000
+      internalID: 2291500763194009905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_93
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 66
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dc5adc1494f71f0800000000000000
+      internalID: -1045036041554768607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_94
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 67
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989ccefd0a9d746c0800000000000000
+      internalID: -4159116445878531703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_95
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 67
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb384d25016613180800000000000000
+      internalID: -9137409948662856769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_96
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 66
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d8f52ee94e81d30800000000000000
+      internalID: 4402520006808538495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_97
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 66
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2f4e172ede3c930800000000000000
+      internalID: 4162432037449691865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_98
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 66
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76920bfa92f29550800000000000000
+      internalID: 6166257587273766522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_99
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 34
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246e71c9427d5b430800000000000000
+      internalID: 3798178412994487874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 34
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8435d3348617a8340800000000000000
+      internalID: 4866827039945872200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_101
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 35
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6e749ef61fae250800000000000000
+      internalID: 5974853318617851592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_102
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 36
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee6554d0ccba5f00800000000000000
+      internalID: 1106404194854989540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_103
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 34
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975338df248a4a160800000000000000
+      internalID: 7035933523534099833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_104
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 33
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bdbb0feb3234920800000000000000
+      internalID: 2973259481984260988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_105
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 34
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8630a6e2e777f10b0800000000000000
+      internalID: -5755750414927920280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_106
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 33
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b567bb1db5bbb340800000000000000
+      internalID: 4880694445004514741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_107
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 34
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588d79127ae720310800000000000000
+      internalID: 1369796492962289797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_108
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 33
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4df95814aded6c080800000000000000
+      internalID: -9167394962482552876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_109
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 35
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f23ef07e72c04f70800000000000000
+      internalID: 9169542689643705081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_110
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07ccfddd28b6af060800000000000000
+      internalID: 6988015981631097968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_111
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f89a547a2fed87c0800000000000000
+      internalID: -4067331922825930511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_112
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 3
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a0d2b877cb7fad0800000000000000
+      internalID: -2668457032571614662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_113
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1e77090db3c0b00800000000000000
+      internalID: 796077001100747201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_114
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df37ffb6dfd825b80800000000000000
+      internalID: -8407501434769148931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_115
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 3
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e06b74fe3c79e1c30800000000000000
+      internalID: 4332066759365867022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_116
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 2
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53200e38b51ae4920800000000000000
+      internalID: 2976493818165068341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_117
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a707b138d27c810c0800000000000000
+      internalID: -4604711620699262854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_118
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcd2b6c5d848a640800000000000000
+      internalID: 5091399461741190333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_Hammer_Green_119
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58cf04d4d242662a0800000000000000
+      internalID: -6744663614952506235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_Hammer_Green_0: 7187804094448343136
+      SS_Hammer_Green_1: 5403754259600785415
+      SS_Hammer_Green_10: -6980575605418737519
+      SS_Hammer_Green_100: 4866827039945872200
+      SS_Hammer_Green_101: 5974853318617851592
+      SS_Hammer_Green_102: 1106404194854989540
+      SS_Hammer_Green_103: 7035933523534099833
+      SS_Hammer_Green_104: 2973259481984260988
+      SS_Hammer_Green_105: -5755750414927920280
+      SS_Hammer_Green_106: 4880694445004514741
+      SS_Hammer_Green_107: 1369796492962289797
+      SS_Hammer_Green_108: -9167394962482552876
+      SS_Hammer_Green_109: 9169542689643705081
+      SS_Hammer_Green_11: -1396044370987074615
+      SS_Hammer_Green_110: 6988015981631097968
+      SS_Hammer_Green_111: -4067331922825930511
+      SS_Hammer_Green_112: -2668457032571614662
+      SS_Hammer_Green_113: 796077001100747201
+      SS_Hammer_Green_114: -8407501434769148931
+      SS_Hammer_Green_115: 4332066759365867022
+      SS_Hammer_Green_116: 2976493818165068341
+      SS_Hammer_Green_117: -4604711620699262854
+      SS_Hammer_Green_118: 5091399461741190333
+      SS_Hammer_Green_119: -6744663614952506235
+      SS_Hammer_Green_12: -3202751480247673499
+      SS_Hammer_Green_13: 6045287282127343626
+      SS_Hammer_Green_14: 6102505864184234003
+      SS_Hammer_Green_15: 2152475192068393695
+      SS_Hammer_Green_16: -314079741671091206
+      SS_Hammer_Green_17: -5194435793305763642
+      SS_Hammer_Green_18: -7102632189277130185
+      SS_Hammer_Green_19: 5576897379074332898
+      SS_Hammer_Green_2: 8638503878188917977
+      SS_Hammer_Green_20: -1880580501188422674
+      SS_Hammer_Green_21: 3512302874855023086
+      SS_Hammer_Green_22: 7128710497739209753
+      SS_Hammer_Green_23: -5564884711731859968
+      SS_Hammer_Green_24: 9128756165675073035
+      SS_Hammer_Green_25: 7965909563305331729
+      SS_Hammer_Green_26: -9177786796846274864
+      SS_Hammer_Green_27: -2925600939872647432
+      SS_Hammer_Green_28: 1862989457527891957
+      SS_Hammer_Green_29: -2704761347050341435
+      SS_Hammer_Green_3: -1522851903994696876
+      SS_Hammer_Green_30: -5753229352477797861
+      SS_Hammer_Green_31: -8657831541083758548
+      SS_Hammer_Green_32: 3888212800839074627
+      SS_Hammer_Green_33: 4345270237064789827
+      SS_Hammer_Green_34: 1354543581654132128
+      SS_Hammer_Green_35: -5017272163515624588
+      SS_Hammer_Green_36: 6263017098210486692
+      SS_Hammer_Green_37: 235185176300561834
+      SS_Hammer_Green_38: -5001573999711648801
+      SS_Hammer_Green_39: 179870023026782256
+      SS_Hammer_Green_4: -5836720649042453231
+      SS_Hammer_Green_40: 1553512402907510681
+      SS_Hammer_Green_41: 1787245845507416519
+      SS_Hammer_Green_42: -1787312286161232635
+      SS_Hammer_Green_43: 477463963597128357
+      SS_Hammer_Green_44: 8139975399568978543
+      SS_Hammer_Green_45: 327352372306237193
+      SS_Hammer_Green_46: -5518111589283259536
+      SS_Hammer_Green_47: 1850263917371080300
+      SS_Hammer_Green_48: 494681712039826252
+      SS_Hammer_Green_49: 4264206732294770535
+      SS_Hammer_Green_5: -8878233422166660804
+      SS_Hammer_Green_50: 3367845433946593962
+      SS_Hammer_Green_51: 6647708626429428186
+      SS_Hammer_Green_52: 4155349569043874313
+      SS_Hammer_Green_53: 5258993029256406015
+      SS_Hammer_Green_54: -8984279965829433550
+      SS_Hammer_Green_55: -5653711759501011621
+      SS_Hammer_Green_56: 2136617093921754694
+      SS_Hammer_Green_57: -5899527168424984346
+      SS_Hammer_Green_58: 4419093448976626031
+      SS_Hammer_Green_59: 1866569182452121811
+      SS_Hammer_Green_6: -6302268154935454162
+      SS_Hammer_Green_60: 1776268418459894897
+      SS_Hammer_Green_61: -1278166333763764684
+      SS_Hammer_Green_62: -1873184532666540064
+      SS_Hammer_Green_63: -6243243032337860033
+      SS_Hammer_Green_64: 6284997750697895244
+      SS_Hammer_Green_65: 4344420685588308029
+      SS_Hammer_Green_66: -5316155002484876062
+      SS_Hammer_Green_67: -8828921722627146444
+      SS_Hammer_Green_68: -2547309739846909072
+      SS_Hammer_Green_69: 3068323702851177095
+      SS_Hammer_Green_7: 7434495131168822989
+      SS_Hammer_Green_70: -6711753594083946635
+      SS_Hammer_Green_71: 5322296509997108828
+      SS_Hammer_Green_72: 6540074510734896849
+      SS_Hammer_Green_73: 4254001987417085364
+      SS_Hammer_Green_74: 7492495843853523800
+      SS_Hammer_Green_75: -8290978717044800729
+      SS_Hammer_Green_76: 8658217808021761788
+      SS_Hammer_Green_77: -5172566459062462125
+      SS_Hammer_Green_78: -1119009247424362687
+      SS_Hammer_Green_79: 5291890841255985540
+      SS_Hammer_Green_8: -1144060166137488822
+      SS_Hammer_Green_80: -2058545912901794947
+      SS_Hammer_Green_81: -6674929066038030945
+      SS_Hammer_Green_82: -8595129854596319060
+      SS_Hammer_Green_83: 5607732073988061260
+      SS_Hammer_Green_84: 1786597704851542239
+      SS_Hammer_Green_85: -5463768559547910756
+      SS_Hammer_Green_86: 8353959084390247009
+      SS_Hammer_Green_87: 307122810516950871
+      SS_Hammer_Green_88: -589491595975947027
+      SS_Hammer_Green_89: -408859846073394306
+      SS_Hammer_Green_9: -5070700667200708879
+      SS_Hammer_Green_90: 7959435579137826748
+      SS_Hammer_Green_91: 4721721853534390168
+      SS_Hammer_Green_92: 2291500763194009905
+      SS_Hammer_Green_93: -1045036041554768607
+      SS_Hammer_Green_94: -4159116445878531703
+      SS_Hammer_Green_95: -9137409948662856769
+      SS_Hammer_Green_96: 4402520006808538495
+      SS_Hammer_Green_97: 4162432037449691865
+      SS_Hammer_Green_98: 6166257587273766522
+      SS_Hammer_Green_99: 3798178412994487874
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

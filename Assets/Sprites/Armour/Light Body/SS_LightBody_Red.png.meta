@@ -1,0 +1,2730 @@
+fileFormatVersion: 2
+guid: e3d79159719517847bc17c3d43bfc181
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2155421297574899813
+    second: SS_LightBody_Red_0
+  - first:
+      213: 6086038255470529941
+    second: SS_LightBody_Red_1
+  - first:
+      213: 8814447382353109826
+    second: SS_LightBody_Red_2
+  - first:
+      213: 5877871859669606606
+    second: SS_LightBody_Red_3
+  - first:
+      213: 9157946280582339293
+    second: SS_LightBody_Red_4
+  - first:
+      213: -1678492216266574288
+    second: SS_LightBody_Red_5
+  - first:
+      213: -2476506398632608207
+    second: SS_LightBody_Red_6
+  - first:
+      213: 107256290377693464
+    second: SS_LightBody_Red_7
+  - first:
+      213: 8425153927103054984
+    second: SS_LightBody_Red_8
+  - first:
+      213: -6913859549346136315
+    second: SS_LightBody_Red_9
+  - first:
+      213: 2867087658663855018
+    second: SS_LightBody_Red_10
+  - first:
+      213: -6521212902604059268
+    second: SS_LightBody_Red_11
+  - first:
+      213: -5862209388713076531
+    second: SS_LightBody_Red_12
+  - first:
+      213: -7893464101146274047
+    second: SS_LightBody_Red_13
+  - first:
+      213: 2452225149848825763
+    second: SS_LightBody_Red_14
+  - first:
+      213: -6993849218245448371
+    second: SS_LightBody_Red_15
+  - first:
+      213: 7713796919793239618
+    second: SS_LightBody_Red_16
+  - first:
+      213: -7515376233328470373
+    second: SS_LightBody_Red_17
+  - first:
+      213: 3873696549546318743
+    second: SS_LightBody_Red_18
+  - first:
+      213: 4508577022153103143
+    second: SS_LightBody_Red_19
+  - first:
+      213: -8868818778762435728
+    second: SS_LightBody_Red_20
+  - first:
+      213: -7481802050898571659
+    second: SS_LightBody_Red_21
+  - first:
+      213: 7456857954376576158
+    second: SS_LightBody_Red_22
+  - first:
+      213: 4513568210505081404
+    second: SS_LightBody_Red_23
+  - first:
+      213: 8384997614838550248
+    second: SS_LightBody_Red_24
+  - first:
+      213: -7031802357899260508
+    second: SS_LightBody_Red_25
+  - first:
+      213: -648175874610639721
+    second: SS_LightBody_Red_26
+  - first:
+      213: -408378820047012393
+    second: SS_LightBody_Red_27
+  - first:
+      213: 6646554856114686201
+    second: SS_LightBody_Red_28
+  - first:
+      213: 1365659811366597980
+    second: SS_LightBody_Red_29
+  - first:
+      213: 4142719699507361204
+    second: SS_LightBody_Red_30
+  - first:
+      213: 4009500111125283823
+    second: SS_LightBody_Red_31
+  - first:
+      213: 4566148473678684372
+    second: SS_LightBody_Red_32
+  - first:
+      213: -8201530933888080553
+    second: SS_LightBody_Red_33
+  - first:
+      213: -5866009244938950329
+    second: SS_LightBody_Red_34
+  - first:
+      213: -2276475255087898792
+    second: SS_LightBody_Red_35
+  - first:
+      213: -4050612261119813249
+    second: SS_LightBody_Red_36
+  - first:
+      213: -3936235493942665480
+    second: SS_LightBody_Red_37
+  - first:
+      213: 5443602599236929385
+    second: SS_LightBody_Red_38
+  - first:
+      213: -6028917338492360983
+    second: SS_LightBody_Red_39
+  - first:
+      213: -5336242087795707324
+    second: SS_LightBody_Red_40
+  - first:
+      213: 3276495441030953372
+    second: SS_LightBody_Red_41
+  - first:
+      213: -545777549668854954
+    second: SS_LightBody_Red_42
+  - first:
+      213: 9135869300646653683
+    second: SS_LightBody_Red_43
+  - first:
+      213: 2493389457289438265
+    second: SS_LightBody_Red_44
+  - first:
+      213: 2381751408116139629
+    second: SS_LightBody_Red_45
+  - first:
+      213: -1916323242924465485
+    second: SS_LightBody_Red_46
+  - first:
+      213: -2786809636608272289
+    second: SS_LightBody_Red_47
+  - first:
+      213: -1961509319991778649
+    second: SS_LightBody_Red_48
+  - first:
+      213: -745835266694980859
+    second: SS_LightBody_Red_49
+  - first:
+      213: -5335568743181154661
+    second: SS_LightBody_Red_50
+  - first:
+      213: 8442150384334685440
+    second: SS_LightBody_Red_51
+  - first:
+      213: -4357452674366075982
+    second: SS_LightBody_Red_52
+  - first:
+      213: 1144918840044774596
+    second: SS_LightBody_Red_53
+  - first:
+      213: -2368846445171047678
+    second: SS_LightBody_Red_54
+  - first:
+      213: -4377640429700265689
+    second: SS_LightBody_Red_55
+  - first:
+      213: 4474838514270796333
+    second: SS_LightBody_Red_56
+  - first:
+      213: 5029057376170522379
+    second: SS_LightBody_Red_57
+  - first:
+      213: -7716300940150264790
+    second: SS_LightBody_Red_58
+  - first:
+      213: -8212582438202369745
+    second: SS_LightBody_Red_59
+  - first:
+      213: 7518541503472605939
+    second: SS_LightBody_Red_60
+  - first:
+      213: -6619595133114584592
+    second: SS_LightBody_Red_61
+  - first:
+      213: -6235564309045647068
+    second: SS_LightBody_Red_62
+  - first:
+      213: 4441881084072605648
+    second: SS_LightBody_Red_63
+  - first:
+      213: 813852929131563176
+    second: SS_LightBody_Red_64
+  - first:
+      213: -6733483452697386532
+    second: SS_LightBody_Red_65
+  - first:
+      213: -6628035407645834145
+    second: SS_LightBody_Red_66
+  - first:
+      213: -1343928191121810109
+    second: SS_LightBody_Red_67
+  - first:
+      213: -3692182333397043964
+    second: SS_LightBody_Red_68
+  - first:
+      213: 8156609345248358595
+    second: SS_LightBody_Red_69
+  - first:
+      213: -8560260828774793175
+    second: SS_LightBody_Red_70
+  - first:
+      213: -1440174474154632273
+    second: SS_LightBody_Red_71
+  - first:
+      213: 1542821074773109502
+    second: SS_LightBody_Red_72
+  - first:
+      213: -2004301836258532078
+    second: SS_LightBody_Red_73
+  - first:
+      213: 6797507598082532114
+    second: SS_LightBody_Red_74
+  - first:
+      213: 1361775793645185325
+    second: SS_LightBody_Red_75
+  - first:
+      213: 8305672497795218127
+    second: SS_LightBody_Red_76
+  - first:
+      213: 2718197917218362267
+    second: SS_LightBody_Red_77
+  - first:
+      213: 2020850236756758468
+    second: SS_LightBody_Red_78
+  - first:
+      213: 1163728795880580721
+    second: SS_LightBody_Red_79
+  - first:
+      213: 6484410357257403045
+    second: SS_LightBody_Red_80
+  - first:
+      213: 8356483524907555652
+    second: SS_LightBody_Red_81
+  - first:
+      213: -3120947273886565906
+    second: SS_LightBody_Red_82
+  - first:
+      213: 2347050647612622038
+    second: SS_LightBody_Red_83
+  - first:
+      213: 2318737348229287669
+    second: SS_LightBody_Red_84
+  - first:
+      213: -8729377320351109038
+    second: SS_LightBody_Red_85
+  - first:
+      213: -1221319265609499365
+    second: SS_LightBody_Red_86
+  - first:
+      213: -1723937213470676243
+    second: SS_LightBody_Red_87
+  - first:
+      213: -4960353219397645310
+    second: SS_LightBody_Red_88
+  - first:
+      213: 4062749061755424671
+    second: SS_LightBody_Red_89
+  - first:
+      213: 2846607945510589277
+    second: SS_LightBody_Red_90
+  - first:
+      213: -7562067055930715122
+    second: SS_LightBody_Red_91
+  - first:
+      213: -6386914208916855132
+    second: SS_LightBody_Red_92
+  - first:
+      213: -4954808793993823698
+    second: SS_LightBody_Red_93
+  - first:
+      213: -5809536560582761050
+    second: SS_LightBody_Red_94
+  - first:
+      213: 3679226582209793530
+    second: SS_LightBody_Red_95
+  - first:
+      213: 2257586913600572730
+    second: SS_LightBody_Red_96
+  - first:
+      213: 8728599831224907701
+    second: SS_LightBody_Red_97
+  - first:
+      213: 4028994262213623009
+    second: SS_LightBody_Red_98
+  - first:
+      213: -7259682468203176211
+    second: SS_LightBody_Red_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SS_LightBody_Red_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 289
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560734f004899ed10800000000000000
+      internalID: 2155421297574899813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 289
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d42c25c83f57450800000000000000
+      internalID: 6086038255470529941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 289
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243678c7135335a70800000000000000
+      internalID: 8814447382353109826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_3
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 289
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec02fd66055629150800000000000000
+      internalID: 5877871859669606606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_4
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 290
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda583e0f9f871f70800000000000000
+      internalID: 9157946280582339293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 288
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0363c2be83cc4b8e0800000000000000
+      internalID: -1678492216266574288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_6
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 289
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13e75813d8ea1add0800000000000000
+      internalID: -2476506398632608207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_7
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 288
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81973ef170d0d7100800000000000000
+      internalID: 107256290377693464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_8
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 289
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88407fabbd82ce470800000000000000
+      internalID: 8425153927103054984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_9
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 289
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ff74efe590d00a0800000000000000
+      internalID: -6913859549346136315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3c09af801f9c720800000000000000
+      internalID: 2867087658663855018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 257
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d479b7a6fff75a0800000000000000
+      internalID: -6521212902604059268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_12
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 256
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc81ccace9f35aea0800000000000000
+      internalID: -5862209388713076531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_13
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 256
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107d0eba838c47290800000000000000
+      internalID: -7893464101146274047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_14
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 256
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afa40608cd080220800000000000000
+      internalID: 2452225149848825763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d26d5e03bd0fe90800000000000000
+      internalID: -6993849218245448371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_16
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 257
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24647c9dd69ec0b60800000000000000
+      internalID: 7713796919793239618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_17
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 256
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b961b0b422504b790800000000000000
+      internalID: -7515376233328470373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b5d53fc7222c530800000000000000
+      internalID: 3873696549546318743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7279ce70aeea19e30800000000000000
+      internalID: 4508577022153103143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0732d8a4f40abe480800000000000000
+      internalID: -8868818778762435728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_21
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 225
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ec66cccac4b2890800000000000000
+      internalID: -7481802050898571659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_22
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 225
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c69272dc41c7760800000000000000
+      internalID: 7456857954376576158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 224
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32a6a0af5a63ae30800000000000000
+      internalID: 4513568210505081404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 225
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee03f2b7ee7d5470800000000000000
+      internalID: 8384997614838550248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_25
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 225
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad09a6f2050a6e90800000000000000
+      internalID: -7031802357899260508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_26
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 225
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ccad9e9773107f0800000000000000
+      internalID: -648175874610639721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_27
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 225
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddfd4970a5255af0800000000000000
+      internalID: -408378820047012393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_28
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 224
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f80dda3d6e4d3c50800000000000000
+      internalID: 6646554856114686201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_29
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 224
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c557884ec5cc3f210800000000000000
+      internalID: 1365659811366597980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 193
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5362d1e95ed7930800000000000000
+      internalID: 4142719699507361204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_31
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 192
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3038a9b1b94a730800000000000000
+      internalID: 4009500111125283823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_32
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 193
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d06f4528d73e5f30800000000000000
+      internalID: 4566148473678684372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_33
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 193
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7552937b11f4e2e80800000000000000
+      internalID: -8201530933888080553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_34
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 192
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749a142dbafb79ea0800000000000000
+      internalID: -5866009244938950329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_35
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 193
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fd48811d55860e0800000000000000
+      internalID: -2276475255087898792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_36
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 193
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f799c1d0c9559c7c0800000000000000
+      internalID: -4050612261119813249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_37
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 193
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe534f5caeaf59c0800000000000000
+      internalID: -3936235493942665480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_38
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 192
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96709e9f8bf8b8b40800000000000000
+      internalID: 5443602599236929385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_39
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 192
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e628fa8f9bf45ca0800000000000000
+      internalID: -6028917338492360983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 160
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442b271081cd1f5b0800000000000000
+      internalID: -5336242087795707324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_41
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 161
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9936d67e33787d20800000000000000
+      internalID: 3276495441030953372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_42
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 161
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653da91d5320d68f0800000000000000
+      internalID: -545777549668854954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_43
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 160
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fea07b99b029ce70800000000000000
+      internalID: 9135869300646653683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_44
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 160
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934e078308c4a9220800000000000000
+      internalID: 2493389457289438265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_45
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 160
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d668c00694ead0120800000000000000
+      internalID: 2381751408116139629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 160
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2a9a6e92ad765e0800000000000000
+      internalID: -1916323242924465485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_47
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 161
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58145196634359d0800000000000000
+      internalID: -2786809636608272289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_48
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 161
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2a54e7aa157c4e0800000000000000
+      internalID: -1961509319991778649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_49
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bdfabc6c246a5f0800000000000000
+      internalID: -745835266694980859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 128
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9682044f7044f5b0800000000000000
+      internalID: -5335568743181154661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_51
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 129
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00542becb0b882570800000000000000
+      internalID: 8442150384334685440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_52
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 128
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb85d221e73783c0800000000000000
+      internalID: -4357452674366075982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_53
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 127
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c465857e9193ef00800000000000000
+      internalID: 1144918840044774596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_54
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 129
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203022475ba202fd0800000000000000
+      internalID: -2368846445171047678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_55
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 128
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729c351193f7f33c0800000000000000
+      internalID: -4377640429700265689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_56
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 129
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2af8568be1d91e30800000000000000
+      internalID: 4474838514270796333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_57
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 130
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07b3bdd90dcac540800000000000000
+      internalID: 5029057376170522379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_58
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 130
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ca45a7d213ae490800000000000000
+      internalID: -7716300940150264790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_59
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 129
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29165ad8cb070e80800000000000000
+      internalID: -8212582438202369745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 96
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa148799a9375860800000000000000
+      internalID: 7518541503472605939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_61
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 97
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1fccd6c497224a0800000000000000
+      internalID: -6619595133114584592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_62
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 97
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429ea316c43d679a0800000000000000
+      internalID: -6235564309045647068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_63
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 97
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d7bca6df4bb4ad30800000000000000
+      internalID: 4441881084072605648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_64
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 96
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a84c445de26b4b00800000000000000
+      internalID: 813852929131563176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_65
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 96
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1600da97cdd82a0800000000000000
+      internalID: -6733483452697386532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_66
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 98
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f540f80e9ec7404a0800000000000000
+      internalID: -6628035407645834145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_67
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 96
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d1d8c3e68695de0800000000000000
+      internalID: -1343928191121810109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_68
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 96
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40575e3dabbb2ccc0800000000000000
+      internalID: -3692182333397043964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_69
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 98
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0f823ebf8123170800000000000000
+      internalID: 8156609345248358595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 64
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92000346128d33980800000000000000
+      internalID: -8560260828774793175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_71
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 64
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab9d6532f8730ce0800000000000000
+      internalID: -1440174474154632273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_72
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 65
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa66d1e793396510800000000000000
+      internalID: 1542821074773109502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_73
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 33
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215a523691a4f24e0800000000000000
+      internalID: -2004301836258532078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_74
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 64
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2136abd4529955e50800000000000000
+      internalID: 6797507598082532114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_75
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 64
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2962fb8edff5e210800000000000000
+      internalID: 1361775793645185325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_76
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 65
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcab0d3a12da34370800000000000000
+      internalID: 8305672497795218127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_77
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 65
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93d105aa9af8b520800000000000000
+      internalID: 2718197917218362267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_78
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 64
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf862a55908b0c10800000000000000
+      internalID: 2020850236756758468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_79
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 64
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176ea559c25662010800000000000000
+      internalID: 1163728795880580721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_80
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 65
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aaf0323dd04df950800000000000000
+      internalID: 6484410357257403045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_81
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44bd489cd7138f370800000000000000
+      internalID: 8356483524907555652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_82
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 33
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee974496dfa20b4d0800000000000000
+      internalID: -3120947273886565906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_83
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 33
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d40dc8f026629020800000000000000
+      internalID: 2347050647612622038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_84
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 32
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe43a0455fcd2020800000000000000
+      internalID: 2318737348229287669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_85
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 32
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250fe1ec3950bd680800000000000000
+      internalID: -8729377320351109038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_86
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 32
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d310849900d0fe0800000000000000
+      internalID: -1221319265609499365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_87
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 32
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deae008fc385318e0800000000000000
+      internalID: -1723937213470676243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_88
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 33
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c865d2709492bb0800000000000000
+      internalID: -4960353219397645310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_89
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 32
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fcb7d0fb8c16830800000000000000
+      internalID: 4062749061755424671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_90
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5396fe28de218720800000000000000
+      internalID: 2846607945510589277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_91
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04d09304142e0790800000000000000
+      internalID: -7562067055930715122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_92
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a6ad96cd5f1d57a0800000000000000
+      internalID: -6386914208916855132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_93
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a340057abfc3bb0800000000000000
+      internalID: -4954808793993823698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_94
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5e1d44741606fa0800000000000000
+      internalID: -5809536560582761050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_95
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 0
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd0ac8451d3f0330800000000000000
+      internalID: 3679226582209793530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_96
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d8bb2365f845f10800000000000000
+      internalID: 2257586913600572730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_97
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 0
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b7f1b6ec47322970800000000000000
+      internalID: 8728599831224907701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_98
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 0
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec74595fecd9e730800000000000000
+      internalID: 4028994262213623009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_LightBody_Red_99
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 1
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee5e94324d604b90800000000000000
+      internalID: -7259682468203176211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SS_LightBody_Red_0: 2155421297574899813
+      SS_LightBody_Red_1: 6086038255470529941
+      SS_LightBody_Red_10: 2867087658663855018
+      SS_LightBody_Red_11: -6521212902604059268
+      SS_LightBody_Red_12: -5862209388713076531
+      SS_LightBody_Red_13: -7893464101146274047
+      SS_LightBody_Red_14: 2452225149848825763
+      SS_LightBody_Red_15: -6993849218245448371
+      SS_LightBody_Red_16: 7713796919793239618
+      SS_LightBody_Red_17: -7515376233328470373
+      SS_LightBody_Red_18: 3873696549546318743
+      SS_LightBody_Red_19: 4508577022153103143
+      SS_LightBody_Red_2: 8814447382353109826
+      SS_LightBody_Red_20: -8868818778762435728
+      SS_LightBody_Red_21: -7481802050898571659
+      SS_LightBody_Red_22: 7456857954376576158
+      SS_LightBody_Red_23: 4513568210505081404
+      SS_LightBody_Red_24: 8384997614838550248
+      SS_LightBody_Red_25: -7031802357899260508
+      SS_LightBody_Red_26: -648175874610639721
+      SS_LightBody_Red_27: -408378820047012393
+      SS_LightBody_Red_28: 6646554856114686201
+      SS_LightBody_Red_29: 1365659811366597980
+      SS_LightBody_Red_3: 5877871859669606606
+      SS_LightBody_Red_30: 4142719699507361204
+      SS_LightBody_Red_31: 4009500111125283823
+      SS_LightBody_Red_32: 4566148473678684372
+      SS_LightBody_Red_33: -8201530933888080553
+      SS_LightBody_Red_34: -5866009244938950329
+      SS_LightBody_Red_35: -2276475255087898792
+      SS_LightBody_Red_36: -4050612261119813249
+      SS_LightBody_Red_37: -3936235493942665480
+      SS_LightBody_Red_38: 5443602599236929385
+      SS_LightBody_Red_39: -6028917338492360983
+      SS_LightBody_Red_4: 9157946280582339293
+      SS_LightBody_Red_40: -5336242087795707324
+      SS_LightBody_Red_41: 3276495441030953372
+      SS_LightBody_Red_42: -545777549668854954
+      SS_LightBody_Red_43: 9135869300646653683
+      SS_LightBody_Red_44: 2493389457289438265
+      SS_LightBody_Red_45: 2381751408116139629
+      SS_LightBody_Red_46: -1916323242924465485
+      SS_LightBody_Red_47: -2786809636608272289
+      SS_LightBody_Red_48: -1961509319991778649
+      SS_LightBody_Red_49: -745835266694980859
+      SS_LightBody_Red_5: -1678492216266574288
+      SS_LightBody_Red_50: -5335568743181154661
+      SS_LightBody_Red_51: 8442150384334685440
+      SS_LightBody_Red_52: -4357452674366075982
+      SS_LightBody_Red_53: 1144918840044774596
+      SS_LightBody_Red_54: -2368846445171047678
+      SS_LightBody_Red_55: -4377640429700265689
+      SS_LightBody_Red_56: 4474838514270796333
+      SS_LightBody_Red_57: 5029057376170522379
+      SS_LightBody_Red_58: -7716300940150264790
+      SS_LightBody_Red_59: -8212582438202369745
+      SS_LightBody_Red_6: -2476506398632608207
+      SS_LightBody_Red_60: 7518541503472605939
+      SS_LightBody_Red_61: -6619595133114584592
+      SS_LightBody_Red_62: -6235564309045647068
+      SS_LightBody_Red_63: 4441881084072605648
+      SS_LightBody_Red_64: 813852929131563176
+      SS_LightBody_Red_65: -6733483452697386532
+      SS_LightBody_Red_66: -6628035407645834145
+      SS_LightBody_Red_67: -1343928191121810109
+      SS_LightBody_Red_68: -3692182333397043964
+      SS_LightBody_Red_69: 8156609345248358595
+      SS_LightBody_Red_7: 107256290377693464
+      SS_LightBody_Red_70: -8560260828774793175
+      SS_LightBody_Red_71: -1440174474154632273
+      SS_LightBody_Red_72: 1542821074773109502
+      SS_LightBody_Red_73: -2004301836258532078
+      SS_LightBody_Red_74: 6797507598082532114
+      SS_LightBody_Red_75: 1361775793645185325
+      SS_LightBody_Red_76: 8305672497795218127
+      SS_LightBody_Red_77: 2718197917218362267
+      SS_LightBody_Red_78: 2020850236756758468
+      SS_LightBody_Red_79: 1163728795880580721
+      SS_LightBody_Red_8: 8425153927103054984
+      SS_LightBody_Red_80: 6484410357257403045
+      SS_LightBody_Red_81: 8356483524907555652
+      SS_LightBody_Red_82: -3120947273886565906
+      SS_LightBody_Red_83: 2347050647612622038
+      SS_LightBody_Red_84: 2318737348229287669
+      SS_LightBody_Red_85: -8729377320351109038
+      SS_LightBody_Red_86: -1221319265609499365
+      SS_LightBody_Red_87: -1723937213470676243
+      SS_LightBody_Red_88: -4960353219397645310
+      SS_LightBody_Red_89: 4062749061755424671
+      SS_LightBody_Red_9: -6913859549346136315
+      SS_LightBody_Red_90: 2846607945510589277
+      SS_LightBody_Red_91: -7562067055930715122
+      SS_LightBody_Red_92: -6386914208916855132
+      SS_LightBody_Red_93: -4954808793993823698
+      SS_LightBody_Red_94: -5809536560582761050
+      SS_LightBody_Red_95: 3679226582209793530
+      SS_LightBody_Red_96: 2257586913600572730
+      SS_LightBody_Red_97: 8728599831224907701
+      SS_LightBody_Red_98: 4028994262213623009
+      SS_LightBody_Red_99: -7259682468203176211
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
