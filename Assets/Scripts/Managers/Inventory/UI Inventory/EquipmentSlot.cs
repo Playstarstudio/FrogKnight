@@ -14,6 +14,7 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
     [SerializeField] public EquippableItemSO equippableItem;
     [SerializeField] private Image itemImage;
     [SerializeField] private Image borderImage;
+    [SerializeField] private Sprite slotDefault;
     [SerializeField]
     public TMP_Text itemName;
     [SerializeField]
@@ -65,8 +66,7 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
     private void ResetSlot()
     {
         this.item = null;
-        this.itemImage.enabled = false;
-        this.itemImage.sprite = null;
+        this.itemImage.sprite = slotDefault;
         this.hoverPanel.itemName.text = string.Empty;
         this.hoverPanel.itemDescription.text = string.Empty;
         empty = true;
@@ -83,7 +83,6 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
             item = item,
             quantity = 1
         };
-        this.itemImage.enabled = false;
         ResetSlot();
         return unequippedItem;
     }
