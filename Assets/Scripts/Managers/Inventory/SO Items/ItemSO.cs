@@ -38,12 +38,20 @@ public abstract class ItemSO : ScriptableObject
     {
         PrimaryHand, //0
         OffHand, //1
-        TwoHand, //2
-        Torso, //3
-        Head, //4
+        TorsoClothing, //2
+        TorsoArmor, //3
+        Belt, //4
         Glove, //5
-        Pants, //6
-        Foot, //7
+        LegsClothing, //6
+        LegsArmor, //7
+        Foot, //8
+        Head, //9
+        Face, //10
+        Amulet, //11
+        Ring, //12
+        Backpack, //13
+        Quiver, //14
+        NA, //15
         None
     }
 
