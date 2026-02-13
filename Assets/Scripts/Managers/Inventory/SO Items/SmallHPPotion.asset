@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Inventory.Model.ConsumableItemSO
   <itemName>k__BackingField: Health Potion
   <image>k__BackingField: {fileID: 366320403, guid: b631ed305dfd43c488e0f8edf5c829bc, type: 3}
+  slot: 0
   <description>k__BackingField: 'Restores 5 HP
 
 '
