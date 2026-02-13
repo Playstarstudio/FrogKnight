@@ -8534,7 +8534,7 @@ PrefabInstance:
       objectReference: {fileID: 21300000, guid: 380cbb2cc2e72a04fbb7013072d6c1e2, type: 3}
     - target: {fileID: 6945963844467085484, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Name
-      value: LRingSlot
+      value: L_RingSlot
       objectReference: {fileID: 0}
     - target: {fileID: 8737356855797874233, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Enabled
@@ -10726,7 +10726,7 @@ PrefabInstance:
       objectReference: {fileID: 21300000, guid: 380cbb2cc2e72a04fbb7013072d6c1e2, type: 3}
     - target: {fileID: 6945963844467085484, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Name
-      value: RingSlot
+      value: R_RingSlot
       objectReference: {fileID: 0}
     - target: {fileID: 8737356855797874233, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Enabled
