@@ -46,12 +46,17 @@ public abstract class ItemSO : ScriptableObject
         LegsArmor, //7
         Foot, //8
         Head, //9
-        Face, //10
-        Amulet, //11
-        Ring, //12
-        Backpack, //13
-        Quiver, //14
-        NA, //15
+        Helmet, //10
+        Face, //11
+        Amulet, //12
+        Ring, //13
+        Backpack, //14
+        Quiver, //15
+        Bow, //16
+        Cloak, //17
+        Bag, //18
+        Trinket, //19
+        NA, //20
         None
     }
 

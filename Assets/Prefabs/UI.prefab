@@ -2853,10 +2853,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 2349206580783669477}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 70, y: -70}
-  m_SizeDelta: {x: 120, y: 120}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &7745106768234280700
 CanvasRenderer:
@@ -5970,7 +5970,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -206, y: 0.000061035156}
+  m_AnchoredPosition: {x: -206, y: 0}
   m_SizeDelta: {x: 384.75317, y: 0}
   m_Pivot: {x: 0, y: 1}
 --- !u!222 &8470080484826806815
@@ -6469,8 +6469,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1652703782022015857}
   m_HandleRect: {fileID: 7458405528839202535}
   m_Direction: 2
-  m_Value: 0.99999976
-  m_Size: 0
+  m_Value: 1
+  m_Size: 0.20740119
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -7448,7 +7448,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 7548787262757138520}
   m_Direction: 2
   m_Value: 0
-  m_Size: 0
+  m_Size: 1
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -8418,6 +8418,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: EquippedItemUI (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8737356855797874233, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: slotDefault
+      value: 
+      objectReference: {fileID: 7010512220347229879, guid: 51691f50eb864f34486d57ab8b8a2222, type: 3}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: acceptedPartLocation
+      value: 17
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -8519,14 +8531,22 @@ PrefabInstance:
     - target: {fileID: 3865268429810706377, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 336b28736cc39b44fb560595c8bec797, type: 3}
+      objectReference: {fileID: 21300000, guid: 380cbb2cc2e72a04fbb7013072d6c1e2, type: 3}
     - target: {fileID: 6945963844467085484, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Name
       value: EquippedItemUI (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 8737356855797874233, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: slotDefault
+      value: 
+      objectReference: {fileID: -18563276972420501, guid: a8b803e20ed9ca94caa3aa3ae1fde32a, type: 3}
     - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: acceptedPartLocation
-      value: 12
+      value: 13
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8629,10 +8649,22 @@ PrefabInstance:
     - target: {fileID: 3865268429810706377, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: ee71e85eb53f88b428deb24d87246a10, type: 3}
+      objectReference: {fileID: 21300000, guid: 380cbb2cc2e72a04fbb7013072d6c1e2, type: 3}
     - target: {fileID: 6945963844467085484, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Name
       value: EquippedItemUI (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8737356855797874233, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: slotDefault
+      value: 
+      objectReference: {fileID: 21300000, guid: 380cbb2cc2e72a04fbb7013072d6c1e2, type: 3}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: acceptedPartLocation
+      value: 19
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8735,10 +8767,22 @@ PrefabInstance:
     - target: {fileID: 3865268429810706377, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: ffeb3220ce3bf8a4ba5a4054f5af50fb, type: 3}
+      objectReference: {fileID: 21300000, guid: 380cbb2cc2e72a04fbb7013072d6c1e2, type: 3}
     - target: {fileID: 6945963844467085484, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Name
       value: EquippedItemUI (6)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8737356855797874233, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: slotDefault
+      value: 
+      objectReference: {fileID: 795998225737510788, guid: 07febc68eb0a77447abbb122f5325b62, type: 3}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: acceptedPartLocation
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8841,7 +8885,7 @@ PrefabInstance:
     - target: {fileID: 3865268429810706377, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: ee71e85eb53f88b428deb24d87246a10, type: 3}
+      objectReference: {fileID: 21300000, guid: 380cbb2cc2e72a04fbb7013072d6c1e2, type: 3}
     - target: {fileID: 5270015868329166247, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -8858,9 +8902,13 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8737356855797874233, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: acceptedPartLocation
-      value: 8
+      value: 20
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8963,10 +9011,22 @@ PrefabInstance:
     - target: {fileID: 3865268429810706377, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 2567cd3e3773b7a44a9d2612653865cd, type: 3}
+      objectReference: {fileID: 21300000, guid: 380cbb2cc2e72a04fbb7013072d6c1e2, type: 3}
     - target: {fileID: 6945963844467085484, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Name
       value: EquippedItemUI
+      objectReference: {fileID: 0}
+    - target: {fileID: 8737356855797874233, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: slotDefault
+      value: 
+      objectReference: {fileID: 6993008542519199071, guid: a2e32eb9f505bcf46a1048912181cec5, type: 3}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: acceptedPartLocation
+      value: 10
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9085,7 +9145,7 @@ PrefabInstance:
     - target: {fileID: 3865268429810706377, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: ff8444197b8825b4e94c3ffc4c98f31a, type: 3}
+      objectReference: {fileID: 21300000, guid: 380cbb2cc2e72a04fbb7013072d6c1e2, type: 3}
     - target: {fileID: 5270015868329166247, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -9102,9 +9162,17 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 8737356855797874233, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: slotDefault
+      value: 
+      objectReference: {fileID: 206823797312880267, guid: 54e61367e6bd8064889be10f33de9a86, type: 3}
     - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: acceptedPartLocation
-      value: 8
+      value: 16
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9211,10 +9279,22 @@ PrefabInstance:
     - target: {fileID: 3865268429810706377, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: e991eb9f590bcea46a2c01c21d07df30, type: 3}
+      objectReference: {fileID: 21300000, guid: 380cbb2cc2e72a04fbb7013072d6c1e2, type: 3}
     - target: {fileID: 6945963844467085484, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Name
       value: EquippedItemUI (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8737356855797874233, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: slotDefault
+      value: 
+      objectReference: {fileID: -496140963123501986, guid: e495d8bd5fc929845bf7ecd675d17398, type: 3}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: acceptedPartLocation
+      value: 4
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9424,6 +9504,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: EquippedItemUI (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 8737356855797874233, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: slotDefault
+      value: 
+      objectReference: {fileID: 21300000, guid: 380cbb2cc2e72a04fbb7013072d6c1e2, type: 3}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: acceptedPartLocation
+      value: 18
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -9522,10 +9614,22 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1576016387767662612, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3865268429810706377, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: ee71e85eb53f88b428deb24d87246a10, type: 3}
+      objectReference: {fileID: 21300000, guid: 380cbb2cc2e72a04fbb7013072d6c1e2, type: 3}
+    - target: {fileID: 3865268429810706377, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5270015868329166247, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: m_Color.a
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5270015868329166247, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Enabled
       value: 1
@@ -9542,9 +9646,17 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7651275825467728505, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8737356855797874233, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: acceptedPartLocation
-      value: 8
+      value: 20
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9651,6 +9763,10 @@ PrefabInstance:
     - target: {fileID: 6945963844467085484, guid: 41f05898dbfd95d488f5dc1427277636, type: 3}
       propertyPath: m_Name
       value: ItemUI
+      objectReference: {fileID: 0}
+    - target: {fileID: 8737356855797874233, guid: 41f05898dbfd95d488f5dc1427277636, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9859,10 +9975,18 @@ PrefabInstance:
     - target: {fileID: 3865268429810706377, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: ee71e85eb53f88b428deb24d87246a10, type: 3}
+      objectReference: {fileID: 21300000, guid: 380cbb2cc2e72a04fbb7013072d6c1e2, type: 3}
     - target: {fileID: 6945963844467085484, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Name
       value: EquippedItemUI (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8737356855797874233, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: acceptedPartLocation
+      value: 20
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9969,10 +10093,18 @@ PrefabInstance:
     - target: {fileID: 3865268429810706377, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 10cbdb2dd7deae14cb4899a2bb452517, type: 3}
+      objectReference: {fileID: 21300000, guid: 380cbb2cc2e72a04fbb7013072d6c1e2, type: 3}
     - target: {fileID: 6945963844467085484, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Name
       value: EquippedItemUI
+      objectReference: {fileID: 0}
+    - target: {fileID: 8737356855797874233, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: acceptedPartLocation
+      value: 9
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10181,10 +10313,22 @@ PrefabInstance:
     - target: {fileID: 3865268429810706377, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 06eb647fe5f664c4ab94269f973adbbc, type: 3}
+      objectReference: {fileID: 21300000, guid: 380cbb2cc2e72a04fbb7013072d6c1e2, type: 3}
     - target: {fileID: 6945963844467085484, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Name
       value: EquippedItemUI (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8737356855797874233, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: slotDefault
+      value: 
+      objectReference: {fileID: -1847491608758979543, guid: d2a89311d6e76c84a91551c9ef38f23d, type: 3}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: acceptedPartLocation
+      value: 12
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10288,6 +10432,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: EquippedItemUI (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 8737356855797874233, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: slotDefault
+      value: 
+      objectReference: {fileID: 6604439130014205314, guid: c464ae58bfd5c9a4db3cc54abb6bf203, type: 3}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: acceptedPartLocation
+      value: 15
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -10389,10 +10545,22 @@ PrefabInstance:
     - target: {fileID: 3865268429810706377, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: ee71e85eb53f88b428deb24d87246a10, type: 3}
+      objectReference: {fileID: 21300000, guid: 380cbb2cc2e72a04fbb7013072d6c1e2, type: 3}
     - target: {fileID: 6945963844467085484, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Name
       value: EquippedItemUI (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8737356855797874233, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: slotDefault
+      value: 
+      objectReference: {fileID: 21300000, guid: 380cbb2cc2e72a04fbb7013072d6c1e2, type: 3}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: acceptedPartLocation
+      value: 19
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10495,10 +10663,22 @@ PrefabInstance:
     - target: {fileID: 3865268429810706377, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 336b28736cc39b44fb560595c8bec797, type: 3}
+      objectReference: {fileID: 21300000, guid: 380cbb2cc2e72a04fbb7013072d6c1e2, type: 3}
     - target: {fileID: 6945963844467085484, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Name
       value: EquippedItemUI (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8737356855797874233, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: slotDefault
+      value: 
+      objectReference: {fileID: -18563276972420501, guid: a8b803e20ed9ca94caa3aa3ae1fde32a, type: 3}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: acceptedPartLocation
+      value: 13
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10601,10 +10781,22 @@ PrefabInstance:
     - target: {fileID: 3865268429810706377, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: f8a54a8c47e8af744bdb702d2bba08cd, type: 3}
+      objectReference: {fileID: 21300000, guid: 380cbb2cc2e72a04fbb7013072d6c1e2, type: 3}
     - target: {fileID: 6945963844467085484, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Name
       value: EquippedItemUI (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8737356855797874233, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: slotDefault
+      value: 
+      objectReference: {fileID: 5611791942624391348, guid: 00135b1eed588964eb7a52d5cff01b2b, type: 3}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: acceptedPartLocation
+      value: 2
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -10711,10 +10903,22 @@ PrefabInstance:
     - target: {fileID: 3865268429810706377, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: f8a54a8c47e8af744bdb702d2bba08cd, type: 3}
+      objectReference: {fileID: 21300000, guid: 380cbb2cc2e72a04fbb7013072d6c1e2, type: 3}
     - target: {fileID: 6945963844467085484, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Name
       value: EquippedItemUI (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8737356855797874233, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: slotDefault
+      value: 
+      objectReference: {fileID: -1315519309611312782, guid: 5c06972ec94ac9f4096468180c8173d7, type: 3}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: acceptedPartLocation
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11036,11 +11240,19 @@ PrefabInstance:
     - target: {fileID: 3865268429810706377, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: ff8444197b8825b4e94c3ffc4c98f31a, type: 3}
+      objectReference: {fileID: 21300000, guid: 380cbb2cc2e72a04fbb7013072d6c1e2, type: 3}
     - target: {fileID: 6945963844467085484, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Name
       value: EquippedItemUI (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 8737356855797874233, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: slotDefault
+      value: 
+      objectReference: {fileID: 6164974027742753977, guid: 87782033758811a4bab5186a1b54591c, type: 3}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11248,10 +11460,22 @@ PrefabInstance:
     - target: {fileID: 3865268429810706377, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 233a77205485c7041b356d6db13d4ee4, type: 3}
+      objectReference: {fileID: 21300000, guid: 380cbb2cc2e72a04fbb7013072d6c1e2, type: 3}
     - target: {fileID: 6945963844467085484, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
       propertyPath: m_Name
       value: EquippedItemUI (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8737356855797874233, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: slotDefault
+      value: 
+      objectReference: {fileID: -8645115756152951215, guid: 3cd3ee59d82ff2a44bfc16465c5b8e61, type: 3}
+    - target: {fileID: 8978750985816141454, guid: c068fa7915fd04d43945c8bd7096973d, type: 3}
+      propertyPath: acceptedPartLocation
+      value: 8
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

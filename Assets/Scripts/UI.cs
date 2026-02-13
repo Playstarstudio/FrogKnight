@@ -13,6 +13,8 @@ public class UI : MonoBehaviour
         // _healthBar.value = playerHP / playerMaxHP;
         // _manaBar.value = playerMana / playerMaxMana;
         // _staminaBar.value = playerStamina / playerMaxStamina;
+        P_StateManager manager = FindFirstObjectByType<P_StateManager>();
+        PCAttributes = manager.att;
         PCAttributes.UpdateCurrentValues();
     }
 

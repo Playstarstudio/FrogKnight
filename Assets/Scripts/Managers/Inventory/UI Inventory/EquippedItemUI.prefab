@@ -580,9 +580,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::EquipmentSlot
   acceptedPartLocation: 0
   equippableItem: {fileID: 0}
+  selfImage: {fileID: 5270015868329166247}
   itemImage: {fileID: 6152972730203815159}
   borderImage: {fileID: 8737356855797874233}
-  slotDefault: {fileID: 795998225737510788, guid: 07febc68eb0a77447abbb122f5325b62, type: 3}
+  itemBG: {fileID: 3865268429810706377}
+  slotDefault: {fileID: -496140963123501986, guid: e495d8bd5fc929845bf7ecd675d17398, type: 3}
   itemName: {fileID: 0}
   description: {fileID: 0}
   hoverPanel: {fileID: 5726998147102806009}

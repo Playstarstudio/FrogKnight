@@ -12,8 +12,10 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
 {
     [SerializeField] public PartLocation acceptedPartLocation;
     [SerializeField] public EquippableItemSO equippableItem;
+    [SerializeField] private Image selfImage;
     [SerializeField] private Image itemImage;
     [SerializeField] private Image borderImage;
+    [SerializeField] private Image itemBG;
     [SerializeField] private Sprite slotDefault;
     [SerializeField]
     public TMP_Text itemName;
@@ -35,7 +37,19 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
     public event Action<EquipmentSlot> OnRightMouseBtnClick;
     public event Action<EquipmentSlot> OnPointerEnter;
     public event Action<EquipmentSlot> OnPointerExit;
-
+    private void Start()
+    {
+        if(acceptedPartLocation == PartLocation.NA)
+        {
+            selfImage.enabled = false;
+            itemImage.gameObject.SetActive(false);
+            itemBG.gameObject.SetActive(false);
+            borderImage.gameObject.SetActive(false);
+        }
+        this.itemImage.enabled = true;
+        this.itemImage.sprite = slotDefault;
+        
+    }
     public bool TryEquip(ItemSO newItem, int qty)
     {
         // Validate that the item can go in this slot
@@ -55,8 +69,8 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
             ResetSlot();
             return;
         }
+        this.borderImage.enabled = false;
         this.item = newItem;
-        this.itemImage.enabled = true;
         this.itemImage.sprite = newItem.image;
         this.hoverPanel.PrepareHoverPanel(item);
         this.hoverPanel.Toggle(false);
@@ -65,6 +79,7 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
 
     private void ResetSlot()
     {
+        this.borderImage.enabled = false;
         this.item = null;
         this.itemImage.sprite = slotDefault;
         this.hoverPanel.itemName.text = string.Empty;
