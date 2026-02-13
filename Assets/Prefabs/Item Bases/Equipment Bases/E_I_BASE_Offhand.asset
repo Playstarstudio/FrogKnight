@@ -10,13 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e7082b9c94e661f4c8d3170134a5781f, type: 3}
-  m_Name: E_I_BASE_Amulet
+  m_Name: E_I_BASE_Offhand
   m_EditorClassIdentifier: Assembly-CSharp::Inventory.Model.EquippableItemSO
-  <itemName>k__BackingField: BASE-Amulet
-  <image>k__BackingField: {fileID: 335566902794988396, guid: 77e8c4d81bab1624ba174f5160d8d3cc, type: 3}
-  slot: 12
+  <itemName>k__BackingField: BASE-Offhand
+  <image>k__BackingField: {fileID: -6717884257390833292, guid: d8b37126bb924eb4984491422aacbbd8, type: 3}
+  slot: 1
   <description>k__BackingField: Cuts Stuff!
-  <weight>k__BackingField: 1
+  <weight>k__BackingField: 4
   <isStackable>k__BackingField: 0
   <MaxStackSize>k__BackingField: 1
   <count>k__BackingField: 1
