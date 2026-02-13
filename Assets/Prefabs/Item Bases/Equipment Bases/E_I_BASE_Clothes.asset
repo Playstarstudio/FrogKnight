@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e7082b9c94e661f4c8d3170134a5781f, type: 3}
-  m_Name: E_I_BASE_Equippable
+  m_Name: E_I_BASE_Clothes
   m_EditorClassIdentifier: Assembly-CSharp::Inventory.Model.EquippableItemSO
-  <itemName>k__BackingField: BASE Sword
-  <image>k__BackingField: {fileID: 1329060588, guid: b631ed305dfd43c488e0f8edf5c829bc, type: 3}
-  slot: 21
+  <itemName>k__BackingField: BASE-Clothes
+  <image>k__BackingField: {fileID: -5347580092025011949, guid: 5597a23e0702a964f85a8aac6ac410e6, type: 3}
+  slot: 2
   <description>k__BackingField: Cuts Stuff!
   <weight>k__BackingField: 4
   <isStackable>k__BackingField: 0

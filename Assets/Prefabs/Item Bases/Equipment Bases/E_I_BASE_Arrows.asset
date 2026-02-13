@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7082b9c94e661f4c8d3170134a5781f, type: 3}
+  m_Name: E_I_BASE_Arrows
+  m_EditorClassIdentifier: Assembly-CSharp::Inventory.Model.EquippableItemSO
+  <itemName>k__BackingField: BASE-Arrows
+  <image>k__BackingField: {fileID: -1011920623, guid: b631ed305dfd43c488e0f8edf5c829bc, type: 3}
+  slot: 15
+  <description>k__BackingField: Cuts Stuff!
+  <weight>k__BackingField: 4
+  <isStackable>k__BackingField: 0
+  <MaxStackSize>k__BackingField: 1
+  <count>k__BackingField: 1
+  <effects>k__BackingField:
+  - {fileID: 11400000, guid: c159c13d6ce289442957e255d14324be, type: 2}
+  equipped: 0
