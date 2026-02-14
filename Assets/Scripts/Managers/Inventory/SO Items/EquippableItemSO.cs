@@ -12,8 +12,19 @@ namespace Inventory.Model
         public void PerformAction(P_StateManager player, int i)
         {
             player.gameLogManager.AddEntry(player, this);
-            foreach(EquipmentSlot slot in player.inventoryManager.equipmentSlots)
-            { return; }
+            foreach (EquipmentSlot slot in player.inventoryManager.equipmentSlots)
+            {
+                if (slot.acceptedPartLocation != this.slot)
+                {
+                    {
+                        continue;
+                    }
+                }
+                else if (slot.acceptedPartLocation == this.slot)
+                {
+                    player.inventoryManager.HandleTryActionEquip(slot, i);
+                }
+            }
         }
     }
 }

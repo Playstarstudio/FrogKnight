@@ -3,8 +3,6 @@ using Inventory.UI;
 using System;
 using System.Collections.Generic;
 using System.Text;
-using Unity.VisualScripting;
-using UnityEditorInternal.Profiling.Memory.Experimental;
 using UnityEngine;
 using static ItemSO;
 
@@ -196,7 +194,7 @@ namespace Inventory
                 slot.OnSlotBeginDrag += HandleEquipmentSlotBeginDrag;
                 slot.OnSlotEndDrag += HandleEquipmentSlotEndDrag;
                 slot.OnSlotClicked += HandleEquipmentSlotClicked;
-               // slot.OnRightMouseBtnClick
+                // slot.OnRightMouseBtnClick
             }
         }
         private void HandleDropOnEquipmentSlot(EquipmentSlot slot)
@@ -214,10 +212,10 @@ namespace Inventory
                     InventoryItem replacedItem = slot.Unequip(slot.item);
                     if (replacedItem != null)
                     {
-                        inventoryData.AddItemToFirstFreeSlot(replacedItem.item, 1);   
+                        inventoryData.AddItemToFirstFreeSlot(replacedItem.item, 1);
                     }
                     slot.SetData(invItem.item);
-                    inventoryData.RemoveItem(currentlyDraggedItemIndex,1);
+                    inventoryData.RemoveItem(currentlyDraggedItemIndex, 1);
                 }
                 else
                 {
@@ -236,6 +234,36 @@ namespace Inventory
                 slot.SetData(sourceItem);
             }
         }
+        public bool HandleTryActionEquip(EquipmentSlot slot, int index)
+        {
+            InventorySO.InventoryItem invItem = inventoryData.GetInventoryItemAt(index);
+            if (invItem.IsEmpty)
+            {
+                return false;
+            }
+            EquippableItemSO equippable = invItem.item as EquippableItemSO;
+            if (equippable == null || equippable.slot != slot.GetSlotType())
+            {
+                return false;
+            }
+            if (!slot.IsEmpty)
+            {
+                InventoryItem replacedItem = slot.Unequip(slot.item);
+                inventoryData.RemoveItem(index, 1);
+                if (replacedItem != null)
+                {
+                    inventoryData.AddItemToFirstFreeSlot(replacedItem.item, 1);
+                }
+                slot.SetData(invItem.item);
+                return true;
+            }
+            else
+            {
+                slot.SetData(invItem.item);
+                inventoryData.RemoveItem(index, invItem.quantity);
+                return true;
+            }
+        }
         private void HandleDropFromEquipmentToInventory(InventoryItem targetUIItem)
         {
             if (dragSource != DragSource.Equipment || draggedEquipmentSlot == null) return;
@@ -247,7 +275,6 @@ namespace Inventory
             InventorySO.InventoryItem targetItem = inventoryData.GetInventoryItemAt(targetIndex);
             ItemSO unequippedItemSO = draggedEquipmentSlot.item;
             draggedEquipmentSlot.Unequip(targetUIItem.item);
-
             if (!targetItem.IsEmpty)
             {
                 EquippableItemSO equippable = targetItem.item as EquippableItemSO;
@@ -255,11 +282,11 @@ namespace Inventory
                 {
                     draggedEquipmentSlot.SetData(targetItem.item);
                     inventoryData.RemoveItem(targetIndex, targetItem.quantity);
-                    inventoryData.AddItem(targetItem.item,1);
+                    inventoryData.AddItem(targetItem.item, 1);
                 }
                 else
                 {
-                    int remainder = inventoryData.AddItemToFirstFreeSlot(unequippedItemSO,1);
+                    int remainder = inventoryData.AddItemToFirstFreeSlot(unequippedItemSO, 1);
                     if (remainder > 0)
                     {
                         draggedEquipmentSlot.SetData(unequippedItemSO);
@@ -268,8 +295,12 @@ namespace Inventory
             }
             else
             {
-                inventoryData.AddItem(unequippedItemSO,1);
+                inventoryData.AddItem(unequippedItemSO, 1);
             }
+        }
+        public void HandleTryActionEquipSwap(EquipmentSlot slot)
+        {
+            inventoryData.AddItemToFirstFreeSlot(slot.item, 1);
         }
 
         private void HandleEquipmentSlotClicked(EquipmentSlot slot)
@@ -414,7 +445,7 @@ namespace Inventory
         private void HandleStartDragging(int itemIndex)
         {
             InventorySO.InventoryItem invItem = inventoryData.GetInventoryItemAt(itemIndex);
-            
+
             if (invItem.IsEmpty)
             {
                 return;
@@ -470,7 +501,7 @@ namespace Inventory
 
         private void HandleItemSwap(InventoryItem invItem)
         {
-            if(dragSource == DragSource.Equipment)
+            if (dragSource == DragSource.Equipment)
             {
                 HandleDropFromEquipmentToInventory(invItem);
                 return;
