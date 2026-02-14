@@ -211,16 +211,13 @@ namespace Inventory
                 {
                     InventoryItem replacedItem = slot.Unequip(slot.item);
                     inventoryData.RemoveItem(currentlyDraggedItemIndex, 1);
-                    if (replacedItem != null)
-                    {
-                        inventoryData.AddItemToFirstFreeSlot(replacedItem.item, 1);
-                    }
+                    inventoryData.AddItemToFirstFreeSlot(replacedItem.item, 1);
                     slot.SetData(invItem.item);
                 }
                 else
                 {
-                    slot.SetData(invItem.item);
                     inventoryData.RemoveItem(currentlyDraggedItemIndex, invItem.quantity);
+                    slot.SetData(invItem.item);
                 }
             }
             else if (dragSource == DragSource.Equipment && draggedEquipmentSlot != null)
