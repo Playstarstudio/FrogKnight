@@ -210,12 +210,12 @@ namespace Inventory
                 if (!slot.IsEmpty)
                 {
                     InventoryItem replacedItem = slot.Unequip(slot.item);
+                    inventoryData.RemoveItem(currentlyDraggedItemIndex, 1);
                     if (replacedItem != null)
                     {
                         inventoryData.AddItemToFirstFreeSlot(replacedItem.item, 1);
                     }
                     slot.SetData(invItem.item);
-                    inventoryData.RemoveItem(currentlyDraggedItemIndex, 1);
                 }
                 else
                 {
@@ -250,17 +250,14 @@ namespace Inventory
             {
                 InventoryItem replacedItem = slot.Unequip(slot.item);
                 inventoryData.RemoveItem(index, 1);
-                if (replacedItem != null)
-                {
-                    inventoryData.AddItemToFirstFreeSlot(replacedItem.item, 1);
-                }
+                inventoryData.AddItemToFirstFreeSlot(replacedItem.item, 1);
                 slot.SetData(invItem.item);
                 return true;
             }
             else
             {
-                slot.SetData(invItem.item);
                 inventoryData.RemoveItem(index, invItem.quantity);
+                slot.SetData(invItem.item);
                 return true;
             }
         }

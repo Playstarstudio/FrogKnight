@@ -61,6 +61,7 @@ namespace Inventory.Model
                 if (inventoryItems[i].IsEmpty)
                 {
                     inventoryItems[i] = newItem;
+                    InformAboutChange();
                     return count;
                 }
             }
@@ -132,6 +133,7 @@ namespace Inventory.Model
         public void AddInventoryItem(global::InventoryItem item)
         {
             AddItem(item.item, item.quantity);
+            InformAboutChange();
             return;
         }
 
