@@ -2,6 +2,7 @@ using Ink.Parsed;
 using System.Collections.Generic;
 using Unity.VisualScripting;
 using UnityEngine;
+using static ItemSO;
 using static Unity.VisualScripting.Member;
 
 namespace Inventory.Model
@@ -10,7 +11,7 @@ namespace Inventory.Model
     public class ConsumableItemSO : ItemSO, IDestroyableItem, IItemAction
     {
         public string ActionName => "Consume";
-        public void PerformAction(P_StateManager player)
+        public void PerformAction(P_StateManager player, int i)
         {
             foreach (Modifier effect in this.effects)
             {
@@ -29,10 +30,6 @@ namespace Inventory.Model
     {
 
     }
-    public interface IItemAction
-    {
-        public string ActionName { get; }
-        void PerformAction(P_StateManager player);
-    }
+
     
 }

@@ -59,5 +59,9 @@ public abstract class ItemSO : ScriptableObject
         NA, //20
         None
     }
-
+    public interface IItemAction
+    {
+        public string ActionName { get; }
+        void PerformAction(P_StateManager player, int itemIndex);
+    }
 }

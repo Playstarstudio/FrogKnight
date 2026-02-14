@@ -6,6 +6,7 @@ using System.Text;
 using Unity.VisualScripting;
 using UnityEditorInternal.Profiling.Memory.Experimental;
 using UnityEngine;
+using static ItemSO;
 
 namespace Inventory
 {
@@ -20,7 +21,7 @@ namespace Inventory
         [SerializeField] private InventoryDescription inventoryDescription;
         [SerializeField] private FloatingItem floatingItem;
         [SerializeField] List<InventoryItem> listofUIItems = new List<InventoryItem>();
-        [SerializeField] private EquipmentSlot[] equipmentSlots;
+        [SerializeField] public EquipmentSlot[] equipmentSlots;
         private enum DragSource { None, Inventory, Equipment }
         private DragSource dragSource = DragSource.None;
         private EquipmentSlot draggedEquipmentSlot;
@@ -390,18 +391,21 @@ namespace Inventory
             InventorySO.InventoryItem inventoryItem = inventoryData.GetInventoryItemAt(itemIndex);
             if (inventoryItem.IsEmpty)
                 return;
-            IDestroyableItem destroyableItem = inventoryItem.item as IDestroyableItem;
-            if (destroyableItem != null)
-            {
-                inventoryData.RemoveItem(itemIndex, 1);
-                ResetSelection();
-            }
             IItemAction itemAction = inventoryItem.item as IItemAction;
             if (itemAction != null)
             {
-                itemAction.PerformAction(playerStateManager);
+                itemAction.PerformAction(playerStateManager, itemIndex);
                 if (inventoryData.GetInventoryItemAt(itemIndex).IsEmpty)
                 {
+                    ResetSelection();
+                }
+            }
+            if (inventoryItem.item.GetType() == typeof(ConsumableItemSO))
+            {
+                IDestroyableItem destroyableItem = inventoryItem.item as IDestroyableItem;
+                if (destroyableItem != null)
+                {
+                    inventoryData.RemoveItem(itemIndex, 1);
                     ResetSelection();
                 }
             }
