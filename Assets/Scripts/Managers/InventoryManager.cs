@@ -195,6 +195,7 @@ namespace Inventory
                 slot.OnSlotEndDrag += HandleEquipmentSlotEndDrag;
                 slot.OnSlotClicked += HandleEquipmentSlotClicked;
                 // slot.OnRightMouseBtnClick
+                playerStateManager.CalculateAllStats();
             }
         }
         private void HandleDropOnEquipmentSlot(EquipmentSlot slot)
@@ -213,11 +214,13 @@ namespace Inventory
                     inventoryData.RemoveItem(currentlyDraggedItemIndex, 1);
                     inventoryData.AddItemToFirstFreeSlot(replacedItem.item, 1);
                     slot.SetData(invItem.item);
+                    playerStateManager.CalculateAllStats();
                 }
                 else
                 {
                     inventoryData.RemoveItem(currentlyDraggedItemIndex, invItem.quantity);
                     slot.SetData(invItem.item);
+                    playerStateManager.CalculateAllStats();
                 }
             }
             else if (dragSource == DragSource.Equipment && draggedEquipmentSlot != null)
@@ -249,12 +252,14 @@ namespace Inventory
                 inventoryData.RemoveItem(index, 1);
                 inventoryData.AddItemToFirstFreeSlot(replacedItem.item, 1);
                 slot.SetData(invItem.item);
+                playerStateManager.CalculateAllStats();
                 return true;
             }
             else
             {
                 inventoryData.RemoveItem(index, invItem.quantity);
                 slot.SetData(invItem.item);
+                playerStateManager.CalculateAllStats();
                 return true;
             }
         }
@@ -277,6 +282,7 @@ namespace Inventory
                     draggedEquipmentSlot.SetData(targetItem.item);
                     inventoryData.RemoveItem(targetIndex, targetItem.quantity);
                     inventoryData.AddItem(targetItem.item, 1);
+                    playerStateManager.CalculateAllStats();
                 }
                 else
                 {
@@ -284,12 +290,14 @@ namespace Inventory
                     if (remainder > 0)
                     {
                         draggedEquipmentSlot.SetData(unequippedItemSO);
+                        playerStateManager.CalculateAllStats();
                     }
                 }
             }
             else
             {
                 inventoryData.AddItem(unequippedItemSO, 1);
+                playerStateManager.CalculateAllStats();
             }
         }
         public void HandleTryActionEquipSwap(EquipmentSlot slot)

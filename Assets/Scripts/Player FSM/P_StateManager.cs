@@ -1,4 +1,5 @@
 using Inventory;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -81,6 +82,11 @@ public class P_StateManager : Entity
             SwitchState(previousState);
         }
     }
+    internal void CalculateAllStats()
+    {
+        throw new NotImplementedException();
+    }
+
     /*
     IEnumerator<Vector2> Move(Vector2 direction)
     {
@@ -112,7 +118,7 @@ public class P_StateManager : Entity
         moving = false;
     }
      */
-private IEnumerator WaitForTime(float time)
+    private IEnumerator WaitForTime(float time)
 {
         yield return new WaitForSeconds(time);
         gridManager.PlayerDijkstras();
@@ -130,6 +136,8 @@ private IEnumerator WaitForTime(float time)
         transform.position = data.position;
         att = data.att;
     }
+
+
     #endregion
 }
 
