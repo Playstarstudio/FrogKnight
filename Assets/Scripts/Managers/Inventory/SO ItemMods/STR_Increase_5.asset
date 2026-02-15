@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6d051260880b06742b8bfde374275527, type: 3}
   m_Name: STR_Increase_5
   m_EditorClassIdentifier: Assembly-CSharp::ItemModifier
-  attributeName: Restores 5 MP
-  attName: {fileID: 11400000, guid: 0080b80e4c781e943b34dd3c0735367f, type: 2}
+  attributeName: adds strength
+  attName: {fileID: 11400000, guid: c3e53dc1c53bbf14783ea383c56d4793, type: 2}
   modifierValue: 5
   operation: 0

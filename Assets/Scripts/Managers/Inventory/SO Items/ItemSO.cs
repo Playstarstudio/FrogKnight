@@ -30,7 +30,10 @@ public abstract class ItemSO : ScriptableObject
     [field: SerializeField]
     public int count { get; set; } = 1;
     [field: SerializeField]
+    public List<EquipmentModifier> modifiers { get; set; }
+    [field: SerializeField]
     public List<Modifier> effects { get; set; }
+
 
     //public List<Item> materials;
     //public List<Modifier> finalModifiers;

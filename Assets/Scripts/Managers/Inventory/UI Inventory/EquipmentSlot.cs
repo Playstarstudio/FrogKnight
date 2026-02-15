@@ -1,6 +1,7 @@
 using Inventory.Model;
 using System;
 using TMPro;
+using UnityEditorInternal.Profiling.Memory.Experimental;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
@@ -67,6 +68,7 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
             ResetSlot();
             return;
         }
+        this.equippableItem = (EquippableItemSO)newItem;
         this.borderImage.enabled = false;
         this.item = newItem;
         this.itemImage.sprite = newItem.image;
@@ -78,7 +80,9 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
 
     private void ResetSlot()
     {
+        RemoveModifiers(this.equippableItem);
         this.borderImage.enabled = false;
+        this.equippableItem = null;
         this.item = null;
         this.itemImage.sprite = slotDefault;
         this.hoverPanel.itemName.text = string.Empty;
@@ -93,6 +97,7 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
     public InventoryItem Unequip(ItemSO item)
     {
         RemoveModifiers(item);
+        this.equippableItem = (EquippableItemSO)item;
         GameObject invItem = new GameObject("invItem");
         InventoryItem unequippedItem = invItem.AddComponent<InventoryItem>();
         unequippedItem.item = item;
@@ -152,26 +157,25 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
         if (item != null)
         {
             P_StateManager player = FindFirstObjectByType<P_StateManager>();
-            if (item.effects.Count > 0)
+            if (item.modifiers.Count > 0)
             {
-                foreach (Modifier effect in item.effects)
+                foreach (EquipmentModifier effect in item.modifiers)
                 {
-                   // player.att.RemoveModifier(effect);
+                    player.att.RemoveModifier(effect.attributeModifier);
                 }
             }
         }
-        else { Debug.Log("item was null!"); }
     }
     private void AddModifiers(ItemSO item)
     {
         if (item != null)
         {
             P_StateManager player = FindFirstObjectByType<P_StateManager>();
-            if (item.effects.Count > 0)
+            if (item.modifiers.Count > 0)
             {
-                foreach (Modifier effect in item.effects)
+                foreach (EquipmentModifier effect in item.modifiers)
                 {
-                   // player.att.ApplyModifier(effect.modifier);
+                   player.att.ApplyModifier(effect.attributeModifier);
                 }
             }
         }

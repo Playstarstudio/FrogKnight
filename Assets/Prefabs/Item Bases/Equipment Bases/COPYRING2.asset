@@ -20,6 +20,8 @@ MonoBehaviour:
   <isStackable>k__BackingField: 0
   <MaxStackSize>k__BackingField: 1
   <count>k__BackingField: 1
+  <modifiers>k__BackingField:
+  - {fileID: 11400000, guid: e00fbd33a4fd47947a4dd11280925edc, type: 2}
   <effects>k__BackingField:
-  - {fileID: 11400000, guid: c159c13d6ce289442957e255d14324be, type: 2}
+  - {fileID: 11400000, guid: d0ec6b800051dfc47891dca3ed1ec2cc, type: 2}
   equipped: 0

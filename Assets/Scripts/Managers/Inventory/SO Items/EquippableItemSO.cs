@@ -1,3 +1,5 @@
+using Ink.Parsed;
+using System.Collections.Generic;
 using UnityEngine;
 using static ItemSO;
 
@@ -7,7 +9,6 @@ namespace Inventory.Model
     public class EquippableItemSO : ItemSO, IDestroyableItem, IItemAction
     {
         [SerializeField] public bool equipped;
-
         public string ActionName => "Equip";
         public void PerformAction(P_StateManager player, int i)
         {
