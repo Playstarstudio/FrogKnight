@@ -1,12 +1,11 @@
 using System;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.Serialization;
 
 [Serializable]
 public class Attribute
 {
-    public Attribute(){ }
+    public Attribute() { }
 
     public Attribute(float value)
     {
@@ -21,15 +20,15 @@ public class Attribute
     /// Dictionary of Attribute modifiers
     /// </summary>
     private List<AttributeModifier> _modifiers = new List<AttributeModifier>();
-    
+
     /// <summary>
     /// base value of this attribute before modifiers
     /// </summary>
-    [SerializeField]private float baseValue;
+    [SerializeField] private float baseValue;
 
     //Attribute representing the max base value of this attribute
     private Attribute _maxBaseAttribute;
-    
+
     /// <summary>
     /// Base Value of the attribute before modifiers
     /// </summary>
@@ -54,7 +53,7 @@ public class Attribute
             UpdateCurrentValue();
         }
     }
-    
+
     /// <summary>
     /// Current Value of the attribute after all modifiers
     /// </summary>
@@ -69,7 +68,7 @@ public class Attribute
     {
         _maxBaseAttribute = modifiableAttributeValue;
     }
-    
+
     /// <summary>
     /// Updates the current value of this attribute including all the modifiers affecting it
     /// </summary>
@@ -78,13 +77,35 @@ public class Attribute
         float previousValue = CurrentValue;
         float sumToAdd = 0f;
         float multiplier = 1f;
+        foreach (AttributeModifier modifier in _modifiers)
+        {
+            switch (modifier.operation)
+            {
+                case AttributeModifier.Operator.Add:
+                    sumToAdd += modifier.attModValue;
+                    continue;
+                case AttributeModifier.Operator.Subtract:
+                    sumToAdd -= modifier.attModValue;
+                    continue;
+                case AttributeModifier.Operator.Multiply:
+                    multiplier *= modifier.attModValue;
+                    continue;
+                case AttributeModifier.Operator.Divide:
+                    multiplier /= modifier.attModValue;
+                    continue;
+                default:
+                    Debug.LogError("Unexpected Operator in attributeMod");
+                    break;
+            }
+        }
         CurrentValue = (baseValue + sumToAdd) * multiplier;
         if (!Mathf.Approximately(previousValue, CurrentValue))
         {
             OnValueChanged?.Invoke(this, previousValue);
         }
+        Debug.Log("stat changed: " + this + " Current Val = " + CurrentValue);
     }
-    
+
     /// <summary>
     /// Add a modifier that will change the value of the attribute
     /// </summary>

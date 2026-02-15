@@ -20,7 +20,7 @@ public class UI : MonoBehaviour
 
     void Update()
     {
-        PCAttributes.UpdateCurrentValues();
+        //PCAttributes.UpdateCurrentValues();
         //playerHP = PCAttributes.GetBaseAttributeValue(HP);
         _healthBar.value = GetStat("HP") / GetStat("HP Max");
         _manaBar.value = GetStat("MP") / GetStat("MP Max");

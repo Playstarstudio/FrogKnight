@@ -1,11 +1,9 @@
 using Inventory.Model;
 using System;
 using TMPro;
-using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
-using static Inventory.Model.EquippableItemSO;
 using static ItemSO;
 
 public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, IBeginDragHandler, IEndDragHandler, IDragHandler, IPointerEnterHandler, IPointerExitHandler
@@ -39,7 +37,7 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
     public event Action<EquipmentSlot> OnPointerExit;
     private void Start()
     {
-        if(acceptedPartLocation == PartLocation.NA)
+        if (acceptedPartLocation == PartLocation.NA)
         {
             selfImage.enabled = false;
             itemImage.gameObject.SetActive(false);
@@ -48,7 +46,7 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
         }
         this.itemImage.enabled = true;
         this.itemImage.sprite = slotDefault;
-        
+
     }
     public bool TryEquip(ItemSO newItem, int qty)
     {
@@ -62,7 +60,7 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
         this.itemImage.sprite = newItem.image;
         return true;
     }
-    public void SetData(ItemSO newItem)
+    public void EquipItem(ItemSO newItem)
     {
         if (newItem == null)
         {
@@ -75,6 +73,7 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
         this.hoverPanel.PrepareHoverPanel(item);
         this.hoverPanel.Toggle(false);
         empty = false;
+        AddModifiers(newItem);
     }
 
     private void ResetSlot()
@@ -93,14 +92,15 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
     }
     public InventoryItem Unequip(ItemSO item)
     {
-        InventoryItem unequippedItem = new InventoryItem
-        {
-            item = item,
-            quantity = 1
-        };
+        RemoveModifiers(item);
+        GameObject invItem = new GameObject("invItem");
+        InventoryItem unequippedItem = invItem.AddComponent<InventoryItem>();
+        unequippedItem.item = item;
+        unequippedItem.quantity = 1;
         ResetSlot();
         return unequippedItem;
     }
+
 
     public void OnDrop(PointerEventData eventData)
     {
@@ -146,5 +146,44 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
     void IPointerExitHandler.OnPointerExit(PointerEventData eventData)
     {
         OnPointerExit?.Invoke(this);
+    }
+    private void RemoveModifiers(ItemSO item)
+    {
+        if (item != null)
+        {
+            P_StateManager player = FindFirstObjectByType<P_StateManager>();
+            if (item.effects.Count > 0)
+            {
+                foreach (Modifier effect in item.effects)
+                {
+                   // player.att.RemoveModifier(effect);
+                }
+            }
+        }
+        else { Debug.Log("item was null!"); }
+    }
+    private void AddModifiers(ItemSO item)
+    {
+        if (item != null)
+        {
+            P_StateManager player = FindFirstObjectByType<P_StateManager>();
+            if (item.effects.Count > 0)
+            {
+                foreach (Modifier effect in item.effects)
+                {
+                   // player.att.ApplyModifier(effect.modifier);
+                }
+            }
+        }
+    }
+    private static AttributeModifier CreateModifier(Modifier effect)
+    {
+        return new AttributeModifier()
+        {
+            attribute = effect.attName,
+            operation = (AttributeModifier.Operator)effect.operation,
+            attModValue = effect.modifierValue
+        };
+
     }
 }

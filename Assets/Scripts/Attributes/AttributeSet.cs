@@ -1,4 +1,3 @@
-using NUnit.Framework;
 using System;
 using System.Collections.Generic;
 using UnityEngine;
@@ -7,8 +6,8 @@ using UnityEngine;
 
 public class AttributeEntry
 {
-public AttributeType type;
-public Attribute value;
+    public AttributeType type;
+    public Attribute value;
 }
 
 
@@ -28,7 +27,7 @@ public class AttributeSet : MonoBehaviour
         // Iterate through every AttributeType and create a new Attribute instance for each
         foreach (AttributeType type in Resources.LoadAll<AttributeType>(""))
         {
-            attributes.Add(new AttributeEntry { type = type, value = new Attribute(type.DefaultValue) });
+            attributes.Add(new AttributeEntry { type = type, value = new Attribute(type.DefaultValue)});
         }
     }
     private void Awake()
@@ -134,7 +133,7 @@ public class AttributeSet : MonoBehaviour
         else
         {
 
-        Debug.LogError("Attribute not found: " + type);
+            Debug.LogError("Attribute not found: " + type);
             return 1;
         }
     }

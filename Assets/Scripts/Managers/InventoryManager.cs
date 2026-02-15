@@ -41,14 +41,14 @@ namespace Inventory
             Hide();
             floatingItem.Toggle(false);
             inventoryDescription.ResetDescription();
+            PrepareUI();
+            PrepareInventoryData();
+            Hide();
         }
 
         private void Start()
         {
             isInventoryOpen = false;
-            PrepareUI();
-            PrepareInventoryData();
-            Hide();
         }
 
         private void PrepareInventoryData()
@@ -195,7 +195,6 @@ namespace Inventory
                 slot.OnSlotEndDrag += HandleEquipmentSlotEndDrag;
                 slot.OnSlotClicked += HandleEquipmentSlotClicked;
                 // slot.OnRightMouseBtnClick
-                playerStateManager.CalculateAllStats();
             }
         }
         private void HandleDropOnEquipmentSlot(EquipmentSlot slot)
@@ -210,17 +209,19 @@ namespace Inventory
                     return;
                 if (!slot.IsEmpty)
                 {
+                    Debug.Log("Slot was not empty");
                     InventoryItem replacedItem = slot.Unequip(slot.item);
                     inventoryData.RemoveItem(currentlyDraggedItemIndex, 1);
                     inventoryData.AddItemToFirstFreeSlot(replacedItem.item, 1);
-                    slot.SetData(invItem.item);
-                    playerStateManager.CalculateAllStats();
+                    slot.EquipItem(invItem.item);
+                    //playerStateManager.CalculateAllStats();
                 }
                 else
                 {
+                    Debug.Log("Slot was empty");
                     inventoryData.RemoveItem(currentlyDraggedItemIndex, invItem.quantity);
-                    slot.SetData(invItem.item);
-                    playerStateManager.CalculateAllStats();
+                    slot.EquipItem(invItem.item);
+                    //playerStateManager.CalculateAllStats();
                 }
             }
             else if (dragSource == DragSource.Equipment && draggedEquipmentSlot != null)
@@ -230,8 +231,8 @@ namespace Inventory
                 ItemSO sourceItem = draggedEquipmentSlot.item;
                 EquipmentSlot sourceSlot = draggedEquipmentSlot;
                 ItemSO targetData = slot.item;
-                draggedEquipmentSlot.SetData(targetData);
-                slot.SetData(sourceItem);
+                draggedEquipmentSlot.EquipItem(targetData);
+                slot.EquipItem(sourceItem);
             }
         }
         public bool HandleTryActionEquip(EquipmentSlot slot, int index)
@@ -251,15 +252,15 @@ namespace Inventory
                 InventoryItem replacedItem = slot.Unequip(slot.item);
                 inventoryData.RemoveItem(index, 1);
                 inventoryData.AddItemToFirstFreeSlot(replacedItem.item, 1);
-                slot.SetData(invItem.item);
-                playerStateManager.CalculateAllStats();
+                slot.EquipItem(invItem.item);
+                //playerStateManager.CalculateAllStats();
                 return true;
             }
             else
             {
                 inventoryData.RemoveItem(index, invItem.quantity);
-                slot.SetData(invItem.item);
-                playerStateManager.CalculateAllStats();
+                slot.EquipItem(invItem.item);
+                //playerStateManager.CalculateAllStats();
                 return true;
             }
         }
@@ -273,31 +274,31 @@ namespace Inventory
 
             InventorySO.InventoryItem targetItem = inventoryData.GetInventoryItemAt(targetIndex);
             ItemSO unequippedItemSO = draggedEquipmentSlot.item;
-            draggedEquipmentSlot.Unequip(targetUIItem.item);
+            draggedEquipmentSlot.Unequip(unequippedItemSO);
             if (!targetItem.IsEmpty)
             {
                 EquippableItemSO equippable = targetItem.item as EquippableItemSO;
                 if (equippable != null && equippable.slot == draggedEquipmentSlot.GetSlotType())
                 {
-                    draggedEquipmentSlot.SetData(targetItem.item);
+                    draggedEquipmentSlot.EquipItem(targetItem.item);
                     inventoryData.RemoveItem(targetIndex, targetItem.quantity);
                     inventoryData.AddItem(targetItem.item, 1);
-                    playerStateManager.CalculateAllStats();
+                    //playerStateManager.CalculateAllStats();
                 }
                 else
                 {
                     int remainder = inventoryData.AddItemToFirstFreeSlot(unequippedItemSO, 1);
                     if (remainder > 0)
                     {
-                        draggedEquipmentSlot.SetData(unequippedItemSO);
-                        playerStateManager.CalculateAllStats();
+                        draggedEquipmentSlot.EquipItem(unequippedItemSO);
+                        //playerStateManager.CalculateAllStats();
                     }
                 }
             }
             else
             {
                 inventoryData.AddItem(unequippedItemSO, 1);
-                playerStateManager.CalculateAllStats();
+                //playerStateManager.CalculateAllStats();
             }
         }
         public void HandleTryActionEquipSwap(EquipmentSlot slot)

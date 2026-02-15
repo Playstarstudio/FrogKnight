@@ -1,7 +1,4 @@
-using Inventory.Model;
-using NUnit.Framework.Constraints;
 using System;
-using System.Reflection;
 using TMPro;
 using UnityEngine;
 using UnityEngine.EventSystems;
@@ -37,17 +34,28 @@ public class InventoryItem : MonoBehaviour, IPointerClickHandler, IBeginDragHand
     }
     public void ResetData()
     {
-        this.itemImage.gameObject.SetActive(false);
-        this.item = null;
-        this.quantity = 0;
-        this.hoverPanel.itemName.text = string.Empty;
-        this.hoverPanel.itemDescription.text = string.Empty;
-        empty = true;
+        if (item != null)
+        {
+            this.itemImage.gameObject.SetActive(false);
+            this.item = null;
+            this.quantity = 0;
+            this.hoverPanel.itemName.text = string.Empty;
+            this.hoverPanel.itemDescription.text = string.Empty;
+            empty = true;
+        }
+        if (this.borderImage != null)
+        {
+            this.borderImage.enabled = false;
+
+        }
     }
 
     public void Deselect()
     {
-        this.borderImage.enabled = false;
+        if (item != null)
+        {
+            this.borderImage.enabled = false;
+        }
     }
     public void SetFloatingData(Sprite sprite, int quantity)
     {

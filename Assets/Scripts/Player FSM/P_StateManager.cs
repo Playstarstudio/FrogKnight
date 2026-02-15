@@ -61,6 +61,7 @@ public class P_StateManager : Entity
             abilitySlots[i].image.sprite = activeAbilityList[i].abilityImage;
         }
         StartCoroutine(WaitForTime(.1f));
+
     }
 
     // Update is called once per frame
@@ -84,7 +85,26 @@ public class P_StateManager : Entity
     }
     internal void CalculateAllStats()
     {
-        throw new NotImplementedException();
+        foreach (EquipmentSlot equipmentSlot in inventoryManager.equipmentSlots)
+        {
+            if (equipmentSlot == null || equipmentSlot.IsEmpty)
+            {
+                continue;
+            }
+            {
+                foreach (Modifier effect in equipmentSlot.item.effects)
+                {
+                    AttributeModifier mod = new AttributeModifier()
+                    {
+                        attribute = effect.attName,
+                        operation = (AttributeModifier.Operator)effect.operation,
+                        attModValue = effect.modifierValue
+                    };
+                    att.ApplyModifier(mod);
+                }
+            }
+        }
+        att.UpdateCurrentValues();
     }
 
     /*
@@ -122,6 +142,7 @@ public class P_StateManager : Entity
 {
         yield return new WaitForSeconds(time);
         gridManager.PlayerDijkstras();
+        CalculateAllStats();
 }
 
     #region Save and Load

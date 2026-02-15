@@ -1,17 +1,13 @@
-using Inventory.Model;
-using System;
 using System.Collections;
-using Unity.VisualScripting;
 using UnityEngine;
-using UnityEngine.Tilemaps;
 
 public class ItemOnGround : MonoBehaviour
 {
     [field: SerializeField]
-    public ItemSO inventoryItem {  get; set; }
+    public ItemSO inventoryItem { get; set; }
 
     [field: SerializeField]
-    public int quantity {  get; set; }
+    public int quantity { get; set; }
     [SerializeField] AudioSource audioSource;
 
     [SerializeField] float duration = 0.3f;
@@ -55,6 +51,6 @@ public class ItemOnGround : MonoBehaviour
             yield return null;
         }
         transform.localScale = endScale;
-            Destroy(gameObject);
+        Destroy(gameObject);
     }
 }

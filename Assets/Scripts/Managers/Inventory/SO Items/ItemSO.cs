@@ -31,6 +31,7 @@ public abstract class ItemSO : ScriptableObject
     public int count { get; set; } = 1;
     [field: SerializeField]
     public List<Modifier> effects { get; set; }
+
     //public List<Item> materials;
     //public List<Modifier> finalModifiers;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
