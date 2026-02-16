@@ -30,7 +30,8 @@ public class Enemy : Entity
         aStarSearchedList = new Dictionary<AStarNodeInfo, AStarNodeInfo>();
         aStarToSearch = new SortedSet<AStarNodeInfo>();
         gameManager = FindFirstObjectByType<GameManager>();
-        readyTime = att.GetBaseAttributeValue(att.GetAttributeType("Move Speed")); ; // enemies are ready to go at time = their speed
+        readyTime = 2;
+        //readyTime = this.att.GetCurrentAttributeValue(this.att.GetAttributeType("Move Speed")); ; // enemies are ready to go at time = their speed
         currentTile = gridManager.GetCellPosition(this.transform.position);
         this.transform.position = gridManager.GetTileCenter(gridManager.GetCellPosition(this.transform.position));
         gridManager.MapAddEntity(this, currentTile);
@@ -54,11 +55,12 @@ public class Enemy : Entity
         }
         else if (perceptionState == PerceptionState.HasSeen)
         {
-            readyTime += att.GetBaseAttributeValue(att.GetAttributeType("Move Speed"));
+            float speedcheck = this.att.GetCurrentAttributeValue(this.att.GetAttributeType("Move Speed"));
+            readyTime += this.att.GetCurrentAttributeValue(this.att.GetAttributeType("Move Speed"));
         }
         else
         {
-            readyTime += att.GetBaseAttributeValue(att.GetAttributeType("Move Speed"));
+            readyTime += this.att.GetCurrentAttributeValue(this.att.GetAttributeType("Move Speed"));
         }
     }
     public void Move()
@@ -68,7 +70,7 @@ public class Enemy : Entity
         gridManager.AStar(ref path, ref aStarSearchedList, ref aStarToSearch, gridManager.GetCellPosition(transform.position), gridManager.GetCellPosition(target.position));
         if (path.Count > 2)
         {
-            readyTime += att.GetBaseAttributeValue(att.GetAttributeType("Move Speed"));
+            readyTime += this.att.GetCurrentAttributeValue(this.att.GetAttributeType("Move Speed"));
             AStarNodeInfo square = path[path.Count - 2];
             while (Vector2.Distance(transform.position, gridManager.GetTileCenter(square.position)) > 0.01f)
             {
@@ -85,7 +87,7 @@ public class Enemy : Entity
         }
         else if (path.Count <= 2)
         {
-            readyTime += att.GetBaseAttributeValue(att.GetAttributeType("Move Speed"));
+            readyTime += this.att.GetCurrentAttributeValue(this.att.GetAttributeType("Move Speed"));
         }
     }
     public void PerceptionCheck(float _time, float _globalTimer)
@@ -93,16 +95,16 @@ public class Enemy : Entity
         TileInfo targetTile;
         TileInfo myTile;
         int manhattanDistance = gridManager.ManhattanDistanceToTile(gridManager.GetCellPosition(this.transform.position), gridManager.GetCellPosition(target.position));
-        float vision = att.GetBaseAttributeValue(att.GetAttributeType("Vision Range"));
+        float vision = this.att.GetCurrentAttributeValue(this.att.GetAttributeType("Vision Range"));
         gridManager.map.TryGetValue(gridManager.GetCellPosition(target.position), out targetTile);
         gridManager.map.TryGetValue(gridManager.GetCellPosition(this.transform.position), out myTile);
-        if (manhattanDistance > att.GetBaseAttributeValue(att.GetAttributeType("Vision Range")))
+        if (manhattanDistance > this.att.GetCurrentAttributeValue(this.att.GetAttributeType("Vision Range")))
         {
             Debug.Log("Perception Check - out of range");
             currentPerception -= (_time*(manhattanDistance/vision));
             currentPerception = Mathf.Clamp(currentPerception, 0, 5);
         }
-        else if (manhattanDistance <= att.GetBaseAttributeValue(att.GetAttributeType("Vision Range")))
+        else if (manhattanDistance <= this.att.GetCurrentAttributeValue(this.att.GetAttributeType("Vision Range")))
         {
             if (myTile.LoS)
             {

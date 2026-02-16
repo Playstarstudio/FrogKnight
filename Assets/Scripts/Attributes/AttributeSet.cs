@@ -35,6 +35,7 @@ public class AttributeSet : MonoBehaviour
         // ensure the dictionary is populated before gameplay.
         InitializeAttributeDictionary();
         InitializeMaxAttributes();
+        UpdateCurrentValues();
     }
 
     /// <summary>
