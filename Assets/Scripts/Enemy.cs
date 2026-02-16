@@ -12,6 +12,7 @@ public class Enemy : Entity
     public bool move;
     public float currentPerception;
     public PerceptionState perceptionState;
+    public List<ItemSO> dropItems;
 
     public enum PerceptionState
     {

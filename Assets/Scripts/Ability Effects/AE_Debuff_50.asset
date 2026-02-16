@@ -18,7 +18,7 @@ MonoBehaviour:
   tickRate: 0
   isDebuff: 0
   mods:
-  - attribute: {fileID: 11400000, guid: c3e53dc1c53bbf14783ea383c56d4793, type: 2}
+  - attribute: {fileID: 11400000, guid: 96b72eb5b18c31a43b1ad63f0cb74b2f, type: 2}
     operation: 2
     attModValue: 1
   effectValue: 0
