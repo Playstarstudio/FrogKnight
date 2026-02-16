@@ -103,7 +103,7 @@ public class Attribute
         {
             OnValueChanged?.Invoke(this, previousValue);
         }
-        Debug.Log("stat changed: " + this + " Current Val = " + CurrentValue);
+        Debug.Log("stat changed: " + this.GetType() + " Current Val = " + CurrentValue);
     }
 
     /// <summary>

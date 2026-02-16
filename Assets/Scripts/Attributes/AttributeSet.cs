@@ -78,6 +78,7 @@ public class AttributeSet : MonoBehaviour
     {
         if (attributeDictionary.TryGetValue(modifier.attribute, out var attribute))
         {
+            Debug.LogWarning("I've set this modifier: " + modifier.attribute);
             attribute.AddModifier(modifier);
         }
         else
@@ -132,7 +133,6 @@ public class AttributeSet : MonoBehaviour
         }
         else
         {
-
             Debug.LogError("Attribute not found: " + type);
             return 1;
         }

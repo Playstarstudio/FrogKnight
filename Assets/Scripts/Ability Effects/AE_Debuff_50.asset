@@ -12,13 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 99cdb7b5ddb00dd42b9ce24d24d723b6, type: 3}
   m_Name: AE_Debuff_50
   m_EditorClassIdentifier: Assembly-CSharp::AbilityEffect
-  effectName: Debuff
-  description: 
-  mod:
-    attribute: {fileID: 11400000, guid: c74e2ae7fe218904fa4fb03543e48095, type: 2}
-    operation: 3
-    attModValue: 0.5
-  duration: 0
+  effectName: Debuff Speed
+  description: debuff's speed by 50%
+  duration: 5
   tickRate: 0
   isDebuff: 0
+  mods:
+  - attribute: {fileID: 11400000, guid: c3e53dc1c53bbf14783ea383c56d4793, type: 2}
+    operation: 2
+    attModValue: 1
+  effectValue: 0
+  finalEffect: 10
+  finalModifier:
+    attribute: {fileID: 11400000, guid: c74e2ae7fe218904fa4fb03543e48095, type: 2}
+    operation: 2
+    attModValue: 10
   effectType: 2

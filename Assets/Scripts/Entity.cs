@@ -57,7 +57,7 @@ public class Entity : MonoBehaviour
 
     public void ReceiveEffect(AbilityEffect effect, Entity source, Ability ability)
     {
-        // Implement effect reception logic here
+        
         Debug.Log($"{this.name} received {effect.effectName} from {source.name} via {ability.abilityName}");
         switch (effect.effectType)
         {
@@ -86,10 +86,10 @@ public class Entity : MonoBehaviour
         {
             attribute = source.att.GetAttributeType("HP"),
             operation = AttributeModifier.Operator.Subtract,
-            attModValue = effect.mod.attModValue
+            attModValue = effect.finalEffect
         };
         this.att.ApplyInstantModifier(damage);
-        Debug.Log($"{this.name} takes {effect.mod.attModValue} damage.");
+        Debug.Log($"{this.name} takes {effect.finalEffect} damage.");
         if (this.att.GetBaseAttributeValue(att.GetAttributeType("HP")) <= 0)
         {
             Debug.Log($"{this.name} has been defeated!");
@@ -98,38 +98,30 @@ public class Entity : MonoBehaviour
     }
     public void ReceiveBuff(AbilityEffect effect, Entity source, Ability ability)
     {
-            SmartApplyEffect(effect);
+            ApplyBuffOrDebuff(effect);
     }
 
 
     public void ReceiveDebuff(AbilityEffect effect, Entity source, Ability ability)
     {
-            SmartApplyEffect(effect);
+            ApplyBuffOrDebuff(effect);
     }
     public void ReceiveCrowdControl(AbilityEffect effect, Entity source, Ability ability)
     {
         Debug.Log($"{this.name} is affected by crowd control.");
     }
 
-    private void SmartApplyEffect(AbilityEffect effect)
+    private void ApplyBuffOrDebuff(AbilityEffect effect)
     {
-        AttributeModifier mod = new AttributeModifier()
-        {
-            attribute = effect.mod.attribute,
-            operation = (AttributeModifier.Operator)effect.mod.operation,
-            attModValue = effect.mod.attModValue
-        };
-        Debug.Log(mod);
-        this.att.ApplyInstantModifier(mod);
-        //StartCoroutine(WaitForValueRoutine(effect, mod));
+        this.att.ApplyModifier(effect.finalModifier);
+        StartCoroutine(WaitForValueRoutine(effect, effect.duration));
     }
 
-    private IEnumerator WaitForValueRoutine(AbilityEffect effect, AttributeModifier mod)
+    private IEnumerator WaitForValueRoutine(AbilityEffect effect, float duration)
     {
         float timeAtStart = gameManager.globalTimer;
-        yield return new WaitUntil(() => gameManager.globalTimer >= timeAtStart + effect.duration);
-
+        float finishTime = timeAtStart + duration;
+        yield return new WaitUntil(() => gameManager.globalTimer >= finishTime);
+        this.att.RemoveModifier(effect.finalModifier);
     }
-
-
 }

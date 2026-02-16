@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: StrengthReduce
   m_EditorClassIdentifier: Assembly-CSharp::EquipmentModifier
   attributeModifier:
-    attribute: {fileID: 0}
+    attribute: {fileID: 11400000, guid: c3e53dc1c53bbf14783ea383c56d4793, type: 2}
     operation: 1
     attModValue: 3
