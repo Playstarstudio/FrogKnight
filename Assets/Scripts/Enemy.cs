@@ -1,7 +1,10 @@
+using Inventory.Model;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
+using UnityEngine.Audio;
 using static GridManager;
+using static UnityEditor.Progress;
 public class Enemy : Entity
 {
     // this is an example for how to use the grid system
@@ -136,7 +139,34 @@ public class Enemy : Entity
     }
     public void OnDestroy()
     {
+
         gridManager.MapRemoveEntity(this,currentTile);
         gameManager.RemoveTimedEntity(this.gameObject);
     }
+
+    public void DropItem()
+    {
+        /*
+        GameObject newItem = ;
+        newItem.GetComponent<ItemOnGround>().inventoryItem = inventoryData.GetInventoryItemAt(itemIndex).item;
+        newItem.GetComponent<ItemOnGround>().quantity = inventoryData.GetInventoryItemAt(itemIndex).quantity;
+        newItem.transform.position = playerStateManager.gridManager.GetTileCenter(playerStateManager.currentTile);
+        playerStateManager.gridManager.MapAddItem(newItem.GetComponent<ItemOnGround>(), playerStateManager.currentTile);
+        inventoryData.RemoveItem(itemIndex, quantity);
+        ResetSelection();
+        if (clip != null)
+        {
+            audioSource.PlayOneShot(clip);
+        }
+        this.equippableItem = (EquippableItemSO)item;
+        GameObject invItem = new GameObject("invItem");
+        InventoryItem unequippedItem = invItem.AddComponent<InventoryItem>();
+        unequippedItem.item = item;
+        unequippedItem.quantity = 1;
+        ResetSlot();
+         */
+
+    }
+
 }
+

@@ -69,6 +69,16 @@ public class Attribute
         _maxBaseAttribute = modifiableAttributeValue;
     }
 
+    public void SetUpActions()
+    {
+        OnValueChanged += HandleValueChanged;
+    }
+
+    private void HandleValueChanged(Attribute attribute, float previousValue)
+    {
+        
+    }
+
     /// <summary>
     /// Updates the current value of this attribute including all the modifiers affecting it
     /// </summary>
