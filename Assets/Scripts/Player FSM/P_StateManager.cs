@@ -48,6 +48,7 @@ public class P_StateManager : Entity
 
     void Start()
     {
+        statPanelContainer = FindFirstObjectByType<StatPanelContainer>();
         rb = GetComponent<Rigidbody>();
         anim = GetComponentInChildren<Animator>();
         currentState = baseState;

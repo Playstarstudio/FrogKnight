@@ -77,7 +77,8 @@ public class AttributeSet : MonoBehaviour
         if (parent.GetType() == typeof(P_StateManager))
         {
             P_StateManager stateManager = (P_StateManager)parent;
-            stateManager.statPanelContainer.UpdateStatValues(this);
+            if (stateManager.statPanelContainer != null)
+                stateManager.statPanelContainer.UpdateStatValues(this);
         }
     }
 
@@ -90,7 +91,8 @@ public class AttributeSet : MonoBehaviour
             if (parent.GetType() == typeof(P_StateManager))
             {
                 P_StateManager stateManager = (P_StateManager)parent;
-                stateManager.statPanelContainer.UpdateStatValues(this);
+                if (stateManager.statPanelContainer != null)
+                    stateManager.statPanelContainer.UpdateStatValues(this);
             }
         }
         else
@@ -107,7 +109,8 @@ public class AttributeSet : MonoBehaviour
             if (parent.GetType() == typeof(P_StateManager))
             {
                 P_StateManager stateManager = (P_StateManager)parent;
-                stateManager.statPanelContainer.UpdateStatValues(this);
+                if (stateManager.statPanelContainer != null)
+                    stateManager.statPanelContainer.UpdateStatValues(this);
             }
         }
         else
@@ -124,7 +127,8 @@ public class AttributeSet : MonoBehaviour
             if (parent.GetType() == typeof(P_StateManager))
             {
                 P_StateManager stateManager = (P_StateManager)parent;
-                stateManager.statPanelContainer.UpdateStatValues(this);
+                if (stateManager.statPanelContainer != null)
+                    stateManager.statPanelContainer.UpdateStatValues(this);
             }
         }
         else
