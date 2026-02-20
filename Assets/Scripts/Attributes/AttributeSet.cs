@@ -16,7 +16,7 @@ public class AttributeSet : MonoBehaviour
     // this list shows up in the Inspector and will be populated with default attributes (by Reset function)
     [SerializeField]
     private List<AttributeEntry> attributes = new List<AttributeEntry>();
-
+    public Entity parent;
     private Dictionary<AttributeType, Attribute> _attributeDictionary = new Dictionary<AttributeType, Attribute>();
     public Dictionary<AttributeType, Attribute> attributeDictionary { get => _attributeDictionary; set => _attributeDictionary = value; }
     public void Reset()
@@ -27,7 +27,7 @@ public class AttributeSet : MonoBehaviour
         // Iterate through every AttributeType and create a new Attribute instance for each
         foreach (AttributeType type in Resources.LoadAll<AttributeType>(""))
         {
-            attributes.Add(new AttributeEntry { type = type, value = new Attribute(type.DefaultValue)});
+            attributes.Add(new AttributeEntry { type = type, value = new Attribute(type.DefaultValue) });
         }
     }
     private void Awake()
@@ -52,6 +52,7 @@ public class AttributeSet : MonoBehaviour
                 attributeDictionary.Add(entry.type, entry.value);
             }
         }
+        parent = GetComponentInParent<Entity>();
     }
 
     private void InitializeMaxAttributes()
@@ -73,6 +74,11 @@ public class AttributeSet : MonoBehaviour
         {
             pair.Value.UpdateCurrentValue();
         }
+        if (parent.GetType() == typeof(P_StateManager))
+        {
+            P_StateManager stateManager = (P_StateManager)parent;
+            stateManager.statPanelContainer.UpdateStatValues(this);
+        }
     }
 
     public void ApplyModifier(AttributeModifier modifier)
@@ -81,6 +87,11 @@ public class AttributeSet : MonoBehaviour
         {
             Debug.LogWarning("I've set this modifier: " + modifier.attribute);
             attribute.AddModifier(modifier);
+            if (parent.GetType() == typeof(P_StateManager))
+            {
+                P_StateManager stateManager = (P_StateManager)parent;
+                stateManager.statPanelContainer.UpdateStatValues(this);
+            }
         }
         else
         {
@@ -93,6 +104,11 @@ public class AttributeSet : MonoBehaviour
         if (attributeDictionary.TryGetValue(modifier.attribute, out var attribute))
         {
             attribute.RemoveModifier(modifier);
+            if (parent.GetType() == typeof(P_StateManager))
+            {
+                P_StateManager stateManager = (P_StateManager)parent;
+                stateManager.statPanelContainer.UpdateStatValues(this);
+            }
         }
         else
         {
@@ -105,6 +121,11 @@ public class AttributeSet : MonoBehaviour
         if (attributeDictionary.TryGetValue(modifier.attribute, out var attribute))
         {
             attribute.InstantlyApply(modifier);
+            if (parent.GetType() == typeof(P_StateManager))
+            {
+                P_StateManager stateManager = (P_StateManager)parent;
+                stateManager.statPanelContainer.UpdateStatValues(this);
+            }
         }
         else
         {

@@ -13,6 +13,7 @@ public class StatPanelContainer : MonoBehaviour
     private void Start()
     {
         player = FindFirstObjectByType<P_StateManager>();
+        player.statPanelContainer = this;
         statTexts = GetComponentsInChildren<StatText>();
         foreach (StatText stat in statTexts)
         {
@@ -28,6 +29,26 @@ public class StatPanelContainer : MonoBehaviour
             else
             {
                 stat.statValue.text = player.att.GetCurrentAttributeValue(stat.attribute).ToString();
+            }
+        }
+    }
+
+    public void UpdateStatValues(AttributeSet attSet)
+    {
+        foreach (StatText stat in statTexts)
+        {
+            stat.statName.text = stat.attribute.name.ToString();
+            if (stat.attribute.MaxAttribute != null)
+            {
+                StringBuilder sb = new StringBuilder();
+                sb.Append(attSet.GetCurrentAttributeValue(stat.attribute));
+                sb.Append("/");
+                sb.Append(attSet.GetCurrentAttributeValue(stat.attribute.MaxAttribute));
+                stat.statValue.text = sb.ToString();
+            }
+            else
+            {
+                stat.statValue.text = attSet.GetCurrentAttributeValue(stat.attribute).ToString();
             }
         }
     }

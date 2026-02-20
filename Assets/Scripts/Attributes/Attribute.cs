@@ -76,7 +76,7 @@ public class Attribute
 
     private void HandleValueChanged(Attribute attribute, float previousValue)
     {
-        
+
     }
 
     /// <summary>
@@ -112,8 +112,8 @@ public class Attribute
         if (!Mathf.Approximately(previousValue, CurrentValue))
         {
             OnValueChanged?.Invoke(this, previousValue);
+            Debug.Log("stat changed: " + this.GetType() + " Current Val = " + CurrentValue);
         }
-        Debug.Log("stat changed: " + this.GetType() + " Current Val = " + CurrentValue);
     }
 
     /// <summary>
