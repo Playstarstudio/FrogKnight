@@ -146,7 +146,10 @@ public class P_StateManager : Entity
         gridManager.PlayerDijkstras();
         CalculateAllStats();
 }
-
+    public override void TryDestroy()
+    {
+        throw new System.NotImplementedException();
+    }
     #region Save and Load
     public void Save(ref PlayerSaveData data)
     {
@@ -172,3 +175,4 @@ public struct PlayerSaveData
     // Add other player-related data as needed
     // https://www.youtube.com/watch?v=1mf730eb5Wo
 }
+

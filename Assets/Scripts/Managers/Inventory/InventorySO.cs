@@ -36,7 +36,6 @@ namespace Inventory.Model
                         count -= AddItemToFirstFreeSlot(item, 1);
                     }
                     InformAboutChange();
-                    return count;
                 }
             }
             count = AddStackableItem(item, count);

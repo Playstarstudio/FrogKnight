@@ -1,22 +1,24 @@
-using Inventory.Model;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEngine;
-using UnityEngine.Audio;
 using static GridManager;
-using static UnityEditor.Progress;
 public class Enemy : Entity
 {
     // this is an example for how to use the grid system
     // it will path towards this "target"
     [SerializeField]
     Transform target;
-    public float speed;
     public bool move;
     public float currentPerception;
     public PerceptionState perceptionState;
-    public List<ItemSO> dropItems;
+    [SerializeField] public dropItem[] dropList;
 
+    [System.Serializable]
+    public class dropItem
+    {
+        public ItemSO itemPrefab;
+        public float dropChance;
+    }
     public enum PerceptionState
     {
         NeverSeen,
@@ -105,20 +107,20 @@ public class Enemy : Entity
         if (manhattanDistance > this.att.GetCurrentAttributeValue(this.att.GetAttributeType("Vision Range")))
         {
             Debug.Log("Perception Check - out of range");
-            currentPerception -= (_time*(manhattanDistance/vision));
+            currentPerception -= (_time * (manhattanDistance / vision));
             currentPerception = Mathf.Clamp(currentPerception, 0, 5);
         }
         else if (manhattanDistance <= this.att.GetCurrentAttributeValue(this.att.GetAttributeType("Vision Range")))
         {
             if (myTile.LoS)
             {
-                currentPerception += (_time*(vision/manhattanDistance));
+                currentPerception += (_time * (vision / manhattanDistance));
                 currentPerception = Mathf.Clamp(currentPerception, 0, 5);
                 Debug.Log("Perception Check - in sight");
             }
             else
             {
-                currentPerception -= (_time * (manhattanDistance/vision));
+                currentPerception -= (_time * (manhattanDistance / vision));
                 currentPerception = Mathf.Clamp(currentPerception, 0, 5);
                 Debug.Log("Perception Check - in range but not in sight");
             }
@@ -131,42 +133,47 @@ public class Enemy : Entity
         }
         if (currentPerception < 2)
         {
-                perceptionState = PerceptionState.HasSeen;
-                Debug.Log("Perception State: HAS SEEN");
+            perceptionState = PerceptionState.HasSeen;
+            Debug.Log("Perception State: HAS SEEN");
 
         }
         gridManager.CalculateTileData(currentPos);
     }
+    public override void TryDestroy()
+    {
+        DropItems();
+        gridManager.MapRemoveEntity(this, currentTile);
+        gameManager.RemoveTimedEntity(this.gameObject);
+        Destroy(this);
+        Destroy(this.gameObject);
+    }
     public void OnDestroy()
     {
 
-        gridManager.MapRemoveEntity(this,currentTile);
-        gameManager.RemoveTimedEntity(this.gameObject);
     }
 
-    public void DropItem()
+    public void DropItems()
     {
-        /*
-        GameObject newItem = ;
-        newItem.GetComponent<ItemOnGround>().inventoryItem = inventoryData.GetInventoryItemAt(itemIndex).item;
-        newItem.GetComponent<ItemOnGround>().quantity = inventoryData.GetInventoryItemAt(itemIndex).quantity;
-        newItem.transform.position = playerStateManager.gridManager.GetTileCenter(playerStateManager.currentTile);
-        playerStateManager.gridManager.MapAddItem(newItem.GetComponent<ItemOnGround>(), playerStateManager.currentTile);
-        inventoryData.RemoveItem(itemIndex, quantity);
-        ResetSelection();
-        if (clip != null)
+        foreach (dropItem drop in dropList)
         {
-            audioSource.PlayOneShot(clip);
+            float chance = Random.Range(1, 100);
+            Debug.Log("roll was:" + chance);
+            if ( chance <= drop.dropChance )
+            {
+                Debug.Log("roll was correct! dropping item");
+                GameObject droppeditem = new GameObject(drop.itemPrefab.name);
+                droppeditem.SetActive(false);
+                ItemOnGround newItem = droppeditem.AddComponent<ItemOnGround>();
+                droppeditem.AddComponent<SpriteRenderer>();
+                newItem.GetComponent<ItemOnGround>().inventoryItem = drop.itemPrefab;
+                newItem.GetComponent<ItemOnGround>().quantity = drop.itemPrefab.count;
+                droppeditem.transform.position = gridManager.GetTileCenter(currentTile);
+                droppeditem.SetActive(true);
+                droppeditem.GetComponent<SpriteRenderer>().enabled = true;
+                droppeditem.GetComponent<SpriteRenderer>().sortingLayerName = "Entities";
+                gridManager.MapAddItem(newItem.GetComponent<ItemOnGround>(), currentTile);
+            }
         }
-        this.equippableItem = (EquippableItemSO)item;
-        GameObject invItem = new GameObject("invItem");
-        InventoryItem unequippedItem = invItem.AddComponent<InventoryItem>();
-        unequippedItem.item = item;
-        unequippedItem.quantity = 1;
-        ResetSlot();
-         */
-
     }
-
 }
 

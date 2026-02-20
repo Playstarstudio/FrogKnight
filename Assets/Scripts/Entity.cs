@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using static GridManager;
 
-public class Entity : MonoBehaviour
+public abstract class Entity : MonoBehaviour
 {
     #region Top Level Requirements
     // keep a ref to the gridmanager
@@ -18,30 +18,26 @@ public class Entity : MonoBehaviour
     [HideInInspector] public Rigidbody rb;
     [HideInInspector] public Animator anim;
     [HideInInspector] public Vector2Int currentPos;
-    public float gridSize;
+    [HideInInspector] public float gridSize;
     #endregion  
 
     #region Play Components
     public float readyTime;
     [SerializeField] public AttributeSet att;
-    public bool visionBlock = false;
-    [SerializeField] public bool castSuccess = false;
-    [SerializeField] public Ability casting;
-    [SerializeField] public AbilitySlot castingSlot;
+    [HideInInspector] public bool visionBlock = false;
+    [HideInInspector][SerializeField] public bool castSuccess = false;
+    [HideInInspector][SerializeField] public Ability casting;
+    [HideInInspector][SerializeField] public AbilitySlot castingSlot;
     [SerializeField] public Ability melee;
     [SerializeField] public List<Ability> activeAbilityList;
     [SerializeField] public List<Ability> totalKnownAbilities;
-    [SerializeField] public float movementSpeed;
-    public AttributeModifier hurt;
-    public bool isRepeatedMovement = false;
-    public bool huurt = false;
-    public bool moving = false;
-    public float lastMoveTime = 0f;
+    [HideInInspector][SerializeField] public float movementSpeed;
+    [HideInInspector] public float lastMoveTime = 0f;
     public AudioSource BGM;
     public AudioSource SoundEffect;
     public InventorySO inventory;
-    public Vector2Int currentTile;
-    public Vector2Int targetingTile;
+    [HideInInspector] public Vector2Int currentTile;
+    [HideInInspector] public Vector2Int targetingTile;
     #endregion
 
     private void Awake()
@@ -93,7 +89,7 @@ public class Entity : MonoBehaviour
         if (this.att.GetBaseAttributeValue(att.GetAttributeType("HP")) <= 0)
         {
             Debug.Log($"{this.name} has been defeated!");
-            Destroy(this.gameObject);
+            TryDestroy();
         }
     }
     public void ReceiveBuff(AbilityEffect effect, Entity source, Ability ability)
@@ -124,4 +120,5 @@ public class Entity : MonoBehaviour
         yield return new WaitUntil(() => gameManager.globalTimer >= finishTime);
         this.att.RemoveModifier(effect.finalModifier);
     }
+    public abstract void TryDestroy();
 }

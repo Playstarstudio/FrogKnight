@@ -12,4 +12,9 @@ public class Door : Entity
 
         gameManager.RemoveTimedEntity(this.gameObject);
     }
+
+    public override void TryDestroy()
+    {
+        throw new System.NotImplementedException();
+    }
 }
