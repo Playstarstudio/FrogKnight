@@ -5,6 +5,7 @@ using TMPro;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.UI;
 
 public class DialogueManager : MonoBehaviour
 {
@@ -63,6 +64,15 @@ public class DialogueManager : MonoBehaviour
 
         audioSource  = this.gameObject.AddComponent<AudioSource>();
         currentAudioInfo = defaultAudioInfo;
+
+        //sets up the Dialogue Panel child components
+        layoutAnimator = dialoguePanel.GetComponent<Animator>(); //gets the layout animator
+        continueIcon = dialoguePanel.transform.Find("ContinueIcon").gameObject; //gets the continue icon
+        dialogueText = dialoguePanel.GetComponentInChildren<TextMeshProUGUI>(true); //gets the dialogue text TextMeshProUGUI
+        displayNameText = dialoguePanel.transform.Find("SpeakerFrame").gameObject.GetComponentInChildren<TextMeshProUGUI>(true); //gets the display name text
+        portraitAnimator = dialoguePanel.transform.Find("PortraitFrame").gameObject.GetComponentInChildren<Animator>(true); //gets the portrait animator
+        Button[] choiceComponents = dialoguePanel.GetComponentsInChildren<Button>(true);
+        for (int i=0; i < choiceComponents.Length; i++) {choices[i] = choiceComponents[i].gameObject;} //sets up choices button list. Needs to be done in two steps
     }
 
     private void Start()
@@ -71,8 +81,6 @@ public class DialogueManager : MonoBehaviour
         dialogueIsPlaying = false;
         dialogueText.text = "";
         dialoguePanel.SetActive(false);
-
-        layoutAnimator = dialoguePanel.GetComponent<Animator>(); //gets the layout animator
 
         //gets all the choice buttons into the appropriate list
         choicesText = new TextMeshProUGUI[choices.Length]; 
