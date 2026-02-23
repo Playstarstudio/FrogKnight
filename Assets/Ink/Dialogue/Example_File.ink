@@ -1,4 +1,5 @@
 //Comments can be written as such and are not displayed
+#speaker:Tutorial #portrait:Tutorial //These are tags, they give the Dialogue Manager the metadata of the speaker
 The story starts here //This is the first line of text shown in the game
 -> knotName //This diverts to the knot "knotName", skipping over the next line of text
 
