@@ -274,8 +274,15 @@ public class DialogueManager : MonoBehaviour
 
         if (dialogueTrigger.playerInRange) //If the enemy can be spoken to, initiate dialogue
         {
-            EnterDialogueMode(dialogueTrigger.inkJSON);
-            return true; //By returning true, state manager will enter dialogue state
+            if (dialogueTrigger.inkJSON is not null)
+            {
+                EnterDialogueMode(dialogueTrigger.inkJSON);
+                return true; //By returning true, state manager will enter dialogue state
+            } else
+            {
+                Debug.LogError("No Ink JSON found");
+                return false;
+            }
         }
         else
         {
