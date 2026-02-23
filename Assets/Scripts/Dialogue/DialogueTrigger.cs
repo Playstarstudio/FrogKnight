@@ -12,10 +12,11 @@ public class DialogueTrigger : MonoBehaviour
     [Header("Ink JSON")]
     public TextAsset inkJSON;
 
-    public bool playerInRange;
+    [Header("Area Trigger Toggle")]
     public bool areaTrigger = false;
-    public DialogueManager dialogueManager;
-    public P_StateManager p_StateManager;
+    [HideInInspector] public bool playerInRange;
+    [HideInInspector] public DialogueManager dialogueManager;
+    [HideInInspector] public P_StateManager p_StateManager;
 
     private void Awake() //On wake, ensures that the visual cue is off and the variables are set properly
     {
