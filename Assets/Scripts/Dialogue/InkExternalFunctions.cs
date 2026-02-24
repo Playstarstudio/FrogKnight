@@ -7,7 +7,7 @@ public class InkExternalFunctions
     {
         story.BindExternalFunction("endGame", (bool state) => {
             Debug.Log(state);
-            if (state == true) {Application.Quit();}
+            if (state == true) {SceneManager.LoadScene("Credits");}
         });
 
         story.BindExternalFunction("resetAreaTrigger", (bool state) => {
