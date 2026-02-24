@@ -107,6 +107,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gridManager: {fileID: 0}
   gameManager: {fileID: 0}
+  gameLogManager: {fileID: 0}
   rb: {fileID: 0}
   anim: {fileID: 0}
   currentPos: {x: 0, y: 0}
@@ -116,27 +117,52 @@ MonoBehaviour:
   visionBlock: 0
   castSuccess: 0
   casting: {fileID: 0}
-  spell0: {fileID: 0}
-  spell1: {fileID: 0}
-  spell2: {fileID: 0}
-  spell3: {fileID: 0}
+  castingSlot: {fileID: 0}
+  melee: {fileID: 0}
+  activeAbilityList: []
+  totalKnownAbilities: []
   movementSpeed: 0
-  hurt:
-    attribute: {fileID: 0}
-    operation: 0
-    attributeModifierValue: 0
-  isRepeatedMovement: 0
-  huurt: 0
-  moving: 0
   lastMoveTime: 0
   BGM: {fileID: 0}
   SoundEffect: {fileID: 0}
   inventory: {fileID: 0}
+  currentTile: {x: 0, y: 0}
+  targetingTile: {x: 0, y: 0}
   target: {fileID: 0}
-  speed: 1.1
   move: 0
   currentPerception: 0
   perceptionState: 0
+  dropList:
+  - itemPrefab: {fileID: 11400000, guid: b62183b175000194991bc6f4c0a63828, type: 2}
+    dropChance: 25
+  - itemPrefab: {fileID: 11400000, guid: c5e3dba38e25084468a7fac41c9e1cc0, type: 2}
+    dropChance: 25
+  - itemPrefab: {fileID: 11400000, guid: 1408e1581955346489f5e5ad101925b2, type: 2}
+    dropChance: 25
+  - itemPrefab: {fileID: 11400000, guid: b568c9fa6acf61b449cb19a4a0707a4a, type: 2}
+    dropChance: 25
+  - itemPrefab: {fileID: 11400000, guid: f6a8c8ceeb19e8c4f84b44d5af0d6d06, type: 2}
+    dropChance: 25
+  - itemPrefab: {fileID: 11400000, guid: c2523e051cd36e446895500fcfc245db, type: 2}
+    dropChance: 25
+  - itemPrefab: {fileID: 11400000, guid: 59d07237aad8f104ab7492e70a3202ba, type: 2}
+    dropChance: 25
+  - itemPrefab: {fileID: 11400000, guid: de8e6e960d2c71e4b94e2ee1b162c96c, type: 2}
+    dropChance: 25
+  - itemPrefab: {fileID: 11400000, guid: 9e34f58ae2f64514daf67aac40bcedbd, type: 2}
+    dropChance: 25
+  - itemPrefab: {fileID: 11400000, guid: bbbd9af9f5642a9488db4ff2597266e9, type: 2}
+    dropChance: 25
+  - itemPrefab: {fileID: 11400000, guid: 8a3c1d81bfedc4c468b86de9d4c94219, type: 2}
+    dropChance: 25
+  - itemPrefab: {fileID: 11400000, guid: 9208a1b5f8318ef46ab153de4dd80354, type: 2}
+    dropChance: 25
+  - itemPrefab: {fileID: 11400000, guid: 937935d1ee4d612439f8243f4bbd0dac, type: 2}
+    dropChance: 25
+  - itemPrefab: {fileID: 11400000, guid: b7bfdfd47bac56442bd5fc13383eb244, type: 2}
+    dropChance: 25
+  - itemPrefab: {fileID: 11400000, guid: b27a51209a30f4347bf735b949d31957, type: 2}
+    dropChance: 25
 --- !u!114 &6090523045938297406
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -162,6 +188,7 @@ MonoBehaviour:
   - type: {fileID: 11400000, guid: 15168d61e3797814ea377ad669d3376c, type: 2}
     value:
       baseValue: 6
+  parent: {fileID: 0}
 --- !u!61 &95408598678369758
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -199,8 +226,8 @@ BoxCollider2D:
   m_Offset: {x: 0, y: 0.5}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0}
-    oldSize: {x: 0.875, y: 1.3125}
+    pivot: {x: 0.5, y: 0.25}
+    oldSize: {x: 0.6875, y: 1.125}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0

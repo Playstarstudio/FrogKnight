@@ -11,6 +11,7 @@ public class Enemy : Entity
     public bool move;
     public float currentPerception;
     public PerceptionState perceptionState;
+    [SerializeField] public int dropMax = 5;
     [SerializeField] public dropItem[] dropList;
 
     [System.Serializable]
@@ -18,6 +19,7 @@ public class Enemy : Entity
     {
         public ItemSO itemPrefab;
         public float dropChance;
+        public bool dropped = false;
     }
     public enum PerceptionState
     {
@@ -154,26 +156,50 @@ public class Enemy : Entity
 
     public void DropItems()
     {
-        foreach (dropItem drop in dropList)
+        int dropCount = GaussianDistribution(0, dropMax);
+        for(int i = 0; i < dropCount; i++)
         {
-            float chance = Random.Range(1, 100);
-            Debug.Log("roll was:" + chance);
-            if ( chance <= drop.dropChance )
+            int dropIndex = Random.Range (0, dropList.Length);
+            int iterations = 1;
+            while (dropList[dropIndex].dropped == true && iterations < (dropList.Length*2))
             {
-                Debug.Log("roll was correct! dropping item");
-                GameObject droppeditem = new GameObject(drop.itemPrefab.name);
+                dropIndex = Random.Range (0, dropList.Length);
+                iterations++;
+            }
+            float chance = Random.Range(1, 100);
+            if (chance <= dropList[dropIndex].dropChance)
+            {
+                GameObject droppeditem = new GameObject(dropList[dropIndex].itemPrefab.name);
                 droppeditem.SetActive(false);
                 ItemOnGround newItem = droppeditem.AddComponent<ItemOnGround>();
                 droppeditem.AddComponent<SpriteRenderer>();
-                newItem.GetComponent<ItemOnGround>().inventoryItem = drop.itemPrefab;
-                newItem.GetComponent<ItemOnGround>().quantity = drop.itemPrefab.count;
+                newItem.GetComponent<ItemOnGround>().inventoryItem = dropList[dropIndex].itemPrefab;
+                newItem.GetComponent<ItemOnGround>().quantity = dropList[dropIndex].itemPrefab.count;
                 droppeditem.transform.position = gridManager.GetTileCenter(currentTile);
                 droppeditem.SetActive(true);
                 droppeditem.GetComponent<SpriteRenderer>().enabled = true;
                 droppeditem.GetComponent<SpriteRenderer>().sortingLayerName = "Entities";
                 gridManager.MapAddItem(newItem.GetComponent<ItemOnGround>(), currentTile);
+                dropList[dropIndex].dropped = true;
             }
         }
+    }
+    public int GaussianDistribution(float minValue, float maxValue)
+    {
+        float firstIntermediate, secondIntermediate, distValue;
+        do
+        {
+            firstIntermediate = 2.0f * UnityEngine.Random.value - 1.0f;
+            secondIntermediate = 2.0f * UnityEngine.Random.value - 1.0f;
+            distValue = firstIntermediate * firstIntermediate + secondIntermediate * secondIntermediate;
+        }
+        while (distValue >= 1.0f);
+        float std = firstIntermediate * Mathf.Sqrt(-2.0f * Mathf.Log(distValue) / distValue);
+        float mean = (minValue + maxValue) / 2.0f;
+        float sigma = (maxValue - mean) / 3.0f;
+        float intermediateResult = Mathf.Clamp(std * sigma + mean, minValue, maxValue);
+        int result = Mathf.RoundToInt(intermediateResult);
+        return result;
     }
 }
 
