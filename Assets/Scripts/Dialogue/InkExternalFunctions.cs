@@ -1,5 +1,6 @@
 using UnityEngine;
 using Ink.Runtime;
+using UnityEngine.SceneManagement;
 
 public class InkExternalFunctions
 {
