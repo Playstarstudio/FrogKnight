@@ -24,6 +24,7 @@ namespace Inventory.Model
                 player.att.ApplyInstantModifier(mod);
             }
             player.gameLogManager.AddEntry(player, this);
+            SoundFXManager.instance.PlayFXClip(itemSound, player.transform, 1f);
         }
     }
     public interface IDestroyableItem

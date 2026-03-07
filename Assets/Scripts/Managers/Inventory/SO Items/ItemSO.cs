@@ -34,6 +34,7 @@ public abstract class ItemSO : ScriptableObject
     [field: SerializeField]
     public List<Modifier> effects { get; set; }
 
+    public AudioClip itemSound;
 
     //public List<Item> materials;
     //public List<Modifier> finalModifiers;

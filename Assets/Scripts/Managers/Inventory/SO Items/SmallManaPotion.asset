@@ -14,6 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Inventory.Model.ConsumableItemSO
   <itemName>k__BackingField: Health Potion
   <image>k__BackingField: {fileID: 1629623867, guid: b631ed305dfd43c488e0f8edf5c829bc, type: 3}
+  slot: 0
   <description>k__BackingField: 'Restores 5 MP
 
 '
@@ -21,5 +22,7 @@ MonoBehaviour:
   <isStackable>k__BackingField: 1
   <MaxStackSize>k__BackingField: 25
   <count>k__BackingField: 1
+  <modifiers>k__BackingField: []
   <effects>k__BackingField:
   - {fileID: 11400000, guid: 36399e7af678c0249acd429881680552, type: 2}
+  itemSound: {fileID: 8300000, guid: 1377fd541f111894da02189b27db7977, type: 3}
