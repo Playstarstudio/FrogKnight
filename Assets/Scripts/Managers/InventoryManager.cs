@@ -119,6 +119,7 @@ namespace Inventory
                 Show();
                 foreach (var uiItem in inventoryData.GetCurrentInventoryState())
                 {
+                    //Debug.Log("The index being attempted is " + uiItem.Key + " with item quantity " + uiItem.Value.quantity);
                     UpdateData(uiItem.Key, uiItem.Value.item.image, uiItem.Value.quantity);
                 }
                 SoundFXManager.instance.PlayFXClip(bagOpenSound, playerStateManager.transform, 0.2f);

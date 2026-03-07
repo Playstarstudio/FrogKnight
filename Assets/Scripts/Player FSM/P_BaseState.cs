@@ -24,18 +24,22 @@ public class P_BaseState : P_State
             if (inputFunction(KeyCode.W))
             {
                 player.StartCoroutine(Move(Vector2.up, player));
+                SoundFXManager.instance.PlayRandomFXClip(player.walkSounds, player.transform, 0.1f);
             }
             else if (inputFunction(KeyCode.S))
             {
                 player.StartCoroutine(Move(Vector2.down, player));
+                SoundFXManager.instance.PlayRandomFXClip(player.walkSounds, player.transform, 0.1f);
             }
             else if (inputFunction(KeyCode.A))
             {
                 player.StartCoroutine(Move(Vector2.left, player));
+                SoundFXManager.instance.PlayRandomFXClip(player.walkSounds, player.transform, 0.1f);
             }
             else if (inputFunction(KeyCode.D))
             {
                 player.StartCoroutine(Move(Vector2.right, player));
+                SoundFXManager.instance.PlayRandomFXClip(player.walkSounds, player.transform, 0.1f);
             }
             //hurts self 
             /*

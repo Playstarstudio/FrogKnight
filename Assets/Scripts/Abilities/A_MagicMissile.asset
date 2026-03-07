@@ -29,6 +29,6 @@ MonoBehaviour:
   abilityEffects:
   - {fileID: 11400000, guid: 0aad590f153a81244bdd197a364cfc0a, type: 2}
   colliders: []
-  targets:
-  - {fileID: 0}
-  - {fileID: 0}
+  targets: []
+  cells: []
+  itemSound: {fileID: 8300000, guid: 477b64390cfc4574b86a0ba0897ef949, type: 3}

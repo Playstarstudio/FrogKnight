@@ -123,8 +123,7 @@ MonoBehaviour:
   totalKnownAbilities: []
   movementSpeed: 0
   lastMoveTime: 0
-  BGM: {fileID: 0}
-  SoundEffect: {fileID: 0}
+  hurtSound: {fileID: 8300000, guid: ffcd6d927366c104598a071fcf3d4364, type: 3}
   inventory: {fileID: 0}
   currentTile: {x: 0, y: 0}
   targetingTile: {x: 0, y: 0}
@@ -132,37 +131,53 @@ MonoBehaviour:
   move: 0
   currentPerception: 0
   perceptionState: 0
+  dropMax: 5
   dropList:
   - itemPrefab: {fileID: 11400000, guid: b62183b175000194991bc6f4c0a63828, type: 2}
     dropChance: 25
+    dropped: 0
   - itemPrefab: {fileID: 11400000, guid: c5e3dba38e25084468a7fac41c9e1cc0, type: 2}
     dropChance: 25
+    dropped: 0
   - itemPrefab: {fileID: 11400000, guid: 1408e1581955346489f5e5ad101925b2, type: 2}
     dropChance: 25
+    dropped: 0
   - itemPrefab: {fileID: 11400000, guid: b568c9fa6acf61b449cb19a4a0707a4a, type: 2}
     dropChance: 25
+    dropped: 0
   - itemPrefab: {fileID: 11400000, guid: f6a8c8ceeb19e8c4f84b44d5af0d6d06, type: 2}
     dropChance: 25
+    dropped: 0
   - itemPrefab: {fileID: 11400000, guid: c2523e051cd36e446895500fcfc245db, type: 2}
     dropChance: 25
+    dropped: 0
   - itemPrefab: {fileID: 11400000, guid: 59d07237aad8f104ab7492e70a3202ba, type: 2}
     dropChance: 25
+    dropped: 0
   - itemPrefab: {fileID: 11400000, guid: de8e6e960d2c71e4b94e2ee1b162c96c, type: 2}
     dropChance: 25
+    dropped: 0
   - itemPrefab: {fileID: 11400000, guid: 9e34f58ae2f64514daf67aac40bcedbd, type: 2}
     dropChance: 25
+    dropped: 0
   - itemPrefab: {fileID: 11400000, guid: bbbd9af9f5642a9488db4ff2597266e9, type: 2}
     dropChance: 25
+    dropped: 0
   - itemPrefab: {fileID: 11400000, guid: 8a3c1d81bfedc4c468b86de9d4c94219, type: 2}
     dropChance: 25
+    dropped: 0
   - itemPrefab: {fileID: 11400000, guid: 9208a1b5f8318ef46ab153de4dd80354, type: 2}
     dropChance: 25
+    dropped: 0
   - itemPrefab: {fileID: 11400000, guid: 937935d1ee4d612439f8243f4bbd0dac, type: 2}
     dropChance: 25
+    dropped: 0
   - itemPrefab: {fileID: 11400000, guid: b7bfdfd47bac56442bd5fc13383eb244, type: 2}
     dropChance: 25
+    dropped: 0
   - itemPrefab: {fileID: 11400000, guid: b27a51209a30f4347bf735b949d31957, type: 2}
     dropChance: 25
+    dropped: 0
 --- !u!114 &6090523045938297406
 MonoBehaviour:
   m_ObjectHideFlags: 0

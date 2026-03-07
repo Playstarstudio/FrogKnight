@@ -34,6 +34,7 @@ public class P_StateManager : Entity
     public Transform mainCamera;
     public StatPanelContainer statPanelContainer;
     public AudioClip pickupSound;
+    public AudioClip[] walkSounds;
     /*
     public AudioSource SoundEffect1;
     public AudioSource SoundEffect2;
