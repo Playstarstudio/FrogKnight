@@ -14,12 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Inventory.Model.EquippableItemSO
   <itemName>k__BackingField: asdf
   <image>k__BackingField: {fileID: 1329060588, guid: b631ed305dfd43c488e0f8edf5c829bc, type: 3}
+  slot: 0
   <description>k__BackingField: Cuts Stuff!
   <weight>k__BackingField: 4
   <isStackable>k__BackingField: 0
   <MaxStackSize>k__BackingField: 1
   <count>k__BackingField: 1
+  <modifiers>k__BackingField: []
   <effects>k__BackingField:
   - {fileID: 11400000, guid: c159c13d6ce289442957e255d14324be, type: 2}
-  slot: 0
   equipped: 0
+  equipSound: {fileID: 8300000, guid: b5086176a445a7545b697eed4f419db8, type: 3}
+  unequipSound: {fileID: 8300000, guid: 4b6981800400de945beccf9058c4bd3c, type: 3}

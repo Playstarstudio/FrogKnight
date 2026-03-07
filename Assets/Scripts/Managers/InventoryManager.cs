@@ -29,10 +29,9 @@ namespace Inventory
         public List<InventoryItem> initialItems = new List<InventoryItem>();
         [SerializeField]
         private ItemActionPanel actionPanel;
-        [SerializeField]
-        private AudioSource audioSource;
-        [SerializeField]
-        private AudioClip clip;
+        [SerializeField] private AudioClip dropSound;
+        [SerializeField] private AudioClip bagOpenSound;
+        [SerializeField] private AudioClip bagCloseSound;
         [SerializeField]
         public GameObject genericItem;
 
@@ -112,6 +111,7 @@ namespace Inventory
             if (isInventoryOpen)
             {
                 Hide();
+                SoundFXManager.instance.PlayFXClip(bagCloseSound, playerStateManager.transform, 0.2f);
                 return false;
             }
             else
@@ -121,6 +121,7 @@ namespace Inventory
                 {
                     UpdateData(uiItem.Key, uiItem.Value.item.image, uiItem.Value.quantity);
                 }
+                SoundFXManager.instance.PlayFXClip(bagOpenSound, playerStateManager.transform, 0.2f);
                 return true;
             }
         }
@@ -253,6 +254,7 @@ namespace Inventory
                 inventoryData.RemoveItem(index, 1);
                 inventoryData.AddItemToFirstFreeSlot(replacedItem.item, 1);
                 slot.EquipItem(invItem.item);
+                //SoundFXManager.instance.PlayFXClip(equippable.equipSound, playerStateManager.transform, 0.2f);
                 //playerStateManager.CalculateAllStats();
                 return true;
             }
@@ -260,6 +262,7 @@ namespace Inventory
             {
                 inventoryData.RemoveItem(index, invItem.quantity);
                 slot.EquipItem(invItem.item);
+                //SoundFXManager.instance.PlayFXClip(equippable.equipSound, playerStateManager.transform, 0.2f);
                 //playerStateManager.CalculateAllStats();
                 return true;
             }
@@ -283,6 +286,7 @@ namespace Inventory
                     draggedEquipmentSlot.EquipItem(targetItem.item);
                     inventoryData.RemoveItem(targetIndex, targetItem.quantity);
                     inventoryData.AddItem(targetItem.item, 1);
+                    //SoundFXManager.instance.PlayFXClip(equippable.equipSound, playerStateManager.transform, 0.2f);
                     //playerStateManager.CalculateAllStats();
                 }
                 else
@@ -298,6 +302,7 @@ namespace Inventory
             else
             {
                 inventoryData.AddItem(unequippedItemSO, 1);
+                //SoundFXManager.instance.PlayFXClip(equippable.unequipSound, playerStateManager.transform, 0.2f);
                 //playerStateManager.CalculateAllStats();
             }
         }
@@ -412,12 +417,9 @@ namespace Inventory
             newItem.GetComponent<ItemOnGround>().quantity = inventoryData.GetInventoryItemAt(itemIndex).quantity;
             newItem.transform.position = playerStateManager.gridManager.GetTileCenter(playerStateManager.currentTile);
             playerStateManager.gridManager.MapAddItem(newItem.GetComponent<ItemOnGround>(), playerStateManager.currentTile);
+            SoundFXManager.instance.PlayFXClip(dropSound, newItem.transform, 0.2f);
             inventoryData.RemoveItem(itemIndex, quantity);
             ResetSelection();
-            if (clip != null)
-            {
-                audioSource.PlayOneShot(clip);
-            }
         }
 
         public void PerformAction(int itemIndex)

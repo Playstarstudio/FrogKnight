@@ -34,8 +34,6 @@ public abstract class ItemSO : ScriptableObject
     [field: SerializeField]
     public List<Modifier> effects { get; set; }
 
-    public AudioClip itemSound;
-
     //public List<Item> materials;
     //public List<Modifier> finalModifiers;
     // Start is called once before the first execution of Update after the MonoBehaviour is created

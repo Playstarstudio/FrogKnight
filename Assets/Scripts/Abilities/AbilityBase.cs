@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using UnityEditor.Rendering.Universal;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "Ability", menuName = "Scriptable Objects/Ability")]
@@ -22,6 +23,7 @@ public class Ability : ScriptableObject
     public Collider2D[] colliders;
     public List<Entity> targets;
     public List<Vector2Int> cells;
+    public AudioClip itemSound;
 
 
     public enum TargetType
@@ -67,6 +69,7 @@ public class Ability : ScriptableObject
                 source.gameLogManager.AddEntry(source, target, this);
             }
             source.castSuccess = true;
+            SoundFXManager.instance.PlayFXClip(itemSound, source.transform, 0.2f);
             ApplyAbilityEffects(source);
             source.gameManager.PlayerAction(source, speed);
             return true;

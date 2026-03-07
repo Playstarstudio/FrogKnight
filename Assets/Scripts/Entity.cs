@@ -33,8 +33,8 @@ public abstract class Entity : MonoBehaviour
     [SerializeField] public List<Ability> totalKnownAbilities;
     [HideInInspector][SerializeField] public float movementSpeed;
     [HideInInspector] public float lastMoveTime = 0f;
-    public AudioSource BGM;
-    public AudioSource SoundEffect;
+    //public AudioSource BGM;
+    public AudioClip hurtSound;
     public InventorySO inventory;
     [HideInInspector] public Vector2Int currentTile;
     [HideInInspector] public Vector2Int targetingTile;
@@ -86,6 +86,7 @@ public abstract class Entity : MonoBehaviour
         };
         this.att.ApplyInstantModifier(damage);
         Debug.Log($"{this.name} takes {effect.finalEffect} damage.");
+        SoundFXManager.instance.PlayFXClip(hurtSound, transform, 0.1f);
         if (this.att.GetBaseAttributeValue(att.GetAttributeType("HP")) <= 0)
         {
             Debug.Log($"{this.name} has been defeated!");

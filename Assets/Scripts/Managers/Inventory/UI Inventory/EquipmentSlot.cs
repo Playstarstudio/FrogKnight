@@ -76,6 +76,7 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
         this.hoverPanel.Toggle(false);
         empty = false;
         AddModifiers(newItem);
+        SoundFXManager.instance.PlayFXClip(equippableItem.equipSound, transform, 0.2f);
     }
 
     private void ResetSlot()
@@ -102,6 +103,7 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
         InventoryItem unequippedItem = invItem.AddComponent<InventoryItem>();
         unequippedItem.item = item;
         unequippedItem.quantity = 1;
+        SoundFXManager.instance.PlayFXClip(equippableItem.unequipSound, transform, 0.2f);
         ResetSlot();
         return unequippedItem;
     }

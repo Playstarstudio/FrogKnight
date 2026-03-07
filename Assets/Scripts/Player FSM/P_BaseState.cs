@@ -6,7 +6,6 @@ public class P_BaseState : P_State
     private bool moving;
     private AttributeModifier hurt;
 
-
     public override void EnterState(P_StateManager player)
     {
         player.gridManager.map[player.gridManager.GetCellPosition(player.transform.position)].occupied = true;
@@ -157,8 +156,9 @@ public class P_BaseState : P_State
                         ItemOnGround item = itemsOnTile[0];
                         player.gridManager.MapRemoveItem(itemsOnTile[0], player.currentTile);
                         item.DestroyItem();
+                        SoundFXManager.instance.PlayFXClip(player.pickupSound, player.transform, 0.2f); //Sound code
                     }
-                    else
+                    else //Add sound for swapping at some point!!!!!!!!!!!!!
                     {
                         {
                             ItemOnGround swapItem = itemsOnTile[0];

@@ -30,3 +30,5 @@ MonoBehaviour:
   - {fileID: 11400000, guid: e00fbd33a4fd47947a4dd11280925edc, type: 2}
   <effects>k__BackingField: []
   equipped: 0
+  equipSound: {fileID: 8300000, guid: fa5e3bbc2051ede4fa89555ac87ed35b, type: 3}
+  unequipSound: {fileID: 8300000, guid: 18f0ecd4a223bc8478935e7d7d37e1eb, type: 3}

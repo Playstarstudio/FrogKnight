@@ -11,6 +11,7 @@ namespace Inventory.Model
     public class ConsumableItemSO : ItemSO, IDestroyableItem, IItemAction
     {
         public string ActionName => "Consume";
+        public AudioClip useSound;
         public void PerformAction(P_StateManager player, int i)
         {
             foreach (Modifier effect in this.effects)
@@ -24,7 +25,7 @@ namespace Inventory.Model
                 player.att.ApplyInstantModifier(mod);
             }
             player.gameLogManager.AddEntry(player, this);
-            SoundFXManager.instance.PlayFXClip(itemSound, player.transform, 1f);
+            SoundFXManager.instance.PlayFXClip(useSound, player.transform, 0.5f);
         }
     }
     public interface IDestroyableItem

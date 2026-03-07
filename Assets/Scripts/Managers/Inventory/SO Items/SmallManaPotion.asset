@@ -25,4 +25,4 @@ MonoBehaviour:
   <modifiers>k__BackingField: []
   <effects>k__BackingField:
   - {fileID: 11400000, guid: 36399e7af678c0249acd429881680552, type: 2}
-  itemSound: {fileID: 8300000, guid: 1377fd541f111894da02189b27db7977, type: 3}
+  useSound: {fileID: 8300000, guid: 1377fd541f111894da02189b27db7977, type: 3}

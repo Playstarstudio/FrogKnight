@@ -22,5 +22,7 @@ MonoBehaviour:
   <isStackable>k__BackingField: 1
   <MaxStackSize>k__BackingField: 25
   <count>k__BackingField: 1
+  <modifiers>k__BackingField: []
   <effects>k__BackingField:
   - {fileID: 11400000, guid: c159c13d6ce289442957e255d14324be, type: 2}
+  useSound: {fileID: 8300000, guid: 1377fd541f111894da02189b27db7977, type: 3}

@@ -33,6 +33,7 @@ public class P_StateManager : Entity
     public DialogueManager dialogueManager;
     public Transform mainCamera;
     public StatPanelContainer statPanelContainer;
+    public AudioClip pickupSound;
     /*
     public AudioSource SoundEffect1;
     public AudioSource SoundEffect2;

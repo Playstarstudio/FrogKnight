@@ -7,6 +7,7 @@ public class SoundFXManager : MonoBehaviour
 
     public AudioSource soundFXObject;
 
+
     private void Awake()
     {
         if (instance == null)
