@@ -38,6 +38,7 @@ public abstract class Entity : MonoBehaviour
     public InventorySO inventory;
     [HideInInspector] public Vector2Int currentTile;
     [HideInInspector] public Vector2Int targetingTile;
+    public GameObject spellFXPrefab;
     #endregion
 
     private void Awake()

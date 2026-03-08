@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 116858076730566391}
   - component: {fileID: 6090523045938297406}
   - component: {fileID: 95408598678369758}
+  - component: {fileID: 6743835328098661783}
   m_Layer: 0
   m_Name: TestEnemy
   m_TagString: Entity
@@ -127,6 +128,7 @@ MonoBehaviour:
   inventory: {fileID: 0}
   currentTile: {x: 0, y: 0}
   targetingTile: {x: 0, y: 0}
+  spellFXPrefab: {fileID: 7129478099643511651, guid: 7f882c1c436b40945a78b28e8bec1222, type: 3}
   target: {fileID: 0}
   move: 0
   currentPerception: 0
@@ -250,3 +252,25 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 0.5, y: 0.5}
   m_EdgeRadius: 0
+--- !u!95 &6743835328098661783
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5234558815470154993}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 2ea36d5724895014fac423fdd79624db, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

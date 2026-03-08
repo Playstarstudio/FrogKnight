@@ -69,7 +69,7 @@ public class Ability : ScriptableObject
                 source.gameLogManager.AddEntry(source, target, this);
             }
             source.castSuccess = true;
-            SoundFXManager.instance.PlayFXClip(itemSound, source.transform, 0.2f);
+            CastSpellFX(source, targetPosition);
             ApplyAbilityEffects(source);
             source.gameManager.PlayerAction(source, speed);
             return true;
@@ -259,5 +259,14 @@ public class Ability : ScriptableObject
             crit = false;
             return false;
         }
+    }
+
+    public void CastSpellFX(Entity source, Vector2 targetPosition)
+    {
+        GameObject newVFX = Instantiate(source.spellFXPrefab, targetPosition, Quaternion.identity);
+        Animator animator = newVFX.GetComponent<Animator>();
+        animator.SetTrigger(abilityName);
+        SoundFXManager.instance.PlayFXClip(itemSound, newVFX.transform, 0.2f);
+        Destroy(newVFX, 1);
     }
 }
