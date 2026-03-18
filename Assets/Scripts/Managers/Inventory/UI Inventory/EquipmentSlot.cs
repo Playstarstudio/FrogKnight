@@ -1,7 +1,6 @@
 using Inventory.Model;
 using System;
 using TMPro;
-using UnityEditorInternal.Profiling.Memory.Experimental;
 using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
@@ -177,7 +176,7 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
             {
                 foreach (EquipmentModifier effect in item.modifiers)
                 {
-                   player.att.ApplyModifier(effect.attributeModifier);
+                    player.att.ApplyModifier(effect.attributeModifier);
                 }
             }
         }
