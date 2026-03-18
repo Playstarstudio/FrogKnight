@@ -263,7 +263,8 @@ public class Ability : ScriptableObject
 
     public void CastSpellFX(Entity source, Vector2 targetPosition)
     {
-        GameObject newVFX = Instantiate(source.spellFXPrefab, targetPosition, Quaternion.identity);
+        Vector2 spellAdjust = new Vector2((targetPosition.x + .5f), (targetPosition.y + .5f));
+        GameObject newVFX = Instantiate(source.spellFXPrefab, spellAdjust, Quaternion.identity);
         Animator animator = newVFX.GetComponent<Animator>();
         animator.SetTrigger(abilityName);
         SoundFXManager.instance.PlayFXClip(itemSound, newVFX.transform, 0.2f);
