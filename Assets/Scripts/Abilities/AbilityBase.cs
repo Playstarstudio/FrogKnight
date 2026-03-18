@@ -260,7 +260,6 @@ public class Ability : ScriptableObject
             return false;
         }
     }
-
     public void CastSpellFX(Entity source, Vector2 targetPosition)
     {
         Vector2 spellAdjust = new Vector2((targetPosition.x + .5f), (targetPosition.y + .5f));

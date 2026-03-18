@@ -58,14 +58,15 @@ public class P_StateManager : Entity
         gameManager = FindFirstObjectByType<GameManager>();
         gridManager = FindFirstObjectByType<GridManager>();
         dialogueManager = FindFirstObjectByType<DialogueManager>();
-        this.transform.position = gridManager.GetTileCenter(gridManager.GetCellPosition(this.transform.position));
         for (int i = 0; i < activeAbilityList.Count; i++)
         {
             abilitySlots[i].ability = activeAbilityList[i];
             abilitySlots[i].image.sprite = activeAbilityList[i].abilityImage;
         }
+        this.transform.position = gridManager.GetTileCenter(gridManager.GetCellPosition(this.transform.position));
+        currentTile = gridManager.GetCellPosition(this.transform.position);
+        gridManager.MapAddEntity(this, currentTile);
         StartCoroutine(WaitForTime(.1f));
-
     }
 
     // Update is called once per frame

@@ -1173,7 +1173,6 @@ public class GridManager : MonoBehaviour
     {
         MapRemoveEntity(entity, from);
         MapAddEntity(entity, to);
-        entity.currentTile = to;
     }
     public void MapAddEntity(Entity entity, Vector2Int tilePos)
     {
@@ -1187,7 +1186,6 @@ public class GridManager : MonoBehaviour
         map[tilePos].occupyingEntities.RemoveAll(e => e == entity);
         CalculateTileData(tilePos);
         DisplayOrHideEntity(entity);
-
     }
     public void MapAddItem(ItemOnGround item, Vector2Int tilePos)
     {
