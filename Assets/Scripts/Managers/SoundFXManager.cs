@@ -1,4 +1,3 @@
-using UnityEditor.Search;
 using UnityEngine;
 
 public class SoundFXManager : MonoBehaviour
@@ -28,7 +27,7 @@ public class SoundFXManager : MonoBehaviour
 
     public void PlayRandomFXClip(AudioClip[] audioClip, Transform spawntransform, float volume)
     {
-        int rand = Random.Range(0,audioClip.Length);//get random index
+        int rand = Random.Range(0, audioClip.Length);//get random index
         AudioSource audioSource = Instantiate(soundFXObject, spawntransform.position, Quaternion.identity); //spawn in game object to host the audio source
         audioSource.clip = audioClip[rand]; //assign the audioclip
         audioSource.volume = volume; //ensure volume is set appropriately

@@ -1,5 +1,4 @@
 using System.Collections.Generic;
-using UnityEditor.Rendering.Universal;
 using UnityEngine;
 
 [CreateAssetMenu(fileName = "Ability", menuName = "Scriptable Objects/Ability")]
