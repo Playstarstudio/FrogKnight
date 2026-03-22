@@ -565,7 +565,7 @@ public class GridManager : MonoBehaviour
         max = new Vector2Int(int.MinValue, int.MinValue);
         if (playerRange == null || playerRange.Count == 0)
         {
-            Debug.Log("Player range is empty or null");
+            Debug.LogWarning("Player range is empty or null");
             min = Vector2Int.zero;
             max = Vector2Int.zero;
             return false;

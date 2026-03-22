@@ -7,7 +7,7 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 using UnityEngine.UI;
 
-public class DialogueManager : MonoBehaviour
+public class DialogueManager : MonoBehaviour //The singleton that runs dialogue
 {
     public static DialogueManager instance;
     [Header("Dialogue UI")]
@@ -18,38 +18,38 @@ public class DialogueManager : MonoBehaviour
     public Animator portraitAnimator;
     public Animator layoutAnimator;
 
+    [Header("Other Scripts")]
+    [HideInInspector] public DialogueTrigger dialogueTrigger;
+    public DialogueVariables dialogueVariables;
+    public InkExternalFunctions inkExternalFunctions;
+
     [Header("Choices UI")]
     public GameObject[] choices;
     public TextMeshProUGUI[] choicesText;
 
     [Header("Audio")]
+    public bool makePredictable; //Controls whether dialogue audio matches letters or is random
     private AudioSource audioSource;
     public DialogueAudioInfoSO defaultAudioInfo;
     [HideInInspector] public DialogueAudioInfoSO currentAudioInfo;
     public DialogueAudioInfoSO[] audioInfos;
     public Dictionary<string, DialogueAudioInfoSO> audioInfoDictionary;
-    public bool makePredictable;
 
     [Header("Essentials")]
-    public Story currentStory;
-    public bool dialogueIsPlaying;
-    public TextAsset loadGlobalsJSON;
     public float typingSpeed = 0.02f;   // Dialogue speed (smaller is faster)
-    public Coroutine displayLineCoroutine;
+    [HideInInspector] public Story currentStory;
+    [HideInInspector] public bool dialogueIsPlaying;
+    [HideInInspector] public TextAsset loadGlobalsJSON;
+    [HideInInspector] public Coroutine displayLineCoroutine;
     [HideInInspector] public int coroutineIndex = 1;
-    public bool canContinueToNextLine = false;
+    [HideInInspector] public bool canContinueToNextLine = false;
     [HideInInspector] public string nextLine = "";
 
-    [Header("Other Scripts")]
-    public DialogueTrigger dialogueTrigger;
-    public DialogueVariables dialogueVariables;
-    public InkExternalFunctions inkExternalFunctions;
-
     [Header("Ink tags")]
-    public const string SPEAKER_TAG = "speaker";
-    public const string PORTRAIT_TAG = "portrait";
-    public const string LAYOUT_TAG = "layout";
-    public const string AUDIO_TAG = "audio";
+    [HideInInspector] public const string SPEAKER_TAG = "speaker";
+    [HideInInspector] public const string PORTRAIT_TAG = "portrait";
+    [HideInInspector] public const string LAYOUT_TAG = "layout";
+    [HideInInspector] public const string AUDIO_TAG = "audio";
 
     private void Awake()
     {
@@ -59,11 +59,11 @@ public class DialogueManager : MonoBehaviour
         }
         instance = this;
 
-        dialogueVariables = new DialogueVariables(loadGlobalsJSON);
-        inkExternalFunctions = new InkExternalFunctions();
+        dialogueVariables = new DialogueVariables(loadGlobalsJSON); //loads in all the global and local dialogue variables
+        inkExternalFunctions = new InkExternalFunctions(); //links all the Inky dialogue functions to the unity code
 
-        audioSource  = this.gameObject.AddComponent<AudioSource>();
-        currentAudioInfo = defaultAudioInfo;
+        audioSource  = this.gameObject.AddComponent<AudioSource>(); //sets up the audio source component
+        currentAudioInfo = defaultAudioInfo; //resets the current audio settings to the default
 
         //sets up the Dialogue Panel child components
         layoutAnimator = dialoguePanel.GetComponent<Animator>(); //gets the layout animator
@@ -71,7 +71,7 @@ public class DialogueManager : MonoBehaviour
         dialogueText = dialoguePanel.GetComponentInChildren<TextMeshProUGUI>(true); //gets the dialogue text TextMeshProUGUI
         displayNameText = dialoguePanel.transform.Find("SpeakerFrame").gameObject.GetComponentInChildren<TextMeshProUGUI>(true); //gets the display name text
         portraitAnimator = dialoguePanel.transform.Find("PortraitFrame").gameObject.GetComponentInChildren<Animator>(true); //gets the portrait animator
-        Button[] choiceComponents = dialoguePanel.GetComponentsInChildren<Button>(true);
+        Button[] choiceComponents = dialoguePanel.GetComponentsInChildren<Button>(true); //sets up the list of chhoices button list, same as below
         for (int i=0; i < choiceComponents.Length; i++) {choices[i] = choiceComponents[i].gameObject;} //sets up choices button list. Needs to be done in two steps
     }
 
@@ -91,27 +91,27 @@ public class DialogueManager : MonoBehaviour
             index++;
         }
 
-        InitializeAudioInfoDictionary();
+        InitializeAudioInfoDictionary(); //sets up the dictionary for the audio info
     }
 
-    public void ExitDialogueMode() //Exits the dialogue
+    public void ExitDialogueMode() //Ends dialogue and resets values for dialogue and audio
     {
         dialogueVariables.StopListening(currentStory);  //Disables ink-UI variable talking
         inkExternalFunctions.Unbind(currentStory);  //Disables ink  external functions
 
         dialogueIsPlaying = false;
         dialogueText.text = "";
-        dialoguePanel.SetActive(false);
+        dialoguePanel.SetActive(false); 
 
         SetCurrentAudioInfo(defaultAudioInfo.id);
     }
 
-    public static DialogueManager GetInstance() //Returns public instance of the dialogue manager
+    public static DialogueManager GetInstance() //Returns the public instance of the dialogue manager
     {
         return instance;
     }
 
-    public void EnterDialogueMode(TextAsset inkJSON)
+    public void EnterDialogueMode(TextAsset inkJSON) //Resets the panel and begins reading the Ink dialogue story
     {
         currentStory = new Story(inkJSON.text); //Takes in the story
         dialogueIsPlaying = true;
@@ -124,23 +124,18 @@ public class DialogueManager : MonoBehaviour
         portraitAnimator.Play("default");
         layoutAnimator.Play("right");
 
-        ContinueStory();
+        ContinueStory(); //advances the text to the next line
     }
 
     public void ContinueStory() //advances the text to the next line if the text can continue, else ends dialogue
     {
         if (currentStory.canContinue)
-        { /*
-            if (displayLineCoroutine != null)
-            {
-                StopCoroutine(displayLineCoroutine);
-            }*/
-            
+        {            
             nextLine = currentStory.Continue(); //Reads the next line of the story
 
             if (nextLine.Equals("") && !currentStory.canContinue) //Exits if last line is external function
             {
-                ExitDialogueMode();
+                ExitDialogueMode(); //Ends dialogue
             }
             else
             {
@@ -150,7 +145,7 @@ public class DialogueManager : MonoBehaviour
         }
         else
         {
-            ExitDialogueMode();
+            ExitDialogueMode(); //Ends dialogue
         }
     }
 
@@ -162,8 +157,6 @@ public class DialogueManager : MonoBehaviour
         HideChoices();  // clears the choices UI
         
         canContinueToNextLine = false;
-
-        //bool isAddingRichTextTag = false;
 
         for (coroutineIndex = 1; coroutineIndex < line.Length; coroutineIndex++) // adds dialogue text to the UI
         {
@@ -178,7 +171,7 @@ public class DialogueManager : MonoBehaviour
         canContinueToNextLine = true;
     }
 
-    private void PlayDialogueSound(int currentDisplayedCharacterCount, char currentCharacter) //plays text audio in a random format
+    private void PlayDialogueSound(int currentDisplayedCharacterCount, char currentCharacter) //plays dialogue audio in a set or random format
     {
         //sets the proper variables up from the NPC's audio manager
         AudioClip[] dialogueTypingSoundClips = currentAudioInfo.dialogueTypingSoundClips;
@@ -194,9 +187,9 @@ public class DialogueManager : MonoBehaviour
                 audioSource.Stop();
             }
 
-            AudioClip soundClip = null;
+            AudioClip soundClip;
             
-            if (makePredictable)    //match audio pitch to set letters
+            if (makePredictable)    //match audio pitch to set letters of the alphabet
             {
                 int hashCode = currentCharacter.GetHashCode();
                 int predictableIndex = hashCode % dialogueTypingSoundClips.Length;  // sets letter sound
@@ -217,17 +210,17 @@ public class DialogueManager : MonoBehaviour
                     audioSource.pitch = minPitch; //sets pitch to minimum if range is 0
                 }
             } 
-            else    //randomized audio per character
+            else    //randomized audio per character that is not consistent on repeat
             {
                 int randomIndex = Random.Range(0, dialogueTypingSoundClips.Length);
                 soundClip = dialogueTypingSoundClips[randomIndex];
-                audioSource.pitch = Random.Range(minPitch, maxPitch); //pitch
+                audioSource.pitch = Random.Range(minPitch, maxPitch);
             }
             audioSource.PlayOneShot(soundClip); //plays sound
         }
     }
 
-    public void HandleTags(List<string> currentTags)
+    public void HandleTags(List<string> currentTags) //Takes in the dialogue tags and updates all tag values if they get updated
     {
         foreach (string tag in currentTags)
         {
@@ -255,16 +248,16 @@ public class DialogueManager : MonoBehaviour
                     break;
                 case AUDIO_TAG:
                     SetCurrentAudioInfo(tagValue);
-                    Debug.Log("Audio=" + tagValue);
+                    //Debug.Log("Audio=" + tagValue);
                     break;
                 default:
-                    Debug.Log("Tag came in but is not currently being handled: " + tag);
+                    Debug.LogWarning("Tag came in but is not currently being handled: " + tag);
                     break;
             }
         }
     }
 
-    public bool dialogueCheck()
+    public bool dialogueCheck() //Checks if dialogue can initiate and returns true if so, false otherwise
     { //This will interact with the enemy dialogue script and check to see if within range of dialogue. If so, it will return true to begin the dialogue state if the enemy has dialogue capabilities
 
         if (!dialogueTrigger)
@@ -276,12 +269,12 @@ public class DialogueManager : MonoBehaviour
         {
             if (dialogueTrigger.inkJSON is not null)
             {
-                EnterDialogueMode(dialogueTrigger.inkJSON);
-                return true; //By returning true, state manager will enter dialogue state
+                EnterDialogueMode(dialogueTrigger.inkJSON); //Calls for the dialogue story to begin being read
+                return true; //By returning true, state manager will enter dialogue state for the player
             } else
             {
                 Debug.LogError("No Ink JSON found");
-                return false;
+                return false; //Safeguard to ensure nulls don't break the game
             }
         }
         else
@@ -319,31 +312,23 @@ public class DialogueManager : MonoBehaviour
         {
             continueIcon.SetActive(false);
         }
-        //StartCoroutine(SelectFirstChoice());
     }
 
-    public void HideChoices()
+    public void HideChoices() //Makes the dialogue choices inactive
     {
         foreach (GameObject choiceButton in choices)
         {
             choiceButton.SetActive(false);
         }
     }
-    private IEnumerator SelectFirstChoice() //Some code that is meant to make unitys event system play nice with the choices? Still trying to understand this tbh
-    {
-        // "Event System requires we clear it first then wait for at least one frame before we set the current selected object"
-        EventSystem.current.SetSelectedGameObject(null);
-        yield return new WaitForEndOfFrame();
-        EventSystem.current.SetSelectedGameObject(choices[0].gameObject);
-    }
 
-    public void MakeChoice(int choiceIndex)
+    public void MakeChoice(int choiceIndex) //Selects the player choice and advances the story
     {
         currentStory.ChooseChoiceIndex(choiceIndex);
         ContinueStory();
     }
 
-    public Ink.Runtime.Object GetVariableState(string variableName)
+    public Ink.Runtime.Object GetVariableState(string variableName) //Returns the value a current dialogue variable has
     {
         dialogueVariables.variables.TryGetValue(variableName, out Ink.Runtime.Object variableValue);
         if (variableValue == null)
@@ -357,7 +342,7 @@ public class DialogueManager : MonoBehaviour
         // Can be done with booleans, floats, and ints as well, just change the code accordingly
     }
 
-    private void InitializeAudioInfoDictionary()
+    private void InitializeAudioInfoDictionary() //Sets up the dictionary for the audio info
     {
         audioInfoDictionary = new Dictionary<string, DialogueAudioInfoSO>();
         audioInfoDictionary.Add(defaultAudioInfo.id, defaultAudioInfo);
@@ -367,9 +352,9 @@ public class DialogueManager : MonoBehaviour
         }
     }
 
-    private void SetCurrentAudioInfo(string id)
+    private void SetCurrentAudioInfo(string id) //Sets the current dialogue audio
     {
-        DialogueAudioInfoSO audioInfo = null;
+        DialogueAudioInfoSO audioInfo;
         audioInfoDictionary.TryGetValue(id, out audioInfo);
         if (audioInfo != null)
         {

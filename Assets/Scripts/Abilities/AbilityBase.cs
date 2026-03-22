@@ -68,7 +68,7 @@ public class Ability : ScriptableObject
                 source.gameLogManager.AddEntry(source, target, this);
             }
             source.castSuccess = true;
-            CastSpellFX(source, targetPosition); //creates the animation and sound FX
+            CastSpellFX(source, targetPosition); //Creates the animation and sound FX for abilities
             ApplyAbilityEffects(source);
             source.gameManager.PlayerAction(source, speed);
             return true;
@@ -259,36 +259,35 @@ public class Ability : ScriptableObject
             return false;
         }
     }
-    public void CastSpellFX(Entity source, Vector2 targetPosition) 
+    public void CastSpellFX(Entity source, Vector2 targetPosition) //Creates the animation and sound FX for abilities 
     {
         /*This function instantiates a VFX prefab object, sets the appropriate animation trigger, and
           plays the animation. If it's a melee attack, it will function differently than a spell,
           as the center of the animation is the player and it additionally directionally adjusts
-          where the melee slashes should aim
+          where the melee slashes should aim.
 
           Current problems:
-          - Melee slash animation plays slower than the rest??? Every other animation is much faster
-          - Multiple animations at once can get wonky, ESPECIALLY melee animations
+          - A second animation cancels the first. Maybe there can't be two identical animators?
         */
         if (abilityName == "Melee")
         {
-            Vector2 spellAdjust = new Vector2(source.transform.position.x + .5f, source.transform.position.y + .5f); //adjusts to center of the cell
-            GameObject newVFX = Instantiate(source.spellFXPrefab, spellAdjust, Quaternion.identity); //instantiates the spellVFX prefab
-            Animator animator = newVFX.GetComponent<Animator>(); //gets the animator
-            animator.SetTrigger(abilityName); //sets the appropriate trigger for the animation
-            newVFX.transform.LookAt2D(new Vector2(targetPosition.x + .5f, targetPosition.y + .5f)); //rotates the melee attack
+            Vector2 spellAdjust = new Vector2(source.transform.position.x + .5f, source.transform.position.y + .5f); //Adjusts to center of the cell
+            GameObject newVFX = Instantiate(source.spellFXPrefab, spellAdjust, Quaternion.identity); //Instantiates the spellVFX prefab
+            Animator animator = newVFX.GetComponent<Animator>(); //Gets the animator
+            animator.SetTrigger(abilityName); //Sets the appropriate trigger for the animation
+            newVFX.transform.LookAt2D(new Vector2(targetPosition.x + .5f, targetPosition.y + .5f)); //Rotates the melee attack
             //Debug.Log("Melee attack from ("+spellAdjust.x+","+spellAdjust.y+") targeting ("+(targetPosition.x+.5f)+","+(targetPosition.y+.5f)+")");
-            SoundFXManager.instance.PlayFXClip(itemSound, newVFX.transform, 0.2f); //plays a sound
-            Destroy(newVFX, 1); //destroys the object after 1s so it doesn't just sit there doing nuthin'
+            SoundFXManager.instance.PlayFXClip(itemSound, newVFX.transform, 0.2f); //Plays a sound
+            Destroy(newVFX, 0.5f); //Destroys the object after 0.5s so it doesn't just sit there doing nuthin'
         }
         else
         {
-            Vector2 spellAdjust = new Vector2(targetPosition.x + .5f, targetPosition.y + .5f); //adjusts to center of the cell
-            GameObject newVFX = Instantiate(source.spellFXPrefab, spellAdjust, Quaternion.identity); //instantiates the spellVFX prefab
-            Animator animator = newVFX.GetComponent<Animator>(); //gets the animator
-            animator.SetTrigger(abilityName); //sets the appropriate trigger for the animation
-            SoundFXManager.instance.PlayFXClip(itemSound, newVFX.transform, 0.2f); //plays a sound
-            Destroy(newVFX, 1); //destroys the object after 1s so it doesn't just sit there doing nuthin'
+            Vector2 spellAdjust = new Vector2(targetPosition.x + .5f, targetPosition.y + .5f); //Adjusts to center of the cell
+            GameObject newVFX = Instantiate(source.spellFXPrefab, spellAdjust, Quaternion.identity); //Instantiates the spellVFX prefab
+            Animator animator = newVFX.GetComponent<Animator>(); //Gets the animator
+            animator.SetTrigger(abilityName); //Sets the appropriate trigger for the animation
+            SoundFXManager.instance.PlayFXClip(itemSound, newVFX.transform, 0.2f); //Plays a sound
+            Destroy(newVFX, 0.5f); //Destroys the object after 0.5s so it doesn't just sit there doing nuthin'
         }
     }
 }

@@ -182,9 +182,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DialogueEnemy
   visualCue: {fileID: 7279822839385310822}
-  inkJSON: {fileID: 4900000, guid: 7a75e5ad0b971d34abdf8154008e887d, type: 3}
-  playerInRange: 0
+  inkJSON: {fileID: 0}
   areaTrigger: 0
+  playerInRange: 0
   dialogueManager: {fileID: 2182631121874444091, guid: 8389fbe99d25d5f4cbd4b5ac8601d590, type: 3}
   p_StateManager: {fileID: 0}
 --- !u!1 &8002969349719177446
@@ -214,8 +214,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8002969349719177446}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -5.4720154, y: 0.99871826, z: 0}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -310,24 +310,18 @@ MonoBehaviour:
   activeAbilityList: []
   totalKnownAbilities: []
   movementSpeed: 0
-  hurt:
-    attribute: {fileID: 0}
-    operation: 0
-    attModValue: 0
-  isRepeatedMovement: 0
-  huurt: 0
-  moving: 0
   lastMoveTime: 0
-  BGM: {fileID: 0}
-  SoundEffect: {fileID: 0}
+  hurtSound: {fileID: 0}
   inventory: {fileID: 0}
   currentTile: {x: 0, y: 0}
   targetingTile: {x: 0, y: 0}
+  spellFXPrefab: {fileID: 0}
   target: {fileID: 0}
-  speed: 1.1
   move: 0
   currentPerception: 0
   perceptionState: 0
+  dropMax: 5
+  dropList: []
 --- !u!114 &3696998266164721210
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -353,3 +347,4 @@ MonoBehaviour:
   - type: {fileID: 11400000, guid: 15168d61e3797814ea377ad669d3376c, type: 2}
     value:
       baseValue: 6
+  parent: {fileID: 0}

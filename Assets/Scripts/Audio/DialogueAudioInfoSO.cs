@@ -3,7 +3,7 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "DialogueAudioInfo", menuName = "Scriptable Objects/DialogueAudioInfoSO")]
 
 public class DialogueAudioInfoSO : ScriptableObject
-{
+{ //SO to hold the dialogue sounds, code originally created by Trever from Shaped by Rain Studios
     public string id;
 
     [Header("Text Audio")]
