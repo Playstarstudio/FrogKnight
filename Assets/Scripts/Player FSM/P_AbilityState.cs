@@ -8,7 +8,7 @@ public class P_AbilityState : P_State
     {
         if (player.casting == player.melee)
         {
-            Debug.Log("casting melee");
+            //Debug.Log("casting melee");
             player.casting.TryCastAbility(player, player.targetingTile);
             if (player.castSuccess)
             {

@@ -107,7 +107,7 @@ public class Enemy : Entity
         gridManager.map.TryGetValue(gridManager.GetCellPosition(this.transform.position), out myTile);
         if (manhattanDistance > this.att.GetCurrentAttributeValue(this.att.GetAttributeType("Vision Range")))
         {
-            Debug.Log("Perception Check - out of range");
+            //Debug.Log("Perception Check - out of range");
             currentPerception -= (_time * (manhattanDistance / vision));
             currentPerception = Mathf.Clamp(currentPerception, 0, 5);
         }
@@ -117,25 +117,25 @@ public class Enemy : Entity
             {
                 currentPerception += (_time * (vision / manhattanDistance));
                 currentPerception = Mathf.Clamp(currentPerception, 0, 5);
-                Debug.Log("Perception Check - in sight");
+                //Debug.Log("Perception Check - in sight");
             }
             else
             {
                 currentPerception -= (_time * (manhattanDistance / vision));
                 currentPerception = Mathf.Clamp(currentPerception, 0, 5);
-                Debug.Log("Perception Check - in range but not in sight");
+                //Debug.Log("Perception Check - in range but not in sight");
             }
 
         }
         if (currentPerception >= 5)
         {
             perceptionState = PerceptionState.CurrentlySeeing;
-            Debug.Log("Perception State: CURRENTLY SEEING");
+            //Debug.Log("Perception State: CURRENTLY SEEING");
         }
         if (currentPerception < 2)
         {
             perceptionState = PerceptionState.HasSeen;
-            Debug.Log("Perception State: HAS SEEN");
+            //Debug.Log("Perception State: HAS SEEN");
 
         }
         gridManager.CalculateTileData(currentPos);
