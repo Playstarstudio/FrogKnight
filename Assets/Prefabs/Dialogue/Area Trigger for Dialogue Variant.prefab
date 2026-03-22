@@ -56,6 +56,10 @@ PrefabInstance:
       propertyPath: areaTrigger
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 7583629632762829028, guid: 1b5f83873d6b71f4983fb61a24394d7f, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8002969349719177446, guid: 1b5f83873d6b71f4983fb61a24394d7f, type: 3}
       propertyPath: m_Name
       value: Area Trigger for Dialogue Variant

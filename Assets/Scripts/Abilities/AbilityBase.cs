@@ -261,11 +261,24 @@ public class Ability : ScriptableObject
     }
     public void CastSpellFX(Entity source, Vector2 targetPosition)
     {
-        Vector2 spellAdjust = new Vector2((targetPosition.x + .5f), (targetPosition.y + .5f));
-        GameObject newVFX = Instantiate(source.spellFXPrefab, spellAdjust, Quaternion.identity);
-        Animator animator = newVFX.GetComponent<Animator>();
-        animator.SetTrigger(abilityName);
-        SoundFXManager.instance.PlayFXClip(itemSound, newVFX.transform, 0.2f);
-        Destroy(newVFX, 1);
+        if (abilityName == "Melee")
+        {
+            Vector2 spellAdjust = new Vector2(source.transform.position.x + .5f, source.transform.position.y + .5f);
+            GameObject newVFX = Instantiate(source.spellFXPrefab, spellAdjust, Quaternion.identity);
+            Animator animator = newVFX.GetComponent<Animator>();
+            animator.SetTrigger(abilityName);
+            newVFX.transform.LookAt(new Vector3(spellAdjust.x, spellAdjust.y, -90f));
+            SoundFXManager.instance.PlayFXClip(itemSound, newVFX.transform, 0.2f);
+            Destroy(newVFX, 1);
+        }
+        else
+        {
+            Vector2 spellAdjust = new Vector2(targetPosition.x + .5f, targetPosition.y + .5f);
+            GameObject newVFX = Instantiate(source.spellFXPrefab, spellAdjust, Quaternion.identity);
+            Animator animator = newVFX.GetComponent<Animator>();
+            animator.SetTrigger(abilityName);
+            SoundFXManager.instance.PlayFXClip(itemSound, newVFX.transform, 0.2f);
+            Destroy(newVFX, 1);
+        }
     }
 }

@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be5b9eff4c7c53d4587fdf1b1d49da2c, type: 3}
   m_Name: A_StdMelee
   m_EditorClassIdentifier: Assembly-CSharp::Ability
-  abilityName: KillEffect
-  abilityImage: {fileID: 0}
+  abilityName: Melee
+  abilityImage: {fileID: -283232882402357188, guid: 6187f79cda4df1a41be6ab74b3799983, type: 3}
   description: kills target enemy
   manaCost: 0
   range: 100
