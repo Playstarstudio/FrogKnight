@@ -1,7 +1,7 @@
 using UnityEngine;
 using System.Collections;
   
-public static class TransformExtensions { //original code taken from lovely unity forum user capz-nst
+public static class TransformExtensions { //Original code taken from lovely unity forum user capz-nst
 
 	//This creates transform and vector3 versions of Unity's built in LookAt that work for 2D objects
 	public static void LookAt2D(this Transform t, Vector3 worldPosition) {

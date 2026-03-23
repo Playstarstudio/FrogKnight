@@ -24,22 +24,22 @@ public class P_BaseState : P_State
             if (inputFunction(KeyCode.W))
             {
                 player.StartCoroutine(Move(Vector2.up, player));
-                SoundFXManager.instance.PlayRandomFXClip(player.walkSounds, player.transform, 0.1f);
+                SoundFXManager.instance.PlayRandomFXClip(player.walkSounds, player.transform, 0.1f, "walk");
             }
             else if (inputFunction(KeyCode.S))
             {
                 player.StartCoroutine(Move(Vector2.down, player));
-                SoundFXManager.instance.PlayRandomFXClip(player.walkSounds, player.transform, 0.1f);
+                SoundFXManager.instance.PlayRandomFXClip(player.walkSounds, player.transform, 0.1f, "walk");
             }
             else if (inputFunction(KeyCode.A))
             {
                 player.StartCoroutine(Move(Vector2.left, player));
-                SoundFXManager.instance.PlayRandomFXClip(player.walkSounds, player.transform, 0.1f);
+                SoundFXManager.instance.PlayRandomFXClip(player.walkSounds, player.transform, 0.1f, "walk");
             }
             else if (inputFunction(KeyCode.D))
             {
                 player.StartCoroutine(Move(Vector2.right, player));
-                SoundFXManager.instance.PlayRandomFXClip(player.walkSounds, player.transform, 0.1f);
+                SoundFXManager.instance.PlayRandomFXClip(player.walkSounds, player.transform, 0.1f, "walk");
             }
             //hurts self 
             /*
@@ -179,7 +179,7 @@ public class P_BaseState : P_State
                  
                 else
                 {
-                    Debug.Log("Nothing to interact with!");
+                    Debug.LogWarning("Nothing to interact with!");
                 }
             }
         }

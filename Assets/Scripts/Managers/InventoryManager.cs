@@ -211,7 +211,7 @@ namespace Inventory
                     return;
                 if (!slot.IsEmpty)
                 {
-                    Debug.Log("Slot was not empty");
+                    //Debug.Log("Slot was not empty");
                     InventoryItem replacedItem = slot.Unequip(slot.item);
                     inventoryData.RemoveItem(currentlyDraggedItemIndex, 1);
                     inventoryData.AddItemToFirstFreeSlot(replacedItem.item, 1);
@@ -220,7 +220,7 @@ namespace Inventory
                 }
                 else
                 {
-                    Debug.Log("Slot was empty");
+                    //Debug.Log("Slot was empty");
                     inventoryData.RemoveItem(currentlyDraggedItemIndex, invItem.quantity);
                     slot.EquipItem(invItem.item);
                     //playerStateManager.CalculateAllStats();

@@ -803,7 +803,7 @@ public class GridManager : MonoBehaviour
             if (tileInfo.occupyingEntities[i].GetType() == typeof(P_StateManager) || tileInfo.occupyingEntities[i].GetType() == typeof(Enemy))
             {
                 entityOnTile = tileInfo.occupyingEntities[i];
-                Debug.Log("IFOUNDONE");
+                //Debug.Log("IFOUNDONE");
                 return true;
             }
             else
@@ -812,7 +812,7 @@ public class GridManager : MonoBehaviour
             }
         }
         entityOnTile = null;
-        Debug.Log("NOONEFOUNDIDIOT");
+        //Debug.Log("NOONEFOUNDIDIOT");
         return false;
     }
     public bool TryGetItemsOnTile(Vector2Int pos, out List<ItemOnGround> itemList)

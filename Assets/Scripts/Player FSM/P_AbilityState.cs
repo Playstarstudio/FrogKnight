@@ -88,7 +88,7 @@ public class P_AbilityState : P_State
             }
             else
             {
-                Debug.Log("first cast check passed");
+                //Debug.Log("first cast check passed");
                 player.casting.TryCastAbility(player, targetCenter);
             }
             //get all entities on that tile

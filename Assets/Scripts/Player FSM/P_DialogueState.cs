@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class P_DialogueState : P_State
+public class P_DialogueState : P_State //Swaps player control scheme to only dialogue
 {
     public override void EnterState(P_StateManager player)
     {
@@ -9,12 +9,12 @@ public class P_DialogueState : P_State
     
     public override void UpdateState(P_StateManager player)
     {
-        if (!player.dialogueManager.dialogueIsPlaying) //NEEDS TO BE REFACTORED AND MOVED INTO DIALOGUE STATE
+        if (!player.dialogueManager.dialogueIsPlaying)
         {
             player.SwitchState(player.baseState);
         }
 
-        if (player.dialogueManager.canContinueToNextLine) 
+        if (player.dialogueManager.canContinueToNextLine) //Common dialogue inputs (contine & select choice)
         {
             if ((Input.GetKeyDown(KeyCode.F) || Input.GetKeyDown(KeyCode.Mouse0)) && DialogueManager.instance.currentStory.currentChoices.Count == 0 )
             {
@@ -37,19 +37,19 @@ public class P_DialogueState : P_State
                 DialogueManager.instance.MakeChoice(3);
             }
         }
-        else if ((Input.GetKeyDown(KeyCode.F) || Input.GetKeyDown(KeyCode.Mouse0)) && player.dialogueManager.coroutineIndex > 3)
+        else if ((Input.GetKeyDown(KeyCode.F) || Input.GetKeyDown(KeyCode.Mouse0)) && player.dialogueManager.coroutineIndex > 3) //Skips to end of line mid-print
         {
-            player.dialogueManager.StopCoroutine(player.dialogueManager.displayLineCoroutine);                  // Stops the text printing coroutine
-            player.dialogueManager.dialogueText.maxVisibleCharacters = player.dialogueManager.nextLine.Length;  // Sets all characters to be visible
-            player.dialogueManager.continueIcon.SetActive(true);                                                // Re-enables continue icon
-            player.dialogueManager.DisplayChoices();                                                            // Displays dialogue choices
-            player.dialogueManager.canContinueToNextLine = true;                                                // Enables dialogue continuation
+            player.dialogueManager.StopCoroutine(player.dialogueManager.displayLineCoroutine);                  //Stops the text printing coroutine
+            player.dialogueManager.dialogueText.maxVisibleCharacters = player.dialogueManager.nextLine.Length;  //Sets all characters to be visible
+            player.dialogueManager.continueIcon.SetActive(true);                                                //Re-enables continue icon
+            player.dialogueManager.DisplayChoices();                                                            //Displays dialogue choices
+            player.dialogueManager.canContinueToNextLine = true;                                                //Enables dialogue continuation
         }
 
-        if (Input.GetKeyDown(KeyCode.Equals)) 
+        if (Input.GetKeyDown(KeyCode.Equals)) //Force quit for testing purposes
         {
-            player.SwitchState(player.baseState);
-            DialogueManager.instance.ExitDialogueMode();
+            //player.SwitchState(player.baseState);
+            //DialogueManager.instance.ExitDialogueMode();
         }
     }
 
