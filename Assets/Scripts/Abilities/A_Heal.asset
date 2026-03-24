@@ -33,4 +33,5 @@ MonoBehaviour:
   - {fileID: 0}
   cells:
   - {x: 9, y: -2}
-  itemSound: {fileID: 8300000, guid: cedea1f3e24df6f4a8b16e6f081b0c50, type: 3}
+  itemSounds:
+  - {fileID: 8300000, guid: cedea1f3e24df6f4a8b16e6f081b0c50, type: 3}

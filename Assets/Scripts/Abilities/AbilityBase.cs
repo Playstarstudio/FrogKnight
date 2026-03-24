@@ -22,8 +22,7 @@ public class Ability : ScriptableObject
     public Collider2D[] colliders;
     public List<Entity> targets;
     public List<Vector2Int> cells;
-    public AudioClip itemSound;
-
+    public AudioClip[] itemSounds;
 
     public enum TargetType
     {
@@ -277,7 +276,7 @@ public class Ability : ScriptableObject
             animator.SetTrigger(abilityName); //Sets the appropriate trigger for the animation
             newVFX.transform.LookAt2D(new Vector2(targetPosition.x + .5f, targetPosition.y + .5f)); //Rotates the melee attack
             //Debug.Log("Melee attack from ("+spellAdjust.x+","+spellAdjust.y+") targeting ("+(targetPosition.x+.5f)+","+(targetPosition.y+.5f)+")");
-            SoundFXManager.instance.PlayFXClip(itemSound, newVFX.transform, 0.2f); //Plays a sound
+            SoundFXManager.instance.TriggerFXClip(itemSounds, newVFX.transform, 0.2f, SoundFXManager.SoundType.Impact); //Plays a sound
             Destroy(newVFX, 0.5f); //Destroys the object after 0.5s so it doesn't just sit there doing nuthin'
         }
         else
@@ -286,7 +285,7 @@ public class Ability : ScriptableObject
             GameObject newVFX = Instantiate(source.spellFXPrefab, spellAdjust, Quaternion.identity); //Instantiates the spellVFX prefab
             Animator animator = newVFX.GetComponent<Animator>(); //Gets the animator
             animator.SetTrigger(abilityName); //Sets the appropriate trigger for the animation
-            SoundFXManager.instance.PlayFXClip(itemSound, newVFX.transform, 0.2f); //Plays a sound
+            SoundFXManager.instance.TriggerFXClip(itemSounds, newVFX.transform, 0.2f, SoundFXManager.SoundType.Impact); //Plays a sound
             Destroy(newVFX, 0.5f); //Destroys the object after 0.5s so it doesn't just sit there doing nuthin'
         }
     }

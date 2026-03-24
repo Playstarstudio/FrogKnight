@@ -93,7 +93,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::DialogueEnemy
   visualCue: {fileID: 4209735186526539335}
   inkJSON: {fileID: 4900000, guid: 5f55f75df9cd2ab48a22cb366fef1a64, type: 3}
+  areaTrigger: 0
   playerInRange: 0
+  dialogueManager: {fileID: 0}
+  p_StateManager: {fileID: 0}
 --- !u!1 &4209735186526539335
 GameObject:
   m_ObjectHideFlags: 0
@@ -293,6 +296,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   gridManager: {fileID: 0}
   gameManager: {fileID: 0}
+  gameLogManager: {fileID: 0}
   rb: {fileID: 0}
   anim: {fileID: 0}
   currentPos: {x: 0, y: 0}
@@ -302,27 +306,25 @@ MonoBehaviour:
   visionBlock: 0
   castSuccess: 0
   casting: {fileID: 0}
-  spell0: {fileID: 0}
-  spell1: {fileID: 0}
-  spell2: {fileID: 0}
-  spell3: {fileID: 0}
+  castingSlot: {fileID: 0}
+  melee: {fileID: 0}
+  activeAbilityList: []
+  totalKnownAbilities: []
   movementSpeed: 0
-  hurt:
-    attribute: {fileID: 0}
-    operation: 0
-    attributeModifierValue: 0
-  isRepeatedMovement: 0
-  huurt: 0
-  moving: 0
   lastMoveTime: 0
-  BGM: {fileID: 0}
-  SoundEffect: {fileID: 0}
+  hurtSound: {fileID: 0}
+  hurtSounds:
+  - {fileID: 8300000, guid: ffcd6d927366c104598a071fcf3d4364, type: 3}
   inventory: {fileID: 0}
+  currentTile: {x: 0, y: 0}
+  targetingTile: {x: 0, y: 0}
+  spellFXPrefab: {fileID: 0}
   target: {fileID: 0}
-  speed: 1.1
   move: 0
   currentPerception: 0
   perceptionState: 0
+  dropMax: 5
+  dropList: []
 --- !u!114 &6090523045938297406
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -348,6 +350,7 @@ MonoBehaviour:
   - type: {fileID: 11400000, guid: 15168d61e3797814ea377ad669d3376c, type: 2}
     value:
       baseValue: 6
+  parent: {fileID: 0}
 --- !u!61 &95408598678369758
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -385,8 +388,8 @@ BoxCollider2D:
   m_Offset: {x: 0, y: 0.5}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0}
-    oldSize: {x: 0.875, y: 1.3125}
+    pivot: {x: 0.5, y: 0.25}
+    oldSize: {x: 0.6875, y: 1.125}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0

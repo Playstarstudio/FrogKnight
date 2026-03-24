@@ -27,13 +27,11 @@ namespace Inventory
         public event Action<int> onDescriptionRequested, OnItemActionRequested, OnStartDragging;
         public event Action<int, int> OnSwapItems;
         public List<InventoryItem> initialItems = new List<InventoryItem>();
-        [SerializeField]
-        private ItemActionPanel actionPanel;
-        [SerializeField] private AudioClip dropSound;
-        [SerializeField] private AudioClip bagOpenSound;
-        [SerializeField] private AudioClip bagCloseSound;
-        [SerializeField]
-        public GameObject genericItem;
+        [SerializeField] private ItemActionPanel actionPanel;
+        [SerializeField] private AudioClip[] dropSounds;
+        [SerializeField] private AudioClip[] bagOpenSounds;
+        [SerializeField] private AudioClip[] bagCloseSounds;
+        [SerializeField] public GameObject genericItem;
 
         private void Awake()
         {
@@ -111,7 +109,7 @@ namespace Inventory
             if (isInventoryOpen)
             {
                 Hide();
-                SoundFXManager.instance.PlayFXClip(bagCloseSound, playerStateManager.transform, 0.2f);
+                SoundFXManager.instance.TriggerFXClip(bagCloseSounds, playerStateManager.transform, 0.2f, SoundFXManager.SoundType.Generic);
                 return false;
             }
             else
@@ -122,7 +120,7 @@ namespace Inventory
                     //Debug.Log("The index being attempted is " + uiItem.Key + " with item quantity " + uiItem.Value.quantity);
                     UpdateData(uiItem.Key, uiItem.Value.item.image, uiItem.Value.quantity);
                 }
-                SoundFXManager.instance.PlayFXClip(bagOpenSound, playerStateManager.transform, 0.2f);
+                SoundFXManager.instance.TriggerFXClip(bagOpenSounds, playerStateManager.transform, 0.2f, SoundFXManager.SoundType.Generic);
                 return true;
             }
         }
@@ -418,7 +416,7 @@ namespace Inventory
             newItem.GetComponent<ItemOnGround>().quantity = inventoryData.GetInventoryItemAt(itemIndex).quantity;
             newItem.transform.position = playerStateManager.gridManager.GetTileCenter(playerStateManager.currentTile);
             playerStateManager.gridManager.MapAddItem(newItem.GetComponent<ItemOnGround>(), playerStateManager.currentTile);
-            SoundFXManager.instance.PlayFXClip(dropSound, newItem.transform, 0.2f);
+            SoundFXManager.instance.TriggerFXClip(dropSounds, newItem.transform, 0.2f, SoundFXManager.SoundType.Generic);
             inventoryData.RemoveItem(itemIndex, quantity);
             ResetSelection();
         }

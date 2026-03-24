@@ -125,10 +125,12 @@ MonoBehaviour:
   movementSpeed: 0
   lastMoveTime: 0
   hurtSound: {fileID: 8300000, guid: ffcd6d927366c104598a071fcf3d4364, type: 3}
+  hurtSounds:
+  - {fileID: 8300000, guid: ffcd6d927366c104598a071fcf3d4364, type: 3}
   inventory: {fileID: 0}
   currentTile: {x: 0, y: 0}
   targetingTile: {x: 0, y: 0}
-  spellFXPrefab: {fileID: 7129478099643511651, guid: 7f882c1c436b40945a78b28e8bec1222, type: 3}
+  spellFXPrefab: {fileID: 6003739132506669039, guid: 7f882c1c436b40945a78b28e8bec1222, type: 3}
   target: {fileID: 0}
   move: 0
   currentPerception: 0

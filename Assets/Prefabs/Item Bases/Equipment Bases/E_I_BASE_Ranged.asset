@@ -25,5 +25,7 @@ MonoBehaviour:
   <effects>k__BackingField:
   - {fileID: 11400000, guid: c159c13d6ce289442957e255d14324be, type: 2}
   equipped: 0
-  equipSound: {fileID: 8300000, guid: aa8ce56cd60ddaa41aea50131eaeca8b, type: 3}
-  unequipSound: {fileID: 8300000, guid: b7842a725f1297b4c8016360bf40a144, type: 3}
+  equipSounds:
+  - {fileID: 8300000, guid: aa8ce56cd60ddaa41aea50131eaeca8b, type: 3}
+  unequipSounds:
+  - {fileID: 8300000, guid: b7842a725f1297b4c8016360bf40a144, type: 3}

@@ -15,12 +15,9 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
     [SerializeField] private Image borderImage;
     [SerializeField] private Image itemBG;
     [SerializeField] private Sprite slotDefault;
-    [SerializeField]
-    public TMP_Text itemName;
-    [SerializeField]
-    public TMP_Text description;
-    [SerializeField]
-    public HoverPanel hoverPanel;
+    [SerializeField] public TMP_Text itemName;
+    [SerializeField] public TMP_Text description;
+    [SerializeField] public HoverPanel hoverPanel;
 
     public ItemSO item { get; private set; }
     public bool IsEmpty => item == null;
@@ -75,7 +72,7 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
         this.hoverPanel.Toggle(false);
         empty = false;
         AddModifiers(newItem);
-        SoundFXManager.instance.PlayFXClip(equippableItem.equipSound, transform, 0.2f);
+        SoundFXManager.instance.TriggerFXClip(equippableItem.equipSounds, transform, 0.2f, SoundFXManager.SoundType.Generic);
     }
 
     private void ResetSlot()
@@ -102,7 +99,7 @@ public class EquipmentSlot : MonoBehaviour, IDropHandler, IPointerClickHandler, 
         InventoryItem unequippedItem = invItem.AddComponent<InventoryItem>();
         unequippedItem.item = item;
         unequippedItem.quantity = 1;
-        SoundFXManager.instance.PlayFXClip(equippableItem.unequipSound, transform, 0.2f);
+        SoundFXManager.instance.TriggerFXClip(equippableItem.unequipSounds, transform, 0.2f, SoundFXManager.SoundType.Generic);
         ResetSlot();
         return unequippedItem;
     }

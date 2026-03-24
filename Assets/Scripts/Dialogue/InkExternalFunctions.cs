@@ -31,11 +31,10 @@ public class InkExternalFunctions //Reads and calls functions from Ink dialogue
             switch (state)
             {
                 case true: 
-                //In here goes script to push the player back so the area trigger can occur again & player can't advance
+                //In here should go code to push the player back so the area trigger can occur again & player can't advance past
                 break;
 
-                case false: 
-                //In here goes script to disable the area trigger
+                case false: //Disables the area trigger
                 dialogueNPC.SetActive(false);
                 break;
             }

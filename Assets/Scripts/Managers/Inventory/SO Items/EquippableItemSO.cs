@@ -10,8 +10,8 @@ namespace Inventory.Model
     {
         [SerializeField] public bool equipped;
         public string ActionName => "Equip";
-        public AudioClip equipSound;
-        public AudioClip unequipSound;
+        public AudioClip[] equipSounds;
+        public AudioClip[] unequipSounds;
         public void PerformAction(P_StateManager player, int i)
         {
             player.gameLogManager.AddEntry(player, this);

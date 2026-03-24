@@ -34,7 +34,7 @@ public abstract class Entity : MonoBehaviour
     [HideInInspector][SerializeField] public float movementSpeed;
     [HideInInspector] public float lastMoveTime = 0f;
     //public AudioSource BGM;
-    public AudioClip hurtSound;
+    public AudioClip[] hurtSounds;
     public InventorySO inventory;
     [HideInInspector] public Vector2Int currentTile;
     [HideInInspector] public Vector2Int targetingTile;
@@ -84,7 +84,7 @@ public abstract class Entity : MonoBehaviour
         };
         this.att.ApplyInstantModifier(damage);
         Debug.Log($"{this.name} takes {effect.finalEffect} damage.");
-        SoundFXManager.instance.PlayFXClip(hurtSound, transform, 0.1f);
+        SoundFXManager.instance.TriggerFXClip(hurtSounds, transform, 0.1f, SoundFXManager.SoundType.Death);
         if (this.att.GetBaseAttributeValue(att.GetAttributeType("HP")) <= 0)
         {
             Debug.Log($"{this.name} has been defeated!");

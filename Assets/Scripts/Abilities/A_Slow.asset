@@ -31,4 +31,5 @@ MonoBehaviour:
   colliders: []
   targets: []
   cells: []
-  itemSound: {fileID: 8300000, guid: 8c23ff664bff62a4fbdc45a3ea7af011, type: 3}
+  itemSounds:
+  - {fileID: 8300000, guid: 8c23ff664bff62a4fbdc45a3ea7af011, type: 3}

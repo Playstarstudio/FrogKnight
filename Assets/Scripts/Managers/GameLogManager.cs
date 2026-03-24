@@ -13,7 +13,6 @@ public class GameLogManager : MonoBehaviour
     private List<string> logEntries = new List<string>();
     private int maxEntries = 100;
     StringBuilder sb = new StringBuilder();
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
 
     public void AddEntry(Entity source, Entity target, Ability ability)
     {

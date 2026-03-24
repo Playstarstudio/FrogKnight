@@ -24,22 +24,22 @@ public class P_BaseState : P_State
             if (inputFunction(KeyCode.W))
             {
                 player.StartCoroutine(Move(Vector2.up, player));
-                SoundFXManager.instance.PlayRandomFXClip(player.walkSounds, player.transform, 0.1f, "walk");
+                SoundFXManager.instance.TriggerFXClip(player.walkSounds, player.transform, 0.1f, SoundFXManager.SoundType.Footstep);
             }
             else if (inputFunction(KeyCode.S))
             {
                 player.StartCoroutine(Move(Vector2.down, player));
-                SoundFXManager.instance.PlayRandomFXClip(player.walkSounds, player.transform, 0.1f, "walk");
+                SoundFXManager.instance.TriggerFXClip(player.walkSounds, player.transform, 0.1f, SoundFXManager.SoundType.Footstep);
             }
             else if (inputFunction(KeyCode.A))
             {
                 player.StartCoroutine(Move(Vector2.left, player));
-                SoundFXManager.instance.PlayRandomFXClip(player.walkSounds, player.transform, 0.1f, "walk");
+                SoundFXManager.instance.TriggerFXClip(player.walkSounds, player.transform, 0.1f, SoundFXManager.SoundType.Footstep);
             }
             else if (inputFunction(KeyCode.D))
             {
                 player.StartCoroutine(Move(Vector2.right, player));
-                SoundFXManager.instance.PlayRandomFXClip(player.walkSounds, player.transform, 0.1f, "walk");
+                SoundFXManager.instance.TriggerFXClip(player.walkSounds, player.transform, 0.1f, SoundFXManager.SoundType.Footstep);
             }
             //hurts self 
             /*
@@ -160,7 +160,7 @@ public class P_BaseState : P_State
                         ItemOnGround item = itemsOnTile[0];
                         player.gridManager.MapRemoveItem(itemsOnTile[0], player.currentTile);
                         item.DestroyItem();
-                        SoundFXManager.instance.PlayFXClip(player.pickupSound, player.transform, 0.2f); //Sound code
+                        SoundFXManager.instance.TriggerFXClip(player.pickupSounds, player.transform, 0.2f, SoundFXManager.SoundType.Generic); //Plays a sound
                     }
                     else //Add sound for swapping at some point!!!!!!!!!!!!!
                     {

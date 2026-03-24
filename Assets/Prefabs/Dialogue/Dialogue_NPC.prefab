@@ -312,6 +312,8 @@ MonoBehaviour:
   movementSpeed: 0
   lastMoveTime: 0
   hurtSound: {fileID: 0}
+  hurtSounds:
+  - {fileID: 8300000, guid: ffcd6d927366c104598a071fcf3d4364, type: 3}
   inventory: {fileID: 0}
   currentTile: {x: 0, y: 0}
   targetingTile: {x: 0, y: 0}

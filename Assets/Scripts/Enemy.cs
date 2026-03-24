@@ -13,8 +13,7 @@ public class Enemy : Entity
     public PerceptionState perceptionState;
     [SerializeField] public int dropMax = 5;
     [SerializeField] public dropItem[] dropList;
-    [System.Serializable]
-    public class dropItem
+    [System.Serializable] public class dropItem
     {
         public ItemSO itemPrefab;
         public float dropChance;
