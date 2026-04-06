@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: be5b9eff4c7c53d4587fdf1b1d49da2c, type: 3}
   m_Name: EA_BasicAttack
   m_EditorClassIdentifier: Assembly-CSharp::Ability
-  abilityName: Enemy melee
+  abilityName: Enemy Melee
   abilityImage: {fileID: 0}
   description: tiny basic attack
   manaCost: 1
