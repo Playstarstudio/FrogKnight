@@ -22,9 +22,9 @@ MonoBehaviour:
     operation: 0
     attModValue: 0
   effectValue: 0
-  finalEffect: 0
+  finalEffect: 10
   finalModifier:
-    attribute: {fileID: 0}
+    attribute: {fileID: 11400000, guid: 0a1823535b28e9640a63788909278e95, type: 2}
     operation: 0
-    attModValue: 0
+    attModValue: 10
   effectType: 1

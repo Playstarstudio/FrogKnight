@@ -13,7 +13,10 @@ public class Enemy : Entity
     public PerceptionState perceptionState;
     [SerializeField] public int dropMax = 5;
     [SerializeField] public dropItem[] dropList;
-    [System.Serializable] public class dropItem
+    private int manhattanDistance;
+    [SerializeField] public Ability meleeAbility;
+    [System.Serializable]
+    public class dropItem
     {
         public ItemSO itemPrefab;
         public float dropChance;
@@ -36,6 +39,7 @@ public class Enemy : Entity
         aStarSearchedList = new Dictionary<AStarNodeInfo, AStarNodeInfo>();
         aStarToSearch = new SortedSet<AStarNodeInfo>();
         gameManager = FindFirstObjectByType<GameManager>();
+        gameLogManager = FindFirstObjectByType<GameLogManager>();
         readyTime = 2;
         //readyTime = this.att.GetCurrentAttributeValue(this.att.GetAttributeType("Move Speed")); ; // enemies are ready to go at time = their speed
         currentTile = gridManager.GetCellPosition(this.transform.position);
@@ -57,7 +61,14 @@ public class Enemy : Entity
         PerceptionCheck(_time, _globalTimer);
         if (perceptionState == PerceptionState.CurrentlySeeing)
         {
-            Move();
+            if (manhattanDistance > 1)
+            {
+                Move();
+            }
+            else
+            {
+                Attack();
+            }
         }
         else if (perceptionState == PerceptionState.HasSeen)
         {
@@ -69,6 +80,16 @@ public class Enemy : Entity
             readyTime += this.att.GetCurrentAttributeValue(this.att.GetAttributeType("Move Speed"));
         }
     }
+
+    private void Attack()
+    {
+        Debug.Log(gridManager.GetTileCenter(gridManager.GetCellPosition(target.position)));
+        Debug.Log(this.att.GetCurrentAttributeValue(this.att.GetAttributeType("MP")));
+        Debug.Log(meleeAbility.abilityName);
+        meleeAbility.TryCastAbility(this, gridManager.GetTileCenter(gridManager.GetCellPosition(target.position)));
+        readyTime += meleeAbility.speed;
+    }
+
     public void Move()
     {
         Vector2Int fromPos = gridManager.GetCellPosition(this.transform.position);
@@ -100,7 +121,7 @@ public class Enemy : Entity
     {
         TileInfo targetTile;
         TileInfo myTile;
-        int manhattanDistance = gridManager.ManhattanDistanceToTile(gridManager.GetCellPosition(this.transform.position), gridManager.GetCellPosition(target.position));
+        manhattanDistance = gridManager.ManhattanDistanceToTile(gridManager.GetCellPosition(this.transform.position), gridManager.GetCellPosition(target.position));
         float vision = this.att.GetCurrentAttributeValue(this.att.GetAttributeType("Vision Range"));
         gridManager.map.TryGetValue(gridManager.GetCellPosition(target.position), out targetTile);
         gridManager.map.TryGetValue(gridManager.GetCellPosition(this.transform.position), out myTile);
@@ -155,13 +176,13 @@ public class Enemy : Entity
     public void DropItems()
     {
         int dropCount = GaussianDistribution(0, dropMax);
-        for(int i = 0; i < dropCount; i++)
+        for (int i = 0; i < dropCount; i++)
         {
-            int dropIndex = Random.Range (0, dropList.Length);
+            int dropIndex = Random.Range(0, dropList.Length);
             int iterations = 1;
-            while (dropList[dropIndex].dropped == true && iterations < (dropList.Length*2))
+            while (dropList[dropIndex].dropped == true && iterations < (dropList.Length * 2))
             {
-                dropIndex = Random.Range (0, dropList.Length);
+                dropIndex = Random.Range(0, dropList.Length);
                 iterations++;
             }
             float chance = Random.Range(1, 100);

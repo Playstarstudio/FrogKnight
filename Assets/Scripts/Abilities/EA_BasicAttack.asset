@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: be5b9eff4c7c53d4587fdf1b1d49da2c, type: 3}
+  m_Name: EA_BasicAttack
+  m_EditorClassIdentifier: Assembly-CSharp::Ability
+  abilityName: Enemy melee
+  abilityImage: {fileID: 0}
+  description: tiny basic attack
+  manaCost: 1
+  range: 1
+  areaMod: 0
+  numberMod: 0
+  speed: 1
+  coolDown: 0
+  critMod: 0
+  enemyOnly: 0
+  crit: 0
+  targetType: 0
+  targetSubType: 0
+  abilityEffects:
+  - {fileID: 11400000, guid: 3b585e113213cc640b9711b704fb4256, type: 2}
+  colliders: []
+  targets:
+  - {fileID: 0}
+  cells: []
+  itemSounds:
+  - {fileID: 8300000, guid: 86d9cc5b107f05d499453ce462f80282, type: 3}

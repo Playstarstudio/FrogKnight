@@ -3,6 +3,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class P_StateManager : Entity
 {
@@ -151,7 +152,7 @@ public class P_StateManager : Entity
 }
     public override void TryDestroy()
     {
-        throw new System.NotImplementedException();
+        SceneManager.LoadScene("Credits");
     }
     #region Save and Load
     public void Save(ref PlayerSaveData data)

@@ -124,7 +124,6 @@ MonoBehaviour:
   totalKnownAbilities: []
   movementSpeed: 0
   lastMoveTime: 0
-  hurtSound: {fileID: 8300000, guid: ffcd6d927366c104598a071fcf3d4364, type: 3}
   hurtSounds:
   - {fileID: 8300000, guid: ffcd6d927366c104598a071fcf3d4364, type: 3}
   inventory: {fileID: 0}
@@ -182,6 +181,7 @@ MonoBehaviour:
   - itemPrefab: {fileID: 11400000, guid: b27a51209a30f4347bf735b949d31957, type: 2}
     dropChance: 25
     dropped: 0
+  meleeAbility: {fileID: 11400000, guid: e962deb1b9c71f94f9fce80dcc25bffd, type: 2}
 --- !u!114 &6090523045938297406
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -207,6 +207,12 @@ MonoBehaviour:
   - type: {fileID: 11400000, guid: 15168d61e3797814ea377ad669d3376c, type: 2}
     value:
       baseValue: 6
+  - type: {fileID: 11400000, guid: 0080b80e4c781e943b34dd3c0735367f, type: 2}
+    value:
+      baseValue: 6
+  - type: {fileID: 11400000, guid: 06a25f066b7fde34191ec0de30110251, type: 2}
+    value:
+      baseValue: 1
   parent: {fileID: 0}
 --- !u!61 &95408598678369758
 BoxCollider2D:

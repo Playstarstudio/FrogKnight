@@ -62,14 +62,20 @@ public class Ability : ScriptableObject
             Debug.Log($"{abilityName} cast towards {targetPosition}");
             crit = TryCrit(source);
             getTargets(source, targetPosition);
-            foreach (Entity target in targets)
+            if (targets.Count > 0)
             {
-                source.gameLogManager.AddEntry(source, target, this);
+                foreach (Entity target in targets)
+                {
+                    source.gameLogManager.AddEntry(source, target, this);
+                }
             }
             source.castSuccess = true;
-            CastSpellFX(source, targetPosition); //Creates the animation and sound FX for abilities
+            CastSpellFX(source, targetPosition); //Creates the animation and sound FX for 
             ApplyAbilityEffects(source);
-            source.gameManager.PlayerAction(source, speed);
+            if (source.GetType() == typeof(P_StateManager))
+            {
+                source.gameManager.PlayerAction(source, speed);
+            }
             return true;
         }
         /*
@@ -260,7 +266,8 @@ public class Ability : ScriptableObject
     }
     public void CastSpellFX(Entity source, Vector2 targetPosition) //Creates the animation and sound FX for abilities 
     {
-        /*This function instantiates a VFX prefab object, sets the appropriate animation trigger, and
+        /*
+          This function instantiates a VFX prefab object, sets the appropriate animation trigger, and
           plays the animation. If it's a melee attack, it will function differently than a spell,
           as the center of the animation is the player and it additionally directionally adjusts
           where the melee slashes should aim.
@@ -268,7 +275,7 @@ public class Ability : ScriptableObject
           Current problems:
           - A second animation cancels the first. Maybe there can't be two identical animators?
         */
-        if (abilityName == "Melee")
+        if (abilityName == "Melee" || abilityName == "Enemy Melee")
         {
             Vector2 spellAdjust = new Vector2(source.transform.position.x + .5f, source.transform.position.y + .5f); //Adjusts to center of the cell
             GameObject newVFX = Instantiate(source.spellFXPrefab, spellAdjust, Quaternion.identity); //Instantiates the spellVFX prefab
