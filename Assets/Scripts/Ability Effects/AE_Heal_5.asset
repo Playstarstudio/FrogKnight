@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::AbilityEffect
   effectName: Heal
   description: 
-  duration: 0
+  duration: 1
   tickRate: 0
   isDebuff: 0
   mods:
