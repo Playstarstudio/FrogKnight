@@ -17,6 +17,7 @@ public class P_StateManager : Entity
     public P_AbilityState abilityState = new P_AbilityState();
     public P_InventoryState inventoryState = new P_InventoryState();
     public P_DialogueState dialogueState = new P_DialogueState();
+    public P_DeathState deathstate = new P_DeathState();
     public List<AbilitySlot> abilitySlots = new List<AbilitySlot>();
     /*
     public P_CharacterState characterstate = new P_CharacterState();
@@ -152,7 +153,9 @@ public class P_StateManager : Entity
 }
     public override void TryDestroy()
     {
-        SceneManager.LoadScene("Credits");
+        currentState = deathstate;
+        currentState.EnterState(this);
+
     }
     #region Save and Load
     public void Save(ref PlayerSaveData data)

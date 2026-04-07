@@ -1,4 +1,5 @@
 using Inventory.Model;
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -67,6 +68,9 @@ public abstract class Entity : MonoBehaviour
             case (AbilityEffect.EffectType.CrowdControl):
                 ReceiveCrowdControl(effect, source, ability);
                 break;
+            case (AbilityEffect.EffectType.Heal):
+                ReceiveHeal(effect, source, ability);
+                break;
             default:
                 Debug.Log("Unknown effect type.");
                 break;
@@ -110,6 +114,18 @@ public abstract class Entity : MonoBehaviour
     {
         this.att.ApplyModifier(effect.finalModifier);
         StartCoroutine(WaitForValueRoutine(effect, effect.duration));
+    }
+    private void ReceiveHeal(AbilityEffect effect, Entity source, Ability ability)
+    {
+        this.att.GetBaseAttributeValue(att.GetAttributeType("HP"));
+        AttributeModifier heal = new AttributeModifier()
+        {
+            attribute = source.att.GetAttributeType("HP"),
+            operation = AttributeModifier.Operator.Add,
+            attModValue = effect.finalEffect
+        };
+        this.att.ApplyInstantModifier(heal);
+        Debug.Log($"{this.name} is healed by {effect.finalEffect}.");
     }
 
     private IEnumerator WaitForValueRoutine(AbilityEffect effect, float duration)

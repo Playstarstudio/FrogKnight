@@ -24,7 +24,8 @@ public class AbilityEffect : ScriptableObject
         Damage,
         Buff,
         Debuff,
-        CrowdControl
+        CrowdControl,
+        Heal
     }
 
 
